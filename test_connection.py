@@ -6,9 +6,9 @@ load_dotenv(override=True)
 
 gemini_key = os.getenv("GEMINI_API_KEY", "").strip()
 neo4j_uri = os.getenv("NEO4J_URI", "").strip()
-neo4j_user = os.getenv("NEO4J_USER") or os.getenv("NEO4J_USERNAME", "c23a768d").strip()
+neo4j_user = os.getenv("NEO4J_USER", "").strip()
 neo4j_password = os.getenv("NEO4J_PASSWORD", "").strip()
-neo4j_db = os.getenv("NEO4J_DATABASE", "c23a768d").strip()
+neo4j_db = os.getenv("NEO4J_DATABASE", "").strip()
 
 print("=" * 60)
 print("🔍 KIỂM TRA HỆ THỐNG TOÀN DIỆN TRÊN LAPTOP")
