@@ -1,0 +1,1334 @@
+{
+  "summary": {
+    "total_md_files": 65,
+    "good_count": 65,
+    "good_pct": 100.0,
+    "poor_count": 0,
+    "poor_pct": 0.0
+  },
+  "files": [
+    {
+      "file": "1225_BTC đối thoại người nộp thuế_TL Hải quan.md",
+      "rel_path": "1225_BTC đối thoại người nộp thuế_TL Hải quan.md",
+      "size_kb": 73.7,
+      "lines": 1092,
+      "chars": 56857,
+      "headings": {
+        "h1": 0,
+        "h2": 24,
+        "h3": 0
+      },
+      "dieu_mentions": 89,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "1225_BTC đối thoại người nộp thuế_TL Thuế.md",
+      "rel_path": "1225_BTC đối thoại người nộp thuế_TL Thuế.md",
+      "size_kb": 273.2,
+      "lines": 3665,
+      "chars": 209243,
+      "headings": {
+        "h1": 0,
+        "h2": 84,
+        "h3": 0
+      },
+      "dieu_mentions": 420,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "141-ndcp.signed.md",
+      "rel_path": "141-ndcp.signed.md",
+      "size_kb": 10.3,
+      "lines": 200,
+      "chars": 8005,
+      "headings": {
+        "h1": 4,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 22,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "157_CT_CS_14032025.md",
+      "rel_path": "157_CT_CS_14032025.md",
+      "size_kb": 3.5,
+      "lines": 81,
+      "chars": 2753,
+      "headings": {
+        "h1": 2,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 9,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "20171205-TT-111-2013-TT-BTC.md",
+      "rel_path": "20171205-TT-111-2013-TT-BTC.md",
+      "size_kb": 242.7,
+      "lines": 4704,
+      "chars": 184874,
+      "headings": {
+        "h1": 78,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 148,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (29 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "2025_1323 + 1324_236-2025-NĐ-CP.md",
+      "rel_path": "2025_1323 + 1324_236-2025-NĐ-CP.md",
+      "size_kb": 290.6,
+      "lines": 3854,
+      "chars": 221011,
+      "headings": {
+        "h1": 0,
+        "h2": 95,
+        "h3": 0
+      },
+      "dieu_mentions": 349,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "2025_1325 + 1326_236-2025-NĐ-CP.md",
+      "rel_path": "2025_1325 + 1326_236-2025-NĐ-CP.md",
+      "size_kb": 204.0,
+      "lines": 3512,
+      "chars": 158408,
+      "headings": {
+        "h1": 0,
+        "h2": 95,
+        "h3": 0
+      },
+      "dieu_mentions": 171,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "2025_1327 + 1328_236-2025-NĐ-CP.md",
+      "rel_path": "2025_1327 + 1328_236-2025-NĐ-CP.md",
+      "size_kb": 117.0,
+      "lines": 1740,
+      "chars": 90130,
+      "headings": {
+        "h1": 0,
+        "h2": 39,
+        "h3": 0
+      },
+      "dieu_mentions": 130,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "2026_159_18_2026_TT-BTC.md",
+      "rel_path": "2026_159_18_2026_TT-BTC.md",
+      "size_kb": 84.7,
+      "lines": 2375,
+      "chars": 69173,
+      "headings": {
+        "h1": 0,
+        "h2": 44,
+        "h3": 0
+      },
+      "dieu_mentions": 22,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "2026_60_121_2025_TT-BTC.md",
+      "rel_path": "2026_60_121_2025_TT-BTC.md",
+      "size_kb": 907.8,
+      "lines": 19470,
+      "chars": 704961,
+      "headings": {
+        "h1": 0,
+        "h2": 373,
+        "h3": 0
+      },
+      "dieu_mentions": 767,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (2 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "252-ndcp.signed.md",
+      "rel_path": "252-ndcp.signed.md",
+      "size_kb": 423.0,
+      "lines": 7197,
+      "chars": 320801,
+      "headings": {
+        "h1": 133,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 477,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (15 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "254-ndcp.signed.md",
+      "rel_path": "254-ndcp.signed.md",
+      "size_kb": 168.6,
+      "lines": 2936,
+      "chars": 127036,
+      "headings": {
+        "h1": 55,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 121,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "267_CT_CS_24032025.md",
+      "rel_path": "267_CT_CS_24032025.md",
+      "size_kb": 2.5,
+      "lines": 59,
+      "chars": 1965,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 8,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "3326_CT-CS.md",
+      "rel_path": "3326_CT-CS.md",
+      "size_kb": 10.3,
+      "lines": 157,
+      "chars": 7823,
+      "headings": {
+        "h1": 3,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 15,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "360-ndcp.signed.md",
+      "rel_path": "360-ndcp.signed.md",
+      "size_kb": 46.7,
+      "lines": 822,
+      "chars": 35416,
+      "headings": {
+        "h1": 16,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 61,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (3 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.md",
+      "rel_path": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.md",
+      "size_kb": 72.7,
+      "lines": 1937,
+      "chars": 55723,
+      "headings": {
+        "h1": 33,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 24,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (70 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "66qhm.signed.md",
+      "rel_path": "66qhm.signed.md",
+      "size_kb": 28.2,
+      "lines": 799,
+      "chars": 21491,
+      "headings": {
+        "h1": 13,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 22,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (13 dong bang)"
+      ]
+    },
+    {
+      "file": "68-ndcp.signed.md",
+      "rel_path": "68-ndcp.signed.md",
+      "size_kb": 59.2,
+      "lines": 1002,
+      "chars": 45916,
+      "headings": {
+        "h1": 19,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 50,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "888_TCT_CS_27022025.md",
+      "rel_path": "888_TCT_CS_27022025.md",
+      "size_kb": 2.2,
+      "lines": 54,
+      "chars": 1713,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 3,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "89-btc.signed.md",
+      "rel_path": "89-btc.signed.md",
+      "size_kb": 1821.3,
+      "lines": 42927,
+      "chars": 1408099,
+      "headings": {
+        "h1": 839,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 1486,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (2401 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "90-btc.signed.md",
+      "rel_path": "90-btc.signed.md",
+      "size_kb": 461.4,
+      "lines": 10486,
+      "chars": 356497,
+      "headings": {
+        "h1": 196,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 384,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (225 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "90qh.signed.md",
+      "rel_path": "90qh.signed.md",
+      "size_kb": 193.1,
+      "lines": 3673,
+      "chars": 144816,
+      "headings": {
+        "h1": 60,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 471,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (3 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "94-btc.md",
+      "rel_path": "94-btc.md",
+      "size_kb": 92.9,
+      "lines": 2114,
+      "chars": 70472,
+      "headings": {
+        "h1": 35,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 74,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (191 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "CD3 Thuế 2025.md",
+      "rel_path": "CD3 Thuế 2025.md",
+      "size_kb": 860.1,
+      "lines": 11720,
+      "chars": 666692,
+      "headings": {
+        "h1": 0,
+        "h2": 247,
+        "h3": 0
+      },
+      "dieu_mentions": 510,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "CIT law_67qh.signed.md",
+      "rel_path": "CIT law_67qh.signed.md",
+      "size_kb": 63.6,
+      "lines": 1159,
+      "chars": 48250,
+      "headings": {
+        "h1": 21,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 127,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 60,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang"
+      ]
+    },
+    {
+      "file": "Cẩm nang thực hiện Bộ luật lao động tại DN.md",
+      "rel_path": "Cẩm nang thực hiện Bộ luật lao động tại DN.md",
+      "size_kb": 363.2,
+      "lines": 6885,
+      "chars": 283447,
+      "headings": {
+        "h1": 0,
+        "h2": 131,
+        "h3": 0
+      },
+      "dieu_mentions": 486,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.md",
+      "rel_path": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.md",
+      "size_kb": 16.7,
+      "lines": 346,
+      "chars": 13179,
+      "headings": {
+        "h1": 7,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 11,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (20 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "HaiquanND167.md",
+      "rel_path": "HaiquanND167.md",
+      "size_kb": 222.0,
+      "lines": 4183,
+      "chars": 169620,
+      "headings": {
+        "h1": 78,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 326,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (9 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.md",
+      "rel_path": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.md",
+      "size_kb": 41.0,
+      "lines": 883,
+      "chars": 31095,
+      "headings": {
+        "h1": 15,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 78,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luat 13GTGT-2008-QH12.md",
+      "rel_path": "Luat 13GTGT-2008-QH12.md",
+      "size_kb": 24.6,
+      "lines": 478,
+      "chars": 18841,
+      "headings": {
+        "h1": 9,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 32,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "luat109-2025.md",
+      "rel_path": "luat109-2025.md",
+      "size_kb": 40.0,
+      "lines": 831,
+      "chars": 30309,
+      "headings": {
+        "h1": 15,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 75,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (1 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "luat48.md",
+      "rel_path": "luat48.md",
+      "size_kb": 60.9,
+      "lines": 847,
+      "chars": 46937,
+      "headings": {
+        "h1": 0,
+        "h2": 20,
+        "h3": 0
+      },
+      "dieu_mentions": 71,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "luat48_VAT.md",
+      "rel_path": "luat48_VAT.md",
+      "size_kb": 60.9,
+      "lines": 847,
+      "chars": 46937,
+      "headings": {
+        "h1": 0,
+        "h2": 20,
+        "h3": 0
+      },
+      "dieu_mentions": 71,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "LuatGTGTND123vehoadon.md",
+      "rel_path": "LuatGTGTND123vehoadon.md",
+      "size_kb": 276.6,
+      "lines": 5996,
+      "chars": 210976,
+      "headings": {
+        "h1": 123,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 237,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (148 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luathaiquan95VBHN.md",
+      "rel_path": "Luathaiquan95VBHN.md",
+      "size_kb": 40.2,
+      "lines": 583,
+      "chars": 31274,
+      "headings": {
+        "h1": 0,
+        "h2": 13,
+        "h3": 0
+      },
+      "dieu_mentions": 94,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "LuathaiquanND08.md",
+      "rel_path": "LuathaiquanND08.md",
+      "size_kb": 230.1,
+      "lines": 4598,
+      "chars": 175930,
+      "headings": {
+        "h1": 87,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 279,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (4 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luatquanlythue2025VBHN29..md",
+      "rel_path": "Luatquanlythue2025VBHN29..md",
+      "size_kb": 262.8,
+      "lines": 3768,
+      "chars": 201604,
+      "headings": {
+        "h1": 0,
+        "h2": 95,
+        "h3": 0
+      },
+      "dieu_mentions": 326,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "LuatthueGTGTND70suadoiND123.md",
+      "rel_path": "LuatthueGTGTND70suadoiND123.md",
+      "size_kb": 189.4,
+      "lines": 3702,
+      "chars": 143913,
+      "headings": {
+        "h1": 74,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 221,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (72 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luat_109-2025_TNCN_bansach.md",
+      "rel_path": "Luat_109-2025_TNCN_bansach.md",
+      "size_kb": 38.7,
+      "lines": 533,
+      "chars": 29697,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 79,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luat_48-2024_GTGT_bansach.md",
+      "rel_path": "Luat_48-2024_GTGT_bansach.md",
+      "size_kb": 57.1,
+      "lines": 692,
+      "chars": 43991,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 72,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luat_67-2025_TNDN_bansach.md",
+      "rel_path": "Luat_67-2025_TNDN_bansach.md",
+      "size_kb": 61.6,
+      "lines": 804,
+      "chars": 47486,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 127,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Luật quản lý thuế 2025.md",
+      "rel_path": "Luật quản lý thuế 2025.md",
+      "size_kb": 201.4,
+      "lines": 3402,
+      "chars": 152761,
+      "headings": {
+        "h1": 0,
+        "h2": 65,
+        "h3": 0
+      },
+      "dieu_mentions": 226,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "ND 181 2025_VAT.md",
+      "rel_path": "ND 181 2025_VAT.md",
+      "size_kb": 170.2,
+      "lines": 2737,
+      "chars": 129765,
+      "headings": {
+        "h1": 0,
+        "h2": 50,
+        "h3": 0
+      },
+      "dieu_mentions": 163,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "ND 310 2025_xu phat thue.md",
+      "rel_path": "ND 310 2025_xu phat thue.md",
+      "size_kb": 46.7,
+      "lines": 850,
+      "chars": 35554,
+      "headings": {
+        "h1": 16,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 88,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "ND Giao dịch liên kết 20-cp.signed_2025.md",
+      "rel_path": "ND Giao dịch liên kết 20-cp.signed_2025.md",
+      "size_kb": 71.2,
+      "lines": 1511,
+      "chars": 55624,
+      "headings": {
+        "h1": 0,
+        "h2": 30,
+        "h3": 0
+      },
+      "dieu_mentions": 48,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (165 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "ND Giao dịch liên kết_132.signed.md",
+      "rel_path": "ND Giao dịch liên kết_132.signed.md",
+      "size_kb": 196.3,
+      "lines": 3806,
+      "chars": 150812,
+      "headings": {
+        "h1": 0,
+        "h2": 73,
+        "h3": 0
+      },
+      "dieu_mentions": 185,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (143 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "ND80.signed_01_HD luat ho tro SMEs.md",
+      "rel_path": "ND80.signed_01_HD luat ho tro SMEs.md",
+      "size_kb": 81.0,
+      "lines": 1487,
+      "chars": 61980,
+      "headings": {
+        "h1": 29,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 95,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 60,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang"
+      ]
+    },
+    {
+      "file": "ND_320-2025_TNDN_bansach.md",
+      "rel_path": "ND_320-2025_TNDN_bansach.md",
+      "size_kb": 234.7,
+      "lines": 2755,
+      "chars": 180657,
+      "headings": {
+        "h1": 1,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 266,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "NĐ108.signed.md",
+      "rel_path": "NĐ108.signed.md",
+      "size_kb": 27.0,
+      "lines": 483,
+      "chars": 20379,
+      "headings": {
+        "h1": 10,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 38,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "NĐ_218-nd.md",
+      "rel_path": "NĐ_218-nd.md",
+      "size_kb": 101.9,
+      "lines": 1797,
+      "chars": 77603,
+      "headings": {
+        "h1": 35,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 130,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (69 dong bang)"
+      ]
+    },
+    {
+      "file": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.md",
+      "rel_path": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.md",
+      "size_kb": 97.9,
+      "lines": 2668,
+      "chars": 75860,
+      "headings": {
+        "h1": 0,
+        "h2": 70,
+        "h3": 0
+      },
+      "dieu_mentions": 60,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Thuế TNDN _320-ndcp.signed.md",
+      "rel_path": "Thuế TNDN _320-ndcp.signed.md",
+      "size_kb": 243.6,
+      "lines": 4069,
+      "chars": 185004,
+      "headings": {
+        "h1": 0,
+        "h2": 76,
+        "h3": 0
+      },
+      "dieu_mentions": 256,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (14 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.md",
+      "rel_path": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.md",
+      "size_kb": 31.0,
+      "lines": 613,
+      "chars": 23483,
+      "headings": {
+        "h1": 0,
+        "h2": 12,
+        "h3": 0
+      },
+      "dieu_mentions": 33,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (17 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "Thông tu 219_GTGT.md",
+      "rel_path": "Thông tu 219_GTGT.md",
+      "size_kb": 264.9,
+      "lines": 3043,
+      "chars": 205333,
+      "headings": {
+        "h1": 0,
+        "h2": 47,
+        "h3": 0
+      },
+      "dieu_mentions": 172,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "thông tư 39-2018-btc - tính thuế xuất khẩu.md",
+      "rel_path": "thông tư 39-2018-btc - tính thuế xuất khẩu.md",
+      "size_kb": 634.2,
+      "lines": 11432,
+      "chars": 490197,
+      "headings": {
+        "h1": 0,
+        "h2": 189,
+        "h3": 0
+      },
+      "dieu_mentions": 753,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (9 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "TT-58-2026-TT-BTC TNVN.md",
+      "rel_path": "TT-58-2026-TT-BTC TNVN.md",
+      "size_kb": 2.6,
+      "lines": 280,
+      "chars": 2151,
+      "headings": {
+        "h1": 0,
+        "h2": 33,
+        "h3": 0
+      },
+      "dieu_mentions": 0,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 85,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "TT69HD ND181 ThueGTGT2025.md",
+      "rel_path": "TT69HD ND181 ThueGTGT2025.md",
+      "size_kb": 63.5,
+      "lines": 1275,
+      "chars": 48470,
+      "headings": {
+        "h1": 21,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 111,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (9 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "TT94.md",
+      "rel_path": "TT94.md",
+      "size_kb": 7.7,
+      "lines": 166,
+      "chars": 5925,
+      "headings": {
+        "h1": 3,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 17,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (1 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "VBHN 02_2024_PIT.md",
+      "rel_path": "VBHN 02_2024_PIT.md",
+      "size_kb": 283.7,
+      "lines": 4862,
+      "chars": 216543,
+      "headings": {
+        "h1": 81,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 473,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (8 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "VBHN 15TTLuatQLT1.md",
+      "rel_path": "VBHN 15TTLuatQLT1.md",
+      "size_kb": 364.7,
+      "lines": 6135,
+      "chars": 277284,
+      "headings": {
+        "h1": 100,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 371,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (19 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "VBHN15 TTHDLuatquanlythue.md",
+      "rel_path": "VBHN15 TTHDLuatquanlythue.md",
+      "size_kb": 366.3,
+      "lines": 6152,
+      "chars": 281355,
+      "headings": {
+        "h1": 100,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 367,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (5 dong bang)"
+      ]
+    },
+    {
+      "file": "VBHN15HDLuatQLT3.md",
+      "rel_path": "VBHN15HDLuatQLT3.md",
+      "size_kb": 188.7,
+      "lines": 5383,
+      "chars": 149046,
+      "headings": {
+        "h1": 115,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 66,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (404 dong bang)"
+      ]
+    },
+    {
+      "file": "VBHN15HDTTLuatQLT2.md",
+      "rel_path": "VBHN15HDTTLuatQLT2.md",
+      "size_kb": 177.7,
+      "lines": 4706,
+      "chars": 141160,
+      "headings": {
+        "h1": 104,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 130,
+      "quality": "DAT YEU CAU (RAT TOT)",
+      "score": 100,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (627 dong bang)",
+        "Noi dung day du, khong bi cat ngan"
+      ]
+    },
+    {
+      "file": "VBHN15HDTTLuatQLT4.md",
+      "rel_path": "VBHN15HDTTLuatQLT4.md",
+      "size_kb": 232.7,
+      "lines": 6708,
+      "chars": 182583,
+      "headings": {
+        "h1": 135,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 218,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (289 dong bang)"
+      ]
+    },
+    {
+      "file": "VBHNTT21btc.md",
+      "rel_path": "VBHNTT21btc.md",
+      "size_kb": 217.1,
+      "lines": 4280,
+      "chars": 166276,
+      "headings": {
+        "h1": 72,
+        "h2": 0,
+        "h3": 0
+      },
+      "dieu_mentions": 336,
+      "quality": "DAT YEU CAU (KHIEN KHUYET NHE)",
+      "score": 75,
+      "details": [
+        "Du do dai (>1KB)",
+        "Cau truc tieu de Markdown/Dieu khoan ro rang",
+        "Co bang bieu (50 dong bang)"
+      ]
+    }
+  ]
+}

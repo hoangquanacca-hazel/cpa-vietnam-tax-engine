@@ -1,0 +1,2995 @@
+set search_path=thue,public;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1$md$,$md$254-ndcp.signed$md$,$md$Điều 1. Phạm vi điều chỉnh$md$,$md$Phạm vi điều chỉnh
+____ 1, Quy định chỉ tiết khoản 6 Điều 26, khoản 4 Điều 27 Luật Quản lý thuế
+sô 108/2025/QHI15 bao gồm:
+a) Loại hóa đơn điện tử, đối tượng sử dụng; nội dung, thời điểm lập hóa
+đơn điện tử; trường hợp không phải sử dụng hóa đơn điện tử; trường hợp sử
+dụng hóa đơn điện tử được miễn phí dịch vụ; nhiệm vụ, quyền hạn, trách nhiệm
+của tổ chức, cá nhân trong việc quản lý, sử dụng hóa đơn điện tử;
+b) Loại chứng từ điện tử; nội dung, thời điểm lập chứng từ điện tử; phương
+thức lập chứng từ điện tử, văn bản hành chính thuế điện tử; kết nối, truyền dữ
+liệu chứng từ điện tử; trường hợp sử dụng được miễn phí dịch vụ; nhiệm vụ,
+quyên hạn, trách nhiệm của tổ chức, cá nhân trong việc quản lý, sử dụng chứng
+từ điện tử.$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Quy định các nội dung khác theo chức năng, nhiệm vụ đảm bảo yêu cầu
+quản lý theo quy định tại khoản 5 Điều 52 Luật Quản lý thuê sô 108/2025/QH15
+bao gôm:
+s
+<!-- Page Break -->
+# Page 2
+quản, lưu trữ hóa đơn, chứng từ và chuyên đôi hóa đơn điện tử, chứng từ điện
+tử;
+có mã của cơ quan thuê; xử lý sự cố; ủy nhiệm lập biên lai;
+chung; xây dựng hạ tầng kỹ thuật công nghệ thông tin; hệ thống phần mềm
+phục vụ quản lý, vận hành, khai thác hệ thống thông tin hóa đơn điện tử, chứng
+từ điện tử; xây dựng, thu thập, xử lý và quản lý hệ thống thông tin về hóa đơn
+điện tử, chứng từ điện tử;
+†ra cứu, cung cấp, sử dụng thông tin hóa đơn điện tử; tra cứu thông tin hóa đơn
+điện tử phục vụ kiểm tra hàng hóa lưu thông trên thị trường; đối tượng cung
+cấp thông tin, sử dụng thông tin hóa đơn điện tử; hình thức khai thác, sử dụng
+thông tin hóa đơn điện tử trên Hệ thống thông tin quản lý thuế;
+trách nhiệm chia sẻ, kết nối thông tin, dữ liệu hóa đơn điện tử; khen thưởng,
+người tiêu dùng tố giác người bán không lập và giao hóa đơn điện tử và kinh
+phí thực hiện.$md$,$md$254-ndcp.signed_Điều1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Nguyên tắc lập, quản lý, sử đụng hóa đơn điện tử, chứng từ điện tử; bảo$md$,$md$254-ndcp.signed_Điều1_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Lập hóa đơn điện tử có mã của cơ quan thuế; lập hóa đơn điện tử không$md$,$md$254-ndcp.signed_Điều1_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Xây dựng thông tin hóa đơn điện tử, chứng từ điện tử gồm: nguyên tắc$md$,$md$254-ndcp.signed_Điều1_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Tra cứu, cung cấp, sử dụng thông tin hóa đơn điện tử gồm: nguyên tắc$md$,$md$254-ndcp.signed_Điều1_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều1_K2_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Trách nhiệm của cơ quan thuế; trách nhiệm của bên sử dụng thông tin;$md$,$md$254-ndcp.signed_Điều1_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2$md$,$md$254-ndcp.signed$md$,$md$Điều 2. Đối tượng áp dụng$md$,$md$Đối tượng áp dụng$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ (sau đây gọi là người
+bán) bao gồm:
+động theo pháp luật Việt Nam; chỉ nhánh, văn phòng đại diện của doanh nghiệp
+nước ngoài hoạt động tại Việt Nam (sau đây gọi là tô chức kinh tê);
+8) Tổ chức nước ngoài (bao gồm cả chủ quản nền tảng thương mại điện
+tử, nền tảng số ở nước ngoài) có hoạt động kinh doanh trên nền tảng thương
+mại điện tử và các dịch vụ khác có phát sinh doanh thu tính thuế tại Việt Nam
+(sau đây gọi là nhà cung cấp nước ngoài) đăng ký tự nguyện sử dụng hóa đơn
+điện tử theo quy định tại Nghị định này.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã được thành lập và hoạt$md$,$md$254-ndcp.signed_Điều2_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hộ kinh doanh, cá nhân kinh doanh, tổ hợp tác;$md$,$md$254-ndcp.signed_Điều2_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Đơn vị sự nghiệp công lập có bán hàng hóa, cung cấp dịch vụ;$md$,$md$254-ndcp.signed_Điều2_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K1_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Tổ chức không phải là doanh nghiệp nhưng có hoạt động kinh doanh;$md$,$md$254-ndcp.signed_Điều2_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tổ chức, cá nhân mua hàng hóa, dịch vụ.
+<!-- Page Break -->
+# Page 3
+3$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Tổ chức thu thuế, phí và lệ phí.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Người nộp thuế, phí và lệ phí.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Tổ chức, cá nhân có trách nhiệm khấu trừ thuế theo quy định của pháp
+luật thuê; tổ chức, cá nhân khai thay, nộp thuê thay theo quy định của pháp luật
+về thuế và pháp luật về quản lý thuế.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Tổ chức cung cấp dịch vụ hóa đơn điện tử, chứng từ điện tử.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều2_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Cơ quan quản lý thuế.
+§. Các tổ chức, cá nhân có liên quan đến việc quản lý, sử dụng hóa đơn và
+chứng từ.$md$,$md$254-ndcp.signed_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3$md$,$md$254-ndcp.signed$md$,$md$Điều 3. Giải thích từ ngữ$md$,$md$Giải thích từ ngữ
+Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau:$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử được cơ
+quan thuê câp mã trước khi người bán gửi cho người mua.
+Mã của cơ quan thuế trên hóa đơn điện tử bao gồm số giao dịch là một dãy
+số duy nhất do hệ thống của cơ quan thuế tạo ra và một chuỗi ký tự được cơ
+quan thuê mã hóa dựa trên thông tin của người bán lập trên hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hóa đơn điện tử không có mã của cơ quan thuế là hóa đơn điện tử do tổ
+chức bán hàng hóa, cung câp dịch vụ gửi cho người mua không có mã của cơ
+quan thuê.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu điện tử với
+cơ quan thuế (sau đây gọi là hóa đơn điện tử từ máy tính tiền) là hóa đơn điện
+tử có mã của cơ quan thuế hoặc hoá đơn điện tử không có mã của cơ quan thuế
+hoặc dữ liệu điện tử để người mua có thể truy xuất, kê khai thông tin hóa đơn
+điện tử khởi tạo từ máy tính tiền do tổ chức, cá nhân bán hàng hóa, cung cấp
+dịch vụ lập từ hệ thống tính tiền, đữ liệu được chuyển đến cơ quan thuế theo
+định dạng chuẩn dữ liệu.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Máy tính tiền là hệ thống tính tiền bao gồm một thiết bị điện tử đồng bộ
+hoặc một hệ thống gồm nhiều thiết bị điện tử được kết hợp với nhau bằng giải
+pháp công nghệ thông tin có chức năng chung như: tính tiền, lưu trữ các giao
+dịch bán hàng, số liệu bán hàng.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Hóa đơn, chứng từ hợp pháp là hóa đơn, chứng từ đảm bảo đúng về
+hình thức và nội dung theo quy định tại Nghị định này.
+<!-- Page Break -->
+# Page 4$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Hóa đơn, chứng từ giả là hóa đơn, chứng từ được ¡ ¡n hoặc khởi tạo theo
+mẫu hóa đơn, chứng từ đã được thông báo phát hành của tổ chức, cá nhân khác
+hoặc in, khởi tạo trùng số của cùng một ký hiệu mẫu số hóa đơn, ký hiệu hóa
+đơn, chứng từ hoặc làm giả hóa đơn điện tử, chứng từ điện tử.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Sử dụng hóa đơn, chứng từ không hợp pháp là việc sử dụng hóa đơn,
+chứng từ giả; sử dụng hóa đơn, chứng từ chưa có giá trị sử dụng, hết giá trị sử
+dụng; sử dụng hóa đơn bị ngừng sử dụng trong thời gian bị cưỡng chế bằng
+biện pháp ngừng sử dụng hóa đơn, trừ trường hợp được phép sử dụng theo
+thông báo của cơ quan thuế; sử dụng hóa đơn điện tử không đăng ký sử dụng
+với cơ quan thuế; sử dụng hóa đơn điện tử chưa có mã của cơ quan thuế đối với
+trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế; sử dụng hóa đơn
+mua hàng hoá, dịch vụ có ngày lập trên hóa đơn từ ngày cơ quan thuế xác định
+bên bán không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà
+nước có thẩm quyền; sử dụng hóa đơn, chứng từ mua hàng hoá, dịch vụ có ngày
+lập trên hóa đơn, chứng từ trước ngày xác định bên lập hóa đơn, chứng từ không
+hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan nhà nước có thẩm
+quyển hoặc chưa có thông báo của cơ quan thuế về việc bên lập hóa đơn, chứng
+từ không hoạt động tại địa chỉ kinh doanh đã đăng ký với cơ quan có thẩm
+quyên nhưng cơ quan thuế hoặc cơ quan công an hoặc các cơ quan chức năng
+khác đã có kết luận đó là hoá đơn, chứng từ không hợp pháp.
+Sử dụng không hợp pháp hóa đơn, chứng từ là việc sử dụng hóa đơn,
+chứng từ tây xóa, sửa chữa không đúng quy định; sử dụng hóa đơn, chứng từ
+khống (hoá đơn, chứng từ đã ghi các chỉ tiêu, nội dung nghiệp vụ kinh tế nhưng
+việc mua bán hàng hoá, dịch vụ không có thật một phần hoặc toàn bộ); sử dụng
+hóa đơn phản ánh không đúng giá trị thực tế phát sinh hoặc lập hóa đơn khống,
+lập hóa đơn giả; sử dụng hóa đơn có sự chênh lệch về giá trị hàng hóa, dịch vụ
+hoặc sai lệch các tiêu thức bắt buộc giữa các liên của hóa đơn (đôi với hóa đơn
+giấy đã phát hành, sử dụng trong giai đoạn trước khi chuyển sang hóa đơn điện
+tử); sử dụng hóa đơn để quay vòng khi vận chuyển hàng hóa trong khâu lưu
+thông hoặc dùng hóa đơn của hàng hóa, dịch vụ này để chứng minh cho hàng
+hóa, dịch vụ khác; sử dụng hóa đơn, chứng từ của tổ chức, cá nhân khác (trừ
+hóa đơn của cơ quan thuế và trường hợp được ủy nhiệm lập hóa đơn) để hợp
+thức hóa hàng hóa, dịch vụ mua vào hoặc hàng hóa, dịch vụ bán ra; sử dụng
+hóa đơn, chứng từ mà cơ quan thuế hoặc cơ quan công an hoặc các cơ quan
+chức năng khác đã kết luận là sử dụng không hợp pháp hóa đơn, chứng từ.
+§. Tiêu hủy hóa đơn, chứng từ
+đơn điện tử, chứng từ điện tử không còn tổn tại trên hệ thống thông tin, không
+thể truy cập và tham chiếu đến thông tin chứa trong hóa đơn điện tử, chứng từ
+điện tử;
+<!-- Page Break -->
+# Page 5
+là việc sử dụng biện pháp đốt cháy, cắt, xé nhỏ hoặc hình thức tiêu hủy khác,
+đảm bảo hóa đơn, chứng từ đã tiêu hủy sẽ không thể sử dụng lại các thông tin,
+số liệu trên đó.
+___ Hóa đơn, chứng từ được phép tiêu hủy là hóa đơn, chứng từ đã hết thời
+hạn lưu trữ theo quy định tại Điêu 5 Nghị định này.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K7_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tiêu hủy hóa đơn điện tử, chứng từ điện tử là biện pháp làm cho hóa$md$,$md$254-ndcp.signed_Điều3_K7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K7_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tiêu hủy hóa đơn do cơ quan thuế đặt in, tiêu hủy chứng từ đặt in, tự in$md$,$md$254-ndcp.signed_Điều3_K7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K9$md$,$md$254-ndcp.signed$md$,$md$Khoản 9$md$,$md$Tổ chức cung cấp dịch vụ hóa đơn điện tử, chứng từ điện tử là tổ chức
+cung cấp giải pháp lập, truyền, lưu trữ, hóa đơn điện tử, chứng từ điện tử. Tổ
+chức cung câp dịch vụ hóa đơn điện tử, chứng từ điện tử bao gồm: Tổ chức
+cung câp giải pháp lập hóa đơn điện tử, chứng từ điện tử cho người bán và
+người mua; tổ chức truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử
+với cơ quan thuế.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K10$md$,$md$254-ndcp.signed$md$,$md$Khoản 10$md$,$md$Cơ sở dữ liệu hóa đơn điện tử, chứng từ điện tử là tập hợp các dữ liệu
+thông tin về hóa đơn, chứng từ điện tử của các tổ chức, tổ chức kinh tế, cá nhân
+khi bán hàng hóa, cung cấp dịch vụ và thông tin về chứng từ điện tử của các tổ
+chức, tổ chức kinh tế, cá nhân sử dụng.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều3_K11$md$,$md$254-ndcp.signed$md$,$md$Khoản 11$md$,$md$Các từ ngữ được quy định tại Nghị định này có nghĩa như quy định tại
+Luật Quản lý thuế.$md$,$md$254-ndcp.signed_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4$md$,$md$254-ndcp.signed$md$,$md$Điều 4. Nguyên tắc lập, quản lý, sử dụng hóa đơn, chứng từ điện tử$md$,$md$Nguyên tắc lập, quản lý, sử dụng hóa đơn, chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Khi bán hàng hóa, cung cấp địch vụ, người bán phải lập hóa đơn điện
+tử để giao cho người mua (bao gôm cả các trường hợp hàng hóa, dịch vụ dùng
+để khuyến mại, quảng cáo, hàng mẫu; hàng hóa, dịch vụ dùng để cho, biếu,
+tặng, trao đi, trả thay lương cho người lao động và tiêu dùng nội bộ; xuất hàng
+hóa dưới các hình thức cho vay, cho mượn) và các trường hợp lập hóa đơn theo
+quy định của Bộ trưởng Bộ Tài chính, trừ các trường hợp không phải sử dụng
+hóa đơn điện tử theo quy định tại Điều 7 Nghị định này.
+Hóa đơn điện tử phải theo định dạng chuẩn dữ liệu và phải ghi đầy đủ nội
+dung theo quy định của pháp luật về thuế, pháp luật về kế toán và quy định tại
+Điều 10 Nghị định này, bảo đảm phản ánh đầy đủ, trung thực nội dung nghiệp
+vụ kinh tế phát sinh. Người bán chịu trách nhiệm trước pháp luật về tính chính `
+xác của hóa đơn đã lập.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Khi khấu trừ thuế thu nhập cá nhân, khi thu thuế, phí, lệ phí, tổ chức,
+cá nhân khấu trừ thuế, tổ chức thu thuế, phí, lệ phí phải lập chứng từ khấu trừ
+thuế điện tử, biên lai thu thuế, phí, lệ phí điện tử giao cho người có thu nhập bị
+khấu trừ thuế, người nộp thuế, nộp phí, lệ phí và phải ghỉ đầy đủ các nội dung
+theo quy định tại Điều 23 Nghị định này và theo định dạng chuẩn dữ liệu.
+<!-- Page Break -->
+# Page 6$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Trước khi sử dụng hóa đơn điện tử, chứng từ điện tử, tổ chức kinh tế,
+tổ chức khác, hộ kinh doanh, cá nhân kinh doanh, tổ chức, cá nhân khấu trừ
+thuế thu nhập cá nhân, tổ chức thu thuế, phí, lệ phí phải thực hiện đăng ký sử
+dụng hóa đơn điện tử, chứng từ điện tử theo quy định của Bộ trưởng Bộ Tài
+chính.
+Việc đăng ký, quản lý, sử dụng hóa đơn điện tử, chứng từ điện tử phải tuân
+thủ các quy định của pháp luật về giao dịch điện tử, kế toán, thuế, quản lý thuế,
+phí và lệ phí và quy định của Bộ trưởng Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Dữ liệu hóa đơn, chứng từ điện tử khi bán hàng hóa, cung cấp dịch vụ,
+dữ liệu chứng từ khi thực hiện các giao dịch nộp thuế, khấu trừ thuế và nỘp ( các
+khoản thuế, phí, lệ phí là cơ sở dữ liệu để phục vụ công tác quản lý thuế và
+cung cấp thông tin hóa đơn điện tử, chứng từ điện tử cho các tổ chức, cá nhân
+có liên quan.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Người bán hàng hóa, cung cấp dịch vụ được ủy nhiệm cho bên thứ ba
+lập hóa đơn điện tử cho hoạt động bán hàng hóa, cung cấp dịch vụ. Bộ trưởng
+Bộ Tài chính hướng dẫn cụ thể nội dung này.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Tổ chức thu phí, lệ phí được ủy nhiệm cho bên thứ ba lập biên lai thu
+phí, lệ phí. Biên lai được ủy nhiệm cho bên thứ ba vẫn ghi tên của tổ chức thu
+phí, lệ phí là bên ủy nhiệm. Việc ủy nhiệm phải được xác định bằng văn bản
+giữa bên ủy nhiệm và bên nhận ủy nhiệm thê hiện đầy đủ các thông tin về biên
+lai ủy nhiệm (mục đích ủy nhiệm; thời hạn ủy nhiệm; phương thức thanh toán
+biên lai ủy nhiệm) và phải thông báo cho cơ quan thuế khi thông báo phát hành
+biên lai.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều4_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Trường hợp tổ chức thu thuế, phí, lệ phí và người cung cấp dịch vụ cùng
+thực hiện thu thuế, phí, lệ phí và tiền bán hàng hóa, cung cấp dịch vụ của một
+khách hàng thì được tích "hợp biên lai thu thuế, phí, lệ phí và hóa đơn trên cùng
+một định dạng điện tử để giao cho người mua. Hóa đơn điện tử tích hợp phải
+đảm bảo có đủ nội dung của hóa đơn điện tử, biên lai điện tử và theo đúng định
+đạng chuẩn dữ liệu. Người bán hàng hóa, cung cấp địch vụ và tổ chức thu thuế,
+phí, lệ phí có trách nhiệm thỏa thuận về đơn vị chịu trách nhiệm lập hóa đơn
+điện tử tích hợp cho khách hàng và phải thông báo đến cơ quan thuế quản lý
+trực tiếp theo mẫu do Bộ trưởng Bộ Tài chính quy định. Việc kê khai doanh thu
+của người bán hàng hóa, cung cấp dịch vụ và việc kê khai thuế, phí, lệ phí thực
+hiện theo quy định của pháp luật quản lý thuế.$md$,$md$254-ndcp.signed_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5$md$,$md$254-ndcp.signed$md$,$md$Điều 5. Bảo quản, lưu trữ hóa đơn, chứng từ và chuyển đổi hóa đơn$md$,$md$Bảo quản, lưu trữ hóa đơn, chứng từ và chuyển đổi hóa đơn
+điện tử, chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hóa đơn, chứng từ được bảo quản, lưu trữ đảm bảo:.
+<!-- Page Break -->
+# Page 7
+7
+trong suốt thời gian lưu trữ;$md$,$md$254-ndcp.signed_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tính an toàn, bảo mật, toàn vẹn, đầy đủ, không bị thay đổi, sai lệch$md$,$md$254-ndcp.signed_Điều5_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Lưu trữ đúng và đủ thời hạn theo quy định của pháp luật kế toán.$md$,$md$254-ndcp.signed_Điều5_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hóa đơn điện tử, chứng từ điện tử được bảo quản, lưu trữ dưới dạng
+thông điệp dữ liệu. Cơ quan, tổ chức, cá nhân được quyền lựa chọn và áp dụng
+hình thức bảo quản, lưu trữ hóa đơn điện tử, chứng từ điện tử phù hợp với đặc
+thù hoạt động, khả năng ứng dụng công nghệ và đáp ứng đủ các yêu cầu theo
+quy định tại Điều 13 Luật Giao dịch điện tử. Hóa đơn điện tử, chứng từ điện tử
+phải sẵn sàng in được ra giấy hoặc tra cứu được khi có yêu cầu.$md$,$md$254-ndcp.signed_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Hóa đơn do cơ quan thuế đặt in, chứng từ đặt in, tự in phải bảo quản,
+lưu trữ đúng với yêu câu sau:
+độ lưu trữ bảo quản chứng từ có giá;
+quy định lưu trữ, bảo quản chứng từ kê toán;
+đơn vị kê toán được lưu trữ và bảo quản như tài sản riêng của tô chức, hộ, cá
+nhân đó.$md$,$md$254-ndcp.signed_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Hoá đơn, chứng từ chưa lập được lưu trữ, bảo quản trong kho theo chế$md$,$md$254-ndcp.signed_Điều5_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hoá đơn, chứng từ đã lập trong các đơn vị kế toán được lưu trữ theo$md$,$md$254-ndcp.signed_Điều5_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K3_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Hoá đơn, chứng từ đã lập trong các tổ chức, hộ, cá nhân không phải là$md$,$md$254-ndcp.signed_Điều5_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Chuyển đổi hóa đơn điện tử, chứng từ điện tử thành hóa đơn, chứng từ
+giấy
+từ giấy phải bảo đảm sự khớp đúng giữa nội dung của hóa đơn điện tử, chứng
+từ điện tử và hóa đơn, chứng từ giấy sau khi chuyển đổi, đáp ứng yêu cầu tại
+khoản.2 Điều 12 Luật Giao dịch điện tử;
+đơn, chứng từ giây trong các trường hợp sau:
+b.1) Theo yêu cầu của cơ quan kiểm toán, thanh tra, kiểm tra, điều tra và
+theo quy định của pháp luật về thanh tra, kiểm tra và điều tra;
+b.2) Theo nghiệp vụ kinh tế, tài chính phát sinh để phục vụ việc ghi số,
+theo dõi theo quy định của pháp luật về kế toán. Hóa đơn chuyển đổi trong
+trường hợp này không có hiệu lực để giao dịch, thanh toán, trừ trường hợp hóa
+đơn điện tử khởi tạo từ máy tính tiền có kết nói chuyển dữ liệu với cơ quan thuế
+theo quy định tại Nghị định này.
+<!-- Page Break -->
+# Page 8
+. ChươngH -
+QUY ĐỊNH ĐÔI VỚI HÓA ĐƠN ĐIỆN TỬ$md$,$md$254-ndcp.signed_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Việc chuyên đổi hóa đơn điện tử, chứng từ điện tử thành hóa đơn, chứng$md$,$md$254-ndcp.signed_Điều5_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều5_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hóa đơn điện tử, chứng từ điện tử hợp pháp được chuyển đổi thành hóa$md$,$md$254-ndcp.signed_Điều5_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6$md$,$md$254-ndcp.signed$md$,$md$Điều 6. Đối tượng sử dụng hóa đơn điện tử$md$,$md$Đối tượng sử dụng hóa đơn điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Đối tượng sử dụng hóa đơn điện tử gồm:
+các trường hợp rủi ro cao về thuế theo quy định của Bộ trưởng Bộ Tài chính sử
+dụng hóa đơn điện tử có mã của cơ quan thuế khi bán hàng hóa, cung cấp dịch
+vụ, trừ trường hợp quy định tại điểm b, điểm c khoản này;
+viễn thông, nước sạch, tài chính ngân hàng, chứng khoán, tài sản mã hóa, dịch
+vụ hỗ trợ giao dịch trên sàn giao dịch các-bon, bảo hiểm, y tế, kinh doanh
+thương mại điện tử, kinh doanh siêu thị „ thương mại, vận tải hàng không, đường
+bộ, đường sắt, đường biển, đường thủy và tổ chức kinh tế đã hoặc sẽ thực hiện
+giao địch với cơ quan thuế bằng phương tiện điện tử, xây dựng hạ tầng công
+nghệ thông tin, có hệ thống phần mềm kế toán, phần mềm lập hóa đơn điện tử
+đáp ứng lập, tra cứu hóa đơn điện tử, lưu trữ dữ liệu hóa đơn điện tử theo quy
+định, bảo đảm việc truyền dữ liệu hóa đơn điện tử đến người mua và đến cơ
+quan thuế thì được sử dụng hóa đơn điện tử không có mã của cơ quan thuế khi
+bán hàng hóa, cung cấp dịch vụ trừ trường hợp rủi ro cao về thuế theo quy định
+của Bộ trưởng Bộ Tài chính và trường hợp đăng ký sử dụng hóa đơn điện tử có
+mã của cơ quan thuế;
+hàng hóa, cung cấp dịch vụ, trong đó có bán hàng hóa, cung cấp dịch vụ trực
+tiếp đến người tiêu dùng (trung tâm thương mại; siêu thị; bán lẻ (trừ ô tô, mô
+tô, xe máy và xe có động cơ khác); ăn uông; nhà hàng; khách sạn; dịch vụ vận
+tải hành khách, dịch vụ hỗ trợ trực tiếp cho vận tải đường bộ, dịch vụ nghệ
+thuật, vui chơi, giải trí, hoạt động, chiếu phim, dịch vụ phục vụ cá nhân khác
+theo quy định về Hệ thống ngành kinh tế Việt Nam) sử dụng hóa đơn điện tử
+từ máy tính tiền.
+Trường hợp tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh có hoạt
+động bán hàng hóa, cung cấp dịch vụ trực tiếp đến người tiêu dùng đã đăng ký
+sử dụng hóa đơn điện tử theo quy định tại điểm a, điểm b khoản này thì không
+bắt buộc đăng ký sử dụng hóa đơn điện tử từ máy tính tiền;
+hoặc hộ kinh doanh, cá nhân kinh doanh bán tài sản phải đăng ký quyền sở hữu,
+quyền sử dụng thì phải áp dụng hóa đơn điện tử có mã của cơ quan thuế, hóa
+đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan thuế.
+<!-- Page Break -->
+# Page 9
+Hộ kinh doanh, cá nhân kinh doanh không thuộc trường hợp sử dụng hóa
+đơn điện tử mà có nhu cầu sử dụng hóa đơn điện tử thì đăng ký sử dụng hóa
+đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử khởi tạo từ máy tính
+tiền có kết nói đữ liệu với cơ quan thuế.$md$,$md$254-ndcp.signed_Điều6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tổ chức kinh tế, tổ, chức khác, hộ kinh doanh, cá nhân kinh doanh và$md$,$md$254-ndcp.signed_Điều6_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Doanh nghiệp kinh doanh ở lĩnh vực điện lực, xăng dầu, bưu chính,$md$,$md$254-ndcp.signed_Điều6_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh có hoạt động bán$md$,$md$254-ndcp.signed_Điều6_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Hộ kinh doanh, cá nhân kinh doanh có doanh thu năm trên 01tỷ đồng$md$,$md$254-ndcp.signed_Điều6_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Đối tượng cơ quan thuế cấp hóa đơn điện tử có mã của cơ quan thuế
+theo từng lần phát sinh
+hóa đơn bán hàng trong các trường hợp:
+a.1) Tổ chức không kinh doanh nhưng có phát sinh giao dịch bán hàng
+hóa, cung cấp dịch vụ thuộc đối tượng chịu thuê theo quy định của pháp luật
+thuế giá trị gia tăng, thuế thu nhập doanh nghiệp và các loại thuế khác (nếu có);
+a.2) Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh
+thuộc diện nộp thuế giá trị gia tăng theo phương pháp trực tiếp thuộc các trường
+hợp sau:
+a.2.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm
+dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn
+để giao cho người mua;
+a.2.2) Tạm ngừng hoạt động kinh doanh nhưng cần có hóa đơn giao cho
+khách hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan thuế thông
+báo tạm ngừng kinh doanh;
+a.2.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
+a.2.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động
+kinh doanh dưới sự giám sát của Tòa án;
+a.2.5) Tổ chức kinh tế, tổ. chức khác, hộ kinh doanh, cá nhân kinh doanh
+trong thời gian giải trình hoặc bô sung tài liệu theo quy định của Bộ trưởng Bộ
+Tài chính;
+hóa đơn giá trị gia tăng trong các trường hợp:
+b.1) Tổ chức kinh tế, tổ chức khác thuộc diện nộp thuế giá trị gia tăng theo
+phương pháp khấu trừ thuộc các trường hợp sau:
+b.1.1) Ngừng hoạt động kinh doanh nhưng chưa hoàn thành thủ tục chấm
+dứt hiệu lực mã số thuế có phát sinh thanh lý tài sản, hàng hóa cần có hóa đơn
+để giao cho người mua;
+b.1.2) Tạm ngừng hoạt động kinh doanh cần có hóa đơn giao cho khách
+hàng để thực hiện các hợp đồng đã ký trước ngày cơ quan nhà nước có thâm
+quyên thông báo tạm ngừng kinh doanh;
+<!-- Page Break -->
+# Page 10
+10
+b.1.3) Bị cơ quan thuế cưỡng chế bằng biện pháp ngừng sử dụng hóa đơn;
+b.1.4) Doanh nghiệp đang làm thủ tục phá sản nhưng vẫn có hoạt động
+kinh doanh dưới sự giám sát của Tòa án;
+b.1.5) Tổ chức kinh tế, tổ chức khác trong thời gian giải trình hoặc bỗ sung
+tài liệu theo quy định của Bộ trưởng Bộ Tài chính;
+b.2) Tổ chức, cơ quan nhà nước không thuộc đối tượng nộp thuế giá trị
+gia tăng theo phương pháp khấu trừ có bán đấu giá tài sản (trừ trường hợp bán
+tài sản công nêu tại khoản 4 Điều 8 Nghị định này), trường hợp giá trúng đấu
+giá là giá bán đã có thuế giá trị gia tăng được công bố rõ trong hồ sơ bán đấu
+giá do cơ quan có thâm quyển phê duyệt thì được cấp hóa đơn giá trị gia tăng
+để giao cho người mua;
+sinh trong trường hợp cơ quan được giao nhiệm vụ tổ chức xử lý tài sản công
+là người nộp thuế giá trị gia tăng bị cưỡng chế bằng biện pháp ngừng sử dụng
+hóa đơn;
+này theo quy định của Bộ trưởng Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là$md$,$md$254-ndcp.signed_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Cấp hóa đơn điện tử có mã của cơ quan thuế theo từng lần phát sinh là$md$,$md$254-ndcp.signed_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K2_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Cấp hóa đơn bán tài sản công có mã của cơ quan thuế theo từng lần phát$md$,$md$254-ndcp.signed_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K2_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Trình tự, thủ tục cấp hóa đơn điện tử theo từng lần phát sinh tại khoản$md$,$md$254-ndcp.signed_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Quy định về áp dụng hóa đơn điện tử, đối với một số trường hợp cụ thể
+theo yêu câu quản lý như sau:
+nhận nhập khâu ủy thác đã nộp thuế giá trị gia tăng ở khâu nhập khẩu thì sử
+dụng hóa đơn điện tử khi trả hàng cho cơ sở kinh doanh ủy thác nhập khẩu.
+Nếu chưa nộp thuế giá trị gia tăng ở khâu nhập khẩu, khi xuất trả hàng nhập
+khẩu uỷ thác, cơ sở nhận ủy thác lập phiếu xuất kho kiêm vận chuyển nội bộ
+theo quy định làm chứng từ lưu thông hàng hóa trên thị trường.
+b.1) Khi xuất hàng giao cho cơ sở nhận uỷ thác, cơ sở có hàng hóa uỷ thác
+ˆ_ xuất khẩu sử dụng phiếu xuất kho kiêm vận chuyển nội bộ;
+b.2) Cơ sở nhận uỷ thác xuất khẩu làm thủ tục xuất khẩu theo quy định
+của pháp luật hải quan. Khi hàng hóa đã thực xuất khẩu có xác nhận của cơ
+quan hải quan, căn cứ vào các chứng từ đối chiếu, xác nhận về số lượng, giá trị
+hàng hóa thực tế xuất khẩu của cơ sở nhận uỷ thác xuất khẩu, cơ sở có hàng
+hóa uỷ thác xuất khẩu lập hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán
+hàng điện tử cho cơ sở nhận ủy thác xuất khẩu. Cơ sở nhận uỷ thác xuất khẩu
+lập hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử để thu phí
+ủy thác của cơ sở có hàng hóa ủy thác.
+<!-- Page Break -->
+# Page 11
+11
+hàng hóa xuất khẩu) khi xuất khẩu hàng hóa, địch vụ sử dụng hóa đơn điện tử:
+hóa đơn thương mại điện tử hoặc hóa đơn giá trị gia tăng điện tử hoặc hóa đơn
+bán hàng điện tử. Thời điểm lập hóa đơn thực hiện theo quy định tại khoản 1
+Điều 9 Nghị định này.
+Khi xuất hàng hóa để vận chuyển đến cửa khẩu hay đến nơi làm thủ tục
+xuất khẩu, cơ sở sử dụng phiêu xuất kho kiêm vận chuyển nội bộ hoặc hóa đơn
+thương mại điện tử hoặc hóa đơn điện tử theo quy định làm chứng từ lưu thông
+hàng hóa trên thị trường.
+khẩu trừ xuất điều chuyển hàng hóa cho các cơ sở hạch toán phụ thuộc nHữ các
+chi nhánh, cửa hàng ở khác địa phương (tỉnh, thành phố trực thuộc trung ương)
+để bán hoặc xuất điều chuyển giữa các chỉ nhánh, đơn vị phụ thuộc với nhau;
+xuất hàng hóa cho cơ sở nhận làm đại lý bán đúng giá, hưởng hoa hồng, căn cứ:
+vào phương thức tổ chức kinh đoanh và hạch toán kế toán, cơ sở có thể lựa
+chọn một trong hai cách sử dụng hóa đơn, chứng từ như sau:
+d.1) Sử dụng hóa đơn giá trị gia tăng điện tử để làm căn cứ thanh toán và
+kê khai nộp thuê giá trị gia tăng ở từng đơn vị và từng khâu độc lập với nhau;
+d.2) Sử dụng phiếu xuất kho kiêm vận chuyên nội bộ; sử dụng phiếu xuất
+kho hàng gửi bán đại lý theo quy định đối với hàng hóa xuất cho cơ sở làm đại
+lý.
+Cơ sở hạch toán phụ thuộc, chi nhánh, cửa hàng, cơ sở nhận làm đại lý
+bán hàng khi bán hàng phải lập hóa đơn theo quy định giao cho người mua,
+đồng thời lập bảng kê hàng hóa bán ra gửi về cơ sở có hàng hóa điều chuyển
+hoặc cơ sở có hàng hoá gửi bán (gọi chung là cơ sở giao hàng) để cơ sở giao
+hàng lập hóa đơn giá trị gia tăng cho hàng hóa thực tế tiêu thụ giao cho cơ sở
+hạch toán phụ thuộc, chỉ nhánh, cửa hàng, cơ sở nhận làm đại lý bán hàng.
+Trường hợp cơ sở có số lượng và doanh số hàng hoá bán ra lớn, bảng kê
+có thể lập cho 05 ngày hay 10 ngày một lần. Trường hợp hàng hoá bán ra có
+thuế suất thuế giá trị gia tăng khác nhau phải lập bảng kê riêng cho hàng hoá
+bán ra theo từng nhóm thuế suất.
+Cơ sở hạch toán phụ thuộc, chỉ nhánh, cửa hàng, cơ sở nhận làm đại lý
+bán hàng thực hiện kê khai nộp thuế giá trị gia tăng đối với số hàng xuất bán
+cho người mua và được kê khai, khấu trừ thuế giá trị gia tăng đầu vào theo hóa
+đơn giá trị gia tăng của cơ sở giao hàng xuất cho.
+kiêm vận chuyên nội bộ theo quy định, khi bán hàng lập hóa đơn điện tử theo
+quy định.
+<!-- Page Break -->
+# Page 12
+12
+giữa các đơn vị thành viên có tư cách pháp nhân đầy đủ trong cùng một tô chức
+thì tổ chức có tài sản điều chuyền phải lập hóa đơn điện tử như bán hàng hóa.
+giá trị gia tăng phải lập hoá đơn theo quy định
+ø.1) Tổ chức cho thuê tài chính cho thuê tài sản thuộc đối tượng chịu thuế
+giá trị gia tăng phải có hoá đơn giá trị gia tăng mua vào (đối với tài sản mua
+trong nước) hoặc chứng từ nộp thuế giá trị gia tăng ở khâu nhập khẩu (đối với
+tài sản nhập khẩu); khi lập hóa đơn, tổng số tiền thuế giá trị gia tăng trên hoá
+đơn giá trị gia tăng đầu ra phải khớp với số tiền thuế giá trị gia tăng trên hoá
+đơn giá trị gia tăng đầu vào của tài sản cho thuê tài chính (hoặc chứng từ nộp
+thuế giá trị gia tăng khâu nhập khẩu), thuế suất thể hiện ký hiệu “CTTC”. Các
+trường hợp tài sản mua để cho thuê thuộc đối tượng không chịu thuế giá trị gia
+tăng hoặc không có hoá đơn giá trị gia tăng hoặc không có chứng từ nộp thuế
+giá trị gia tăng ở khâu nhập khẩu thì khi lập hóa đơn không được thể hiện thuế
+giá trị gia tăng trên hoá đơn;
+g.2) Việc lập hóa đơn đối với hoạt động cho thuê tài chính như sau:
+. Trường hợp tổ chức cho thuê tài chính chuyển giao một lần toàn bộ số
+thuê giá trị gia tăng trên hóa đơn tài sản mua cho thuê tài chính cho bên đi thuê
+tài chính thì trên hóa đơn giá trị gia tăng thu tiền lần đầu của dịch vụ cho thuê
+tài chính, tô chức cho thuê tài chính thê hiện rõ: thanh toán dịch vụ cho thuê tài
+chính và thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính choặc thanh
+toán thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính, tiền hàng thể
+hiện giá trị dịch vụ cho thuê tài chính (không bao gồm thuế giá trị gia tăng của
+tài sản), thuế suất thể hiện ký hiệu “CTTC”, tiền thuế giá trị gia tăng thể hiện
+bằng tiền thuế giá trị gia tăng đầu vào của tài sản cho thuê tài chính.
+g.3) Xử lý lập hóa đơn khi hợp đồng cho thuê tài chính chấm dứt trước
+thời hạn:
+Thu hồi tài sản cho thuê tài chính: Trường hợp tổ chức cho thuê tài chính
+và bên đi thuê lựa chọn khấu trừ toàn bộ số thuế giá trị gia tăng của tài sản cho
+thưê, bên đi thuê điều chỉnh thuế giá trị gia tăng đã khấu trừ tính trên giá trị còn
+lại chưa có thuế giá trị gia tăng xác định theo biên bản thu hồi tài sản để chuyển
+giao cho tổ chức cho thuê tài chính. Trên hóa đơn giá trị gia tăng thể hiện rõ:
+số tiền thuế giá trị gia tăng xuất trả của tài sản thu hồi; thuế suất thể hiện ký
+hiệu “CTTC”; số thuế giá trị gia tăng tính trên giá trị còn lại chưa có thuế giá
+trị gia tăng xác định theo biên bản thu hồi tài sản.
+Bán tài sản thu hồi: Tổ chức cho thuê tài chính khi bán tài sản thu hồi phải
+lập hóa đơn giá trị gia tăng theo quy định giao cho khách hàng.
+<!-- Page Break -->
+# Page 13
+13
+h.1) Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh phân chia
+doanh thu và có thỏa thuận cử một bên làm đại diện có trách nhiệm lập hóa đơn
+._ cho khách hàng thì các bên còn lại trong hợp đồng hợp tác kinh doanh lập hóa
+đơn cho bên đại diện phần doanh thu được chia cho từng bên theo hợp đồng;
+h.2) Trường hợp các bên tham gia hợp đồng hợp tác kinh doanh theo phân
+chia chỉ phí và có thỏa thuận cử một bên làm đại diện có trách nhiệm nhận hóa
+đơn của người bán thì bên đại diện nhận hóa đơn lập hóa đơn để phân chia phần
+chi phí cho các bên còn lại theo hợp đồng.$md$,$md$254-ndcp.signed_Điều6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Trường hợp nhận nhập khẩu hàng hóa uỷ thác, nếu cơ sở kinh doanh$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Trường hợp uỷ thác xuất khẩu hàng hóa: + >$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Cơ sở kinh doanh có hàng hóa, dịch vụ xuất khẩu (kể cả cơ sở gia công$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Tổ chức kinh doanh kê khai, nộp thuế giá trị gia tăng theo phương pháp$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Tổ chức, cá nhân xuất hàng hóa bán lưu động sử dụng phiếu xuất kho$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Trường hợp tài sản điều chuyển giữa các đơn vị hạch toán độc lập hoặc$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Dø$md$,$md$254-ndcp.signed$md$,$md$Điểm ø$md$,$md$Tổ chức cho thuê tài chính cho thuê tài sản thuộc đối tượng chịu thuế$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều6_K3_Dh$md$,$md$254-ndcp.signed$md$,$md$Điểm h$md$,$md$Việc lập hóa đơn đối với các bên tham gia hợp đồng hợp tác kinh doanh$md$,$md$254-ndcp.signed_Điều6_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7$md$,$md$254-ndcp.signed$md$,$md$Điều 7. Trường hợp không phải sử dụng hóa đơn điện tử$md$,$md$Trường hợp không phải sử dụng hóa đơn điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hộ kinh doanh, cá nhân kinh doanh bán hàng hóa, dịch vụ thuộc trường
+hợp lập bảng kê thu mua hàng hóa, dịch vụ theo quy định pháp luật về thuê thu
+nhập doanh nghiệp trừ trường hợp đăng ký sử dụng hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hộ kinh doanh, cá nhân kinh doanh có thu nhập từ hoạt động cho thuê
+bất động sản; thu nhập từ hoạt động cung cấp. sản phẩm và dịch vụ nội dung
+thông tin số về giải trí, trò chơi điện tử, phim số, ảnh số, nhạc số, quảng cáo số -
+cho tô chức, cá nhân ở nước ngoài.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Hộ kinh doanh, cá nhân kinh doanh làm đại lý xổ số, đại lý bảo hiểm,
+đại lý bán hàng đa cấp mà doanh nghiệp xổ số, bảo hiểm, bán hàng đa cấp đã
+khấu trừ thuế theo quy định pháp luật quản lý thuế.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Các khoản phí và các khoản thu khác phát sinh từ hoạt động tái bảo
+hiểm (bao gồm nhượng tái bảo hiểm, các khoản thu hoa hồng nhượng tái bảo
+hiểm và các khoản thu khác về nhượng tái bảo hiểm), nhận tiền gửi, hoạt động
+tài chính (phát hành chứng chỉ tiền gửi, phát hành chứng khoán sơ cấp, phát
+hành giấy tờ có giá), bán nợ, giao dịch ngoại tệ và sản phẩm phái sinh.
+Đối với giao dịch bán ngoại tệ, căn cứ hệ thống quản lý dữ liệu của đơn
+vị, cuối tháng đơn vị thực hiện lập bảng tổng hợp chỉ tiết giao dịch phát sinh
+trong tháng, chịu trách nhiệm về tính chính xác nội dung thông tin từng giao
+dịch và cung cấp bảng tổng hợp chỉ tiết giao dịch bán ngoại tệ khi cơ quan thuế
+hoặc cơ quan nhà nước có thầm quyền yêu cầu.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Góp vốn bằng tài sản của tổ chức, cá nhân kinh doanh vào tổ chức kinh
+tê.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Tài sản điều chuyển từ công ty mẹ đến các đơn vị thành viên hạch toán
+phụ thuộc và ngược lại, giữa các đơn vị thành viên hạch toán phụ thuộc trong
+cơ sở kinh doanh; tài sản điều chuyển khi chia, tách, hợp nhất, sáp nhập, chuyển
+đổi loại hình doanh nghiệp.
+<!-- Page Break -->
+# Page 14
+14
+7: Máy móc, thiết bị cho mượn là tài sản cố định và công cụ, dụng cụ phục
+vụ gia công hàng hóa của bên cho mượn, không thu tiền, không chuyển quyên
+sở hữu.
+$. Các trường hợp theo quy định tại điểm a, điểm b khoản 1 Điều 6, điểm
+b khoản 1 Điều 14 ' Nghị định số 181/2025/NĐ-CP của Chính phủ quy định chỉ
+tiết thi hành một số điều của Luật Thuế giá trị gia tăng, bao gồm:
+của cơ sở kinh doanh như hàng hóa được xuất để chuyển kho nội bộ, xuất vật
+tư, bán thành phẩm để tiếp tục quá trình sản xuất, kinh doanh trong một cơ sở
+kinh doanh;
+phục vụ hoạt động sản xuất, kinh doanh (bao gồm cả tài sản cố định do cơ sở
+kinh doanh tự xây dựng, tự sản xuất);
+cơ sở Kinh doanh: các khoản thu về bồi thường bằng tiền (bao gôm cả tiền bồi
+thường về đất và tài sản trên đất khi bị thu hồi đất theo quyết định của cơ quan
+nhà nước có thâm quyền), tiền thưởng, thu đòi người thứ ba của hoạt động bảo
+hiểm, các khoản thu hộ, các khoản thù lao từ cơ quan nhà nước do thực hiện
+hoạt động thu hộ, chỉ hộ các cơ quan nhà nước, các khoản thu tài chính.$md$,$md$254-ndcp.signed_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K6_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Hàng hóa, dịch vụ sử dụng để tiếp tục quá trình sản xuất, kinh doanh$md$,$md$254-ndcp.signed_Điều7_K6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K6_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hàng hóa, dịch vụ do cơ sở kinh doanh xuất hoặc cung cấp để sử dụng$md$,$md$254-ndcp.signed_Điều7_K6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều7_K6_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Các khoản thu không liên quan đến bán hàng hóa, cung cấp dịch vụ của$md$,$md$254-ndcp.signed_Điều7_K6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8$md$,$md$254-ndcp.signed$md$,$md$Điều 8. Loại hóa đơn$md$,$md$Loại hóa đơn
+Hóa đơn quy định tại Nghị định này gồm các loại sau:$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hóa đơn giá trị gia tăng là hóa đơn dành cho các tổ chức kinh tế khai
+thuế giá trị gia tăng theo phương pháp khấu trừ sử dụng cho các hoạt động:
+tảng số và các dịch vụ khác của nhà cung cấp ở nước ngoài không có cơ sở
+thường trú tại Việt Nam.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Bán hàng hoá, cung cấp dịch vụ trong nội địa;$md$,$md$254-ndcp.signed_Điều8_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hoạt động vận tải quốc tế;$md$,$md$254-ndcp.signed_Điều8_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K1_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Xuất vào khu phi thuế quan và các trường hợp được coi như xuất khẩu;$md$,$md$254-ndcp.signed_Điều8_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài;$md$,$md$254-ndcp.signed_Điều8_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hóa đơn bán hàng là hóa đơn dành cho các tổ chức kinh tế, hộ kinh
+. doanh, cá nhân kinh doanh như sau:
+<!-- Page Break -->
+# Page 15
+15
+trị gia tăng theo phương pháp trực tiếp sử dụng cho các hoạt động:
+a.1) Bán hàng hoá, cung cấp dịch vụ trong nội địa;
+a.2) Hoạt động vận tải quốc tế;
+a.3) Xuất vào khu phi thuế quan và các trường hợp được coi như xuất
+khẩu;
+a.4) Xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài.
+cung cập dịch vụ vào nội địa và khi bán hàng hóa, cung cập dịch vụ giữa các tổ
+chức kinh tế, cá nhân trong khu phi thuế quan với nhau, xuất khẩu hàng hóa,
+cung cấp dịch vụ ra nước › ngoài, trên hóa đơn ghi rõ “Dành cho tổ chức, cá nhân
+trong khu phi thuế quan”.
+Doanh nghiệp chế xuất có hoạt động kinh doanh khác (ngoài hoạt động
+chế xuất theo quy định pháp luật về khu công nghiệp, khu chế xuất) khai thuế
+giá trị gia tăng theo phương ,pháp trực tiếp, thì sử dụng hóa đơn theo điểm a
+khoản này. Doanh nghiệp chế xuất khai thuế giá trị gia tăng theo phương pháp
+khẩu trừ thì sử dụng hóa đơn theo quy định tại khoản 1 Điều này.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tổ chức kinh tế, hộ kinh đoanh, cá nhân kinh doanh khai, tính thuế giá$md$,$md$254-ndcp.signed_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tổ chức kinh tế, cá nhân trong khu phi thuế quan khi bán hàng hóa,$md$,$md$254-ndcp.signed_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Hóa đơn thương mại điện tử là hóa đơn áp dụng đối với các tổ chức
+kinh tế, hộ kinh doanh, cá nhân kinh doanh (người xuất khẩu) có hoạt động
+xuất khẩu hàng hóa, cung cấp dịch vụ ra nước ngoài mà người xuất khẩu đáp
+ứng điều kiện chuyên dữ liệu hóa đơn thương mại bằng phương thức điện tử
+đến cơ quan thuế. Hóa đơn thương mại điện tử đáp ứng quy định về nội dung
+theo quy định tại Điều 10 Nghị định này và theo định dạng chuẩn dữ liệu.
+Trường hợp người xuất khẩu không đáp ú ứng điều kiện chuyển dữ liệu hóa
+đơn thương mại bằng phương thức điện tử đến cơ quan thuế thì lựa chọn lập
+hóa đơn giá trị gia tăng điện tử hoặc hóa đơn bán hàng điện tử.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Hóa đơn điện tử bán tài sản công được sử dụng khi bán, chuyển nhượng
+các tài sản công thực hiện theo quy định của pháp luật về quản lý, sử dụng tài
+sản công.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Hóa đơn điện tử bán hàng dự trữ quốc gia được sử dụng khi Các cơ quan,
+đơn vị thuộc hệ thống cơ quan dự trữ nhà nước bán hàng dự trữ quốc gia theo
+quy định của pháp luật. -$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Các loại hóa đơn khác, gồm:
+tại Nghị định này;
+<!-- Page Break -->
+# Page 16
+16
+tải quốc tế; chứng từ thu phí dịch vụ ngân hàng trừ trường hợp quy định tại
+điểm a khoản này có hình thức và nội dung được lập theo thông lệ quốc tế và
+các quy định của pháp luật có liên quan.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K6_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tem, vé, thẻ theo định dạng chuẩn dữ liệu và nội dung theo quy định$md$,$md$254-ndcp.signed_Điều8_K6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K6_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Phiếu thu tiền cước vận chuyển hàng không; chứng từ thu cước phí vận$md$,$md$254-ndcp.signed_Điều8_K6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Các chứng từ được đăng ký, sử : dụng và quản lý như hóa đơn gồm phiếu
+xuất kho kiêm vận chuyên nội bộ, phiếu xuất kho hàng gửi bán đại lý.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K8$md$,$md$254-ndcp.signed$md$,$md$Khoản 8$md$,$md$Bộ Tài chính hướng dẫn mẫu hiển thị các loại hóa đơn để các đối tượng
+nêu tại Điều 2 Nghị định này tham khảo trong quá trình thực hiện.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K9$md$,$md$254-ndcp.signed$md$,$md$Khoản 9$md$,$md$Hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan
+thuế đảm bảo nguyên tắc sau:
+cơ quan thuế;
+thống thông tin quản lý thuế) được khởi tạo từ máy tính tiên được xác định là
+khoản chỉ có đủ hóa đơn, chứng từ hợp pháp khi xác định nghĩa vụ thuế.$md$,$md$254-ndcp.signed_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K9_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Nhận biết được hóa đơn in từ máy tính tiền kết nối dữ liệu điện tử với$md$,$md$254-ndcp.signed_Điều8_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K9_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Không bắt buộc có chữ ký số;$md$,$md$254-ndcp.signed_Điều8_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều8_K9_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Khoản chỉ mua hàng hóa, dịch vụ sử dụng hóa đơn (tra thông tin từ Hệ$md$,$md$254-ndcp.signed_Điều8_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9$md$,$md$254-ndcp.signed$md$,$md$Điều 9. Thời điểm lập hóa đơn$md$,$md$Thời điểm lập hóa đơn$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Thời điểm lập hóa đơn đối với bán hàng hóa (bao gồm cả bán, chuyển
+nhượng tài sản công và bán hàng dự trữ quốc gia) là thời điểm chuyển giao
+quyên sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt
+đã thu được tiền hay chưa thu được tiền.
+Đối với xuất khẩu hàng hóa (bao gồm cả gia công xuất khẩu), thời điểm
+lập hóa đơn thương mại điện tử, hóa đơn giá trị gia tăng điện tử hoặc hóa đơn
+bán hàng điện tử do người bán tự xác định nhưng chậm nhất không quá ngày
+làm việc tiếp theo kể từ ngày hàng hóa được thông quan theo quy định pháp
+luật về hải quan.$md$,$md$254-ndcp.signed_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Thời điểm lập hóa đơn đối với cung cấp dịch vụ là thời điểm hoàn thành
+việc cung cấp dịch vụ (bao gồm cả cung cấp dịch vụ cho tổ chức, cá nhân nước
+.ngoài) không phân biệt đã thu được tiên hay chưa thu được tiền. Trường hợp
+người cung cập dịch vụ có thu tiền trước hoặc trong khi cùng cấp dịch vụ thì
+thời điểm lập hóa đơn là thời điểm thu tiền (không bao gồm trường hợp thu tiền
+đặt cọc theo quy định Bộ luật Dân sự để đảm bảo thực hiện hợp đồng cung cấp
+dịch vụ).$md$,$md$254-ndcp.signed_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Trường hợp giao hàng nhiều lần hoặc bàn giao từng hạng mục, công
+đoạn dịch vụ thì mỗi lần giao hàng hoặc bàn giao đều phải lập hóa đơn cho khối
+lượng, giá trị hàng hóa, dịch vụ được giao tương ứng.
+<!-- Page Break -->
+# Page 17
+17$md$,$md$254-ndcp.signed_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Thời điểm lập hóa đơn đối với một số trường hợp cụ thể như sau:
+lớn, phát sinh thường xuyên, cần có thời gian đối soát số liệu giữa doanh nghiệp
+bán hàng hóa, cung cập dịch vụ và khách hàng, đối tác gồm: trường hợp cung
+cấp dịch vụ hỗ trợ trực tiếp cho vận tải hàng không, cung ứng nhiên liệu hàng
+không cho các hãng hàng không, hoạt động cung câp điện (trừ đối tượng quy
+định tại điểm g khoản này), cung cấp dịch vụ hỗ trợ vận tải đường sắt, nước,
+dịch vụ truyền hình, dịch vụ quảng cáo truyền hình, dịch vụ thương mại điện
+tử, dịch vụ bưu chính và chuyển phát (bao gồm cả dịch vụ đại lý, dịch vụ thu
+hộ, chỉ hộ), dịch vụ viễn thông (bao gồm cả dịch vụ viễn thông giá trị gia tăng),
+dịch vụ logistic, dịch vụ hoa tiêu hàng hải, dịch vụ quảng cáo trên các trang báo
+điện tử, dịch vụ công nghệ số, nền tảng số, dịch vụ công nghệ thông tỉn (bao
+gồm dịch vụ trung gian thanh toán sử dụng trên nền tảng viễn thông, công nghệ
+thông tin, trừ trường hợp quy định tại điểm b khoản này) được bán theo kỳ nhất
+định, dịch vụ ngân hàng (trừ hoạt động cho vay), chuyền tiền quốc tế, dịch vụ
+chứng khoán, dịch vụ tài sản mã hóa, dịch vụ hỗ trợ giao dịch trên sàn giao địch
+các-bon, xổ số điện toán, thu phí sử dụng đường bộ giữa nhà đầu tư và nhà cung
+cấp dịch vụ thu phí, dịch vụ bảo hiểm; địch vụ bảo vệ, dịch vụ cung cấp suất
+ăn công nghiệp, dịch vụ của sở giao dịch hàng hóa, dịch vụ thông tin tín dụng,
+dịch vụ kinh doanh vận tải hành khách (bằng xe taxi, xe hợp đồng, xe mô tô hai
+bánh sử dụng phần mềm hỗ trợ kết nối vận tải theo pháp luật về đường bộ) cung
+cấp dịch vụ cho khách hàng là các doanh nghiệp, tô chức và các trường hợp
+khác theo hướng dẫn của Bộ trưởng Bộ Tài chính, thời điểm lập hóa đơn là thời
+điểm hoàn thành việc đối soát dữ liệu giữa các bên nhưng chậm nhất không quá
+ngày 07 của tháng sau tháng phát sinh việc cung câp dịch vụ hoặc không quá
+07 ngày kể từ ngày kết thúc kỳ quy ước. Kỳ quy ước để làm căn cứ tính lượng
+hàng hóa, dịch vụ cung cấp căn cứ thỏa thuận giữa đơn vị bán hàng hóa, cung
+câp dịch vụ với người mua;
+tăng), dịch vụ công nghệ thông tin (bao gồm dịch vụ trung gian thanh toán sử
+dụng trên nền tảng viễn thông, công nghệ thông tin), sản phẩm, dịch vụ về đữ
+liệu phải thực hiện đối soát dữ liệu kết nối giữa các cơ sở kinh doanh địch vụ,
+thời điểm lập hóa đơn là thời điểm hoàn thành việc đối soát dữ liệu về cước
+dịch vụ theo hợp đồng kinh tế giữa các cơ sở kinh doanh dịch vụ nhưng chậm
+nhất không quá 02 tháng kể từ tháng phát sinh cước dịch vụ.
+Trường hợp cung cấp dịch vụ viễn thông (bao gồm cả dịch vụ viễn thông
+giá trị gia tăng) thông qua bán thẻ trả trước, thu cước phí hòa mạng khi khách
+hàng đăng ký sử dụng dịch vụ mà khách hàng không yêu cầu xuất hóa đơn giá
+trị gia tăng hoặc không cung cắp tên, địa chỉ, mã số thuế thì cuối mỗi ngày hoặc
+định kỳ trong tháng, cơ sở kinh doanh dịch vụ lập chung một hóa đơn giá trị
+gia tăng ghi nhận tổng giá trị thẻ trả trước hoặc cước phí hòa mạng đã bán mà
+người mua không lấy hóa đơn hoặc không cung cấp tên, địa chỉ, mã số thuế.
+<!-- Page Break -->
+# Page 18
+18
+nghiệm thu, bàn giao công trình, hạng mục công trình, khối lượng xây dựng,
+lắp đặt hoàn thành, không phân biệt đã thu được tiền hay chưa thu được tiền;
+dựng nhà để bán, chuyển nhượng:
+d.1) Trường hợp chưa chuyển giao quyền sở hữm, quyền. sử dụng có thực
+hiện thu tiền theo tiến độ thực hiện dự án hoặc tiến độ thu tiền ghi trong hợp
+đồng thì thời điểm lập hóa đơn là ngày thu tiền hoặc theo thỏa thuận thanh toán
+trong hợp đồng:
+d.2) Trường hợp đã chuyển giao quyền sở hữu, quyền sử dụng, thời điểm
+lập hóa đơn thực hiện theo quy định tại khoản 1 Điêu này.
+không › xuất qua website và hệ thống thương mại điện tử được lập theo thông lệ
+quốc tế, thời điểm lập hóa đơn chậm nhất không quá 05 ngày kế tiếp kể từ ngày
+chứng từ dịch vụ vận tải hàng không xuất ra trên hệ thống website và hệ thông
+thương mại điện tử;
+điểm lập hóa đơn bán dầu thô, condensate, các sản phẩm được chế biến từ dầu
+thô (bao gồm cả hoạt động bao tiêu sản phẩm theo cam kết của Chính phủ) là
+thời điểm bên mua và bên bán xác định được giá bán chính thức, không phân
+biệt đã thu được tiền hay chưa thu được tiền.
+Đối với hoạt động bán khí thiên nhiên, khí đồng hành, khí than được
+chuyển bằng đường ống dẫn khí đến người mua, thời điểm lập hóa đơn là thời
+điểm bên mua, bên bán xác định khối lượng khí giao của tháng nhưng chậm
+nhất là ngày cuối cùng của thời hạn kê khai, nộp thuế đối với tháng phát sinh
+nghĩa vụ thuế theo quy định pháp luật về thuế.
+Trường hợp thỏa thuận bảo lãnh và cam kết của Chính phủ có quy định
+khác về thời điểm lập hóa đơn thì thực hiện theo quy định tại thỏa thuận bảo
+lãnh và cam kết của Chính phủ.
+điện thì thời điểm lập hóa đơn điện tử được xác định căn cứ thời điểm về đôi
+soát số liệu thanh toán giữa đơn vị vận hành hệ thống điện và thị trường điện,
+đơn vị phát điện và đơn vị mua điện theo quy định của Bộ Công Thương hoặc
+hợp đồng mua bán điện đã được Bộ Công Thương hướng dẫn, phê duyệt nhưng
+chậm nhất là ngày cuối cùng của thời hạn kê khai, nộp thuế đổi với tháng phát
+sinh nghĩa vụ thuế theo quy định pháp luật về thuế. Riêng hoạt động bán điện
+của các công ty phát điện có cam kết bảo lãnh của Chính phủ về thời điểm thanh
+toán thì thời điểm lập hóa đơn điện tử căn cứ theo bảo lãnh của Chính phủ,
+hướng dẫn và phê duyệt của Bộ Công Thương và các hợp đồng mua bán điện
+đã được ký kết giữa bên mua điện và bên bán điện;
+<!-- Page Break -->
+# Page 19
+19
+hàng, thời điểm lập hóa đơn là thời điểm kết thúc việc bán xăng, dầu theo từng
+lần bán;
+trường hợp đại lý bán đúng giá hưởng hoa hồng của hãng hàng không), dịch vụ
+bảo hiểm qua đại lý, thời điểm lập hóa đơn là thời điểm hoàn thành việc đối
+soát dữ liệu giữa các bên nhưng chậm nhất không quá ngày 10 của tháng sau
+tháng phát sinh;
+được xác định theo kỳ bạn thu lãi tại thỏa thuận cho vay giữa tổ chức tín dụng
+và khách hàng đi vay, trừ trường hợp đến kỳ hạn thu lãi không thu được thì thời
+điểm lập hóa đơn là thời điểm thu được tiền lãi vay của khách hàng. Trường
+hợp trả lãi trước hạn theo thỏa thuận cho vay, thời điểm lập hóa đơn là thời
+điêm thu lãi trước hạn;
+) Đối với kinh doanh vận tải hành khách bằng xe taxi có sử dụng "phần
+mềm tính tiền theo quy định của pháp luật: tại thời điểm kết thúc chuyến đi,
+doanh nghiệp, hợp tác xã kinh doanh vận tải hành khách bằng xe taxi có sử
+dụng phần mềm tính tiền thực hiện lập hóa đơn điện tử cho khách hàng đồng
+thời chuyên dữ liệu hóa đơn đến cơ quan thuế theo quy định;
+khám bệnh, chữa bệnh và quản lý viện phí, từng giao dịch khám bệnh, chữa
+bệnh và thực hiện các dịch vụ chụp, chiếu, xét nghiệm có in phiếu thu tiền (thu
+viện phí hoặc tiền khám, chụp, chiếu, xét nghiệm) và có lưu trên hệ thống công
+nghệ thông tin, nếu khách hàng (người đến khám, chữa bệnh) không có nhu cầu
+lấy hóa đơn thì cuối ngày cơ sở khám bệnh, chữa bệnh căn cứ thông tin khám,
+chữa bệnh và thông tỉn từ phiếu thu tiền để tổng hợp lập hóa đơn điện tử cho
+các dịch vụ y tế thực hiện trong ngày, trường hợp khách hàng yêu cầu lập hóa
+đơn điện tử thì cơ sở khám bệnh, chữa bệnh lập hóa đơn điện tử giao cho khách
+hàng.
+Cơ sở khám bệnh, chữa bệnh lập hóa đơn cho cơ quan bảo hiểm xã hội tại
+thời điểm được cơ quan bảo hiểm xã hội thanh, quyết toán chỉ phí khám bệnh,
+chữa bệnh cho người có thẻ bảo hiểm y tế;
+điện tử không dừng, ngày lập hóa đơn điện tử là ngày xe lưu thông qua trạm
+thu phí. Trường hợp khách hàng sử dụng dịch vụ thu phí đường bộ theo hình
+thức điện tử không dừng có một hoặc nhiều phương tiện cùng sử dụng dịch vụ
+nhiều lần trong tháng, đơn vị cung cấp dịch vụ có thể lập hóa đơn điện tử theo
+định kỳ, ngày lập hóa đơn điện tử chậm nhất là ngày cuối cùng của tháng phát
+sinh dịch vụ thu phí. Nội dung hóa đơn liệt kê chỉ tiết từng lượt xe lưu thông
+qua các trạm thu phí (bao gồm: thời gian xe qua trạm, giá phí sử dụng đường
+<!-- Page Break -->
+# Page 20
+20
+bộ của từng lượt xe);
+_..o) Đối với hoạt động kinh doanh bảo hiểm, thời điểm lập hóa đơn là thời
+điểm ghi nhận doanh thu bảo hiểm theo quy định của pháp luật về kinh doanh
+bảo hiểm (trừ trường hợp quy định của điểm a, điểm ¡ khoản này).
+Đối với hợp đồng đồng bảo hiểm: khi thu phí bảo hiểm, từng doanh nghiệp
+đồng bảo hiểm lập hóa đơn cho khách hàng theo phí bảo hiểm nhận được.
+Trường hợp ủy quyền cho một doanh nghiệp thu hộ phí bảo hiểm thì doanh
+nghiệp thu hộ thực hiện lập hóa đơn cho khách hàng trên toàn bộ giá trị hợp
+đồng và doanh nghiệp nhờ thu hộ lập hóa đơn cho doanh nghiệp thu hộ đối với
+phí bảo hiểm được hưởng theo thỏa thuận của các bên. Khi mua hàng hóa, dịch
+vụ để bồi thường hoặc thanh toán các khoản chỉ khác liên quan đến hợp đồng
+đồng bảo hiểm, trường hợp một doanh nghiệp bảo hiểm được ủy quyền chỉ hộ
+thì doanh nghiệp chỉ hộ thực hiện lập hóa đơn khi thu đòi các doanh nghiệp bảo
+hiểm nhờ chỉ hộ;
+ngay (vé xổ số) theo hình thức bán vé số in sẵn đủ mệnh giá cho khách hàng
+thì sau khi thu hồi vé xổ số không tiêu thụ hết và chậm nhất là trước khi mở
+thưởng của kỳ tiếp theo, doanh nghiệp kinh doanh xổ số lập 01 hóa đơn giá trị
+gia tăng điện tử có mã của cơ quan thuế cho từng đại lý là tổ chức, cá nhân cho
+vé xô số được bán trong kỳ gửi cơ quan thuế cấp mã cho hóa đơn;
+điểm lập hóa đơn điện tử chậm nhất là 01 ngày kể từ thời điểm kết thúc ngày
+xác định doanh thu, đồng thời doanh nghiệp kinh doanh casino và trò chơi điện
+tử có thưởng chuyển đữ liệu ghi nhận số tiên thụ được (do đổi đồng tiền quy
+ước cho người chơi tại quây, tại bàn chơi và số tiền thu tại máy trò chơi điện tử
+có thưởng) trừ đi số tiền đổi trả cho người chơi (do người chơi trúng thưởng
+hoặc người chơi không sử dụng hết) theo mẫu do Bộ trưởng Bộ Tài chính quy
+định đến cơ quan thuế cùng thời điểm chuyển dữ liệu hóa đơn điện tử. Ngày
+xác định doanh thu là khoảng thời gian từ 06:00:00 sáng đến 05:59:59 ngày
+hôm sau. Trường hợp pháp luật chuyên ngành có quy định khác thì thực hiện
+theo pháp luật chuyên ngành;
+dùng: dịch vụ ngân hàng; dịch vụ trung gian thanh toán; dịch vụ thông tin tín
+dụng; kinh doanh chứng khoán; giao dịch tài sản mã hóa; dịch vụ hỗ trợ giao
+địch trên sàn giao dịch các-bon; kinh doanh bảo hiểm; dịch vụ chuyển tiền qua
+ví điện tử; dịch vụ ngừng, cấp điện trở lại; dịch vụ thương mại điện tử; dịch vụ
+bưu chính, vận chuyển trực tiếp phục vụ hoạt động thương mại điện tử; dịch vụ
+vận tải hành khách công cộng băng tàu điện, xe buýt; kinh doanh vận tải hành
+khách bằng xe taxi, xe hợp đông, xe mô tô hai bánh; dịch vụ trông giữ xe; hoạt
+động chiếu phim và các dịch vụ khác, đáp ứng điều kiện có hệ thống phần mềm
+<!-- Page Break -->
+# Page 21
+21
+quản lý chỉ tiết từng giao dịch, có đữ liệu thu tiền được lưu trữ trên hệ thống
+theo từng giao dịch thì cơ sở dữ liệu thông tin chỉ tiết giao dịch phát sinh của
+doanh nghiệp được chuyển đến cơ quan thuế theo quy định tại điểm a.2 khoản
+3 Điều 16 Nghị định này. Người bán chịu trách nhiệm về tính chính xác của
+thông tin giao dịch, lưu trữ đây đủ dữ liệu chỉ tiết của từng giao dịch, bảo đâm
+khả năng truy xuất, đối chiếu và cung cấp đữ liệu, chứng từ liên quan theo yêu
+cầu của cơ quan thuế hoặc cơ quan nhà nước có thẩm quyên.$md$,$md$254-ndcp.signed_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Đối với các trường hợp bán hàng hóa, cung cấp dịch vụ với số lượng$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Đối với dịch vụ viễn thông (bao gồm cả dịch vụ viễn thông giá trị gia$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Đối với hoạt động xây dựng, lắp đặt, thời điểm lập hóa đơn là thời điểm$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Đối với tổ chức kinh doanh bất động sản, xây dựng cơ sở hạ tầng, xây$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Đối với hoạt động tìm kiếm thăm dò, khai thác và chế biến dầu thô, thời$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dg$md$,$md$254-ndcp.signed$md$,$md$Điểm g$md$,$md$Đối với hoạt động bán điện của các công ty phát điện trên thị trường$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dh$md$,$md$254-ndcp.signed$md$,$md$Điểm h$md$,$md$Đối với trường hợp bán xăng, dầu tại các cửa hàng bán lẻ cho khách$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dï$md$,$md$254-ndcp.signed$md$,$md$Điểm ï$md$,$md$Đối với trường hợp cung cấp dịch vụ vận tải hàng không (bao gồm cả$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dk$md$,$md$254-ndcp.signed$md$,$md$Điểm k$md$,$md$Đối với hoạt động cho vay của tổ chức tín dụng, thời điểm lập hóa đơn$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dm$md$,$md$254-ndcp.signed$md$,$md$Điểm m$md$,$md$Đối với cơ sở khám bệnh, chữa bệnh có sử dụng phần mềm quản lý$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dn$md$,$md$254-ndcp.signed$md$,$md$Điểm n$md$,$md$Đối với hoạt động thu phí dịch vụ sử dụng đường bộ theo hình thức$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dp$md$,$md$254-ndcp.signed$md$,$md$Điểm p$md$,$md$Đối với hoạt động kinh doanh vé xổ số › truyền thống, xổ số biết kết quả$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dq$md$,$md$254-ndcp.signed$md$,$md$Điểm q$md$,$md$Đối với hoạt động kinh doanh casino và trò chơi điện tử có thưởng, thời$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K4_Dr$md$,$md$254-ndcp.signed$md$,$md$Điểm r$md$,$md$Đối với doanh nghiệp cung cấp các dịch vụ cho cá nhân là người tiêu$md$,$md$254-ndcp.signed_Điều9_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều9_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Trường hợp người bán không có phần mềm lập hóa đơn tự động có phát
+sinh giao dịch bán hàng hóa, cung câp dịch vụ trong giờ làm việc ban đêm theo
+quy định của Bộ luật Lao động, thời điểm lập hóa đơn chậm nhất là ngày làm
+việc tiếp theo.$md$,$md$254-ndcp.signed_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10$md$,$md$254-ndcp.signed$md$,$md$Điều 10. Nội dung của hóa đơn$md$,$md$Nội dung của hóa đơn$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hóa đơn phải có các nội dung sau:
+hoặc số định danh cá nhân của người mua;
+có thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tổng số tiền thuế giá trị
+gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền
+thanh toán đã có thuế giá trị gia tăng;
+không nhất thiết phải có chữ ký số của người mua (trừ trường hợp người mua,
+người bán có thỏa thuận);
+này và được hiền thị theo định dạng ngày, tháng, năm của năm dương lịch;
+1) Mã của cơ quan thuế đối với hóa đơn điện tử có mã của cơ quan thuế;
+mại (nêu có) và các nội dung khác liên quan (nêu có).$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên hóa đơn, ký hiệu hóa đơn, ký hiệu mẫu số hóa đơn;$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Số hóa đơn;$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Tên, địa chỉ, mã số thuế của người bán;$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Tên, địa chỉ, mã số thuế hoặc mã số đơn vị có quan hệ với ngân sách$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ; thành tiền chưa$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Chữ ký của người bán, chữ ký của người mua: Trên hóa đơn điện tử$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dø$md$,$md$254-ndcp.signed$md$,$md$Điểm ø$md$,$md$Thời điểm lập hóa đơn thực hiện theo hướng dẫn tại Điều 9 Nghị định$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dh$md$,$md$254-ndcp.signed$md$,$md$Điểm h$md$,$md$Thời điểm ký số trên hóa đơn điện tử;$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K1_Dk$md$,$md$254-ndcp.signed$md$,$md$Điểm k$md$,$md$Phí, lệ phí thuộc ngân sách nhà nước, chiết khấu thương mại, khuyến$md$,$md$254-ndcp.signed_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Chữ viết, chữ số và đồng tiền thể hiện trên hóa đơn.
+<!-- Page Break -->
+# Page 22
+2$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Quy định chỉ tiết nội dung của hóa đơn tại khoản 1 và khoản 2 Điều này
+và một số trường hợp hóa đơn điện tử không nhất thiết có đầy đủ các nội dung
+được quy định tại Phụ lục kèm theo Nghị định này.$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Hóa đơn điện tử khởi tạo từ máy tính tiền có kết nối dữ liệu với cơ quan
+thuế có các nội dung sau đây:
+mua theo quy định (nếu người mua yêu cầu);
+tổ chức kinh tế nộp thuế theo phương pháp khấu trừ phải ghi rõ nội dung giá
+bán chưa thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tiền thuế giá trị gia
+tăng, tổng tiền thanh toán có thuế giá trị gia tăng;
+hoặc dữ liệu điện tử để người mua có thể truy xuất, kê khai thông tin hóa đơn
+điện tử từ máy tính tiền.
+Người bán gửi hóa đơn điện tử cho người mua bằng hình thức điện tử (tin
+nhắn, thư điện tử và các hình thức khác) hoặc cung cấp đường dẫn hoặc mã QR.
+để người mua tra cứu, tải hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên, địa chỉ, mã số thuế người bán;$md$,$md$254-ndcp.signed_Điều10_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tên, địa chỉ, mã số thuế/số định danh cá nhân/số điện thoại của người$md$,$md$254-ndcp.signed_Điều10_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Tên hàng hóa, dịch vụ, đơn giá, số lượng, giá thanh toán. Trường hợp$md$,$md$254-ndcp.signed_Điều10_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Thời điểm lập hóa đơn;$md$,$md$254-ndcp.signed_Điều10_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K4_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Mã của cơ quan thuế đối với hóa đơn điện tử có mã của cơ quan thuế$md$,$md$254-ndcp.signed_Điều10_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Nội dung khác trên hóa đơn
+Đối với hóa đơn bán hàng của hộ kinh doanh, cá nhân kinh doanh, khuyến
+khích người bán thê hiện thông tin nhóm ngành nghề tương ứng với hàng hóa,
+dịch vụ trên dữ liệu hóa đơn điện tử theo định dạng XML gửi cơ quan thuế.
+Trường hợp hàng hóa, dịch vụ thuộc đối tượng không chịu thuế thì thể hiện
+tương ứng trên hóa đơn. Thông tin nhóm ngành nghề (nếu có) được hiển thị
+trên bản thê biện hóa đơn điện tử.
+Ngoài các nội dung hướng dẫn từ khoản 1 đến khoản 3 Điều này, tổ chức
+kinh tế, tổ chức, hộ kinh doanh, cá nhân kinh doanh có thể tạo thêm thông tin
+về biểu trưng hay lo-go để thể hiện nhãn hiệu, thương hiệu hay hình ảnh đại
+diện của người bán. Tùy theo đặc điểm, tính chất giao dịch và yêu cầu quản lý,
+trên hóa đơn có thể thể hiện thông tin về hợp đồng mua bán, lệnh vận chuyển,
+mã khách hàng và các thông tin khác.$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Nội dung hóa đơn bán tài sản công thực hiện theo Mẫu số 07/TSC-HĐ
+ban hành kèm theo Nghị định sô 186/2025/ND-CP của Chính phủ quy định chỉ
+tiết một sô điều của Luật Quản lý, sử dụng tài sản công.$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Hóa đơn giá trị gia tăng kiêm tờ khai hoàn thuế đảm bảo nội dung quy
+định tại Điều này và theo quy định của Bộ trưởng Bộ Tài chính.
+<!-- Page Break -->
+# Page 23
+23$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều10_K8$md$,$md$254-ndcp.signed$md$,$md$Khoản 8$md$,$md$Bộ trưởng Bộ Tài chính quy định nội dung của hóa đơn điện tử đối với
+một số trường hợp khác theo yêu câu quản lý.$md$,$md$254-ndcp.signed_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều11$md$,$md$254-ndcp.signed$md$,$md$Điều 11. Trường hợp sử dụng hóa đơn điện tử được miễn phí dịch vụ$md$,$md$Trường hợp sử dụng hóa đơn điện tử được miễn phí dịch vụ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều11_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Doanh nghiệp nhỏ và vừa, hợp tác xã, liên hiệp hợp tác xã, hộ kinh
+doanh, cá nhân kinh doanh tại địa bàn có điều kiện kinh tế - xã hội khó khăn,
+địa bàn có điều kiện kinh tế - - xã hội đặc biệt khó khăn thuộc trường hợp sử
+dụng hóa đơn điện tử được miễn phí dịch vụ trong thời ¡ gian 12 tháng kể từ khi
+sử dụng hóa đơn điện tử. Địa bàn có điều kiện kinh tế - xã hội khó khăn, địa
+bàn có điều kiện kinh tế - xã hội đặc biệt khó khăn thực hiện theo Danh mục
+địa bàn ưu đãi đầu tư theo quy định pháp luật về đầu tư.
+Cục Thuế thực hiện hoặc ủy thác cho tổ chức cung cấp địch vụ về hóa đơn
+điện tử thực hiện cung cấp hóa đơn điện tử được miễn phí dịch vụ cho đôi tượng
+nêu trên.$md$,$md$254-ndcp.signed_Điều11$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều11_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Cơ quan thuế hoặc cơ quan được giao nhiệm vụ tổ chức, xử lý tài sản
+công theo quy định pháp luật về quản lý, sử dụng tài sản công lập hóa đơn điện
+tử thông qua Hệ thống thông tin quản lý thuế hoặc tổ chức cung cấp dịch vụ
+hóa đơn điện tử được Cục Thuế ủy thác cung cấp dịch vụ hóa đơn điện tử miễn
+phí dịch vụ.$md$,$md$254-ndcp.signed_Điều11$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều11_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Các tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh không thuộc
+trường hợp quy định tại khoản 1 Điều này khi sử dụng hóa đơn điện tử thông
+qua tổ chức cung cấp dịch vụ hóa đơn điện tử thực hiện trả tiền dịch vụ theo
+hợp đồng ký giữa các bên.$md$,$md$254-ndcp.signed_Điều11$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều11_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Doanh nghiệp nhỏ và vừa, hợp tác xã, liên hiệp hợp tác xã, hộ kinh
+doanh, cá nhân kinh doanh quy định tại khoản 1 Điều này được đăng ký, thay
+đổi thông tin đăng ký sử dụng hóa đơn điện tử qua Hệ thông thông tin quản lý
+thuế theo quy định của Bộ trưởng Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều11$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12$md$,$md$254-ndcp.signed$md$,$md$Điều 12. Lập hóa đơn điện tử có mã của cơ quan thuế$md$,$md$Lập hóa đơn điện tử có mã của cơ quan thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Lập hóa đơn điện tử có mã của cơ quan thuế
+đối tượng quy định tại Điều 6 Nghị định này truy cập Hệ thống thông tin ¡quản
+lý thuế đề thực hiện: lập hóa đơn bán hàng hóa, cung cấp dịch vụ; ký số trên
+các hóa đơn đã lập và gửi hóa đơn để cơ quan thuế cấp mã;
+dụng hóa đơn điện tử có mã của cơ quan thuế thông qua tổ chức cung cấp dịch
+vụ hóa đơn điện tử thì truy cập vào trang thông tin điện tử của tổ chức cung cấp
+dịch vụ hóa đơn điện tử hoặc sử dụng phần mềm hóa đơn điện tử của đơn vị để
+thực hiện lập hóa đơn bán hàng hóa, cung cấp dịch vụ; ký số trên các hóa đơn
+đã lập và gửi hóa đơn qua tô chức cung cấp dịch vụ hóa đơn điện tử để cơ quan
+<!-- Page Break -->
+# Page 24
+24
+thuế cấp mã.$md$,$md$254-ndcp.signed_Điều12$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh thuộc$md$,$md$254-ndcp.signed_Điều12_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh sử$md$,$md$254-ndcp.signed_Điều12_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Cấp mã hóa đơn
+a.1) Đầy đủ nội dung về hóa đơn điện tử theo quy định tại Điều 10 Nghị
+định này;
+a.2) Đúng định dạng về hóa đơn điện tử theo quy định của Bộ trưởng Bộ
+Tài chính;
+a.3) Đúng thông tin đăng ký theo quy định của Bộ trưởng Bộ Tài chính;
+a.4) Không thuộc trường hợp ngừng sử dụng hóa đơn điện tử có mã của
+cơ quan thuế theo quy định của Bộ trưởng Bộ Tài chính. l
+đơn và gửi trả kết quả cấp mã hóa đơn cho người gửi.$md$,$md$254-ndcp.signed_Điều12$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Hóa đơn được cơ quan thuế cấp mã phải đảm bảo:$md$,$md$254-ndcp.signed_Điều12_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Hệ thống cấp mã hóa đơn của Cục Thuế tự động thực hiện cấp mã hóa$md$,$md$254-ndcp.signed_Điều12_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều12_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Tổ chức kinh tế, tổ chức khác, hộ kinh doanh, cá nhân kinh doanh bán
+hàng hóa, cung cấp dịch vụ có trách nhiệm gửi hóa đơn điện tử đã được cấp mã
+của cơ quan thuế cho người mua. Phương thức gửi và nhận hóa đơn được thực
+hiện theo thỏa thuận giữa người bán và người mua, đảm bảo phù hợp với quy
+định của pháp luật về giao dịch điện tử.
+_ Điều 13. Lập hóa đơn điện tử không có-mã của cơ quan thuế
+Doanh nghiệp sử dụng phần mềm để lập hóa đơn điện tử khi bán hàng
+hóa, cung câp dịch vụ, ký sô trên hóa đơn điện tử và gửi cho người mua bằng
+phương thức điện tử theo thỏa thuận giữa người bán và người mua, đảm bảo
+phù hợp với quy định của pháp luật về giao dịch điện tử.$md$,$md$254-ndcp.signed_Điều12$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14$md$,$md$254-ndcp.signed$md$,$md$Điều 14. Xử lý sự cố$md$,$md$Xử lý sự cố$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Trường hợp người bán hàng hóa, cung cấp dịch vụ sử dụng hóa đơn
+. điện tử có mã của cơ quan thuế nhưng gặp sự cô dẫn đến không sử dụng được
+hóa đơn điện tử có mã của cơ quan thuế thì liên hệ với cơ quan thuế hoặc tô
+chức cung cấp dịch vụ để hỗ trợ xử lý sự cố. Trong thời gian xử lý sự cố, người
+bán hàng hóa, cung cấp dịch vụ có yêu cầu sử dụng hóa đơn điện tử có mã của
+cơ quan thuế thì đến cơ quan thuế để sử dụng hóa đơn điện tử có mã của cơ
+quan thuế.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Trường hợp sự cố từ hệ thống cấp mã của cơ quan thuế
+Trường hợp hệ thống cấp mã hóa đơn điện tử của cơ quan thuế gặp sự cô
+kỹ thuật dẫn đến gián đoạn việc cấp mã, Cục Thuế có trách nhiệm: kích hoạt
+hệ thống dự phòng để bảo đảm hoạt động cấp mã; thông báo công khai trên
+Trang thông tin điện tử của Cục Thuế về phạm vi ảnh hưởng, thời điểm bắt đầu
+<!-- Page Break -->
+# Page 25
+25
+và dự kiến thời gian khắc phục; trường hợp cần thiết, ủy quyền cho tổ chức
+cung cấp dịch vụ hóa đơn điện tử đủ điều kiện thực hiện cấp mã theo quy định.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Trường hợp do lỗi hệ thống hạ tầng kỹ thuật của tổ chức cung cấp dịch
+vụ hóa đơn điện tử thì tổ chức cung cấp ( dịch vụ hóa đơn điện tử có trách nhiệm
+thông báo cho người bán được biết, phối hợp với Cục Thuế để được hỗ trợ kịp
+thời. Tổ chức cung, cấp dịch vụ hóa đơn điện tử phải khắc phục nhanh nhất sự
+cố, có biện pháp hỗ trợ người bán lập hóa đơn điện tử để gửi cơ quan thuế cấp
+mã trong thời gian ngắn nhất.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Trường hợp Hệ thống thông tin quản lý thuế gặp lỗi kỹ thuật chưa tiếp
+nhận được dữ liệu hóa đơn điện tử không có mã, Cục Thuế có trách nhiệm
+thông báo trên Trang thông tin điện tử của Cục Thuế. Trong thời gian này tổ
+chức kinh tế, tổ chức khác, tổ chức cung cấp. dịch vụ hoá đơn điện tử tạm thời
+chưa chuyển đữ liệu hóa đơn không có mã đến cơ quan thuế.
+Trong vòng 02 ngày làm việc kể từ ngày Cục Thuế có thông báo Hệ thống
+thông tin quản lý thuế hoạt động trở lại bình thường, tổ chức kinh tế, tổ chức
+khác, tổ chức cung cấp dịch vụ hoá đơn điện tử chuyền dữ liệu hoá đơn đến cơ
+quan thuế.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Trong trường hợp bắt khả kháng theo quy định tại khoản 21 Điều 4 Luật
+Quản lý thuế số 108/2025/QH15 gồm chiến tranh, bạo loạn, đình công phải
+ngừng, nghỉ sản xuất, kinh doanh hoặc rủi ro không thuộc nguyên nhân, trách
+nhiệm chủ quan của người bán mà người bán hoặc cơ quan thuế không thể thực
+hiện việc lập, câp mã hoặc truyền dữ liệu hóa đơn điện tử đúng thời hạn:
+bán được thực hiện việc lập và gửi hóa đơn điện tử tới cơ quan thuê;
+bán, lưu giữ tài liệu chứng minh trường hợp bất khả kháng theo quy định.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K5_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Trong vòng 03 ngày làm việc kể từ ngày sự cố được khắc phục, người$md$,$md$254-ndcp.signed_Điều14_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K5_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Người bán có trách nhiệm ghi chép số sách kế toán về giao dịch mua$md$,$md$254-ndcp.signed_Điều14_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều14_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Việc lập, gửi hóa đơn, chuyển dữ liệu hóa đơn quá thời hạn do các
+nguyên nhân trên được xác định là trường hợp bất khả kháng theo quy định
+pháp luật về quản lý thuế.$md$,$md$254-ndcp.signed_Điều14$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều15$md$,$md$254-ndcp.signed$md$,$md$Điều 15. Trách nhiệm của người bán hàng hóa, cung cấp dịch vụ sử$md$,$md$Trách nhiệm của người bán hàng hóa, cung cấp dịch vụ sử
+dụng hóa đơn điện tử có mã của cơ quan ' thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều15_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Quản lý tên và mật khẩu của các tài khoản đã được cơ quan thuế cấp.$md$,$md$254-ndcp.signed_Điều15$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều15_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tạo lập hóa đơn điện tử để gửi đến cơ quan thuế cấp mã và chịu trách
+nhiệm trước pháp luật về tính hợp pháp, chính xác của hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều15$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều15_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Gửi hóa đơn điện tử có mã của cơ quan thuế đến người mua ngay sau
+khi nhận được hóa đơn điện tử có mã của cơ quan thuê; cuôi ngày gửi dữ liệu
+<!-- Page Break -->
+# Page 26
+26
+hóa đơn điện tử khởi tạo từ máy tính tiền đến cơ quan thuế, trừ trường hợp cung
+cấp dịch vụ theo quy định tại điểm r khoản 4 Điều 9 Nghị định này thì phương
+thức và thời điểm chuyển dữ liệu điện tử thực hiện theo quy định tại điểm a.2
+khoản 3 Điều 16 Nghị định này.$md$,$md$254-ndcp.signed_Điều15$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16$md$,$md$254-ndcp.signed$md$,$md$Điều 16. Trách nhiệm của người bán hàng hóa, cung cấp dịch vụ sử$md$,$md$Trách nhiệm của người bán hàng hóa, cung cấp dịch vụ sử
+dụng hóa đơn điện tử không có mã của cơ quan thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Quản lý tên và mật khâu của các tài khoản đã được cơ quan thuế cấp.$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tạo lập hóa đơn điện tử để gửi đến người mua, cơ quan thuế, tổ, chức
+cung cấp dịch vụ hóa đơn điện tử và chịu trách nhiệm trước pháp luật về tính
+hợp pháp, chính xác của hóa đơn điện tử đã lập.$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Chuyển đữ liệu điện tử đã lập đến cơ quan thuế qua Hệ thống thông tin
+quản lý thuế (chuyển trực tiếp hoặc gửi qua tổ chức cung cấp dịch vụ hóa đơn
+điện tử)
+a.1) Phương thức chuyển dữ liệu hóa đơn điện tử theo Bảng tổng hợp dữ
+liệu hóa đơn điện tử theo quy định của Bộ trưởng Bộ Tài chính đối với các
+trường hợp sau:
+a.1.1) Cung cấp dịch vụ thuộc lĩnh vực: bưu chính, viễn thông, bảo hiểm,
+tài chính ngân hàng, vận tải hàng không, chứng khoán, tài sản mã hóa, giao
+dịch trên sàn giao dịch các-bon;
+a.l 2) Bán hàng hóa là điện, nước nếu có thông tin về mã khách hàng hoặc
+mã số thuế của khách hàng;
+a.1.3) Bán hàng hóa, cung cấp dịch vụ của tổ chức nước ngoài có hoạt
+động kinh doanh, cung câp dịch vụ thông qua nên tảng thương mại điện tử, nền
+tảng sô khác tại Việt Nam.
+a.2) Phương thức chuyên. cơ sở dữ liệu thông tin chỉ tiết giao dịch phát
+sinh theo Bảng thông tin chỉ tiết giao địch theo. quy định của Bộ trưởng Bộ Tài
+chính áp dụng đối với dịch vụ quy định tại điểm r khoản 4 Điều 9 Nghị định
+này.
+Người bán lập Bảng tổng hợp: đữ liệu hóa đơn điện tử bán hàng hóa, cung
+cấp địch vụ, Bảng thông tin chỉ tiết giao dịch phát sinh trong tháng hoặc quý
+(tính từ r ngày đầu của tháng hoặc quý đến ngày cuối cùng của tháng hoặc quý)
+theo mẫu do Bộ trưởng Bộ Tài chính quy định để gửi cơ quan thuế chậm nhất
+<!-- Page Break -->
+# Page 27
+27
+là thời hạn gửi Tờ khai thuế giá trị gia tăng theo quy định pháp luật về quản lý
+thuế. .
+Trường hợp phát sinh số lượng hóa đơn lớn thì Bảng tổng hợp dữ liệu hóa
+đơn điện tử, Bảng thông tin chỉ tiết giao dịch tách theo định dạng chuân dữ liệu
+của cơ quan thuê nhắm đảm bảo yêu câu gửi, nhận dữ liệu trên đường truyện;
+a.3) Phương thức chuyển đầy đủ nội dung hóa đơn áp dụng đối với trường
+hợp bán hàng hóa, cung câp dịch vụ không thuộc quy định tại điểm a.1 khoản
+này.
+Người bán sau khi lập đầy đủ các nội dung trên hóa đơn theo quy định gửi
+hóa đơn cho người mua và đông thời gửi hóa đơn cho cơ quan thuê chậm nhật
+là ngày làm việc tiệp theo kê từ thời điêm lập hóa đơn.
+thuế theo định dạng chuẩn dữ liệu bằng hình thức gửi trực tiếp (đối với trường
+hợp đáp ứng yêu cầu về chuẩn kết nối dữ liệu) hoặc gửi thông qua tổ chức cung
+cấp dịch vụ hóa đơn điện tử.
+b.1) Hình thức gửi trực tiếp
+Trường hợp người bán là tổ chức kinh tế đáp ứng tiêu chí dưới đây thì
+người bán thực hiện chuyên dữ liệu hóa đơn điện tử đên cơ quan thuê băng hình
+thức gửi trực tiêp:
+b.1.1) Tổ chức kinh tế sử dụng hóa đơn bình quân từ 1.000.000 hóa đơn
+một tháng trở lên (tính theo số lượng hóa đơn bình quân năm trước liền kể), có
+hệ thống công nghệ thông tin đáp ứng yêu cầu về định dạng chuẩn dữ liệu, có
+nhu cầu chuyền dữ liệu hóa đơn điện tử theo hình thức gửi trực tiếp đến cơ quan
+thuế gửi văn bản kèm theo tài liệu đáp ứng điều kiện kỹ thuật đến Cục Thuế;
+b.1.2) Tổ chức kinh tế có tổ chức mô hình công ty mẹ - con, có xây dựng
+hệ thống quản lý dữ liệu hóa đơn tập trung tại công ty mẹ và có nhu câu công
+ty mẹ chuyển toàn bộ đữ liệu hóa đơn điện tử bao gồm cả dữ liệu của các công
+ty con đến cơ quan thuế qua Hệ thống thông tin quản lý thuế thì gửi kèm theo
+danh sách công ty con đến Cục Thuế để thực hiện kết nối kỹ thuật;
+b.2) Hình thức gửi thông qua tổ chức cung cấp địch vụ hóa đơn điện tử
+Các tô chức kinh tế không thuộc trường hợp nêu tại điểm b.1 khoản này
+thực hiện ký hợp đồng với tổ chức cung cấp dịch vụ hóa đơn điện tử để tổ chức
+cung cấp dịch vụ hóa đơn điện tử làm dịch vụ chuyển đữ liệu hóa đơn điện tử
+đến cơ quan thuế.$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Phương thức và thời điểm chuyển đữ liệu điện tử$md$,$md$254-ndcp.signed_Điều16_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tổ chức kinh tế thực hiện chuyền đữ liệu hóa đơn điện tử đến cơ quan$md$,$md$254-ndcp.signed_Điều16_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Lưu trữ và bảo đảm tính toàn vẹn của toàn bộ hóa đơn điện tử; thực hiện
+các quy định pháp luật về bảo đảm an toàn, an ninh hệ thông dữ liệu điện tử.
+<!-- Page Break -->
+# Page 28
+28$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Chấp hành sự thanh tra, kiểm tra, đối chiếu của cơ quan thuế và các cơ
+quan có thâm quyên theo quy định của pháp luật.$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều16_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Cơ sở kinh doanh bán hàng hóa hoàn thuế giá trị gia tăng lập hóa đơn
+kiêm tờ khai hoàn thuế giá trị gia tăng theo định dạng chuẩn dữ liệu do Bộ
+trưởng Bộ Tài chính quy định và gửi đến Hệ thống thông tin quản lý thuế theo
+quy định.$md$,$md$254-ndcp.signed_Điều16$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17$md$,$md$254-ndcp.signed$md$,$md$Điều 17. Quyền và nghĩa vụ của tố chức, cá nhân bán hàng hóa, cung$md$,$md$Quyền và nghĩa vụ của tố chức, cá nhân bán hàng hóa, cung
+cấp dịch vụ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ có quyền:
+thông tin người mua, thông tỉn liên quan đến giao dịch, thời điểm giao hàng và
+xác nhận trạng trái hoàn tất đơn hàng trên hệ thống để người bán lập hóa đơn
+điện tử theo quy định đối với trường hợp bán hàng hóa, cung cấp dịch vụ qua
+nên tảng thương mại điện tử, nên tảng số;
+phát hành và sử dụng hóa đơn hợp pháp.$md$,$md$254-ndcp.signed_Điều17$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Sử dụng hóa đơn điện tử theo quy định tại Điều 6 Nghị định này;$md$,$md$254-ndcp.signed_Điều17_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Sử dụng hóa đơn hợp pháp để phục vụ cho các hoạt động kinh doanh;$md$,$md$254-ndcp.signed_Điều17_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Yêu cầu chủ quản nền tảng thương mại điện tử, nền tảng số cung cấp$md$,$md$254-ndcp.signed_Điều17_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K1_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Khiếu kiện các tổ chức, cá nhân có hành vi xâm phạm các quyền tạo,$md$,$md$254-ndcp.signed_Điều17_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ có nghĩa vụ:
+hàng;
+chính và chuyền đữ liệu hóa đơn điện tử đến cơ quan thuế trong trường hợp sử
+dụng hóa đơn điện tử không có mã của cơ quan thuế hoặc hóa đơn điện tử khởi
+tạo từ máy tính tiền theo quy định;
+bán tới người mua hàng hóa, dịch vụ.$md$,$md$254-ndcp.signed_Điều17$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Lập và giao hóa đơn khi bán hàng hóa, cung cấp dịch vụ cho khách$md$,$md$254-ndcp.signed_Điều17_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Quản lý các hoạt động tạo hóa đơn theo quy định tại Nghị định này;$md$,$md$254-ndcp.signed_Điều17_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K2_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Đăng ký sử dụng hóa đơn điện tử theo quy định của Bộ trưởng Bộ Tài$md$,$md$254-ndcp.signed_Điều17_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều17_K2_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Công khai cách thức tra cứu, nhận file gốc hóa đơn điện tử của người$md$,$md$254-ndcp.signed_Điều17_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18$md$,$md$254-ndcp.signed$md$,$md$Điều 18. Quyền và trách nhiệm của người mua hàng hóa, dịch vụ$md$,$md$Quyền và trách nhiệm của người mua hàng hóa, dịch vụ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Người mua hàng hóa, dịch vụ có quyền:
+dịch vụ (trừ trường hợp không phải sử dụng hóa đơn điện tử);
+<!-- Page Break -->
+# Page 29
+29
+d.1) Xác nhận giao dịch mua bán hàng hóa, cung ứng dịch vụ; -
+d.2) Làm căn cứ chứng minh quyền sử dụng, quyền sở hữu hàng hóa, dịch
+vụ hoặc đề nhận bôi thường thiệt hại theo quy định của pháp luật;
+'đ.3) Đăng ký quyền sử dụng, quyền sở hữu và để kê khai các loại thuế,
+thanh toán vốn ngân sách nhà nước theo các quy định của pháp luật;
+d.4) Tham gia các chương trình khuyến khích sử dụng hóa đơn do người
+bán là tổ chức kinh tế, cơ quan thuế tổ chức.$md$,$md$254-ndcp.signed_Điều18$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Yêu cầu người bán lập và giao hóa đơn hợp pháp khi mua hàng hóa,$md$,$md$254-ndcp.signed_Điều18_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Cung cấp chính xác thông tin cần thiết để người bán lập hóa đơn;$md$,$md$254-ndcp.signed_Điều18_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K1_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Tra cứu, nhận file gốc hóa đơn điện tử của người bán;$md$,$md$254-ndcp.signed_Điều18_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Sử dụng hóa đơn hợp pháp do người bán cung cấp đề:$md$,$md$254-ndcp.signed_Điều18_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hóa đơn do người mua yêu cầu và nhận từ người bán là cơ sở để xác
+định nghĩa vụ thuế của người bán đối với ngân sách nhà nước góp phần nâng
+cao tính minh bạch của nên kinh tế và hiệu quả quản lý thuế.$md$,$md$254-ndcp.signed_Điều18$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Người mua hàng hóa, dịch vụ có trách nhiệm:
+được yêu câu.$md$,$md$254-ndcp.signed_Điều18$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Sử dụng hóa đơn đúng mục đích;$md$,$md$254-ndcp.signed_Điều18_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều18_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Cung cấp thông tin trên hóa đơn cho các cơ quan có thẩm quyền khi$md$,$md$254-ndcp.signed_Điều18_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19$md$,$md$254-ndcp.signed$md$,$md$Điều 19. Trách nhiệm của tổ chức được ủy nhiệm lập hóa đơn điện tử$md$,$md$Trách nhiệm của tổ chức được ủy nhiệm lập hóa đơn điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tổ chức, cá nhân được ủy nhiệm lập hóa đơn điện tử có trách nhiệm:
+ánh đúng bản chất nghiệp vụ kinh tế phát sinh giữa bên ủy quyền và người mua;
+hóa đơn điện tử do tổ chức được ủy nhiệm lập phải thể hiện đầy đủ thông tin
+của bên ủy quyền là người bán; hóa đơn điện tử phải đảm bảo các quy định của
+pháp luật về hóa đơn điện tử, bao gồm định dạng dữ liệu, chữ ký số, thời điểm
+lập hóa đơn và các nội dung trên hóa đơn;
+quyên, người mua;
+<!-- Page Break -->
+# Page 30
+30
+vi ủy nhiệm, trừ trường hợp pháp luật có quy định khác;
+khi phát hiện sai sót;
+8) Cung cấp đầy đủ, kịp thời thông tin, dữ liệu liên quan đến hóa đơn theo
+yêu cầu của cơ quan nhà nước có thẩm quyền.$md$,$md$254-ndcp.signed_Điều19$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Lập hóa đơn điện tử trong phạm vi được ủy nhiệm và bảo đảm phản$md$,$md$254-ndcp.signed_Điều19_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Gửi hóa đơn điện tử đến cơ quan thuế theo quy định;$md$,$md$254-ndcp.signed_Điều19_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Lưu trữ, bảo quản hóa đơn điện tử quy định của pháp luật;$md$,$md$254-ndcp.signed_Điều19_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Bảo đảm an toàn, bảo mật dữ liệu hóa đơn và thông tin của bên ủy$md$,$md$254-ndcp.signed_Điều19_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K1_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Phối hợp với bên ủy quyền trong việc điều chỉnh, thay thế, hủy hóa đơn$md$,$md$254-ndcp.signed_Điều19_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều19_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Chủ quản nền tảng thương mại điện tử, nền tảng số có trách nhiệm cung
+cấp thông tin người mua, thông tin liên quan đến giao dịch, thời điểm giao hàng
+và xác nhận trạng trái hoàn tất đơn hàng trên hệ thống để người bán lập hóa
+đơn điện tử theo quy định đối với trường hợp bán hàng hóa, cung cấp dịch vụ
+qua nền tảng thương mại điện tử, nên tảng số.$md$,$md$254-ndcp.signed_Điều19$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều20$md$,$md$254-ndcp.signed$md$,$md$Điều 20. Nghĩa vụ và trách nhiệm của tổ chức cung cấp dịch vụ hoá$md$,$md$Nghĩa vụ và trách nhiệm của tổ chức cung cấp dịch vụ hoá
+đơn điện tử, chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều20_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Nghĩa vụ và trách nhiệm của tổ chức cung cấp giải pháp lập hóa đơn
+điện tử, chứng từ điện tử:
+a.1) Cung cấp giải pháp trong việc lập, truyền, lưu trữ, xử lý dữ liệu hóa
+đơn điện tử, hóa đơn điện tử có mã của cơ quan thuế khởi tạo từ máy tính tiền,
+chứng từ điện tử; truyền dữ liệu hóa đơn điện tử, chứng từ điện tử đến cơ quan
+thuế. Trường hợp tô chức cung cấp dịch vụ hóa đơn điện tử, chứng từ điện tử
+chưa phải là tổ chức truyền, lưu trữ đữ liệu hoá đơn điện tử, chứng từ điện tử
+với cơ quan thuế thì thực hiện truyền đữ liệu hóa đơn điện tử, chứng từ điện tử
+đến cơ quan thuế thông qua việc sử dụng dịch vụ của tổ chức truyền, lưu trữ dữ
+liệu hoá đơn điện tử, chứng từ điện tử với cơ quan thuế;
+a.2) Thực hiện truyền, nhận đúng hạn, toàn vẹn hóa đơn điện tử, chứng từ
+điện tử và lưu trữ kêt quả truyền nhận giữa các bên tham gia giao dịch;
+b.1) Công khai thông báo phương thức hoạt động, chất lượng dịch vụ trên
+Trang thông tin điện tử giới thiệu dịch vụ của tô chức;
+b2) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử;
+b.3) Thông báo cho người mua dịch vụ kế hoạch ngừng hoặc tạm ngừng
+cung cấp dịch vụ và biện pháp xử lý ít nhất trước 30 ngày để bảo đảm quyền
+lợi của người sử dụng dịch vụ;
+<!-- Page Break -->
+# Page 31
+31
+b.4) Thực hiện trách nhiệm khác theo thỏa thuận với người sử dụng dịch
+vụ.
+__—2. Nghĩa vụ và trách nhiệm của tổ chức truyền, lưu trữ dữ liệu hóa đơn
+điện tử, chứng từ điện tử với cơ quan thuê:
+a1) Cung cấp dịch vụ truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ
+điện tử với Cục Thuế sau khi nhận được từ người sử dụng dịch vụ (bao gôm cả
+tổ chức cung cấp giải pháp lập hóa đơn điện tử, chứng từ điện tử chưa thực hiện
+kết nối với Cục Thuế);
+a.2) Thực hiện cấp mã của cơ quan thuế trong trường hợp cơ quan thuế
+thông báo ủy quyền; thực hiện cung cấp hóa đơn điện tử có mã của cơ quan
+thuế, chứng từ điện tử cho các đối tượng được miễn phí dịch vụ do cơ quan
+thuế ủy thác;
+b.1) Thiết lập kênh kết nối chuyển dữ liệu đến Cục Thuế đảm bảo liên tục,
+an ninh, an toàn;
+b.2) Công khai, thông báo phương thức hoạt động, chất lượng dịch vụ trên
+Trang thông tin điện tử giới thiệu dịch vụ của tổ chức;
+b.3) Bảo mật thông tin hóa đơn điện tử, chứng từ điện tử;
+b.4) Thông báo kịp thời cho Cục Thuế về các vấn đề ảnh hưởng đến việc
+cung cấp dịch vụ truyền, lưu trữ dữ liệu hóa đơn điện tử, chứng từ điện tử với
+cơ quan thuế; phối hợp với Cục Thuế xử lý vướng? mắc phát sinh trong quá trình
+thực hiện;
+b.5) Thông báo cho Cục Thuế và người sử dụng dịch vụ kế hoạch ngừng
+hoặc tạm ngừng cung cập dịch vụ và biện pháp xử lý ít nhật trước 30 ngày để
+phôi hợp thực hiện và đảm bảo quyên lợi của người sử dụng dịch vụ;
+b.6) Thực hiện trách nhiệm khác theo thỏa thuận với Cục Thuế và người
+sử dụng dịch vụ.$md$,$md$254-ndcp.signed_Điều20$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều20_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Nghĩa vụ:$md$,$md$254-ndcp.signed_Điều20_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều20_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Trách nhiệm:$md$,$md$254-ndcp.signed_Điều20_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21$md$,$md$254-ndcp.signed$md$,$md$Điều 21. Trách nhiệm của cơ quan thuế trong quản lý hóa đơn, chứng$md$,$md$Trách nhiệm của cơ quan thuế trong quản lý hóa đơn, chứng
+từ ,$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Cục Thuế có trách nhiệm:
+<!-- Page Break -->
+# Page 32
+32
+vụ công tác quản lý thuế, phục vụ công tác quản lý nhà nước của các cơ quan
+khác của nhà nước (công an, quản lý thị trường, bộ đội biên phòng, các cơ quan
+có liên quan), phục vụ nhu cầu xác minh, đối chiếu hóa đơn của các tổ chức
+kinh tế, hộ kinh doanh, cá nhân kinh doanh;
+mắt, không còn giá trị sử dụng.$md$,$md$254-ndcp.signed_Điều21$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Xây dựng cơ sở dữ liệu về hóa đơn điện tử, chứng từ điện tử để phục$md$,$md$254-ndcp.signed_Điều21_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Thông báo các loại hóa đơn, chứng từ đã được phát hành, được báo$md$,$md$254-ndcp.signed_Điều21_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Cơ quan thuế quản lý trực tiếp có trách nhiệm:
+tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh trên địa bàn;
+tử, chứng từ điện tử trên địa bàn;
+€) Cấp hóa đơn điện tử từng lần phát sinh cho các đối tượng thuộc trường
+hợp được câp hóa đơn điện tử theo quy định tại khoản 2 Điều 6 Nghị định này
+trong phạm vi được phân cấp quản lý thuế;$md$,$md$254-ndcp.signed_Điều21$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Quản lý việc đăng ký sử dụng hóa đơn điện tử, chứng từ điện tử của các$md$,$md$254-ndcp.signed_Điều21_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Kiểm tra hoạt động đăng ký, sử dụng và bảo quản lưu trữ hóa đơn điện$md$,$md$254-ndcp.signed_Điều21_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K2_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Quản lý đữ liệu tem điện tử, thời hạn lưu trữ thực hiện theo quy định.$md$,$md$254-ndcp.signed_Điều21_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều21_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Cơ quan thuế, cơ quan quản lý nhà nước có liên quan và tổ chức, cá
+nhân bán hàng hóa, cung ứng dịch vụ có trách nhiệm thực hiện các biện pháp
+tuyên truyền, hướng dẫn và tạo điều kiện thuận lợi để người tiêu dùng thực hiện
+quyền và trách nhiệm về hóa đơn.
+Chương II ` „
+QUY ĐỊNH VẺ CHỪNG TỪ ĐIỆN TỬ$md$,$md$254-ndcp.signed_Điều21$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều22$md$,$md$254-ndcp.signed$md$,$md$Điều 22. Loại chứng từ$md$,$md$Loại chứng từ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều22_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Chứng từ trong lĩnh vực quản lý thuế, phí, lệ phí của cơ quan quản lý
+thuế bao gồm:
+ˆ_ a) Chứng từ khấu trừ thuế thu nhập cá nhân;$md$,$md$254-ndcp.signed_Điều22$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều22_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Biên lai thu thuế, phí, lệ phí.$md$,$md$254-ndcp.signed_Điều22_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều22_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Trường hợp trong quá trình quản lý thuế, phí, lệ phí theo quy định của
+Luật Quản lý thuê có yêu câu các loại chứng từ khác, Bộ trưởng Bộ Tài chính
+có trách nhiệm quy định và hướng dẫn thực hiện.$md$,$md$254-ndcp.signed_Điều22$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23$md$,$md$254-ndcp.signed$md$,$md$Điều 23. Nội dung chứng từ$md$,$md$Nội dung chứng từ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Đối với chứng từ khấu trừ thuế thu nhập cá nhân
+<!-- Page Break -->
+# Page 33
+33
+hiệu chứng từ khẩu trừ thuế, số thứ tự chứng từ khẩu trừ thuế;
+cá nhân đã có mã số thuê), hoặc sô định danh cá nhân;
+đóng bảo hiểm bắt buộc; khoản từ thiện, nhân đạo, khuyến học; số thuế đã khấu
+trừ;
+Trường hợp sử dụng chứng từ khẩu trừ thuế thu nhập cá nhân điện tử thì
+chữ ký trên chứng từ điện tử là chữ ký số.$md$,$md$254-ndcp.signed_Điều23$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên chứng từ khẩu trừ thuế; ký hiệu mẫu chứng từ khấu trừ thuế, ký$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tên, địa chỉ, mã số thuế của tổ chức, cá nhân chỉ trả thu nhập;$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Tên, địa chỉ, số điện thoại, mã số thuế của cá nhân nhận thu nhập (nếu$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Quốc tịch (nếu người nộp thuế không thuộc quốc tịch Việt Nam);$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Khoản thu nhập, thời điểm trả thu nhập, tổng thu ¡ nhập chịu thuế, khoản$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K1_Dø$md$,$md$254-ndcp.signed$md$,$md$Điểm ø$md$,$md$Họ tên, chữ ký của người trả thu nhập.$md$,$md$254-ndcp.signed_Điều23_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Đối với biên lai
+Bộ trưởng, Bộ Tài chính;
+Số biên lai được ghi bằng chữ số Ả- rập có tối đa 8 chữ số. Đối với biên lai điện
+tử thì số biên lai điện tử bắt đầu từ số 1 vào ngày 01 tháng 01 hoặc ngày bắt
+đầu sử dụng biên lai điện tử và kết thúc vào ngày 31 tháng 12 hàng năm.
+. đ) Tên loại các khoản thu thuế, phí, lệ phí và số tiền thể hiện bằng số và
+băng chữ;
+Nội dung trên biên lai phải đúng với nội dung nghiệp vụ kinh tế phát sinh.
+ngoài thì phần tiếng nước ngoài được đặt bên phải trong ngoặc đơn “( }” hoặc
+đặt ngay dưới dòng nội dung bằng tiếng Việt với cỡ chữ nhỏ hơn chữ tiếng
+Việt.
+<!-- Page Break -->
+# Page 34
+34
+Chữ số trên biên lai là các chữ số tự nhiên 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
+Đồng tiền trên biên lai là đồng Việt Nam. Trường hợp các khoản phải thu
+phí, lệ phí được pháp luật quy định có mức thu bằng ngoại tệ thì được thu bằng
+ngoại tệ hoặc thu băng đồng Việt Nam trên cơ sở quy đổi từ ngoại tệ ra đồng
+Việt Nam theo tỷ giá quy định tại Nghị định số 362/2025/NĐ-CP của Chính
+phủ quy định chỉ tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành
+Luật Phí và lệ phí.
+Ngoài các thông tin bắt buộc theo quy định tại khoản này, tô chức thu thuế,
+phí, lệ phí có thể tạo thêm các thông tin khác, kể cả tạo lo-go, hình ảnh trang
+trí hoặc quảng cáo phù hợp với quy định của pháp luật và không che khuất, làm
+mờ các nội dung bắt buộc thể hiện trên biên lai. Cỡ chữ của các thông tin tạo
+thêm không được lớn hơn cỡ chữ của các nội dung bắt buộc thể hiện trên biên
+lai.$md$,$md$254-ndcp.signed_Điều23$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên biên lai;$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Ký hiệu mẫu biên lai và ký hiệu biên lai thực hiện theo quy định của$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Số biên lai là số thứ tự được thể hiện trên biên lai thu thuế, phí, lệ phí.$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Tên, mã số thuế của tổ chức thu thuế, phí, lệ phí;$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_Dø$md$,$md$254-ndcp.signed$md$,$md$Điểm ø$md$,$md$Chữ ký số của tổ chức thu thuế, phí, lệ phí;$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K2_Dh$md$,$md$254-ndcp.signed$md$,$md$Điểm h$md$,$md$Biên lai được thể hiện là tiếng Việt. Trường hợp cần thêm tiếng nước$md$,$md$254-ndcp.signed_Điều23_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều23_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Mẫu hiển thị chứng từ điện tử theo hướng dẫn tại Nghị định số
+347/2025/NĐ-CP của Chính phủ quy định về thủ tục hành chính thuộc lĩnh vực
+Kho bạc Nhà nước và các văn bản hướng dẫn thi hành.$md$,$md$254-ndcp.signed_Điều23$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24$md$,$md$254-ndcp.signed$md$,$md$Điều 24. Thời điểm lập chứng từ$md$,$md$Thời điểm lập chứng từ$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tại thời điểm khấu trừ thuế thu nhập cá nhân, thời điểm thu thuế, phí,
+lệ phí, tổ chức khấu trừ thuế thu nhập cá nhân, tổ chức thu thuế, phí, lệ phí, phải
+lập chứng từ, biên lai giao cho người nộp thuế, phí, lệ phí trừ các trường hợp
+quy định tại khoản 2, khoản 3 và khoản 4 Điều này.$md$,$md$254-ndcp.signed_Điều24$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Trường hợp cá nhân ủy quyền quyết toán thuế thì tổ chức khấu trừ thuế
+thu nhập cá nhân không phải lập chứng từ khâu trừ thuê thu nhập cá nhân.$md$,$md$254-ndcp.signed_Điều24$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Đối với cá nhân không ký hợp đồng lao động hoặc ký hợp đồng lao
+động dưới 03 tháng thì tổ chức, cá nhân trả thu nhập lập chứng từ khấu trừ thuế
+cho mỗi lần khấu trừ thuế hoặc lập một chứng từ khẩu trừ cho nhiều lần khấu
+trừ thuế trong một năm tính thuế khi cá nhân yêu cầu. Đối với cá nhân ký hợp
+đồng lao động từ 03 tháng trở lên, tổ chức, cá nhân trả thu nhập chỉ lập một
+chứng từ khấu trừ thuế trong một năm tính thuế.$md$,$md$254-ndcp.signed_Điều24$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Đối với thu nhập của nhà đầu tư cá nhân phát sinh từ hoạt động chuyên
+nhượng chứng khoán, đầu tư vốn, chuyển nhượng tài sản mã hóa, chuyên
+nhượng vàng miêng, thu nhập từ bản quyên, nhượng quyền thương mại, thu
+nhập từ trúng thưởng, thừa kê, quà tặng trong trường hợp khoản thu nhập này
+_ đã được tổ chức chỉ trả hoặc tổ chức khấu trừ thuế thực hiện khấu trừ, nộp thuế
+thu nhập cá nhân tại nguồn thì tổ chức chỉ trả hoặc tổ chức khấu trừ thuế không
+phải lập chứng từ khấu trừ thuế thu nhập cá nhân.$md$,$md$254-ndcp.signed_Điều24$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều24_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Thời điểm ký số trên chứng từ là thời điểm tổ chức, cá nhân khấu trừ
+<!-- Page Break -->
+# Page 35
+35
+thuế thu nhập cá nhân, tô chức thu thuế, phí, lệ phí điện tử sử dụng chữ ký số
+để ký trên chứng từ điện tử được hiển thị theo định dạng ngày, tháng, năm của
+năm dương lịch.$md$,$md$254-ndcp.signed_Điều24$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25$md$,$md$254-ndcp.signed$md$,$md$Điều 25. Ủy nhiệm lập biên lai$md$,$md$Ủy nhiệm lập biên lai$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tổ chức thu thuế, phí, lệ phí ủy nhiệm cho bên thứ ba lập biên lai. Việc
+ủy nhiệm giữa bên ủy nhiệm và bên nhận ủy nhiệm phải theo hình thức văn
+bản, đồng thời phải gửi thông báo cho cơ quan thuế quản lý trực tiếp bên ủy
+nhiệm và bên nhận ủy nhiệm chậm nhất là 03 ngày trước khi bên nhận ủy nhiệm
+lập biên lai. Việc đăng ký sử dụng biên lai điện tử theo quy định của Bộ trưởng
+Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Nội dung văn bản ủy nhiệm phải ghi đầy đủ các thông tin về biên lai ủy
+nhiệm (hình thức, loại, ký hiệu, số lượng biên lai (từ số... đến số...)); mục đích
+ủy nhiệm; thời hạn ủy nhiệm; phương thức ủy nhiệm.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm niêm yết tại nơi tổ
+chức thu thuế, phí, lệ phí đầy đủ các thông tin về biên lai ủy nhiệm, mục đích
+ủy nhiệm, thời hạn ủy nhiệm dựa trên văn bản ủy nhiệm đã ký kết, có tên, chữ
+ký, dấu (nếu có) của đại diện bên ủy nhiệm cho bên nhận ủy nhiệm.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Biên lai ủy nhiệm được lập phải thể hiện tên của tổ chức thu phí, lệ
+phí (bên ủy nhiệm) và không bắt buộc có chữ ký sô của bên ủy nhiệm và phải
+thể hiện tên, địa chỉ của bên nhận ủy nhiệm.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Trường hợp tổ chức thu thuế, phí, lệ phí có nhiều đơn vị trực thuộc trực
+tiếp thu phí hoặc nhiều cơ sở nhận ủy nhiệm thì phải có phương án phân chia
+cho từng cơ sở trong toàn hệ thống cho từng đơn vị trực thuộc, từng cơ sở nhận
+ủy nhiệm. Các đơn vị trực thuộc, cơ sở nhận ủy nhiệm phải sử dụng biên lai
+theo thứ tự từ số nhỏ đến số lớn trong phạm vi biên lai được phân chia.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Bên nhận ủy nhiệm trách nhiệm lập biên lai ủy nhiệm theo đúng thực tế
+phát sinh, theo thỏa thuận với bên ủy nhiệm và chuyển dữ liệu biên lai điện tử
+đến cơ quan thuế quản lý trực tiếp hoặc thông qua tổ chức cung cấp dịch vụ để
+chuyên dữ liệu biên lai điện tử đến cơ quan thuế quản lý trực tiếp.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều25_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Trường hợp chấm dứt trước hạn ủy nhiệm, hai bên phải xác định bằng
+văn bản, đồng thời thông báo cho cơ quan thuế và niêm yết tại nơi thu thuế,
+phí, lệ phí.$md$,$md$254-ndcp.signed_Điều25$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều26$md$,$md$254-ndcp.signed$md$,$md$Điều 26. Phương thức lập chứng từ điện tử$md$,$md$Phương thức lập chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều26_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Chứng từ điện tử được lập trực tiếp trên Hệ thống thông tin quản lý thuế
+hoặc thông qua tổ chức cung cấp dịch vụ hoặc trên phần mềm chứng từ điện tử
+của đơn vị.
+<!-- Page Break -->
+# Page 36
+36$md$,$md$254-ndcp.signed_Điều26$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều26_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Chứng từ được lập theo đúng quy định tại Điều 23 là chứng từ hợp pháp
+để thanh toán, hạch toán và quyết toán tải chính.
+Trường hợp không đúng quy định tại Điều 23 thì không có giá trị thanh
+toán và không được hạch toán, quyết toán tài chính.$md$,$md$254-ndcp.signed_Điều26$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều26_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Việc lập chứng từ điện tử phải bảo đảm phản ánh đầy đủ, trung thực
+giao dịch phát sinh; tuân thủ quy định của pháp luật về giao dịch điện tử, pháp
+luật về kế toán và pháp luật về thuế, phí và lệ phí.$md$,$md$254-ndcp.signed_Điều26$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27$md$,$md$254-ndcp.signed$md$,$md$Điều 27. Kết nối, truyền dữ liệu chứng từ điện tử$md$,$md$Kết nối, truyền dữ liệu chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Tổ chức thu thuế, phí, lệ phí, tổ chức có trách nhiệm khấu trừ thuế, tổ
+chức được ủy nhiệm lập biên lai, tổ chức cung cấp dịch vụ về chứng từ điện tử
+có trách nhiệm thực hiện kết nói, truyền và tiếp nhận dữ liệu chứng từ điện tử
+Với cơ quan quản lý thuế thông qua hệ thống thông tin quản lý thuế hoặc hệ
+thống trung gian theo quy định.$md$,$md$254-ndcp.signed_Điều27$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Việc kết nối, truyền và tiếp nhận đữ liệu chứng từ điện tử phải bảo đảm:
+nhận và lưu trữ;$md$,$md$254-ndcp.signed_Điều27$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$An toàn thông tin, bảo mật dữ liệu theo quy định của pháp luật;$md$,$md$254-ndcp.signed_Điều27_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tính toàn vẹn, đầy đủ, chính xác của dữ liệu trong quá trình truyền,$md$,$md$254-ndcp.signed_Điều27_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K2_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Khả năng truy xuất, đối chiếu dữ liệu khi cơ quan quản lý thuế yêu cầu.$md$,$md$254-ndcp.signed_Điều27_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều27_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Trường hợp hệ thống thông tin điện tử gặp sự cố kỹ thuật dẫn đến việc
+không thẻ kết nối, truyền dữ liệu đúng thời bạn, tổ chức, cá nhân có liên quan
+phải thông báo kịp thời cho cơ quan quản lý thuế và thực hiện truyền đữ liệu
+trong vòng 03 ngày làm việc sau khi sự cố được khắc phục.$md$,$md$254-ndcp.signed_Điều27$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều28$md$,$md$254-ndcp.signed$md$,$md$Điều 28. Trường hợp sử dụng được miễn phí dịch vụ về chứng từ điện$md$,$md$Trường hợp sử dụng được miễn phí dịch vụ về chứng từ điện
+tử
+l 1. Trường hợp sử dụng được miễn phí dịch vụ về chứng từ điện tử bao
+gôm:
+a) Hộ kinh doanh, cá nhân kinh doanh có sử dụng dưới 10 người lao động
+và không thuộc trường hợp sử dụng hóa đơn điện tử; hộ kinh doanh, cá nhân
+kinh doanh thuộc trường hợp sử dụng hóa đơn điện tử được miễn phí dịch vụ
+theo quy định tại Điều 11 Nghị định này;
+b) Trường hợp tổ chức, cá nhân trả thu nhập không thuộc đối tượng áp
+dụng hóa đơn điện tử, tổ chức, cá nhân trả thu nhập sử dụng hóa đơn điện tử
+được miễn phí dịch vụ theo quy định tại Điều 11 Nghị định này thì được sử
+dụng chứng từ khấu trừ thuế thu nhập cá nhân điện tử miễn phí dịch vụ thông
+<!-- Page Break -->
+# Page 37
+37
+qua Hệ thống thông tin quản lý thuế hoặc tổ chức cung cấp dịch vụ hóa đơn
+điện tử được Cục Thuê ủy thác cung câp dịch vụ.
+Cục Thuế thực hiện hoặc ủy thác cho tỗ chức cung cắp dịch vụ về chứng
+từ điện tử thực hiện cung cập chứng từ điện tử được miễn phí dịch vụ cho đôi
+tượng nêu trên.$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều28_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tổ chức, cá nhân quy định tại khoản 1 Điều này được đăng ký, thay đổi
+thông tin đăng ký sử dụng chứng từ điện tử qua Hệ thống thông tin quản lý thuế
+theo quy định của Bộ trưởng Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều28$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều28_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Nhà nước bảo đảm kinh phí để cơ quan quản lý thuế tổ chức cung cấp
+miễn phí dịch vụ về chứng từ điện tử cho các đôi tượng quy định tại khoản ]
+Điều này theo quy định của pháp luật về ngân sách nhà nước.$md$,$md$254-ndcp.signed_Điều28$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều28_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Trường hợp người nộp thuế sử dụng dịch vụ về chứng từ điện tử do tổ
+chức cung cập dịch vụ ngoài Hệ thông thông tin quản lý thuê thì chi phí dịch
+vụ do các bên thỏa thuận theo quy định của pháp luật.$md$,$md$254-ndcp.signed_Điều28$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29$md$,$md$254-ndcp.signed$md$,$md$Điều 29. Trách nhiệm của tỗ chức, cá nhân khấu trừ thuế thu nhập cá$md$,$md$Trách nhiệm của tỗ chức, cá nhân khấu trừ thuế thu nhập cá
+nhân, tổ chức thu thuế, phí, lệ phí khi sử dụng chứng từ điện tử, tổ chức
+nhận ủy nhiệm lập biên lai$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Quản lý tên và mật khẩu của các tài khoản đã được cơ quan quản lý thuế
+cấp.$md$,$md$254-ndcp.signed_Điều29$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Tạo lập chứng từ khấu trừ thuế thu nhập cá nhân điện tử, biên lai thu
+thuế, phí, lệ phí điện tử để gửi đến người bị khấu trừ thuế thu nhập cá nhân,
+người nộp các khoản thuế, phí, lệ phí và chịu trách nhiệm trước pháp luật về
+tính hợp pháp, chính xác của chứng từ điện tử đã lập.$md$,$md$254-ndcp.signed_Điều29$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Chuyển dữ liệu chứng từ điện tử đến cơ quan quản lý thuế
+Tổ chức, cá nhân khấu trừ thuế sau khi lập đầy đủ các nội dung trên chứng
+từ khâu trừ thuê thu nhập cá nhân điện tử gửi cho người bị khâu trừ thuê, đông
+thời gửi cho cơ quan thuê ngay trong ngày lập chứng từ.
+Tổ chức, cá nhân khấu trừ thuế, thực hiện chuyển dữ liệu chứng từ khấu
+trừ thuế thu nhập cá nhân điện tử đến cơ quan thuế theo định dạng chuẩn dữ
+liệu qua tổ chức cung cấp. dịch vụ hóa đơn điện tử, tổ chức khấu trừ thuế thu
+nhập cá nhân là tô chức kết nối chuyển dữ liệu hóa đơn điện tử theo hình thức
+gửi trực tiếp đến cơ quan thuế thì chuyển dữ liệu chứng từ khẩu trừ thuế thu
+nhập cá nhân qua Hệ thống thông tin quản lý thuế; tổ chức, cá nhân trả thu nhập
+không thuộc đối tượng áp dụng hóa đơn điện tử và tổ chức, cá nhân trả thu nhập
+sử dụng hóa đơn điện tử có mã của cơ quan thuế sử dụng miễn phí dịch vụ theo
+quy định tại Điều 11 Nghị định này thì được lựa chọn chuyển dữ liệu chứng từ
+<!-- Page Break -->
+# Page 38
+38
+khấu trừ thuế thu nhập cá nhân điện tử thông qua Hệ thống thông tin quản lý
+thuế hoặc tổ chức cung cấp dịch vụ hóa đơn điện tử được Cục Thuế ủy thác
+cung cấp dịch vụ chứng từ khâu trừ thuế thu nhập cá nhân điện tử;
+sau khi lập đầy đủ các nội dung trên biên lai điện tử gửi cho người nộp các
+khoản thuế, phí, lệ phí gửi cho cơ quan thuế theo bảng tổng hợp dữ liệu biên
+lai điện tử theo mẫu quy định của Bộ trưởng Bộ Tài chính trong ngày lập biên
+lai (trừ phí hải quan; lệ phí hàng hoá, hành lý, phương tiện vận tải quá cảnh)
+theo quy định của pháp luật về quản lý thuế.$md$,$md$254-ndcp.signed_Điều29$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Chuyển dữ liệu chứng từ khấu trừ thuế thu nhập cá nhân điện tử$md$,$md$254-ndcp.signed_Điều29_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tổ chức thu thuế, phí, lệ phí điện tử, tổ chức nhận ủy nhiệm lập biên lai$md$,$md$254-ndcp.signed_Điều29_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều29_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Lưu trữ và bảo đảm tính toàn vẹn của toàn bộ chứng từ điện tử; thực
+hiện các quy định pháp luật về bảo đảm an toàn, an ninh hệ thông dữ liệu điện
+tử.
+$. Chấp hành sự kiểm tra, đối chiếu của cơ quan quản lý thuế và các cơ
+quan có thẩm quyền theo quy định của pháp luật.$md$,$md$254-ndcp.signed_Điều29$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30$md$,$md$254-ndcp.signed$md$,$md$Điều 30. Trách nhiệm của cơ quan hải quan trong quản lý chứng từ$md$,$md$Trách nhiệm của cơ quan hải quan trong quản lý chứng từ
+điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Cục Hải quan có trách nhiệm:
+lý thuế, phục vụ công tác quản lý nhà nước của các cơ quan khác của nhà nước;
+còn giá trị sử dụng.$md$,$md$254-ndcp.signed_Điều30$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Xây dựng cơ sở đữ liệu về chứng từ điện tử để phục vụ công tác quản$md$,$md$254-ndcp.signed_Điều30_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Thông báo các loại chứng từ đã được phát hành, được báo mắt, không$md$,$md$254-ndcp.signed_Điều30_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Chi cục Hải quan khu vực có trách nhiệm:
+tạo, phát hành chứng từ với cơ quan hải quan trên địa bàn quản lý;
+chính trên địa bàn.
+ˆ Ô_ Chương IV „ -
+XÂY DỰNG, TRA CỪU THỐNG TIN HÓA ĐƠN ĐIỆN TỬ,
+CHỪNG TỪ ĐIỆN TỬ
+Mục 1
+XÂY DỰNG THÔNG TIN HÓA ĐƠN ĐIỆN TỬ, CHỨNG TỪ ĐIỆN TỬ$md$,$md$254-ndcp.signed_Điều30$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Quản lý hoạt động tạo, phát hành chứng từ của các tổ chức đã đăng ký$md$,$md$254-ndcp.signed_Điều30_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Kiểm tra hoạt động tạo, phát hành và sử dụng chứng từ trên địa bàn;$md$,$md$254-ndcp.signed_Điều30_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều30_K2_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Theo dõi, kiểm tra hoạt động hủy chứng từ theo quy định của Bộ Tài$md$,$md$254-ndcp.signed_Điều30_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31$md$,$md$254-ndcp.signed$md$,$md$Điều 31. Nguyên tắc chung$md$,$md$Nguyên tắc chung$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hệ thống thông tin về hóa đơn, chứng từ phải được xây dựng và quản
+lý thống nhất từ trung ương đến địa phương; tuân thủ các tiêu chuẩn, quy chuẩn
+<!-- Page Break -->
+# Page 39
+39
+kỹ thuật về công nghệ thông tin.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Cơ sở dữ liệu hóa đơn, chứng từ phải bảo đảm phục vụ kịp thời cho
+công tác quản lý thuế, quản lý khác của nhà nước; đáp ứng yêu câu phát triển
+kinh tế - xã hội; bảo đảm tính an toàn, bảo mật và an ninh quốc gia. '$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Các thông tin, dữ liệu về hóa đơn, chứng từ được thu thập, cập nhật,
+duy trì, đảm bảo tính chính xác, trung thực và khách quan.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Việc xây dựng, quản lý, khai thác sử dụng, cập nhật cơ sở dữ liệu về
+hóa đơn, chứng từ phải đảm bảo tính chính xác, khoa học, khách quan, kịp thời.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Cơ sở dữ liệu hóa đơn, chứng từ được xây dựng và kết nối, chia sẻ trên
+môi trường điện tử phục vụ quản lý, khai thác, cung cấp, sử dụng thông tin, đữ
+liệu thuận tiện, hiệu quả.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Việc khai thác, sử dụng thông tin, đữ liệu hóa đơn, chứng từ phải đảm
+bảo đúng mục đích, tuân theo các quy định của pháp luật.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều31_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Cơ sở dữ liệu về hóa đơn, chứng từ được kết nối, trao đổi với hệ thống
+thông tin, cơ sở dữ liệu của các bộ, ngành, địa phương có liên quan.$md$,$md$254-ndcp.signed_Điều31$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều32$md$,$md$254-ndcp.signed$md$,$md$Điều 32. Xây dựng hạ tầng kỹ thuật công nghệ thông tin, hệ thống$md$,$md$Xây dựng hạ tầng kỹ thuật công nghệ thông tin, hệ thống
+phần mềm phục vụ quản lý, vận hành, khai thác hệ thống thông tin hóa
+đơn điện tử, chứng từ điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều32_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Hạ tầng kỹ thuật công nghệ thông tin hóa đơn điện tử, chứng từ điện tử
+bao gồm tập hợp thiết bị tính toán (máy, chủ, máy trạm), hệ thống đường truyền,
+thiết bị kết nối mạng, thiết bị (hoặc phần mềm) an ninh an toàn mạng và cơ sở
+dữ liệu, thiết bị lưu trữ, thiết bị ngoại vi và thiết bị phụ trợ, mạng nội bộ.$md$,$md$254-ndcp.signed_Điều32$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều32_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Hệ thống phần mềm để quản lý, vận hành, khai thác hệ thống thông tin
+hóa đơn điện tử, chứng từ điện tử gôm: hệ điều hành, hệ quản trị cơ sở dữ liệu
+và phần mềm ứng dụng.$md$,$md$254-ndcp.signed_Điều32$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33$md$,$md$254-ndcp.signed$md$,$md$Điều 33. Xây dựng, thu thập, xử lý và quản lý hệ thống thông tin về$md$,$md$Xây dựng, thu thập, xử lý và quản lý hệ thống thông tin về
+hóa đơn điện tử, chứng từ điện tử .$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Xây dựng hệ thống thông tin về hóa đơn, chứng từ
+đơn, chứng từ được sắp xếp, tô chức đê truy cập, khai thác, quản lý và cập nhật
+thông qua phương tiện điện tử;
+,b) Cơ sở dữ liệu hóa đơn, chứng từ do cơ quan thuế quản lý được Cục
+Thuế, Kho bạc Nhà nước phối hợp với các đơn vị có liên quan xây dựng phù
+hợp với khung kiến trúc Chính phủ điện tử Việt Nam và bao gồm các thành
+phân nội dung: đăng ký sử dụng thông tin; thông báo hủy hóa đơn, chứng từ;
+thông tin về hóa đơn điện tử người bán có trách nhiệm gửi cho cơ quan thuế,
+<!-- Page Break -->
+# Page 40
+40
+thông tin về chứng từ gửi cơ quan thuế; thông tin khai thuế liên quan đến hóa
+đơn, chứng từ.$md$,$md$254-ndcp.signed_Điều33$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Cơ sở dữ liệu hóa đơn, chứng từ là tập hợp các dữ liệu thông tin hóa$md$,$md$254-ndcp.signed_Điều33_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Thu thập, cập nhật thông tin về hóa đơn, chứng từ
+Thông tin về hóa đơn, chứng từ được thu thập dựa trên các thông tin mà
+người bán, người sử dụng có trách nhiệm gửi cho cơ quan thuế, thông tin từ các
+cơ quan khác gửi đến có liên quan đến hóa đơn điện tử, chứng từ điện tử, thông
+tin thu được từ công tác quản lý thuế của cơ quan thuế.$md$,$md$254-ndcp.signed_Điều33$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Xử lý thông tin về hóa đơn, chứng từ
+Cục Thuế có trách nhiệm xử lý thông tin, dữ liệu trước khi được tích hợp
+và lưu trữ vào cơ sở dữ liệu quốc gia để đảm bảo tính hợp lý, thống nhất. Nội
+dung xử lý thông tin, dữ liệu gồm:
+thông tin, dữ liệu;
+quy định;
+ngành thì cơ quan quản lý cơ sở dữ liệu chuyên ngành đó có trách nhiệm đảm
+bảo về tính chính xác của thông tin, dữ liệu.$md$,$md$254-ndcp.signed_Điều33$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Kiểm tra, đánh giá việc tuân thủ quy định, quy trình trong việc thu thập$md$,$md$254-ndcp.signed_Điều33_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Kiểm tra, đánh giá về cơ sở pháp lý, mức độ tin cậy của thông tin, dữ liệu;$md$,$md$254-ndcp.signed_Điều33_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K3_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Tổng hợp, sắp xếp, phân loại thông tin, dữ liệu phù hợp với nội dung$md$,$md$254-ndcp.signed_Điều33_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K3_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Đối với các thông tin, dữ liệu được cập nhật từ cơ sở dữ liệu chuyên$md$,$md$254-ndcp.signed_Điều33_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Quản lý hệ thống thông tin về hóa đơn, chứng từ
+Cục Thuế có trách nhiệm quản lý hệ thống thông tin về hóa đơn, chứng từ
+theo quy định sau:
+chứng từ và thực hiện dịch vụ công về hóa đơn điện tử, chứng từ điện tử nêu
+cần thiết;
+đơn, chứng từ do các bộ, ngành, cơ quan có liên quan cung cấp;
+tin hóa đơn, chứng từ tại cơ quan thuê địa phương;
+thông tin hóa đơn, chứng từ; quản lý việc kết nôi, chia sẻ và cung câp dữ liệu
+với cơ sở dữ liệu của các bộ, ngành, cơ quan trung ương và địa phương;
+trong hệ thông thông tin hóa đơn, chứng từ.
+<!-- Page Break -->
+# Page 41
+4
+Mục 2
+TRA CỨU, CUNG CÁP, SỬ DỤNG THÔNG TIN HÓA ĐƠN ĐIỆN TỬ$md$,$md$254-ndcp.signed_Điều33$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Xây dựng, quản lý, vận hành và khai thác hệ thống thông tin hóa đơn,$md$,$md$254-ndcp.signed_Điều33_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Tích hợp kết quả điều tra và các dữ liệu, thông tin có liên quan đến hóa$md$,$md$254-ndcp.signed_Điều33_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K4_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Hướng dẫn, kiểm tra, giám sát việc quản lý và khai thác hệ thống thông$md$,$md$254-ndcp.signed_Điều33_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều33_K4_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Xây dựng và ban bành quy định về phân quyền truy cập vào hệ thống$md$,$md$254-ndcp.signed_Điều33_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều34$md$,$md$254-ndcp.signed$md$,$md$Điều 34. Nguyên tắc tra cứu, cung cấp, sử dụng thông tin hóa đơn điện$md$,$md$Nguyên tắc tra cứu, cung cấp, sử dụng thông tin hóa đơn điện
+tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều34_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Việc tra cứu, cung cấp, sử dụng thông tin hóa đơn điện tử được áp dụng
+để thực hiện các thủ tục về thuế, thủ tục thanh toán qua ngân hàng và các thủ
+tục hành chính khác; chứng minh tính hợp pháp của hàng hóa lưu thông trên
+thị trường.$md$,$md$254-ndcp.signed_Điều34$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều34_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Việc tra cứu, cung, cấp thông tin hóa đơn điện tử phải đảm bảo đầy đủ,
+chính xác, kịp thời và đúng đôi tượng. ,$md$,$md$254-ndcp.signed_Điều34$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều34_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Việc sử dụng thông tin hóa đơn điện tử được cung cấp phải đảm bảo
+đúng mục đích, phục vụ cho hoạt động nghiệp vụ theo chức năng, nhiệm vụ
+của bên sử dụng thông tin; đồng thời phải đảm bảo đúng quy định của pháp luật
+về bảo về bí mật nhà nước.$md$,$md$254-ndcp.signed_Điều34$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều35$md$,$md$254-ndcp.signed$md$,$md$Điều 35. Tra cứu thông tin hóa đơn điện tử phục vụ kiểm tra hàng$md$,$md$Tra cứu thông tin hóa đơn điện tử phục vụ kiểm tra hàng
+hóa lưu thông trên thị trường$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều35_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Khi kiểm tra hàng hóa lưu thông trên thị trường, đối với trường hợp sử
+dụng hóa đơn điện tử, cơ quan nhà nước, người có thâm quyển truy cập Hệ
+thống. thông tin quản lý thuế đề tra cứu thông tin về hóa đơn điện tử phục vụ
+yêu cầu quản lý, không yêu cầu cung câp hóa đơn giấy. Các cơ quan có liên
+quan có trách nhiệm sử dụng các thiết bị để truy cập tra cứu dữ liệu hóa đơn
+điện tử.$md$,$md$254-ndcp.signed_Điều35$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều35_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Trường hợp bất khả kháng do sự cố, thiên tai gây ảnh hưởng đến việc
+truy cập mạng Internet dẫn đến không tra cứu được dữ liệu hóa đơn thì cơ quan
+nhà nước, người có thấm quyền đang thực hiện kiểm tra thực hiện các biện
+pháp phù hợp để tra cứu thông tin hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều35$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36$md$,$md$254-ndcp.signed$md$,$md$Điều 36. Đối tượng cung cấp thông tin, sử dụng thông tin hóa đơn điện$md$,$md$Đối tượng cung cấp thông tin, sử dụng thông tin hóa đơn điện
+tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Cục Thuế là đơn vị cung cấp thông tin hóa đơn điện tử đối với đề nghị
+của các cơ quan, tổ chức quản lý nhà nước cấp Trung ương. Thuế tỉnh, thành
+phố, Thuế cơ sở cung cấp thông tin đối với đề nghị củ của Cơ quan, tổ chức quản
+lý đồng cấp.$md$,$md$254-ndcp.signed_Điều36$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Các bên sử dụng thông tin hóa đơn điện tử bao gồm:
+<!-- Page Break -->
+# Page 42
+42
+là người bán hàng hóa, cung cấp dịch vụ, bên nhận ủ ủy nhiệm lập hóa đơn, các
+tổ chức, cá nhân là người mua hàng hóa, dịch vụ;
+thực hiện các thủ tục hành chính theo quy định của pháp luật; kiểm tra tính hợp
+pháp của hàng hóa lưu thông trên thị trường; phục vụ hoạt động tố tụng, thanh
+tra, kiểm tra, kiểm toán;
+thủ tục về thuế, thủ tục thanh toán qua ngân hàng;
+cá nhân;
+mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên;
+gø) Các tổ chức được ủy quyền của tổ chức kinh tế, hộ kinh doanh, cá nhân
+kinh doanh là người bán hàng hóa, cung cấp dịch vụ theo quy định của pháp
+luật dân sự.$md$,$md$254-ndcp.signed_Điều36$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Các tổ chức kinh tế, tổ, chức khác, hộ kinh doanh, cá nhân kinh doanh$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Các cơ quan quản lý nhà nước sử dụng thông tin hóa đơn điện tử để$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Các tổ chức tín dụng sử dụng thông tin hóa đơn điện tử để thực hiện các$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Các tổ chức cung cấp dịch vụ hóa đơn điện tử;$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Các tổ chức sử dụng thông tin chứng từ điện tử khấu trừ thuế thu nhập$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều36_K2_D©$md$,$md$254-ndcp.signed$md$,$md$Điểm ©$md$,$md$Cơ quan quản lý thuế nước ngoài phù hợp với điều ước quốc tế về thuế$md$,$md$254-ndcp.signed_Điều36_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều37$md$,$md$254-ndcp.signed$md$,$md$Điều 37. Hình thức khai thác, sử dụng thông tin hóa đơn điện tử trên$md$,$md$Hình thức khai thác, sử dụng thông tin hóa đơn điện tử trên
+Hệ thống thông tin quán lý thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều37_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Bên sử dụng thông tin là các tổ chức kinh tế, hộ kinh doanh, cá nhân
+kinh doanh là người bán hàng hóa, cung cấp dịch vụ, bên nhận ủy nhiệm lập
+hóa đơn; các tổ chức, cá nhân là người mua hàng hóa, dịch vụ khai thác thông
+tin từ hóa đơn điện tử theo các nội dung thông tin từ Hệ thống thông tin quản
+lý thuế.$md$,$md$254-ndcp.signed_Điều37$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều37_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Bên sử dụng thông tin là các cơ quan quản lý nhà nước, các tổ chức tín
+dụng, tổ chức cung câp dịch vụ hóa đơn điện tử, các tổ chức được ủy quyền của
+tổ chức kinh tế, hộ kinh doanh, cá nhân kinh doanh là người bán hàng hóa, cung
+cấp dịch vụ theo quy định của pháp luật dân sự: tra cứu, sử dụng thông tin hóa
+đơn điện tử, chứng từ điện tử theo phạm vi, thời gian, trách nhiệm và quyền
+truy cập Hệ thống thông tin quản lý thuế được quy định cụ thể tại văn bản thông
+nhất giữa hai bên hoặc theo hình thức cung cấp dịch vụ truy vấn trực tiếp với
+Hệ thống thông tin quản lý thuế.
+Bên sử dụng thông tin có trách nhiệm phân công đầu mối đăng ký sử dụng
+thông tin hóa đơn điện tử (sau đây gọi tắt là đầu mối đăng ký) và thông báo cho
+Cục Thuế bằng văn bản hoặc văn bản điện tử. Trường hợp sử dụng thông tin
+theo hình thức cung cấp dịch vụ truy vấn trực tiếp với Hệ thống thông tin quản
+lý thuế phải đảm bảo các tiêu chí như đối với tổ chức cung cấp dịch vụ nhận,
+truyền, lưu trữ dữ liệu hóa đơn điện tử.
+<!-- Page Break -->
+# Page 43
+43$md$,$md$254-ndcp.signed_Điều37$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều37_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Cục Thuế, Thuế tỉnh, thành phố thực hiện cấp tối đa 02 tài khoản khai
+thác sử dụng thông tin hóa đơn điện tử cho người sử dụng của cơ quan, tổ chức
+quản lý đồng cấp theo văn bản giữa các bên.$md$,$md$254-ndcp.signed_Điều37$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều37_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Bộ trưởng Bộ Tài chính hướng dẫn việc cung cấp, tra cứu thông tin hóa
+đơn điện tử; đăng ký mới, bỗ sung thông tin đăng ký, thu hồi tài khoản truy cập
+Hệ thống thông tin quản lý thuế; chấm dứt sử dụng các hình thức cung cấp, sử
+dụng thông tin hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều37$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38$md$,$md$254-ndcp.signed$md$,$md$Điều 38. Trách nhiệm của cơ quan thuế$md$,$md$Trách nhiệm của cơ quan thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Xây dựng, triển khai, quản lý vận hành Hệ thống thông tin quản lý thuế,
+cụ thê:
+thông tin, dữ liệu dễ sử dụng và cho kết quả đúng nội dung cần tìm kiếm;
+thuật, quy định để dễ dàng tải xuống, hiển thị nhanh chóng và in ấn bằng các
+phương tiện điện tử phổ biến;
+tin;$md$,$md$254-ndcp.signed_Điều38$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Bảo đảm cho tổ chức, cá nhân truy cập thuận tiện; có công cụ tìm kiếm$md$,$md$254-ndcp.signed_Điều38_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$'Bảo đảm khuôn dạng thông tin, dữ liệu theo tiêu chuẩn, quy chuẩn kỹ$md$,$md$254-ndcp.signed_Điều38_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K1_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Đảm bảo hệ thống hoạt động liên tục, ổn định, đảm bảo an toàn thông$md$,$md$254-ndcp.signed_Điều38_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K1_Dd$md$,$md$254-ndcp.signed$md$,$md$Điểm d$md$,$md$Chủ trì thực hiện việc hướng dẫn sử dụng, hỗ trợ vận hành hệ thống.$md$,$md$254-ndcp.signed_Điều38_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Quản lý việc đăng ký sử dụng thông tin hóa đơn điện tử, chứng từ điện
+tử của bên sử dụng thông tin.$md$,$md$254-ndcp.signed_Điều38$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều38_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Trường hợp tạm ngừng cung cấp thông tin hóa đơn điện tử, chứng từ
+điện tử, Cục Thuế thực hiện thông báo trên Trang thông tin điện tử của Cục
+Thuế về hóa đơn điện tử với các bên sử dụng thông tin. Nội dung thông báo
+phải nêu rõ khoảng thời gian dự kiến phục hôi các hoạt động cung cấp thông
+tin. ˆ$md$,$md$254-ndcp.signed_Điều38$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều39$md$,$md$254-ndcp.signed$md$,$md$Điều 39. Trách nhiệm của bên sử dụng thông tin$md$,$md$Trách nhiệm của bên sử dụng thông tin$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều39_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Sử dụng thông tin hóa đơn điện tử đúng mục đích, phục vụ cho hoạt
+động nghiệp vụ theo chức năng, nhiệm vụ của bên sử dụng thông tin, đúng quy
+định của pháp luật về bảo vệ bí mật nhà nước. Các thông tin thu thập từ cơ quan
+thuế, bên sử dụng thông tin không cung cấp thông tin cho bên thứ ba khi chưa
+có sự đồng ý của cơ quan thuế cung câp thông tin hoặc tài khoản.$md$,$md$254-ndcp.signed_Điều39$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều39_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Trang bị đầy đủ phương tiện, trang thiết bị kỹ thuật để bảo đảm thực
+hiện việc tra cứu, kết nối, sử dụng thông tin hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều39$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều39_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Thực hiện đăng ký để được cấp quyền truy cập, khai thác, sử dụng thông
+tin hóa đơn điện tử.
+<!-- Page Break -->
+# Page 44
+44$md$,$md$254-ndcp.signed_Điều39$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều39_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Quản lý, bảo mật thông tỉn tài khoản truy cập Hệ thống thông tin quản
+lý thuế.$md$,$md$254-ndcp.signed_Điều39$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều40$md$,$md$254-ndcp.signed$md$,$md$Điều 40. Trách nhiệm chia sẻ, kết nối thông tin, dữ liệu hóa đơn điện$md$,$md$Trách nhiệm chia sẻ, kết nối thông tin, dữ liệu hóa đơn điện
+tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều40_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Các tổ chức kinh tế sản xuất, kinh doanh ở các lĩnh vực: điện lực; xăng
+dầu; bưu chính, viễn thông; vận tải hàng không, đường bộ, đường sắt, đường
+biển, đường thủy; nước sạch; tài chính ngân hàng; bảo hiểm; y tế; kinh doanh
+thương mại điện tử; kinh doanh siêu thị; thương mại thực hiện hóa đơn điện tử
+và cung cấp dữ liệu hóa đơn điện tử theo định dạng chuẩn dữ liệu.$md$,$md$254-ndcp.signed_Điều40$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều40_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Các tổ chức tín dụng, tổ chức cung ứng dịch vụ thanh toán cung cấp dữ
+liệu điện tử về giao dịch thanh toán qua tài khoản của các tổ chức, cá nhân khi
+có yêu cầu bằng văn bản của cơ quan thuế việc cung cấp thông tin khách hàng
+thực hiện theo quy định của pháp luật về ngân hàng.$md$,$md$254-ndcp.signed_Điều40$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều40_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Tổ chức, cá nhân sản xuất, nhập khẩu những sản phẩm chịu thuế tiêu
+thụ đặc biệt thuộc đối tượng sử dụng tem theo quy định của pháp luật thực hiện
+quét mã QR cho sản phẩm sản xuất tại Việt Nam trước khi tiêu thụ ¡ trong nước
+hoặc sản phẩm sản xuất ở nước ngoài khi nhập khẩu để đảm bảo kết nối thông
+tin về in và sử dụng tem, tem điện tử giữa tổ chức sản xuất, nhập khẩu với cơ
+quan quản lý thuế. Thông tin về in, sử dụng tem điện tử là cơ sở để lập, quản lý
+và xây dựng cơ sở dữ liệu hóa đơn điện tử. Các đối tượng sử dụng tem có trách
+nhiệm chỉ trả chỉ phí in và sử dụng tem theo quy định của Bộ trưởng Bộ Tài
+~ chính.$md$,$md$254-ndcp.signed_Điều40$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều40_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Các tổ chức, đơn vị: Cơ quan quản lý thị trường, Cục Quản lý đất đại,
+Cục Địa chất và Khoáng sản Việt Nam, cơ quan công an, giao thông, y tế và
+các cơ quan khác có liên quan kết nối chia sẻ thông tin, dữ liệu liên quan cần
+thiết trong lĩnh vực quản lý của đơn vị với Cục Thuế để xây dựng cơ sở dữ liệu
+hóa đơn điện tử.$md$,$md$254-ndcp.signed_Điều40$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41$md$,$md$254-ndcp.signed$md$,$md$Điều 41. Khen thưởng người tiêu dùng tố giác người bán không lập$md$,$md$Khen thưởng người tiêu dùng tố giác người bán không lập
+và giao hóa đơn điện tử$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Người tiêu dùng tố giác người bán không lập và giao hóa đơn điện tử
+khi bán hàng hóa, cung cấp dịch vụ được xem xét khen thưởng khi đáp ứng các
+điều kiện sau:
+thời gian, địa điêm và người thực hiện hành vi vi phạm;
+quan thuế xác định tính chất, mức độ vi phạm và thực hiện kiểm tra, xác minh;
+<!-- Page Break -->
+# Page 45
+45
+.e) Trên cơ sở thông tin phản ánh, cung cấp, cơ quan thuế đã ban hành
+quyết định xử phạt vi phạm hành chính vê thuế, hóa đơn theo quy định của pháp
+luật về quản lý thuế.$md$,$md$254-ndcp.signed_Điều41$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Cung cấp thông tin trung thực, chính xác, kịp thời; có căn cứ xác định$md$,$md$254-ndcp.signed_Điều41_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Nội dung thông tin phản ánh đúng thực tế phát sinh, đủ cơ sở để cơ$md$,$md$254-ndcp.signed_Điều41_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Thông tin tố giác bao gồm:
+mã sô thuê) và một trong các thông tin sau:
+a.1) Thông tin về giao dịch hàng hóa, dịch vụ;
+a.2) Thông tin về hành vi không lập hóa đơn và không giao hóa đơn;
+a.3) Tài liệu, chứng cứ có liên quan đến giao dịch phát sinh hành vi vi
+phạm của người bán (nêu có);
+sô định danh cá nhân.$md$,$md$254-ndcp.signed_Điều41$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Thông tin về người bán hàng hóa, cung cấp dịch vụ (tên, địa chỉ hoặc$md$,$md$254-ndcp.signed_Điều41_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Thông tin liên hệ của người tiêu dùng tố giác, gồm: tên, số điện thoại,$md$,$md$254-ndcp.signed_Điều41_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Người tiêu dùng thực hiện tố giác hành vi không lập và giao hóa đơn
+điện tử của người bán thông qua một trong các hình thức sau:
+(như eTax Mobile);
+của cơ quan thuê;$md$,$md$254-ndcp.signed_Điều41$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K3_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Qua hệ thống hóa đơn điện tử hoặc Hệ thống thông tin quản lý thuế$md$,$md$254-ndcp.signed_Điều41_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K3_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Qua Cổng dịch vụ công quốc gia;$md$,$md$254-ndcp.signed_Điều41_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K3_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Qua thư điện tử chính thức hoặc hệ thống tiếp nhận thông tin điện tử$md$,$md$254-ndcp.signed_Điều41_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K3_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Gửi trực tiếp †ại trụ sở cơ quan thuế hoặc bằng văn bản theo quy định.$md$,$md$254-ndcp.signed_Điều41_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Nguyên tắc xác định khen thưởng
+của cơ quan thuế và quyết định xử phạt vi phạm hành chính về thuế, hóa đơn
+theo quy định của pháp luật về quản lý thuê;
+thông tin người cung cấp theo quy định;
+nhiều người cùng cung cấp thông tin về một hành vi vi phạm thì việc khen
+thưởng được xem xét đối với người cung cấp thông tin đầu tiên hoặc người, có
+thông tin đầy đủ, có giá trị nhất theo xác nhận của cơ quan thuế.
+<!-- Page Break -->
+# Page 46
+46$md$,$md$254-ndcp.signed_Điều41$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Việc khen thưởng được thực hiện trên cơ sở kết quả xác minh, xử lý$md$,$md$254-ndcp.signed_Điều41_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Bảo đảm công khai, minh bạch, đúng đối tượng, đồng thời bảo mật$md$,$md$254-ndcp.signed_Điều41_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K4_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Mỗi vụ việc chỉ được xem xét khen thưởng một lần. Trường hợp có$md$,$md$254-ndcp.signed_Điều41_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều41_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Mức chỉ khen thưởng người tiêu dùng cung cấp thông tin phản ánh hành
+vi không lập và giao hóa đơn của 01 vụ việc không quá 10% số tiền xử phạt vi
+phạm hành chính, tối đa 10.000.000 đồng/01 vụ việc. Bộ trưởng Bộ Tài chính
+quy định mức khen thưởng, hình thức, trình tự, thủ tục khen thưởng, quản lý,
+sử dụng kinh phí. h$md$,$md$254-ndcp.signed_Điều41$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều42$md$,$md$254-ndcp.signed$md$,$md$Điều 42. Kinh phí thực hiện$md$,$md$Kinh phí thực hiện
+Kinh phí thực hiện việc tra cứu, cung cấp, sử dụng thông tin hóa đơn điện
+tử của các cơ quan quản lý nhà nước theo quy định tại Nghị định này được cấp
+từ ngân sách nhà nước trên cơ sở dự toán kinh phí hàng năm được phê duyệt
+cho các cơ quan, đơn vị theo quy định của pháp luật.
+¿ ChươngV
+ĐIÊU KHOẢN THỊ HÀNH$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43$md$,$md$254-ndcp.signed$md$,$md$Điều 43. Hiệu lực thi hành$md$,$md$Hiệu lực thi hành$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Nghị định này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026.$md$,$md$254-ndcp.signed_Điều43$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Kể từ ngày Nghị định này có hiệu lực thi hành, các Nghị định sau đây
+hết hiệu lực thi hành:
+phủ quy định về hóa đơn, chứng từ;
+Chính phủ sửa đôi, bổ sung một số điều của Nghị định số 123/2020/NĐ-CP
+ngày 19 tháng 10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ và
+Nghị định sô 15/2022/NĐ-CP ngày 28 tháng 01 năm 2022 của Chính phủ quy
+định chính sách miễn, giảm thuế theo Nghị quyết số 43/2022/QH15 của Quốc
+hội về chính: sách tài khóa, tiền tệ hỗ trợ chương trình phục hồi và phát triển
+kinh tế - xã hội;
+sửa đối, bô sung một số điều của Nghị định số 123/2020/NĐ-CP ngày 19 tháng
+10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ.$md$,$md$254-ndcp.signed_Điều43$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Nghị định số 123/2020/NĐ- CP ngày 19 tháng 10 năm 2020 của Chính$md$,$md$254-ndcp.signed_Điều43_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Điều 1 Nghị định số 41/2022/NĐ-CP ngày 20 tháng 6 năm 2022 của$md$,$md$254-ndcp.signed_Điều43_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều43_K2_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Nghị định số 70/2025/NĐ-CP ngày 20 tháng 3 năm 2025 của Chính phủ$md$,$md$254-ndcp.signed_Điều43_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều44$md$,$md$254-ndcp.signed$md$,$md$Điều 44. Xứ lý chuyển tiếp$md$,$md$Xứ lý chuyển tiếp$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều44_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Việc quản lý, sử dụng hóa đơn bán hàng dự trữ quốc gia khi bán hàng
+dự trữ quốc gia (hóa đơn bằng giấy) thực hiện theo quy định pháp luật về bán
+hàng dự trữ quôc gia. Trường hợp Bộ Tài chính có thông báo chuyên đổi áp
+dụng hóa đơn điện tử bán hàng dự trữ quốc gia thì các đơn vị thực hiện chuyển
+đối theo quy định. Khi chuyển sang sử dụng hóa đơn điện tử bán hàng dự trữ
+quốc gia, hóa đơn bán hàng dự trữ quốc gia (hóa đơn bằng giấy) chưa sử dụng
+hết phải thực hiện tiêu hủy theo trình tự, thủ tục do Bộ trưởng Bộ Tài chính quy
+định.
+<!-- Page Break -->
+# Page 47
+47$md$,$md$254-ndcp.signed_Điều44$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều44_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Biên lai giấy theo hình thức tự in, đặt in theo quy định tại Nghị định số
+123/2020/NĐ-CP ngày 19 tháng 10 năm 2020 chưa sử dụng hết được tiếp tục
+sử dụng cho đến hết ngày 3l tháng 12 năm 2026. Từ ngày 01 tháng 01 năm
+2027, toàn bộ biên lai giây chưa sử dụng, phải thực hiện tiêu hủy theo trình tự,
+thủ tục do Bộ trưởng Bộ Tài chính quy định. Tổ chức sử dụng biên lai giấy phải
+thực hiện chuyển đối để áp dụng biên lai điện tử theo định dạng chuẩn dữ liệu.$md$,$md$254-ndcp.signed_Điều44$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều44_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Kế từ ngày Nghị định này có hiệu lực thi hành, hóa đơn đặt in của cơ
+quan thuế hết giá trị sử dụng. Cơ quan thuế, tổ chức kinh tế, tổ chức, hộ kinh
+doanh, cá nhân kinh doanh sử dụng hóa đơn đặt in của cơ quan thuế chưa sử
+dụng hết phải thực hiện tiêu hủy hóa đơn đặt in của cơ quan thuế theo trình tự,
+thủ tục do Bộ trưởng Bộ Tài chính quy định.$md$,$md$254-ndcp.signed_Điều44$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45$md$,$md$254-ndcp.signed$md$,$md$Điều 45. Trách nhiệm thi hành$md$,$md$Trách nhiệm thi hành$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K1$md$,$md$254-ndcp.signed$md$,$md$Khoản 1$md$,$md$Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, căn cứ chức năng, nhiệm
+vụ được giao có trách nhiệm triển khai thực hiện Nghị định này.
+này được thể hiện trên mỗi hóa đơn, như: HÓA ĐƠN GIÁ TRỊ GIA TĂNG,
+HÓA ĐƠN GIÁ TRỊ GIA TĂNG KIÊM TỜ KHAI HOÀN THUÉ, HÓA ĐƠN
+GIÁ TRỊ GIA TĂNG KIÊM PHIẾU THU, HÓA ĐƠN BẢN. HÀNG, HÓA
+ĐƠN BẢN TÀI SẢN CÔNG, TEM, VÉ, THẺ, HÓA ĐƠN BÁN HÀNG DỰ
+TRỮ QUỐC GIA;
+Bộ trưởng Bộ Tài chính.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K2$md$,$md$254-ndcp.signed$md$,$md$Khoản 2$md$,$md$Bộ Tài chính có trách nhiệm hướng dẫn, tổ chức triển khai giải pháp
+hóa đơn điện tử.
+đơn. Số hóa đơn được ghi bằng chữ số Ả-rập có tối đa 8 chữ số, bắt đầu từ số 1
+vào ngày 01/01 hoặc ngày bắt đầu sử dụng hóa đơn và kết thúc vào ngày 31/12
+hàng năm có. tối đa đến số 99 999 999. Hóa đơn được lập theo thứ tự liên tục từ
+số nhỏ đến số lớn trong cùng một ký hiệu hóa đơn và ký hiệu mẫu số hóa đơn.
+Trường hợp tổ chức kinh doanh có nhiều cơ sở bán hàng hoặc nhiều cơ sở
+được đồng thời cùng sử dụng một loại hóa đơn điện tử có cùng ký hiệu theo
+phương thức truy xuất ngẫu nhiên từ một hệ thống lập hóa đơn điện tử thì hóa
+đơn được lập theo thứ tự liên tục từ số nhỏ đến số lớn theo thời điểm người bán
+ký số, ký điện tử trên hóa đơn;
+thống lập hóa đơn điện tử phải đảm bảo nguyên tắc tăng theo thời gian, mỗi số
+hóa đơn đảm bảo chỉ được lập, sử dụng một lần duy nhất và tối đa 8 chữ số.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K3$md$,$md$254-ndcp.signed$md$,$md$Khoản 3$md$,$md$Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương chỉ đạo các
+cơ quan, đơn vị trên địa bàn phối hợp để triển khai thực hiện Nghị định này.
+Nơi nhện 5 TM. CHÍNH PHỦ
+- Ban Bí thư Trung ương Đảng;
+~ Thủ tướng, các Phó Thủ tướng Chính phủ; KT, THỦ TƯỚNG
+- Các bộ, cơ quan ngang bộ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc trung ương
+- Văn phòng Trung ương và các Ban của Đảng;
+- Văn phòng Tổng Bí thư;
+- Văn phòng, Chủ tịch nước;
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội;
+- Văn phòng Quốc hội;
+~ Tòa án nhân dân tối cao;
+~ Viện kiểm sát nhân dân tối cao;
+- Kiểm toán nhà nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+~ Cơ quan trung, tương của các tổ chức chính trị - xã hội;
+- VPCP: BTCN, các PCN, Trợ lý TTg,
+các Vụ, Cục, Công báo;
+- Lưu: VT, KTTH (20)
+<!-- Page Break -->
+# Page 48
+Trên hóa đơn phải thể hiện tên, địa chỉ, mã số thuế của người bán theo
+đúng tên, địa chỉ, mã số thuế ghỉ tại giấy chứng nhận đăng ký doanh nghiệp,
+giây chứng nhận đăng ký hoạt động chi nhánh, giây chứng nhận đăng ký hộ kinh
+doanh, giây chứng nhận đăng ký thuế, thông báo mã số thuế, giấy chứng nhận
+đăng ký đầu tư, giấy chứng nhận đăng ký hợp tác xã.
+Trường hợp hộ kinh doanh, cá nhân kinh doanh thuộc đối tượng sử dụng
+hóa đơn điện tử và sử dụng mã số thuế của hộ kinh doanh, cá nhân kinh doanh
+cho tất cả các cửa hàng thì phải thể hiện rõ tên, mã, địa chỉ địa điểm kinh doanh
+trên hóa đơn; Trường hợp doanh nghiệp kinh doanh xăng dầu thì phải thể hiện
+rõ mã, địa chỉ địa điểm kinh doanh do cơ quan có thâm quyền cấp của từng địa
+điểm kinh doanh trên hóa đơn.
+<!-- Page Break -->
+# Page 49
+của bên ủy nhiệm và tên, địa chỉ, mã Số thuế của bên nhận ủ ủy nhiệm.
+Trường hợp bán đấu giá tài sản để thi hãnh án thì hóa đơn phải thể hiện tên,
+địa chỉ, mã sô thuế của cơ quan được lạo o bán đấu giádài sản và tên, địa chỉ, mã
+số thuế của người bán. :$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K1_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên hóa đơn là tên của từng loại hóa đơn quy định tại Điều 8 Nghị định$md$,$md$254-ndcp.signed_Điều45_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K1_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Ký hiệu mẫu số hóa đơn, ký hiệu hóa đơn thực hiện theo quy định của$md$,$md$254-ndcp.signed_Điều45_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K2_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Số hóa đơn là số thứ tự được thể hiện trên hóa đơn khi người bán lập hóa$md$,$md$254-ndcp.signed_Điều45_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K2_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Trường hợp số hóa đơn không được lập theo nguyên tắc nêu trên thì hệ$md$,$md$254-ndcp.signed_Điều45_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K4$md$,$md$254-ndcp.signed$md$,$md$Khoản 4$md$,$md$Tên, địa chỉ, mã số thuế hoặc mã số đơn vị có quan hệ với ngân sách
+hoặc số định danh cá nhân của người mua
+đoanh, cá nhân kinh doanh) có mã số thuế thì tên, địa chỉ, mã số thuế của người
+mua thể hiện trên hóa đơn phải ghi theo đúng tại giấy chứng nhận đăng ký
+doanh nghiệp, giấy chứng nhận đăng ký hoạt động chỉ nhánh, giấy chứng nhận
+đăng ký hộ kinh doanh, giấy chứng nhận đăng ký thuế, thông báo mã số thuế,
+giây chứng nhận đăng ký đầu tư, giấy chứng nhận đăng ký hợp tác xã; trường
+hợp người mua cung câp mã số đơn vị có quan hệ ngân sách thì tên, địa chỉ, mã
+sô đơn vị có quan hệ ngân sách thể hiện trên hóa đơn là mã số đơn vị có quan hệ
+với ngân sách được câp.
+Trường hợp tên, địa chỉ người mua quá dài, trên hóa đơn người bán được
+viết ngắn gọn một số danh từ thông dụng như: “Phường” thành “P”, “Thành
+phố” thành “TP”, “Việt Nam” thành “VN” hoặc “Cổ phần” là “CP®, “Trách
+nhiệm hữu hạn” thành “TNHH”, “khu công nghiệp” thành “KCN”, “sản xuất”
+thành “SX”, “Chỉ nhánh” thành “CN”... nhưng phải đảm bảo đầy đủ số nhà, tên
+đường phố, phường, xã, đặc khu, tỉnh, thành phố xác định được chính xác tên,
+địa chỉ doanh nghiệp và phù hợp với đăng ký kinh doanh, đăng ký thuế của
+doanh nghiệp;
+danh cá nhân thì trên hóa đơn phải thể hiện tên, địa chỉ, số định danh cá nhân
+(đối với người mua là người nước ngoài cung cấp thông tin để lập hóa đơn thì
+thông tin về địa chỉ, số định danh cá nhân có thể được thay thế bằng thông tin về
+số hộ chiếu hoặc giấy tờ xuất : nhập cảnh và quốc tịch của khách hàng); trường
+hợp người mua không cung cập tên, địa chỉ, số định danh cá nhân thì trên hóa
+đơn thể hiện rõ “Bán cho người tiêu dùng”. Một số trường hợp bán hàng hóa,
+cung cấp dịch vụ đặc thù cho người tiêu dùng là cá nhân quy định tại điểm 9 Phụ
+lục này thì trên hóa đơn không phải thể hiện tên, địa chỉ, số định danh cá nhân
+của người mua.
+Hóa đơn không có thông tin người mua hoặc hóa đơn xuất cho người tiêu
+dùng thì không có giá trị để tổ chức kinh tế, cơ quan, tổ chức khác, hộ kinh
+doanh, cá nhân kinh doanh sử dụng vào mục đích hạch toán chi phí hoặc quyết
+toán thuế theo quy định pháp luật về thuế.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K4_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Trường hợp người mua là cơ sở kinh doanh (tổ chức kinh tế, hộ kinh$md$,$md$254-ndcp.signed_Điều45_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K4_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Trường hợp người mua là người tiêu dùng cung cấp: tên, địa chỉ, số định$md$,$md$254-ndcp.signed_Điều45_K4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5$md$,$md$254-ndcp.signed$md$,$md$Khoản 5$md$,$md$Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ; thành tiền chưa có
+thuế giá trị gia tăng, thuế suất thuế giá trị gia tăng, tổng số tiền thuế giá trị gia
+tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền thanh
+toán đã có thuế giá trị gia tăng.
+<!-- Page Break -->
+# Page 50
+3
+a.1) Tên hàng hóa, dịch vụ: Trên hóa đơn phải thể hiện tên hàng hóa, dịch
+vụ được giao dịch bằng tiếng Việt phù hợp với quy định pháp luật. Trường hợp
+bán hàng hóa có nhiêu chủng loại khác nhau thì tên hàng hóa thể hiện chỉ tiết
+đến từng chủng loại (ví dụ: Điện thoại Samsung; mặt hàng ăn, uống (trừ trường
+hợp tính tiền theo suất, theo phâần;....)).
+Trường hợp pháp luật có quy định về định danh hàng hóa, dịch vụ thì
+người bán thê hiện tên hàng hóa, dịch vụ trên hóa đơn theo quy định pháp luật
+về định danh hàng hóa, dịch vụ.
+a.1.1) Trường hợp hàng hóa phải đăng ký quyền sử dụng, quyền sở hữu thì
+trên hóa đơn phải thể hiện các số hiệu, ký hiệu đặc trưng của hàng hóa mà khi
+đăng ký pháp luật có yêu cầu (ví dụ: địa chỉ, cấp nhà, chiều đài, chiều rộng, số
+tầng của một ngôi nhà).
+Trường hợp người bán ô tô, xe máy lập hóa đơn điện tử có đủ các thông tin
+sau: Họ và tên người mua; số định danh cá nhân hoặc mã số thuế (đối với tổ
+chức); nhãn hiệu, loại xe, năm sản xuất; số khung, số máy; số Giấy chứng nhận
+chất lượng an toàn kỹ thuật và bảo vệ môi trường (đối với xe nhập khẩu) hoặc số
+Phiếu kiểm tra chất lượng xuất xưởng (đối với xe sản xuất, lắp ráp trong
+nước) là căn cứ để cơ quan thuế xác định và thông báo số tiền lệ phí trước bạ
+phải nộp;
+a.1.2) Trường hợp kinh doanh dịch vụ vận tải đường bộ trong nước thì trên
+hoá đơn phải thể hiện biển số phương tiện vận tải, hành trình (điểm đi - điểm
+đến). Đối với doanh nghiệp kinh doanh vận tải cung cấp dịch vụ vận tải hàng
+hóa trên nền tảng số, hoạt động thương mại điện tử thì phải thể hiện tên hàng
+hóa vận chuyển, thông tin tên, địa chỉ, mã số thuế hoặc số định danh cá nhân của
+người gửi hàng. Đối với doanh nghiệp cung cấp dịch vụ vận tải, cho thuê xe có
+ký hợp đồng với đối tác theo tuyến cô định thì trên hóa đơn không cần thể hiện
+biển số phương tiện vận tải, hành trình (điểm đi - điểm đến).
+Trường hợp cần ghi thêm chữ nước ngoài thì chữ nước ngoài được đặt bên
+phải trong ngoặc đơn “( }” hoặc đặt ngay dưới dòng tiếng Việt và có cỡ chữ nhỏ
+hơn chữ tiếng Việt. Trường hợp hàng hóa, dịch vụ được giao dịch có quy định
+về mã hàng hóa, dịch vụ thì trên hóa đơn phải ghi cả tên và mã hàng hóa, dịch
+Vụ;
+a.2) Đơn vị tính: Người bán căn cứ vào tính chất, đặc điểm của hàng hóa để
+xác định tên đơn vị tính của hàng hóa thể hiện trên hóa đơn theo đơn vị tính là
+đơn vị đo lường theo quy định pháp luật về đo lường (ví dụ như: tấn, tạ, yến, kỹ,
+ø, mg hoặc lượng, lạng, cái, con, chiếc, hộp, can, thùng, bao, gói, tuýp, mỶ, m2,
+tính” mà đơn vị tính xác định theo từng lần cung cấp dịch vụ và nội dung dịch
+vụ cung cấp;
+a.3) Số lượng hàng hóa, dịch vụ: Người bán ghi số lượng bằng chữ số
+Ả-rập căn cứ theo đơn vị tính nêu trên. Trường hợp cung cấp các loại hàng hóa
+<!-- Page Break -->
+# Page 51
+4
+dịch vụ đặc thù như điện, nước, và các loại dịch vụ viễn thông, dịch vụ công
+nghệ thông tin, dịch vụ truyền hình, dịch vụ bưu chính và chuyển phát, ngân
+hàng, chứng khoán, tài sản mã hóa, bảo hiểm, dịch vụ khám bệnh, chữa bệnh và
+các trường hợp khác theo quy định tại điểm a, điểm b khoản 4 Điều 9 được lập
+hóa đơn kèm bảng kê; bảng kê được lưu giữ cùng hóa đơn để phục vụ việc kiểm
+tra, đối chiếu của các cơ quan có thẩm quyền.
+Đối với hàng hóa, dịch vụ khuyến mại theo quy định của pháp luật về
+thương mại; hàng hóa, dịch vụ cho, biếu, tặng phù hợp với quy định của pháp
+luật, doanh nghiệp được lập hóa đơn tổng hợp cho các giao dịch phát sinh trong
+tháng, quý phù hợp với kỳ khai thuế giá trị gia tăng của tổ chức, cá nhân bán
+hàng hóa. Tổ chức, cá nhân bán hàng hóa có trách nhiệm bảo đảm việc lập hóa
+đơn tổng hợp phản ánh đầy đủ, chính xác các giao dịch phát sinh; lưu giữ danh
+sách chỉ tiết hàng hóa, dịch vụ khuyến mại, cho, biếu, tặng và hồ sơ có liên
+quan; cung cấp thông tin, tài liệu phục vụ quản lý thuế khi cơ quan có thẩm
+quyên yêu câu. Trường hợp khách hàng yêu câu lập hóa đơn theo từng giao dịch
+thì người bán phải lập hóa đơn giao cho khách hàng theo quy định.
+Hóa đơn phải ghi rõ “kèm theo bảng kê số..., ngày... tháng... năm”. Bảng
+kê phải có tên, mã số thuế và địa chỉ của người bán, tên hàng hóa, dịch vụ, số
+lượng, đơn giá, thành tiền hàng hóa, dịch vụ bán ra, ngày lập, tên và chữ ký
+người lập bảng kê. Trường hợp người bán nộp thuế giá trị gia tăng theo ng
+pháp khẩu trừ thì bảng kê phải có tiêu thức “thuế suất thuế giá trị gia tăng” vị
+“tiền thuế giá trị gia tăng”. Tổng cộng tiền thanh toán đúng với số tiền ghi trên
+hóa đơn giá trị gia tăng. Hàng hóa, dịch vụ bán ra ghi trên bảng kê theo thứ tự
+bán hàng trong ngày. Bảng kê phải ghi rõ “kèm theo hóa đơn số...ngày...
+tháng... năm”;
+a.4) Đơn giá hàng hóa, dịch vụ: Người bán ghi đơn giá hàng hóa, dịch vụ
+theo đơn vị tính nêu trên. Trường hợp các hàng hóa, dịch vụ sử dụng bảng kê để
+liệt kê các hàng hóa, dịch vụ đã bán kèm theo hóa đơn thì trên hóa đợn không
+nhất thiết phải có đơn giá.
+trên hóa đơn là thuế suất thuế giá trị gia tăng tương ứng với từng loại hàng hóa,
+dịch vụ theo quy định của pháp luật về thuế giá trị gia tăng;
+theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng tiền thanh toán
+đã có thuế giá trị gia tăng được thể hiện bằng đồng Việt Nam theo chữ số Ả-rập,
+trừ trường hợp bán hàng thu ngoại tệ không phải chuyển đổi ra đồng Việt Nam
+thì thể hiện theo nguyên tệ;
+theo chữ số Ả-rập và bằng chữ tiếng Việt, trừ trường hợp bán hàng thu ngoại tệ
+không phải chuyển đổi ra đồng Việt Nam thì tổng số tiền thanh toán thể hiện
+bằng nguyên tệ và bằng chữ tiếng nước ngoài;
+<!-- Page Break -->
+# Page 52
+5
+dành cho khách hàng hoặc khuyến mại theo quy định của pháp luật thì phải thể
+hiện rõ khoản chiết khấu thương mại, khuyến mại trên hóa đơn. Việc xác định
+giá tính thuế giá trị gia tăng (thành tiền chưa có thuế giá trị gia tăng) trong
+trường hợp áp dụng chiết khấu thương mại dành cho khách hàng hoặc khuyến
+mại thực hiện theo quy định của pháp luật thuế giá trị gia tăng:
+được lập theo thông lệ quôc tế thì các khoản phí dịch vụ thu trên chứng từ vận
+tải hàng không (phí quản trị hệ thống, phí đổi chứng từ vận tải và các khoản phí
+khác) và các khoản thu hộ phí dịch vụ sân bay của các doanh nghiệp vận tải
+hàng không (như phí phục vụ hành khách, phí soi chiếu an ninh và các loại phí
+khác) ghi trên hóa đơn là giá thanh toán đã có thuế giá trị gia tăng. Doanh
+nghiệp vận tải hàng không được làm tròn số đến hàng nghìn đối với các khoản
+thu trên chứng từ vận tải theo quy định của Hiệp hội hàng không quốc tế
+đATA).$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Tên, đơn vị tính, số lượng, đơn giá hàng hóa, dịch vụ$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_Dm$md$,$md$254-ndcp.signed$md$,$md$Điểm m$md$,$md$. Đối với dịch vụ thì trên hóa đơn không nhất thiết phải có tiêu thức “đơn vị$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Thuế suất thuế giá trị gia tăng: Thuế suất thuế giá trị gia tăng thể hiện$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Thành tiền chưa có thuế giá trị gia tăng, tông số tiền thuế giá trị gia tăng$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Tổng số tiền thanh toán trên hóa đơn được thể hiện bằng đồng Việt Nam$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K5_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Trường hợp doanh nghiệp vận tải hàng không sử dụng hệ thống xuất vé$md$,$md$254-ndcp.signed_Điều45_K5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K6$md$,$md$254-ndcp.signed$md$,$md$Khoản 6$md$,$md$Chữ ký của người bán, chữ ký của người mua, cụ thể:
+Trường hợp người bán là doanh righiệp, tổ chức thì chữ ký số của người
+bán trên hóa đơn là chữ ký số của doanh nghiệp, tổ chức; trường hợp người bán
+là cá nhân thì sử dụng chữ ký số của cá nhân hoặc người được ủy quyền.
+Trường hợp là nhà cung cấp ở nước ngoài là chữ ký điện tử theo quy định
+của pháp luật về giao dịch điện tử.
+Trường hợp hóa đơn điện tử không nhất thiết phải có chữ ký số-của người
+bán và người mua thực hiện theo quy định tại điểm 9 Phụ lục này.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K7$md$,$md$254-ndcp.signed$md$,$md$Khoản 7$md$,$md$Thời điểm ký số trên hóa đơn điện tử là thời điểm người bán, người mua
+sử dụng chữ ký số để ký trên hóa đơn điện tử được hiển thị theo định dạng ngày,
+tháng, năm của năm dương lịch. Trường hợp hóa đơn điện tử đã lập có thời điểm
+ký số trên hóa đơn khác thời điểm lập hóa đơn thì thời điểm ký số và thời điểm
+gửi cơ quan thuế cấp mã đối với hóa đơn có mã của cơ quan thuế hoặc thời điểm
+chuyển đữ liệu hóa đơn điện tử đến cơ quan thuế đối với hóa đơn điện tử không
+có mã của cơ quan thuế chậm nhất là ngày làm việc tiếp theo kể từ thời điểm lập
+hóa đơn (trừ trường hợp gửi dữ liệu theo Bảng tổng hợp, Bảng thông tin chỉ tiết
+giao dịch quy định tại Điều 16 Nghị định này). Người bán khai thuế theo thời
+điểm lập hóa đơn; thời điểm khai thuế đối với người mua là thời điểm nhận hóa
+đơn đảm bảo đúng, đầy đủ về hình thức và nội dung theo quy định tại Điều 10
+Nghị định này.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K8$md$,$md$254-ndcp.signed$md$,$md$Khoản 8$md$,$md$Chữ viết, chữ số và đồng tiền thể hiện trên hóa đơn
+chữ nước ngoài thì chữ nước ngoài được đặt bên phải trong ngoặc đơn “( }” hoặc
+đặt ngay dưới dòng tiếng 'Việt và có cỡ chữ nhỏ hơn chữ tiếng Việt. Trường hợp
+chữ trên hóa đơn là chữ tiếng ` Việt không dấu thì các chữ viết không dấu trên
+hóa đơn phải đảm bảo không dẫn tới cách hiểu sai lệch nội dung của hóa đơn;
+<!-- Page Break -->
+# Page 53
+6
+Người bán được lựa chọn: sau chữ số hàng nghìn, triệu, tỷ, nghìn tỷ, triệu tỷ, tỷ
+tỷ đặt dấu chấm (.), nếu có ghỉ chữ số sau chữ sô hàng đơn vị đặt dấu phây lÔ)
+sau chữ số hàng đơn vị hoặc sử dụng dấu phân cách số tự nhiên là dấu phây (@)
+sau chữ số hàng nghìn, triệu, tỷ, nghìn tỷ, triệu tỷ, tỷ tỷ và sử dụng dấu chấm (.)
+sau chữ số hàng đơn vị trên chứng từ kế toán;
+c.1) Trường hợp nghiệp vụ kinh tế, tài chính phát sinh bằng. ngoại tệ theo
+quy định của pháp luật về ngoại hối thì đơn giá, thành tiền, tổng số tiền thuế giá
+tị gia tăng theo từng loại thuế suất, tổng cộng tiền thuế giá trị gia tăng, tổng số
+tiền thanh toán được ghi bằng ngoại tệ, đơn vị tiền tệ ghỉ tên ngoại tệ. Người bán
+đồng thời thể hiện trên hóa đơn tỷ giá ngoại tệ với đồng Việt Nam theo tỷ giá
+theo quy định của Luật Quản lý thuế và các văn bản hướng dẫn thi hành;
+c.2) Mã ký hiệu ngoại tệ theo tiêu chuẩn quốc tế (ví dụ: 13.800,25 USD -
+Mười ba nghìn tám trăm đô la Mỹ và hai mươi nhăm xu, ví dụ: 5.000,50 EUR-
+Năm nghìn ơ-rô và năm mươi xu);
+c.3) Trường hợp bán hàng hóa phát sinh bằng ngoại tệ theo quy định của
+pháp luật về ngoại hỗi và được nộp thuế bằng ngoại tệ thì tổng số tiền thanh toán
+thể hiện trên hóa đơn theo ngoại tệ, không phải quy đổi ra đồng Việt Nam.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K8_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Chữ viết hiển thị trên hóa đơn là tiếng Việt. Trường hợp cần ghi thêm$md$,$md$254-ndcp.signed_Điều45_K8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K8_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Chữ số hiển thị trên hóa đơn là chữ số Ả-rập: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.$md$,$md$254-ndcp.signed_Điều45_K8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K8_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Đồng tiền ghi trên hóa đơn là đồng Việt Nam, ký hiệu quốc gia là “đ”.$md$,$md$254-ndcp.signed_Điều45_K8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9$md$,$md$254-ndcp.signed$md$,$md$Khoản 9$md$,$md$Một số trường hợp hóa đơn điện tử không nhất thiết có đầy đủ các nội
+dung
+(bao gôm cả trường hợp lập hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ
+cho khách hàng ở nước ngoài). Trường hợp người mua là cơ sở kinh doanh và
+người mua, người bán có thỏa thuận về việc người mua đáp ứng các điều kiện
+kỹ thuật để ký số, ký điện tử trên hóa đơn điện tử do người bán lập thì hóa đơn
+điện tử có chữ ký sô, ký điện tử của người bán và người mua theo thỏa thuận
+giữa hai bên;
+không nhất thiết phải có chữ ký số của người bán, người mua;
+chiếu phim mà người mua là cá nhân không cung cấp tên, địa chỉ, số định danh
+cá nhân của người mua thì trên hóa đơn không nhất thiết phải có tên, địa chỉ, số
+định danh cá nhân của người mua, chữ ký số của người mua.
+Đối với hóa đơn điện tử bán xăng dầu cho khách hàng là cá nhân không
+cung cấp tên, địa chỉ, số định danh cá nhân của người mua thì không nhất thiết
+phải có các chỉ tiêu: Tên, địa chỉ, số định danh cá nhân của người mua, chữ ký
+số của người mua;
+phải có chữ ký số của người bán (trừ trường hợp tem, vé, thẻ là hóa đơn điện tử
+do cơ quan thuế cấp mã), tiêu thức người mua (tên, địa chỉ, mã số thuế), tiền
+thuế, thuế suất thuế giá trị gia tăng. Trường hợp tem, vé, thẻ điện tử có sẵn mệnh
+<!-- Page Break -->
+# Page 54
+7
+giá thì không nhất thiết phải có tiêu thức đơn vị tính, số lượng, đơn giá;
+hệ thống thương mại điện tử được lập theo thông lệ quốc tế cho người mua là cá
+nhân không kinh doanh được xác định là hóa đơn điện tử thì trên hóa đơn không
+nhất thiết phải có ký hiệu hóa đơn, ký hiệu mẫu hóa đơn, số thứ tự hóa đơn, thuế
+suất thuế giá trị gia tăng, mã số thuế, địa chỉ người mua, chữ ký số của người
+bán.
+Trường hợp tổ chức kinh doanh hoặc tổ chức không kinh doanh mua dịch
+vụ vận tải hàng không thì chứng từ điện tử dịch vụ vận tải hàng không, xuất qua
+website và hệ thống thương mại điện tử được lập theo thông lệ quôc tế cho các
+cá nhân của tổ chức kinh doanh, cá nhân của tổ chức không kinh doanh thì
+không được xác định là hóa đơn điện tử. Doanh nghiệp kinh doanh dịch vụ vận
+tải hàng không phải lập hóa đơn điện tử có đầy đủ các nội dung theo quy định
+giao cho tổ chức có cá nhân sử dụng dịch vụ vận tải hàng không;
+bán có thu tiền theo tiến độ theo hợp đồng thì trên hóa đơn không nhất thiết phải
+có đơn vị tính, số lượng, đơn giá;
+kiêm vận chuyền nội bộ thể hiện các thông tin liên quan lệnh điều động nội bộ,
+người nhận hàng, người xuất hàng, địa điểm kho xuất, địa điểm nhận hàng,
+phương tiện vận chuyển. Cụ thể: tên người mua thể hiện người nhận hàng, địa
+chỉ người mua thể hiện địa điểm kho nhận hàng; tên người bán thể hiện người
+xuất hàng, địa chỉ người bán. thể hiện địa điểm kho xuất hàng và phương tiện
+vận chuyên; không thê hiện tiền thuế, thuế suất, tổng số tiền thanh toán.
+Đối với phiếu xuất kho hàng gửi bán đại lý thì trên phiếu xuất kho hàng gửi
+bán đại lý thể hiện các thông tin như hợp đồng kinh tế, người vận chuyên,
+phương tiện vận chuyển, địa điểm kho xuất, địa điểm kho nhận, tên sản phẩm
+hàng hóa, đơn vị tính, số lượng, ‹ đơn giá, thành tiền. Cụ thể: ghi SỐ, ngày tháng
+năm hợp đồng kinh tế ký giữa tổ chức, cá nhân; họ tên người vận chuyên, hợp
+đồng vận chuyển (nếu có), địa chỉ người bán thể hiện địa điểm kho xuất hàng;
+được lập theo quy định của Hiệp hội vận tải hàng không quốc tế thì trên hóa đơn
+không nhất thiết phải có các chỉ tiêu: ký hiệu hóa đơn, ký hiệu mẫu hóa đơn, tên
+địa chỉ, mã số thuế của người mua, chữ ký số của người mua, đơn vị tính, số
+lượng, đơn giá;
+1) Hóa đơn doanh nghiệp vận tải hàng không xuất cho đại lý là hóa đơn
+. xuất ra theo báo cáo đã đôi chiếu giữa hai bên và theo bảng kê tổng hợp thì trên
+hóa đơn không nhất thiết phải có đơn giá;
+vụ của doanh nghiệp quốc phòng an ninh phục vụ hoạt động quôc phòng an ninh
+theo quy định của Chính phủ thì trên hóa đơn không nhất thiết phải có đơn vị
+<!-- Page Break -->
+# Page 55
+§
+tính; số lượng; đơn giá; phần tên hàng hóa, dịch vụ ghi cung cấp hàng hóa, dịch
+vụ theo hợp đồng ký kết giữa các bên;
+D Đối với hóa đơn điện tử hoạt động kinh doanh casino, trò chơi điện tử có
+thưởng không nhất thiết phải có tên, địa chỉ, số định danh cá nhân của người
+mua, chữ ký số của người mua;
+có chữ ký số của người bán, bên nhận ủy nhiệm có trách nhiệm ký số trên hóa
+đơn điện tử được ủy nhiệm lập;
+có số định danh cá nhân, chữ ký số của người mua.$md$,$md$254-ndcp.signed_Điều45$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Da$md$,$md$254-ndcp.signed$md$,$md$Điểm a$md$,$md$Trên hóa đơn điện tử không nhất thiết phải có chữ ký số của người mua$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Db$md$,$md$254-ndcp.signed$md$,$md$Điểm b$md$,$md$Đối với hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dc$md$,$md$254-ndcp.signed$md$,$md$Điểm c$md$,$md$Đối với hóa đơn điện tử bán hàng tại siêu thị, trung tâm thương mại, rạp$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dđ$md$,$md$254-ndcp.signed$md$,$md$Điểm đ$md$,$md$Đối với hóa đơn điện tử là tem, vé, thẻ thì trên hóa đơn không nhất thiết$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_De$md$,$md$254-ndcp.signed$md$,$md$Điểm e$md$,$md$Đối với hóa đơn của hoạt động xây dựng, lắp đặt; hoạt động xây nhà để$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dg$md$,$md$254-ndcp.signed$md$,$md$Điểm g$md$,$md$Đối với phiếu xuất kho kiêm vận chuyển nội bộ thì trên phiếu xuất kho$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dh$md$,$md$254-ndcp.signed$md$,$md$Điểm h$md$,$md$Hóa đơn sử dụng cho thanh toán Interline giữa các hãng hàng không$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dk$md$,$md$254-ndcp.signed$md$,$md$Điểm k$md$,$md$Đối với hoạt động xây dựng, lắp đặt, sản xuất, cung cấp sản phẩm, dịch$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dm$md$,$md$254-ndcp.signed$md$,$md$Điểm m$md$,$md$Đối với hóa đơn điện tử ủy nhiệm thì trên hóa đơn không nhất thiết phải$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$254-ndcp.signed_Điều45_K9_Dn$md$,$md$254-ndcp.signed$md$,$md$Điểm n$md$,$md$Đối với hóa đơn thương mại điện tử trên hóa đơn không nhất thiết phải$md$,$md$254-ndcp.signed_Điều45_K9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 1. Phạm vi điều chỉnh$md$,$md$Phạm vi điều chỉnh
+Thông tư này hướng dẫn về chứng từ kế toán, ghi số kế toán, lập và trình
+bày Báo cáo tài chính của doanh nghiệp siêu nhỏ. Việc xác định nghĩa vụ thuế
+của doanh nghiệp siêu nhỏ được thực hiện theo quy định của pháp luật về thuế.$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 2. Đối tượng áp dụng$md$,$md$Đối tượng áp dụng$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều2_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Đối tượng áp dụng Thông tư này là các doanh nghiệp siêu nhỏ, trong đó,
+tiêu chí xác định doanh nghiệp siêu nhỏ thực hiện theo quy định của pháp luật
+về hỗ trợ doanh nghiệp nhỏ và vừa.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều2_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Hộ kinh doanh, cá nhân kinh doanh nếu có nhu cầu thì được lựa chọn áp
+dụng Thông tư này để thực hiện công tác kế toán.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều3$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 3. Tổ chức công tác kế toán$md$,$md$Tổ chức công tác kế toán$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều3_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Doanh nghiệp siêu nhỏ được bó trí người làm kế toán là cha đẻ, mẹ đẻ,
+cha nuôi, mẹ nuôi, vợ, chồng, con đẻ, con nuôi, anh, chị, em ruột của người đại
+diện theo pháp luật, của người đứng đầu, của giám đốc hoặc tổng giám đốc và
+của cấp phó của người đứng đầu, phó giám đốc hoặc phó tổng giám đốc phụ
+<!-- Page Break -->
+# Page 2
+2
+trách công tác tài chính - kế toán; Người đang làm quản lý, điều hành, thủ kho,
+thủ quỹ, người được giao nhiệm vụ thường xuyên mua, bán tài sản trong doanh
+nghiệp siêu nhỏ hoặc thuê dịch vụ làm kế toán cho doanh nghiệp siêu nhỏ theo
+quy định của pháp luật phù hợp với nhu cầu của doanh nghiệp.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều3_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Doanh nghiệp siêu nhỏ không bắt buộc phải bó trí kế toán trưởng, trường
+hợp doanh nghiệp siêu nhỏ bố trí phụ trách kế toán thay cho kế toán trưởng thì
+phụ trách kế toán được ký thay kế toán trưởng tại các chứng từ kế toán, số kế
+toán, báo cáo tài chính của đơn vị.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 4. Áp dụng chế độ kế toán$md$,$md$Áp dụng chế độ kế toán$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Doanh nghiệp siêu nhỏ căn cứ vào phương pháp nộp thuế giá trị gia tăng
+(GTGT), thuế thu nhập doanh nghiệp (TNDN) theo pháp luật về thuế GTGT,
+thuế TNDN để thực hiện ghi số kế toán theo một trong các trường hợp quy định
+tại Điều 5, Điều 6, Điều 7, Điều § Thông tư này và lập báo cáo tài chính theo
+hướng dẫn tại Điều 10 Thông tư này. Trường hợp doanh nghiệp siêu nhỏ chuyển
+đổi phương pháp nộp thuế GTGT, thuế TNDN theo quy định của pháp luật thuế
+thì áp dụng danh mục số kế toán được hướng dẫn tại Thông tư này phù hợp với
+phương pháp nộp thuế của doanh nghiệp.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Trường hợp trong năm tài chính, doanh nghiệp siêu nhỏ có những thay
+đổi các tiêu chí dẫn đến không còn thuộc đối tượng áp dụng Thông tư này thì
+được áp dụng Thông tư này cho đến hết năm tài chính hiện tại và phải áp dụng
+chế độ kế toán phù hợp với quy định của pháp luật kể từ năm tài chính kế tiếp.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K3$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 3$md$,$md$Doanh nghiệp siêu nhỏ được lựa chọn áp dụng chế độ kế toán doanh
+nghiệp nhỏ và vừa cho phù hợp với đặc điểm hoạt động sản xuất kinh doanh và
+yêu cầu quản lý của đơn vị nhưng phải áp dụng nhất quán trong một năm tài
+chính. Việc thay đổi chế độ kế toán áp dụng chỉ được thực hiện tại ngày bắt đầu
+kỳ kế toán năm tiếp theo.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K4$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 4$md$,$md$Trường hợp hộ kinh doanh, cá nhân kinh doanh lựa chọn áp dụng chế độ
+kế toán theo Thông tư này thì phải áp dụng nhất quán trong một năm tài chính.
+Việc thay đổi chế độ kế toán áp dụng chỉ được thực hiện tại ngày bắt đầu kỳ kế
+toán năm tiếp theo.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K5$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 5$md$,$md$Trường hợp để phù hợp với đặc điểm hoạt động sản xuất kinh doanh và
+yêu cầu quản lý, doanh nghiệp siêu nhỏ được thiết kế thêm hoặc sửa đổi, bổ
+sung biểu mẫu chứng từ kế toán và sổ kế toán so với các biểu mẫu chứng từ kế
+toán và số kế toán được hướng dẫn tại Thông tư này. Biểu mẫu chứng từ kế toán
+và số kế toán của doanh nghiệp khi sửa đổi, bổ sung phải đảm bảo tuân thủ quy
+<!-- Page Break -->
+# Page 3
+3
+định tại Điều 16, các khoản 1, 2, 3, 4 của Điều 24 Luật Kế toán và phải phản ánh
+đầy đủ, kịp thời, trung thực, minh bạch, để kiểm tra, kiểm soát và đối chiếu được
+tài sản, nguồn vốn của doanh nghiệp. Doanh nghiệp có phát sinh các chứng từ
+kế toán thuộc đối tượng điều chỉnh của pháp luật khác thì phải thực hiện theo
+quy định của pháp luật đó.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4_K6$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 6$md$,$md$Trường hợp doanh nghiệp siêu nhỏ sử dụng hóa đơn điện tử và được
+hệ thống thông tin quản lý thuế của cơ quan thuế hỗ trợ xác định, thông báo
+thông tin số thuế GTGT, thuế TNDN, các loại thuế khác phải nộp (nếu có) thì
+doanh nghiệp siêu nhỏ sử dụng các mẫu số kế toán hướng dẫn tại Thông tư
+này để theo dõi, đối chiếu với số thuế phải nộp theo thông báo của cơ quan
+thuế.
+Chương II
+QUY ĐỊNH CỤ THẺ$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều4$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 5. Doanh nghiệp siêu nhỏ nộp thuế GTGT và thuế TNDN theo tỷ$md$,$md$Doanh nghiệp siêu nhỏ nộp thuế GTGT và thuế TNDN theo tỷ
+lệ phần trăm (%) trên doanh thu$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Chứng từ kế toán
+Doanh nghiệp siêu nhỏ sử dụng hóa đơn và các chứng từ kế toán khác theo
+quy định của pháp luật kế toán, pháp luật thuế làm căn cứ xác định doanh thu.
+Thuế GTGT
+|
+|
+|
+| Tổng cộng (1)
+|
+Thuế TNDN
+<!-- Page Break -->
+# Page 4
+4$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Số kế toán
+hàng hóa, dịch vụ (Mẫu số S1-DNSN) đề ghi doanh thu bán hàng hóa, dịch vụ.
+Mẫu số SI-DNSN
+(Kèm theo Thông tư sô 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+ANH RusraszzBipo
+Đơn vị tính:.....
+Hóa đơn, Chứng từ Ban mn
+Sốhiệu | - Ngày, tháng
+A B Lói tị
+Tổng cộng (2)
+Thuế GTGT
+Thuế TNDN$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K2_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Biểu mẫu số kế toán$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K3$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 3$md$,$md$Nhóm hàng hóa, dịch vụ, ngành nghẻ....
+†
+Tổng cộng (3)
+Thuế GTGT
+Thuế TNDN
+Tổng số thuế GTGT phải nộp
+Tổng số thuế TNDN phải nộp
+Ngày... tháng ... năm ...
+NGƯỜI LẬP BIỂU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghi rõ họ tên) 'THEO PHÁP LUẬT
+(Ký, ghỉ rõ họ tên, đóng dấu)
+dịch vụ trong kỳ theo từng nhóm hàng hóa, dịch vụ, ngành nghề có cùng tỷ lệ %
+tính thuế GTGT hoặc cùng tỷ lệ % tính thuế TNDN. Trường hợp doanh nghiệp
+siêu nhỏ có nhiều nhóm hàng hóa, dịch vụ, ngành nghề khác nhau thì số này có
+thể mở cho từng nhóm hàng hóa, dịch vụ, ngành nghề có cùng tỷ lệ % tính thuế
+GTGT hoặc cùng tỷ lệ % tính thuế TNDN.
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh doanh thu bán hàng
+hóa, dịch vụ. Tùy theo yêu cầu quản lý, doanh nghiệp siêu nhỏ có thể ghỉ doanh
+thu theo từng hóa đơn, chứng từ hoặc theo số tổng cộng kèm theo bảng dữ liệu
+chỉ tiết về hóa đơn, chứng từ theo quy định của pháp luật.
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ theo từng nhóm hàng hóa, dịch
+vụ, ngành nghề để làm căn cứ xác định doanh thu bán hàng hóa, cung cấp dịch
+vụ có cùng tỷ lệ % tính thuế GTGT hoặc cùng tỷ lệ % tính thuế TNDN. Trên cơ
+sở doanh thu bán hàng hóa, dịch vụ trong kỳ, doanh nghiệp siêu nhỏ xác định số
+thuế GTGT, thuế TNDN phải nộp theo quy định của pháp luật thuế. Dòng cuối
+cùng ghi tổng số thuế GTGT, thuế TNDN phải nộp trong kỳ.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K3_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Nội dung: Sổ này được mở để ghi doanh thu bán hàng hóa, cung cấp$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K3_De$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm e$md$,$md$Phương pháp ghi số$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều5_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 6. Doanh nghiệp siêu nhỏ nộp thuế GTGT theo tỷ lệ % trên$md$,$md$Doanh nghiệp siêu nhỏ nộp thuế GTGT theo tỷ lệ % trên
+doanh thu và nộp thuế TNDN trên thu nhập tính thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Chứng từ kế toán
+<!-- Page Break -->
+# Page 5
+5
+Doanh nghiệp siêu nhỏ sử dụng hóa đơn, Bảng kê thu mua hàng hóa, dịch
+vụ không có hóa đơn và các chứng từ kế toán khác theo quy định của pháp luật
+kế toán, pháp luật thuế làm căn cứ xác định các khoản doanh thu, thu nhập, các
+khoản chỉ phí và số thuế GTGT, thuế TNDN phải nộp, đã nộp trong kỳ.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Số kế toán
+danh mục sau đây
+STT | Tên số kế toán Ký hiệu
+1 _ | Số doanh thu bán hàng hóa, dịch vụ Mẫu số S2a-DNSN
+Mẫu số S2c-DNSN
+2 _ | Số chỉ tiết doanh thu, chỉ phí | Mẫu số S2b-DNSN
+3 __ | Sổ chỉ tiết vật liệu, dụng cụ, sản phẩm, hàng hóa_ |
+4 |
+Số chỉ tiết tiền Mẫu só S2d-DNSN
+a1) Biểu mẫu sổ kế toán
+Mẫu số S2a-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+Đơn vị tính:.....
+Hóa đơn, Chứng từ
+——¬_—:"_ Diễn giải Số tiền
+Số hiệu Ngày, tháng
+A B G l
+Số thuế GTGT còn phải nộp đầu kỳ (1)
+Số phát sinh trong kỳ
+A. Nhóm hàng hóa, dịch vụ, ngành nghề.....
+Tổng cộng (1)
+Thuế GTGT
+B. Nhóm hàng hóa, dịch vụ, ngành nghề ....
+Tổng cộng (2)
+Thuế GTGT
+C. Nhóm hàng hóa, dịch vụ, ngành nghề ....
+Tổng cộng (3)
+Thuế GTGT
+<!-- Page Break -->
+# Page 6
+6
+| Tổng số thuế GTGT phải nộp trong kỳ (2)
+| Số thuế GTGT đã nộp trong kỳ (3)
+| Số thuế GTGT còn phải nộp cuỗi kỳ {(4)= (1)
++ (@)- 3))}
+Ngày... tháng ... năm ...
+NGƯỜI LẬP BIỂU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghi rõ họ tên) (Ký, ghi rõ họ tên) THEO PHÁP LUẬT
+(Ký, ghi rõ họ tên, đóng dấu)
+a2) Nội dung
+Số này được mở để ghi doanh thu bán hàng hóa, cung cấp dịch vụ trong kỳ
+theo từng nhóm hàng hóa, dịch vụ, ngành nghề kinh doanh có cùng tỷ lệ % tính
+thuế GTGT. Trường hợp doanh nghiệp siêu nhỏ có nhiều nhóm hàng hóa, dịch
+vụ, ngành nghề khác nhau thì số này có thể mở cho từng nhóm hàng hóa, dịch
+vụ, ngành nghề có cùng tỷ lệ % tính thuế GTGT.
+a3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung doanh thu bán hàng hóa, dịch vụ theo từng
+nhóm hàng hóa, dịch vụ, ngành nghề có cùng tỷ lệ % tính thuế GTGT. Doanh
+nghiệp siêu nhỏ có thể ghi doanh thu theo từng hóa đơn, chứng từ hoặc theo số
+tổng cộng kèm theo bảng dữ liệu chỉ tiết về hóa đơn, chứng từ theo quy định của
+pháp luật.
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ theo từng nhóm hàng hóa, dịch
+vụ, ngành nghề để làm căn cứ xác định doanh thu bán hàng hóa, dịch vụ theo
+từng ngành, nghề có cùng tỷ lệ % tính thuế GTGT. Trên cơ sở doanh thu bán
+hàng hóa, dịch vụ trong kỳ, doanh nghiệp siêu nhỏ xác định số thuế GTGT phải
+nộp theo quy định của pháp luật thuế.
+- Dòng “Số thuế GTGT còn phải nộp đâu l)°: Doanh nghiệp siêu nhỏ căn
+cứ số thuế GTGT còn phải nộp cuối kỳ trước chuyển sang để theo dõi, phản ánh
+số thuế GTGT còn phải nộp đầu kỳ.
+- Dòng “Số phát sinh trong kỳ”: Doanh nghiệp siêu nhỏ phản ánh doanh thu
+bán hàng hóa, dịch vụ theo từng nhóm hàng hóa, dịch vụ, ngành nghề hoặc theo
+từng giao dịch có cùng tỷ lệ % tính thuế GTGT phát sinh trong kỳ.
+- Dòng “Tổng só thuế GTGŒT phải nộp trong kỳ”: Doanh nghiệp siêu nhỏ
+căn cứ số thuế GTGT phải nộp theo từng ngành, nghề có cùng tỷ lệ % tính thuế
+GTGT đẻ xác định tổng số thuế GTGT phải nộp trong kỳ.
+- Dòng “Số thuế GTGT đã nộp trong kỳ”: Doanh nghiệp siêu nhỏ ghi số
+<!-- Page Break -->
+# Page 7
+thuế GTGT đã nộp trong kỳ.
+- Dòng “Số thuế GTGŒT còn phải nộp cuối kỳ”: Doanh nghiệp siêu nhỏ căn
+cứ chênh lệch của số thuế GTGT còn phải nộp đầu kỳ, số thuế GTGT phải nộp
+trong kỳ, số thuế GTGT đã nộp trong kỳ để xác định số thuế GTGT còn phải
+nộp cuối kỳ chuyển sang kỳ sau.
+b1) Biểu mẫu số kế toán
+Mẫu số S2b-DNSN
+(Kèm theo Thông tư sô 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỞ CHI TIẾT DOANH THU, CHI PHÍ
+Nmtesaoasses
+Đơn vị tính:.....
+|- 69868 CNENIE | Diễn giải Số tiền
+Số hiệu | Ngày, tháng |
+4 8 G T
+Số thuế TNDN còn phải nộp đầu kỳ (1)
+Số phát sinh trong kỳ
+1: Doanh thu và thu nhập
+hàng hóa sử dụng vào sản xuất, kinh doanh
+hiêm bắt buộc và các khoản chỉ trả cho người lao động có
+đóng bảo hiểm bắt buộc theo quy định; chỉ phí tiền
+lương, tiền công, các khoản phụ cấp và các khoản chỉ trả
+cho người lao động dưới 01 tháng
+động sản xuất, kinh doanh theo chế độ quản lý, sử dụng
+và trích khấu hao tài sản cố định
+thoại, internet, vận chuyên, thuê tài sản, sửa chữa, bảo
+chức tín dụng,...
+xuất, kinh doanh..............
+Tổng số thuế TNDN phải nộp trong kỳ (2)
+Số thuế TNDN đã nộp trong kỳ (3)
+Số thuế TNDN còn phải nộp cuối kỳ {(4)=(1) +(2) - (3)}
+Ngày ... tháng ... năm ...
+NGƯỜI LẬP BIÊU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký. ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT
+(Ký. ghỉ rõ họ tên, đóng dâu)
+<!-- Page Break -->
+# Page 8
+b2) Nội dung
+Số này được mở để theo dõi doanh thu, thu nhập và chỉ phí phát sinh trong
+hoạt động sản xuất, kinh doanh và hoạt động khác của doanh nghiệp siêu nhỏ.
+Trên cơ sở doanh thu, thu nhập và các khoản chi phí, doanh nghiệp siêu nhỏ xác
+định số thuế TNDN phải nộp theo quy định của pháp luật thuế.
+b3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+- Cột 1: Ghi số tiền phù hợp với từng nội dung nêu tại cột C.
+- Dòng “Số thuế TNDN còn phải nộp đâu kỳ: Doanh nghiệp siêu nhỏ căn
+cứ vào số thuế TNDN phải nộp kỳ trước chuyển sang để theo dõi, phản ánh số
+thuế TNDN còn phải nộp đầu kỳ.
+- Dòng “Số phát sinh trong kỳ”: Doanh nghiệp siêu nhỏ phản ánh doanh
+thu, thu nhập, chỉ phí từ hoạt động bán hàng hóa, dịch vụ và hoạt động khác phát
+sinh trong kỳ.
+- Dòng “J. Doanh thu và thu nhập ”: Doanh nghiệp siêu nhỏ căn cứ vào hóa
+đơn, chứng từ để ghi doanh thu, thu nhập phát sinh từ hoạt động bán hàng hóa,
+dịch vụ và hoạt động khác theo từng hóa đơn, chứng từ hoặc theo số tổng cộng
+kèm theo bảng dữ liệu chỉ tiết về hóa đơn, chứng từ theo quy định của pháp luật.
+- Dòng “2. C”¡ phí”: Doanh nghiệp siêu nhỏ căn cứ vào hóa đơn, chứng từ
+liên quan đề ghi tổng chỉ phí phát sinh trong kỳ theo từng nghiệp vụ phát sinh.
+- Dòng “Tổng số thuế TNDN phải nộp trong l$}”: Doanh nghiệp siêu nhỏ
+căn cứ vào thông tin chỉ tiết trong phần “!. Doanh thu và thu nhập”, “2. Chỉ
+phí ” để xác định thu nhập tính thuế TNDN và căn cứ vào thuế suất thuế TNDN
+tương ứng với từng hoạt động theo quy định của pháp luật thuế để xác định tổng
+số thuế TNDN phải nộp trong kỳ.
+- Dòng “Số (huế TNDN đã nộp trong kỳ: Doanh nghiệp siêu nhỏ ghi số
+tiền thuế TNDN đã tạm nộp trong kỳ.
+- Dòng “Số thuế TNDN còn phải nộp cuối kỳ”: Doanh nghiệp siêu nhỏ căn
+cứ số thuế TNDN còn phải nộp hoặc được hoàn của kỳ trước; chênh lệch giữa
+tổng số thuế TNDN phải nộp và số thuế TNDN đã tạm nộp trong kỳ để xác định
+số tiền thuế TNDN còn phải nộp cuối kỳ để chuyển sang kỳ sau.
+e1) Biểu mẫu số kế toán
+<!-- Page Break -->
+# Page 9
+Mẫu số S2c-DNSN
+(Kèm theo Thông tư sô 58/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỐ CHI TIẾT VẬT LIỆU, DỤNG CỤ, SẢN PHẢM, HÀNG HÓA
+Tên vật liệu, dụng cụ, sản “ĐẤT, kiểu HỘÄrnaemrornenrrsa
+Kho:..
+Hóa đơn, À
+" h Nhập Xuất Tôn
+Chứngtừ | p¡jặạ | Đơn | Đơn Ghi
+Số | Ngày | giải th PÁ | s | Thành| Số | Thành| Số | Thành | chú
+hiệu | tháng lượng | tiền | lượng | tiền | lượng | tiền
+A B € D 1 2 3 4 b 6 7 8
+Số dư
+đukỳy | X | X X
+Cộng
+phát sinh
+trong kỳ
+Số dư
+cuối kỳ ^ b ~
+- : - Ngày... tháng ... năm ..
+NGƯỜI LẬP BIỂU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN `
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT
+(Ký, ghi rõ họ tên, đóng dấu)
+e2) Nội dung
+Số này được mở đẻ theo dõi, quản lý về tình hình nhập, xuất, tồn kho cho
+từng vật liệu, dụng cụ, sản phẩm, hàng hóa.
+c3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+- Cột D: Đơn vị tính của từng vật liệu, dụng cụ, sản phẩm, hàng hóa.
+- Cột 1: Ghi đơn giá nhập, xuất, tồn của từng vật liệu, dụng cụ, sản phẩm,
+hàng hóa. Trong đó, đơn giá nhập kho của từng vật liệu, dụng cụ, sản phẩm,
+hàng hóa căn cứ vào chứng từ nhập vật liệu, dụng cụ, sản phẩm, hàng hóa theo
+từng nguồn nhập.
+Đơn giá xuất kho được tính riêng cho từng loại vật liệu, dụng cụ, sản phẩm,
+hàng hóa theo công thức sau:
+Đơn giá (Giá trị hàng tồn đầu kỳ + Giá trị hàng nhập trong kỳ)
+xuâtkho  =
+(Số lượng hàng tồn đầu kỳ + Số lượng hàng nhập trong kỳ)
+- Cột 2: Ghi số lượng của từng vật liệu, dụng cụ, sản phẩm, hàng hóa nhập kho.
+<!-- Page Break -->
+# Page 10
+10
+- Cột 3: Ghi giá trị (thành tiền) của từng vật liệu, dụng cụ, sản phẩm, hàng,
+hóa nhập kho (Cột 3 = Cột 1 x Cột 2).
+- Cột 4: Ghi số lượng của từng vật liệu, dụng cụ, sản phẩm, hàng hóa xuất kho.
+- Cột 5: Ghi giá trị (thành tiền) của từng vật liệu, dụng cụ, sản phẩm, hàng
+hóa xuất kho (Cột 5 = Cột 1 x Cột 4).
+- Cột 6: Ghi số lượng của từng vật liệu, dụng cụ, sản phẩm, hàng hóa tồn kho.
+- Cột 7: Ghi giá trị (thành tiền) của từng vật liệu, dụng cụ, sản phẩm, hàng
+hóa tồn kho (Cột 7 = Cột 1 x Cột 6).
+d1) Biểu mẫu số kế toán
+Mẫu số S2d-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ CHI TIẾT TIỀN
+Năm: ................
+Đơn vị tính:.....
+Hóa đơn, Chứng từ Số tiền
+Diễn giải
+Sốhiệu | Ngày tháng Thu/Gửi vào Chí/Rút ra
+A B lô 1 2
+Tiền mặt
+Tiền mặt tồn đầu kỳ
+Tổng tiền thu vào trong
+kỳ
+Tổng tiền chỉ ra trong kỳ
+Tiền mặt tồn cuối kỳ
+Tiền gửi không kỳ hạn
+Ngân hàng....
+Tiền gửi tồn đầu kỳ
+Tổng tiền gửi vào trong
+| kỳ
+Tổng tiền rút ra trong kỳ
+Tiền gửi tồn cuối kỳ
+Ngày ... tháng ... năm...
+NGƯỜI LẬP BIỂU  KÉ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghi rõ họ tên) THEO PHÁP LUẬT
+(Ký, ghi rõ họ tên, đóng dâu)
+<!-- Page Break -->
+# Page 11
+d2) Nội dung
+Số này được mở đề theo dõi tình hình thu, chỉ bằng tiền mặt hoặc tiền gửi
+không kỳ hạn (tiền gửi đẻ thanh toán) trong tài khoản của doanh nghiệp siêu nhỏ
+tại các ngân hàng và tổ chức cung ứng dịch vụ thanh toán theo quy định của
+pháp luật. Doanh nghiệp có thể mở số này chỉ tiết theo từng loại tiền (tiền mặt,
+tiền gửi không kỳ hạn). Đối với tiền gửi không kỳ hạn, số này có thể được mở
+để theo dõi riêng số tiền gửi tại từng ngân hàng hoặc từng tổ chức cung ứng dịch
+vụ thanh toán.
+d3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+- Cột 1, 2: Ghi số tiền thu, chỉ tiền mặt hoặc số tiền gửi không kỳ hạn gửi
+Vào, rút ra.
+Cuối kỳ, doanh nghiệp siêu nhỏ tính ra số tiền mặt thu, chỉ, tồn quỹ và số
+tiền gửi không kỳ hạn gửi vào, rút ra, dư cuối kỳ.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Số doanh thu bán hàng hóa, dịch vụ (Mẫu số S2a-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Số chỉ tiết doanh thu, chỉ phí (Mẫu số S2b-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_D©$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm ©$md$,$md$Chỉ phí khấu hao tài sản cỗ định phục vụ cho hoạt$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_Dđ$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm đ$md$,$md$d) Chi phí dịch vụ mua ngoài như điện, nước, điện$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_De$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm e$md$,$md$Các khoản chỉ khác phục vụ trực tiếp hoạt động sản$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2_Dd$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm d$md$,$md$Số chỉ tiết tiền (Mẫu số S2d-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều6_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 7. Doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp$md$,$md$Doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp
+khấu trừ và thuế TNDN theo tỷ lệ % trên doanh thu$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Chứng từ kế toán
+Doanh nghiệp siêu nhỏ sử dụng hóa đơn, Bảng kê thu mua hàng hóa, dịch
+vụ không có hóa đơn và các chứng từ kế toán khác theo quy định của pháp luật
+kế toán, pháp luật thuế làm căn cứ xác định doanh thu.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Số kế toán
+danh mục sau đây
+STT | Tên số kế toán | Ký hiệu
+1 __ | Sổ doanh thu bán hàng hóa, dịch vụ Ì Mẫu số S3a- DNSN
+2 | Số theo dõi nghĩa vụ thuế GTGT | Mẫu số S3b- DNSN
+a1) Biểu mẫu số kế toán
+<!-- Page Break -->
+# Page 12
+12
+Mẫu số S3a-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỞ DOANH THU BÁN HÀNG HÓA, DỊCH VỤ
+Năm: hr
+Đơn vị tính:.....
+Hóa đơn, Chứng từ
+Diễn giải Số tiền
+Số hiệu Ngày, tháng
+A B e 1
+Số thuế TNDN còn phải nộp đầu kỳ (1)
+Số phát sinh trong kỳ
+A. Nhóm hàng hóa, dịch vụ, ngành nghề ....
+Tổng cộng (1)
+Thuế TNDN
+B. Nhóm hàng hóa, dịch vụ, ngành nghề ....
+Tổng cộng (2)
+Thuế TNDN
+Tổng số thuế TNDN phải nộp trong kỳ (2)
+Số thuế TNDN đã nộp trong kỳ (3)
+Số thuế TNDN còn phải nộp cuối kỳ {(4)=
+()*+(2)-3)}
+Ngày... tháng ... năm ...
+NGƯỜI LẬP BIÊU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghi rõ họ tên) THEO PHÁP LUẬT
+(Ký, ghi rõ họ tên, đóng dấu)
+a2) Nội dung
+Số này được mở để ghi doanh thu bán hàng hóa, cung cấp dịch vụ trong kỳ
+theo từng nhóm hàng hóa, dịch vụ, ngành nghề kinh doanh có cùng tỷ lệ % tính
+thuế TNDN. Trường hợp doanh nghiệp siêu nhỏ có nhiều nhóm hàng hóa, dịch
+vụ, ngành nghề khác nhau thì số này có thể mở cho từng nhóm hàng hóa, dịch
+vụ, ngành nghề có cùng tỷ lệ % tính thuế TNDN.
+a3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi diễn giải nội dung doanh thu bán hàng hóa, dịch vụ theo từng
+nhóm hàng hóa, dịch vụ, ngành nghề có cùng tỷ lệ % tính thuế TNDN.
+<!-- Page Break -->
+# Page 13
+13
+- Cột 1: Ghi số tiền bán hàng hóa, dịch vụ theo từng nhóm hàng hóa, dịch
+vụ, ngành nghề để làm căn cứ xác định doanh thu bán hàng hóa, dịch vụ theo
+từng nhóm hàng hóa, dịch vụ, ngành nghề có cùng tỷ lệ % tính thuế TNDN.
+- Dòng “Số thuế TNDN còn phải nộp đâu kỳ”: Doanh nghiệp siêu nhỏ căn
+cứ số thuế TNDN phải nộp kỳ trước chuyển sang để theo dõi, phản ánh số thuế
+TNDN còn phải nộp đầu kỳ.
+- Dòng “Số phát sinh trong kỳ”: Doanh nghiệp siêu nhỏ phản ánh doanh thu
+bán hàng hóa, dịch vụ theo từng nhóm hàng hóa, dịch vụ, ngành nghề hoặc theo
+từng giao dịch có cùng tỷ lệ % tính thuế TNDN phát sinh trong kỳ. Doanh
+nghiệp siêu nhỏ có thể ghi doanh thu theo từng hóa đơn, chứng từ hoặc theo số
+tổng cộng kèm theo bảng dữ liệu chỉ tiết về hóa đơn, chứng từ theo quy định của
+pháp luật.
+- Dòng “Tổng số thuế TNDN phải nộp trong kỳ”: Trên cơ sở doanh thu bán
+hàng hóa, dịch vụ trong kỳ, doanh nghiệp siêu nhỏ xác định số tiền thuế TNDN
+phải nộp theo từng ngành, nghề hoặc theo từng giao dịch có cùng tỷ lệ % tính
+thuế TNDN để xác định tổng số thuế TNDN phải nộp trong kỳ theo quy định
+của pháp luật thuế.
+- Dòng “Số thuế TNDN đã nộp trong kỳ”: Doanh nghiệp siêu nhỏ ghi số
+tiền thuế TNDN đã tạm nộp trong kỳ.
+- Dòng “Số thuế TNDN còn phải nộp cuối kỳ”: Doanh nghiệp siêu nhỏ căn
+cứ số thuế TNDN còn phải nộp kỳ trước; số thuế TNDN phải nộp và số thuế
+TNDN đã tạm nộp trong kỳ để xác định số tiền thuế TNDN còn phải nộp cuối
+kỳ chuyển sang kỳ sau.
+b1) Biểu mẫu số kế toán
+ĐƠN V Mẫu số S3b-DNSN
+(Kèm theo Thông tư sô 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỞ THEO DÕI NGHĨA VỤ THUẾ GTGT
+NỀN? nxasese
+Đơn vị tính:.....
+Hóa đơn, chứng từ. Diễn giải Số thuế GTGT đầu |_ Số thuếGTGT
+Ñ' Lí 5 à
+Số hiệu | Ngày, tháng vào đầu ra
+4A | B C 1 | 2
+| Số dư đầu kỳ |
+<!-- Page Break -->
+# Page 14
+14
+Số thuế GTGT còn được
+khẩu trừ hoặc được hoàn
+đầu kỳ
+Số thuế GTGT còn phải
+nộp đầu kỳ
+Số phát sinh trong kỳ
+Cộng số phát sinh trong kỳ
+Tổng số thuế GTGT phải
+nộp trong kỳ (2)
+SỐ thuế GTGT đã nộp
+trong kỳ (3)
+SỐ thuế GTGT đã được
+hoàn trong kỳ (4)
+Số dư cuối kỳ
+Số thuế GTGT còn được
+khẩu trừ hoặc được hoàn
+cuối kỳ
+SốỐ thuế GTGT còn phải
+nộp cuối kỳ
+Ngày ... tháng ... năm...
+NGƯỜI LẬP BIẾU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT
+(Ký. ghi rõ họ tên, đóng dấu)
+b2) Nội dung
+Số này được mở đề theo dõi tình hình thực hiện nghĩa vụ thuế GTGT mà
+doanh nghiệp siêu nhỏ phải nộp, đã nộp và còn phải nộp. Thông tin, số liệu trên
+số này làm căn cứ đẻ cơ quan thuế xác định doanh nghiệp có nộp thuế đúng, đủ
+và kịp thời vào ngân sách nhà nước theo quy định của pháp luật thuế hay không.
+b3) Phương pháp ghi số
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi nội dung nghiệp vụ kinh tế phát sinh.
+- Dòng “Số dự đẩu kỳ”: Doanh nghiệp siêu nhỏ căn cứ nghĩa vụ thuế
+GTGT cuối kỳ trước chuyển sang là số thuế GTGT còn được khấu trừ hoặc
+được hoàn hoặc là số thuế GTGT còn phải nộp để ghi dòng số dư đầu kỳ tương
+<!-- Page Break -->
+# Page 15
+ứng với cột l hoặc cột 2.
+- Dòng “Số phát sinh trong kỳ”: Doanh nghiệp siêu nhỏ căn cứ vào hóa
+đơn, chứng từ phát sinh trong kỳ liên quan đến số thuế GTGT đầu vào được
+khấu trừ để ghi nhận vào cột 1, liên quan đến số thuế GTGT đầu ra để ghi nhận
+vào cột 2.
+- Dòng “Tổng số thuế GTGT phải nộp trong kỳ”: Doanh nghiệp siêu nhỏ
+căn cứ chênh lệch giữa số thuế GTGT đầu ra và số thuế GTGT đầu vào được
+khấu trừ để xác định số thuế GTGT phải nộp trong kỳ.
+- Dòng “Số thuế GTGT đã nộp trong kỳ”: Doanh nghiệp siêu nhỏ phản ánh
+số thuế GTGT doanh nghiệp đã nộp trong kỳ.
+- Dòng “Số thuế GTGT đã được hoàn trong $}°: Doanh nghiệp siêu nhỏ
+phản ánh số thuế GTGT doanh nghiệp đã được hoàn trong kỳ.
+- Dòng “Số đựư cuối kỳ”: Doanh nghiệp siêu nhỏ căn cứ vào số thuế GTGT
+còn được khấu trừ hoặc được hoàn cuối kỳ để ghi nhận vào dòng “Số /huế
+GTGT còn được khẩu trừ hoặc được hoàn cuối kỳ” tại cột 1; căn cứ vào số thuế
+GTGT còn phải nộp cuối kỳ đẻ ghi nhận vào dòng “Số thuế GTGT còn phải nộp
+cuối kỳ tại cột 2. Trong đó:
++ Số thuế GTGT còn được khấu trừ hoặc được hoàn cuối kỳ = Số thuế
+GTGT đầu vào dư đầu kỳ + Số thuế GTGT đầu vào phát sinh trong kỳ - Số thuế
+GTGT đầu ra phát sinh trong kỳ + Số thuế GTGT đã nộp trong kỳ - Số thuế
+GTGT đã được hoàn trong kỳ.
++ Số thuế GTGT còn phải nộp cuối kỳ = Số thuế GTGT đầu ra phải nộp dư
+đầu kỳ + Số thuế GTGT đầu ra phát sinh trong kỳ - Số thuế GTGT đầu vào phát
+sinh trong kỳ - Số thuế GTGT đã nộp trong kỳ + Số thuế GTGT đã được hoàn
+trong kỳ.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K2_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Số doanh thu bán hàng hóa, dịch vụ (Mẫu số S3a- DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K2_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Số theo dõi nghĩa vụ thuế GTGT (Mẫu số S3b- DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều7_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 8. Doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp$md$,$md$Doanh nghiệp siêu nhỏ nộp thuế GTGT theo phương pháp
+khấu trừ và nộp thuế TNDN trên thu nhập tính thuế$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Chứng từ kế toán
+Doanh nghiệp siêu nhỏ sử dụng hóa đơn, Bảng kê thu mua hàng hóa, dịch
+vụ không có hóa đơn và các chứng từ kế toán khác theo quy định của pháp luật
+kế toán, pháp luật thuế làm căn cứ xác định các khoản doanh thu, thu nhập, các
+khoản chỉ phí và số thuế GTGT, thuế TNDN phải nộp, đã nộp trong kỳ.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Số kế toán
+danh mục sau đây:
+<!-- Page Break -->
+# Page 16
+16
+STT | Tên số kế toán Ký hiệu
+1 _ | Số chỉ tiết doanh thu, chỉ phí Mẫu số S2b-DNSN
+E2 | Số chỉ tiết vật liệu, dụng cụ, sản phẩm, hàng hóa | Mẫu số S2c-DNSN
+3 _ | Số chỉ tiết tiền Mẫu số S2d-DNSN
+4__ | Số theo dõi nghĩa vụ thuế GTGT Mẫu số S3b-DNSN
+Biểu mẫu, nội dung và phương pháp ghi số được thực hiện theo hướng dẫn
+tại tiết b điểm 2.2 khoản 2 Điều 6 Thông tư này.
+Biểu mẫu, nội dung và phương pháp ghi số được thực hiện theo hướng dẫn
+tại tiết c điểm 2.2 khoản 2 Điều 6 Thông tư này.
+Biểu mẫu, nội dung và phương pháp ghi số được thực hiện theo hướng dẫn
+tại tiết d điểm 2.2 khoản 2 Điều 6 Thông tư này.
+Biểu mẫu, nội dung và phương pháp ghi số được thực hiện theo hướng dẫn
+tại tiết b điểm 2.2 khoản 2 Điều 7 Thông tư này.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Số chỉ tiết doanh thu, chỉ phí (Mẫu số S2b-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Số chỉ tiết vật liệu, dụng cụ, sản phẩm, hàng hóa (Mẫu số S2c-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2_De$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm e$md$,$md$Số chỉ tiết tiền (Mẫu số S2d-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2_Dd$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm d$md$,$md$Số theo dõi nghĩa vụ thuế GTGT (Mẫu số S3b-DNSN)$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều8_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 9. Danh mục số kế toán khác và chứng từ kế toán khác$md$,$md$Danh mục số kế toán khác và chứng từ kế toán khác$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Danh mục số kế toán khác
+Ngoài các số kế toán hướng dẫn tại Điều 5, Điều 6, Điều 7, Điều 8 Thông
+tư này, căn cứ vào đặc điểm hoạt động sản xuất kinh doanh và yêu cầu quản lý
+của đơn vị, doanh nghiệp siêu nhỏ có thể sử dụng các số kế toán chỉ tiết theo
+danh mục sau đây:
+STT Tên số kế toán Ký hiệu
+1 Số chỉ tiết thanh toán công nợ Mẫu số S4a-DNSN
+2 __| Số tài sản có định Mẫu số S4b-DNSN
+3 __ | Số theo dõi nghĩa vụ thuế khác Mẫu số S4c-DNSN
+4 __| Số theo dõi vốn chủ sở hữu Mẫu só S4d-DNSN
+<!-- Page Break -->
+# Page 17
+17
+Mẫu số S4a-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ CHI TIẾT THANH TOÁN CÔNG NỢ
+Đơn vị tính:.....
+Hóa đơn, Chứng từ Các khoản nợ phải thụ Các khoản nợ phải trả
+Diễn giải ải ải Số còn
+ả ả phải trả
+-Số dư đầu kỳ
+-Số phát sinh
+trong kỳ
+~ Cộng số phát
+sinh trong kỳ
+~ Số dư cuỗi
+kỳ
+Ngày... tháng ... N
+NGƯỜI LẬP BIẾU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI to
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHẮP LUẬT
+(Ký, ghi rõ họ tên, đóng dấu)
+Số này được mở để theo dõi tình hình thanh toán các khoản nợ phải thu và
+các khoản nợ phải trả của doanh nghiệp siêu nhỏ. Trường hợp doanh nghiệp siêu
+nhỏ có nhiều khoản nợ phải thu và nhiều khoản nợ phải trả với nội dung, tính
+chất và các đối tượng công nợ khác nhau (ví dụ nợ phải thu của khách hàng, về
+cho vay, về tạm ứng; nợ phải trả cho người bán, về nợ vay, về nhận ký quỹ, ký
+cược của đơn vị khác, tiền lương và các khoản phải nộp theo lương; thuế và các
+khoản phải nộp nhà nước thì căn cứ vào đặc điểm hoạt động sản xuất kinh doanh
+và yêu cầu quản lý, số này có thể được mở chỉ tiết theo từng đối tượng công nợ
+(khách hàng, người bán,...) để theo dõi việc thanh toán các khoản công nợ theo
+từng đồi tượng, từng thời hạn thanh toán, từng lần thanh toán,...
+Riêng các nghĩa vụ thuế và các khoản phải nộp nhà nước phản ánh vào số
+này không bao gồm thuê GTGT, thuế TNDN mà chỉ bao gồm thuế thu nhập cá
+nhân, thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế tài nguyên,
+thuế bảo vệ môi trường, thuế sử dụng đất và thuế khác.
+- Cột A, B: Ghi số hiệu, ngày, tháng của hóa đơn, chứng từ.
+- Cột C: Ghi nội dung của nghiệp vụ kinh tế phát sinh.
+<!-- Page Break -->
+# Page 18
+18
+- Cột 1: Ghi giá trị các khoản nợ phải thu về bán hàng hoá, dịch vụ, cho
+vay, tạm ứng, ký cược, ký quỹ,....
+- Cột 2: Ghi giá trị các khoản nợ phải thu đã thu được tiền.
+- Cột 3: Ghi giá trị các khoản nợ còn phải thu.
+- Cột 4: Ghi giá trị các khoản nợ phải trả về mua hàng hóa, dịch vụ, khoản
+đi vay, nhận ký quỹ, ký cược,...
+- Cột 5: Ghi giá trị các khoản nợ phải trả đã trả tiền.
+- Cột 6: Ghi giá trị các khoản nợ còn phải trả.
+Mẫu số S4b-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ TÀI SẢN CÓ ĐỊNH
+Loại tài sản: ......
+Ghi tăng TSCĐ.
+[_ Chứngtừ | Tên, đặc Tháng,
+Nguyên |—Khẩuhao__—_|
+điểm,ký | năm đưa ủ Khấu hao
+Ngày, 5 giá Tỷ lệ (%)
+L thắng _ > Sử | TSCĐ. | khấu hao tá lũy kế
+Số .... hao TSCĐ. Ghi giảm TSCĐ
+Ngày... tháng ... năm ...
+NGƯỜI LẬP BIÊU KÉ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT „
+(Ký, ghi rõ họ tên, đóng dâu)
+Số này được mở để theo dõi và quản lý tài sản cố định của doanh nghiệp
+siêu nhỏ từ khi mua sắm, đưa vào sử dụng cho đến khi ghi giảm TSCĐ.
+Số này được mở để theo dõi cho từng loại TSCĐ hoặc các loại TSCĐ của
+doanh nghiệp siêu nhỏ (nhà cửa, máy móc thiết bị,...). Căn cứ vào chứng từ tăng,
+giảm TSCĐ để ghi vào số TSCĐ:
+- Cột A, B: Ghi số hiệu, ngày, tháng của chứng từ.
+- Cột C: Ghi tên, đặc điểm, ký hiệu của TSCĐ.
+<!-- Page Break -->
+# Page 19
+19
+- Cột D: Ghi tháng, năm đưa TSCĐ vào sử dụng.
+- Cột 1: Ghi nguyên giá TSCĐ.
+- Cột 2: Ghi tỷ lệ khấu hao hàng năm của TSCĐ.
+- Cột 3: Ghi số khầu hao TSCĐ trong năm.
+- Cột 4: Ghi số khấu hao lũy kế của TSCĐ tính đến cuối kỳ hoặc đến thời
+điểm ghi giảm TSCĐ.
+- Cột E, G: Ghi số hiệu, ngày, tháng, năm của chứng từ ghi giảm TSCĐ.
+- Cột H: Ghi lý do giảm TSCĐ (nhượng bán, thanh lý,...).
+Mẫu số S4c-DNSN
+(Kèm theo Thông tư số 38/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+SỎ THEO DÕI NGHĨA VỤ THUÉ KHÁC
+Đơn vị tính:.....
+Các loại thuế khác
+Giá tính
+NEÀY | Giao | bà bên %5 | Thuế |, \ Thuế Thuế
+kự địch ko địch đối Mất suất co“ rên số | bảovệ | Thuếti | sử
+thui vụ chịu pháp | pháptính | thuế môi nguyên | dụng | Khác
+thui tính thuế | thuếtuyệt | phải | trường đất
+theo ÿlệ | đổi su | nộp
+*% có) l
+A L) 1 2 Ậ 4 $ 6 7 8 9 I0 H
+|
+Tổng cộng
+„ - Ngày... tháng ... năm...
+NGƯỜI LẬP BIỂU KẾ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT
+(Ký, ghỉ rõ họ tên, đóng dâu)
+Sổ này được mở để doanh nghiệp siêu nhỏ theo dõi các loại thuế khác (nếu
+có): thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế
+bảo vệ môi trường, thuế sử dụng đất và thuế khác. Tuỷ theo đặc điểm hoạt động
+sản xuất kinh doanh và yêu cầu quản lý, doanh nghiệp siêu nhỏ có thể mở số này
+chỉ tiết cho từng loại thuế.
+<!-- Page Break -->
+# Page 20
+20
+- Cột A: Ghi ngày, tháng ghi số.
+- Cột B: Ghi nội dung nghiệp vụ phát sinh.
+- Cột 1: Ghi lượng hàng hóa, dịch vụ chịu thuế.
+- Cột 2: Ghi mức thuế tuyệt đói theo quy định của pháp luật thuế xuất khẩu,
+thuế nhập khẩu, thuế tiêu thụ đặc biệt, thuế bảo vệ môi trường.
+- Cột 3: Giá tính thuế/01 đơn vị hàng hóa, dịch vụ thực hiện theo quy định
+của pháp luật về thuế.
+- Cột 4: Ghi mức thuế suất theo quy định của pháp luật thuế xuất khẩu, thuế
+nhập khẩu, thuế tiêu thụ đặc biệt, thuế tài nguyên, thuế sử dụng đất.
+- Cột 5: Thuế xuất khẩu, thuế nhập khẩu, thuế tiêu thụ đặc biệt áp dụng
+phương pháp tính thuế theo tỷ lệ %.
+- Cột 6: Tính thuế xuất khâu, thuế nhập khẩu, thuế tiêu thụ đặc biệt áp dụng
+phương pháp tính thuế tuyệt đối.
+- Cột 7: Tính thuế xuất khâu, thuế nhập khẩu, thuế tiêu thụ đặc biệt phải
+nộp theo quy định của pháp luật thuế.
+- Cột 8: Tính thuế bảo vệ môi trường phải nộp theo quy định của pháp luật
+thuế.
+- Cột 9: Tính thuế tài nguyên phải nộp theo quy định của pháp luật thuế.
+- Cột 10: Tính thuế sử dụng đất phải nộp theo quy định của pháp luật thuế.
+- Cột 11: Tính thuế khác theo quy định của pháp luật thuế.
+Mẫu số S4d-DNSN
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 25 tháng Š năm 2026 của Bộ trưởng Bộ Tài chính)
+SỞ THEO DÕI VỐN CHỦ SỞ HỮU
+Đơn vị tính:.....
+: =.... từ Diễn giải Tăng trong Giảm trong | sá qự
+Số hiệu | Ngày, tháng kỳ kỳ
+4 B C Ẳ bì kj
+hữu
+|
+| 1.1. Số dư đầu kỳ
+|
+|
+<!-- Page Break -->
+# Page 21
+21$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Biểu mẫu số kế toán$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Nội dung$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1_Dc$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm c$md$,$md$Phương pháp ghi sổ$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 2$md$,$md$Lợi nhuận sau thuế |
+chưa phân phối
+Ngoài hóa đơn, bảng kê mua hàng hóa, dịch vụ không có hóa đơn, doanh
+nghiệp siêu nhỏ có thể lựa chọn sử dụng các chứng từ kế toán theo danh mục
+sau đây:
+STT | Tên chứng từ kế toán | Ký hiệu
+I |Phiếuthu | Mẫu số 01-TT
+2 |Phiểu chỉ | Mẫu số 02-TT
+3 | Phiếu nhập kho | Mẫu số 01-VT
+4 | Phiếu xuất kho | Mẫu số 02-VT
+<!-- Page Break -->
+# Page 22
+22
+Mẫu số 01-TT
+(Kèm theo Thông tư số Š8/⁄2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+PHIẾU THU
+Ngày..... tháng..... năm.
+Họ và tên người nộp tiền:
+Địa chỉ:.........................
+Ngày... tháng ... năm...
+GIÁM ĐÓC __ KÉTOÁNTRƯỞNG NGƯỜI NỌPTIỀN THỦQUỸ
+(Ký, ghỉ rõ họ tên, đóng dấu) (Ký, ghỉ rõ họ tên) (Ký, ghi rõ họ tên) (Ký, họ tên)
+Đã nhận đủ số tiền (viết bằng chữ):..
+Chứng từ này được lập đẻ phản ánh só tiền mặt thực tế nhập quỹ và làm
+căn cứ để ghi số chỉ tiết tiền. Mọi khoản tiền mặt nhập quỹ đều phải có Phiếu
+thu.
+c©) Phương pháp lập
+- Phiếu thu phải ghi rõ tên doanh nghiệp và địa chỉ của doanh nghiệp; Ghi
+rõ họ, tên, địa chỉ người nộp tiền.
+- Dòng “Lý do nộp" ghi rõ nội dung nộp tiền như: Thu tiền bán hàng hoá,
+sản phẩm, thu tiền tạm ứng còn thừa,...
+- Dòng “Số tiền": Ghi bằng số và bằng chữ số tiền nộp vào quỹ, ghi rõ đơn
+vị tính là đồng Việt Nam,...
+- Dòng tiếp theo ghỉ số lượng chứng từ gốc kèm theo Phiếu thu.
+Mẫu số 02-TT
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+PHIẾU CHI
+tháng..... năm..
+Địa ch
+<!-- Page Break -->
+# Page 23
+2
+Kèm theo . . Chứng từ gôc:
+Ngày ... tháng ... năm ...
+GIÁM ĐÓC KẾ TOÁN TRƯỞNG THỦ QUỸ _ NGƯỜI NHẬN TIỀN
+(Ký, ghi rõ họ tên, đóng dấu) (Ký, ghỉ rõ họ tên) (Ký, họ tên) (Ký. ghỉ rõ họ tên)
+Chứng từ này được lập để phản ánh các khoản tiền mặt thực tế xuất quỹ và
+làm căn cứ để đẻ ghi số chỉ tiết tiền.
+~ Phiếu chỉ phải ghi rõ tên doanh nghiệp và địa chỉ của doanh nghiệp; Ghi
+rõ họ, tên, địa chỉ người nhận tiên.
+- Dòng “Lý do chỉ" ghi rõ nội dung chỉ tiền.
+- Dòng “Số tiền": Ghi bằng số hoặc bằng chữ só tiền xuất quỹ, ghỉ rõ đơn
+vị tính là đồng Việt Nam,...
+- Dòng tiếp theo ghi số lượng chứng từ gốc kèm theo Phiếu chỉ.
+Mẫu số 01-VT
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 25 tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+PHIẾU NHẬP KHO
+- Họ và tên người giao: .
+- Theo ............. SỐ
+Nhập tại kho: ......
+Tên, nhãn hiệu, quy cách, | mạ | Đơn Sốt | m | dc
+STT phẩm chất vật liệu, dụng cụ, sẽ vị Theo Thực lá tiền
+sản phẩm, hàng hoá tính | chứng từ | nhập s
+A B € | D 1 tị | 3 4
+Cộng x | x |
+- Tổng số tiền (viết bằng chữ
+- Sô chứng từ gôc kèm theo:.
+<!-- Page Break -->
+# Page 24
+24
+Ngày ... tháng ... năm ...
+NGƯỜI GIAO HÀNG THỦ KHO KÉ TOÁN TRƯỞNG
+(Ký, ghỉ rõ họ tên) (Ký, ghỉ rõ họ tên) (Hoặc bộ phận có nhu cầu nhập)
+(Ký, ghỉ rõ họ tên)
+Chứng từ này được lập để theo dõi và phản ánh vật liệu, dụng cụ, sản
+phẩm, hàng hoá nhập kho do mua ngoài, tự sản xuất, thuê ngoài gia công chế
+biến, nhận góp vốn hoặc thừa phát hiện trong kiểm kê làm căn cứ ghỉ số chỉ tiết
+vật liệu, dụng cụ, sản phẩm, hàng hóa, thanh toán tiền hàng, xác định trách
+nhiệm với người có liên quan và ghi số kế toán.
+Góc trên bên trái của Phiếu nhập kho phải ghi rõ tên của đơn vị, bộ phận
+nhập kho. Phiếu nhập kho có thể lập cho một hoặc nhiều loại vật liệu, dụng cụ,
+sản phẩm, hàng hóa cùng nhập tại một kho.
+Khi lập phiếu nhập kho phải ghi rõ số phiếu nhập và ngày, tháng, năm lập
+phiếu; họ tên người giao vật liệu, dụng cụ, sản phẩm, hàng hoá; số hoá đơn hoặc
+lệnh nhập kho; tên kho, địa điểm nhập kho.
+- Cột A, B, C, D: Ghi số thứ tự, tên, nhãn hiệu, qui cách, phẩm chất; mã số
+và đơn vị tính của vật liệu, dụng cụ, sản phẩm, hàng hoá.
+- Cột 1: Ghi số lượng theo chứng từ (hoá đơn hoặc lệnh nhập).
+- Cột 2: Ghi số lượng thực nhập vào kho.
+- Cột 3, 4: Ghi đơn giá và tính ra số tiền của từng loại vật liệu, dụng cụ, sản
+phẩm, hàng hoá thực nhập kho (cột 4 = cột 2 x cột 3).
+- Dòng cộng: Ghi tổng số tiền của các loại vật liệu, dụng cụ, sản phẩm,
+hàng hoá nhập kho.
+- Dòng “Tổng số tiền (viết bằng chữ)”: Ghi tông số tiền trên Phiếu nhập
+kho bằng chữ.
+Mẫu số 02-VT
+(Kèm theo Thông tư số 58/2026/TT-BTC
+ngày 2Š tháng 5 năm 2026 của Bộ trưởng Bộ Tài chính)
+PHIẾU XUÁT KHO
+<!-- Page Break -->
+# Page 25
+25
+~ Họ và tên người nhận hàng: ................. Địa chỉ (bộ phận)c»sssose=sso
+- Lý do xuất kho: .......
+~ Xuât tại kho (ngăn lô):
+Tên, nhãn hiệu, quy cách, ã Đơn SốI
+STT | phẩm chất vật liệu, dụng | 4 | vị | Yêu Thực Đơn | Thành
+cụ, sản phẩm, hàng hoá tính cầu xuất giá tiên
+Fị B is
+Cộng |
+- Tổng số tiền (viết bằng chữ):
+- Sô chứng từ gôc kèm theo:.
+Ngày ... tháng ... năm ...
+NGƯỜI NHẬN THỦ KHO KẾ TOÁN TRƯỞNG GIÁM ĐÓC
+HÀNG (Ký, ghỉ rõ họ tên) (Hoặc bộ phận có nhu (Ký, ghỉ rõ họ tên,
+(Ký, ghỉ rõ họ tên) câu nhập) đóng dâu)
+(Ký, ghỉ rõ họ tên)
+Chứng từ này được lập đẻ theo dõi vật liệu, dụng cụ, sản phẩm, hàng hoá
+xuất kho cho các bộ phận sử dụng trong doanh nghiệp, làm căn cứ để hạch toán
+chỉ phí sản xuất kinh doanh, tính và kiểm tra việc sử dụng, thực hiện định mức
+tiêu hao vật tư.
+Góc bên trái của Phiếu xuất kho phải ghi rõ tên của đơn vị, bộ phận xuất
+kho. Phiếu xuất kho có thể lập cho một hoặc nhiều loại vật liệu, dụng cụ, sản
+phẩm, hàng hoá cùng xuất tại một kho.
+Khi lập phiếu xuất kho phải ghi rõ số phiếu xuất và ngày, tháng, năm lập
+phiếu; họ tên, đơn vị (bộ phận) của người nhận vật liệu, dụng cụ, sản phẩm,
+hàng hoá; lý do xuất kho; tên kho, địa điểm xuất kho.
+- Cột A, B, C, D: Ghi số thứ tự, tên, nhãn hiệu, qui cách, phẩm chất, mã số
+và đơn vị tính của vật liệu, dụng cụ, sản phẩm, hàng hoá.
+- Cột 1: Ghi số lượng vật liệu, dụng cụ, sản phẩm, hàng hoá yêu cầu xuất
+kho.
+- Cột 2: Ghi số lượng vật liệu, dụng cụ, sản phẩm, hàng hoá thực tế xuất
+kho (số lượng thực tế xuất kho chỉ có thể bằng hoặc ít hơn số lượng yêu cầu).
+- Cột 3, 4: Ghi đơn giá và tính thành tiền của từng loại vật liệu, dụng cụ,
+sản phẩm, hàng hoá xuất kho (cột 4 = cột 2 x cột 3).
+- Dòng Cộng: Ghi tổng số tiền của các loại vật liệu, dụng cụ, sản phẩm,
+<!-- Page Break -->
+# Page 26
+26
+hàng hoá thực tế đã xuất kho.
+- Dòng "Tổng số tiền (viết bằng chữ)": Ghi tổng số tiền viết bằng chữ trên
+Phiếu xuất kho.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K3$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 3$md$,$md$Các quỹ thuộc vốn
+chủ sở hữu
+Ngày ... tháng ... năm ...
+NGƯỜI LẬP BIỂU ˆ KÉ TOÁN TRƯỞNG NGƯỜI ĐẠI DIỆN
+(Ký, ghi rõ họ tên) (Ký, ghỉ rõ họ tên) THEO PHÁP LUẬT :
+(Ký, ghi rõ họ tên, đóng dâu)
+Sổ này được mở để theo dõi chỉ tiết tình hình tăng, giảm và số dư các loại
+vốn chủ sở hữu của doanh nghiệp, như vốn góp của chủ sở hữu, lợi nhuận sau
+thuế chưa phân phối, các quỹ thuộc vốn chủ sở hữu.
+- Cột A, B: Ghi số hiệu, ngày, tháng của chứng từ.
+- Cột C: Ghi diễn giải nội dung nghiệp vụ phát sinh.
+- Cột 1: Ghi giá trị các loại vốn chủ sở hữu tăng trong kỳ.
+- Cột 2: Ghi giá trị các loại vốn chủ sở hữu giảm trong kỳ.
+- Cột 3: Ghi giá trị số dư đầu kỳ và số dưcuối kỳ của các loại vốn chủ sở hữu.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K3_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Nội dung$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K3_De$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm e$md$,$md$Phương pháp ghi số$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K3$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Biểu mẫu chứng từ kế toán$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2_Db$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm b$md$,$md$Nội dung$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2_Dc$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm c$md$,$md$Phương pháp lập$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2_De$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm e$md$,$md$Phương pháp lập$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2_D©$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm ©$md$,$md$Phương pháp lập$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều9_K2$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều10$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điều 10. Báo cáo tài chính$md$,$md$Báo cáo tài chính$md$,null,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều10_K1$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Khoản 1$md$,$md$Về trách nhiệm lập và nộp báo cáo tài chính
+tính thuế trên thu nhập tính thuế phải lập báo cáo tài chính theo hướng dẫn tại
+Thông tư này, trừ trường hợp pháp luật có quy định khác.
+Báo cáo tài chính năm của doanh nghiệp siêu nhỏ phải được nộp cho cơ
+quan nhà nước có thâm quyền trong thời hạn 90 ngày, kể từ ngày kết thúc kỳ kế
+toán năm.
+Nơi nhận báo cáo tài chính của doanh nghiệp siêu nhỏ được thực hiện theo
+quy định của pháp luật có liên quan, trường hợp khi báo cáo tài chính của doanh
+nghiệp siêu nhỏ được lưu giữ tại Hệ thống thông tin quốc gia về đăng ký doanh
+nghiệp thì các cơ quan nhận báo cáo tài chính của doanh nghiệp được yêu cầu
+cung cấp thông tin về báo cáo tài chính của doanh nghiệp theo quy định của
+pháp luật.
+hàng hóa, dịch vụ không bắt buộc phải lập báo cáo tài chính để nộp cho cơ quan
+nhà nước có thẩm quyền, trừ trường hợp pháp luật khác có yêu cầu.
+Trường hợp doanh nghiệp siêu nhỏ nộp thuế TNDN theo tỷ lệ % trên doanh
+thu bán hàng hóa, dịch vụ nếu lựa chọn áp dụng chế độ kế toán quy định tại
+Điều 6, Điều 8 Thông tư này đề phục vụ cho nhu cầu quản lý hoạt động sản xuất
+kinh doanh của doanh nghiệp thì vẫn lập báo cáo tài chính nhưng không bắt
+buộc phải nộp cho cơ quan nhà nước có thâm quyền mà được bảo quản, lưu trữ,
+sử dụng tại doanh nghiệp theo quy định và cung cấp thông tin khi có yêu cầu của
+cơ quan nhà nước có thâm quyền.$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều10$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;
+insert into thue.units(unit_id,doc_id,name,content,parent_id,ordinal,valid_from,valid_to) values($md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều10_K1_Da$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611$md$,$md$Điểm a$md$,$md$Hàng năm, doanh nghiệp siêu nhỏ nộp thuế TNDN theo phương pháp$md$,$md$58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611_Điều10_K1$md$,null,$md$2026-07-01$md$,null) on conflict(unit_id) do nothing;

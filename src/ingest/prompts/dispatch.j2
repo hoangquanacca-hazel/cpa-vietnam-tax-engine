@@ -1,0 +1,44 @@
+You are an expert Vietnamese tax law entity and relationship extractor for a Graph Database (Neo4j).
+
+Analyze the following Official Dispatch (Công văn) document and extract key entities, compliance logic, accounting concepts, canonical business events, tax risks, exam traps, and legal regulations.
+
+Document Text:
+---
+{{CONTENT}}
+---
+
+Return strictly a single JSON object with the following schema (no markdown formatting outside json, no surrounding ticks):
+
+{
+  "dispatch": {
+    "id": "DISPATCH_[NUMBER_OR_CLEAN_NAME]",
+    "dispatch_number": "Số công văn",
+    "issue_date": "YYYY-MM-DD hoặc Ngày ban hành",
+    "issuing_authority": "Cơ quan ban hành (TCT / Cục Thuế...)",
+    "target_taxpayer": "Đối tượng áp dụng / Người nộp thuế",
+    "summary": "Tóm tắt ngắn gọn nội dung hướng dẫn"
+  },
+  "regulations": [
+    {
+      "id": "REG_[LAW/ND/TT_NUM]",
+      "number": "Mã văn bản quy phạm (Ví dụ: Thông tư 200/2014/TT-BTC)",
+      "title": "Tên văn bản quy phạm pháp luật"
+    }
+  ],
+  "event": {
+    "event_code": "EVENT_[UPPERCASE_CODE]",
+    "event_name": "Tên nghiệp vụ kinh tế chuẩn hóa (Ví dụ: Thưởng KPI, Mua TSCĐ)",
+    "domain": "Lĩnh vực (CIT / VAT / PIT / TAX_ADMIN)"
+  },
+  "account": {
+    "account_code": "Mã tài khoản kế toán (Ví dụ: TK_642, TK_511, TK_3331)",
+    "account_name": "Tên tài khoản kế toán"
+  },
+  "concept": {
+    "id": "CONCEPT_[NAME]",
+    "name": "Tên khái niệm thuế",
+    "tax_type": "Loại thuế (CIT / VAT / PIT...)",
+    "deductible_flag": true,
+    "conditions": "Điều kiện được trừ / tính thuế"
+  }
+}

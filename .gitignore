@@ -1,0 +1,25 @@
+# React / Node.js
+node_modules/
+build/
+dist/
+coverage/
+
+# Logs & OS System files
+.DS_Store
+*.log
+
+# Environment & Credentials Security (ĐÃ CHẶN .ENV)
+.env*
+!.env.example
+
+# Python Cache & Virtual Environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+
+# Local Scratch / Temp Working Folder
+scratch/

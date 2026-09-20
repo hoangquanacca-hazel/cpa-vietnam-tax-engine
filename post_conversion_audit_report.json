@@ -1,0 +1,921 @@
+{
+  "total_markdown_files": 114,
+  "clean_files": 114,
+  "clean_pct": 100.0,
+  "issue_files": 0,
+  "audit_status": "100% CLEAN & VERIFIED - READY FOR RE-ANCHORING",
+  "details": [
+    {
+      "file": "1225_BTC đối thoại người nộp thuế_TL Hải quan.md",
+      "size_kb": 73.5,
+      "chars": 56706,
+      "lines": 1045,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "1225_BTC đối thoại người nộp thuế_TL Thuế.md",
+      "size_kb": 272.0,
+      "chars": 208203,
+      "lines": 3473,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "141-ndcp.signed.md",
+      "size_kb": 0.4,
+      "chars": 349,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "157_CT_CS_14032025.md",
+      "size_kb": 0.4,
+      "chars": 360,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "20171205-TT-111-2013-TT-BTC.md",
+      "size_kb": 242.7,
+      "chars": 184874,
+      "lines": 4704,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "2025_1323 + 1324_236-2025-NĐ-CP.md",
+      "size_kb": 289.3,
+      "chars": 219845,
+      "lines": 3657,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "2025_1325 + 1326_236-2025-NĐ-CP.md",
+      "size_kb": 202.5,
+      "chars": 157079,
+      "lines": 3246,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "2025_1327 + 1328_236-2025-NĐ-CP.md",
+      "size_kb": 116.4,
+      "chars": 89687,
+      "lines": 1639,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "2026_159_18_2026_TT-BTC.md",
+      "size_kb": 84.1,
+      "chars": 68667,
+      "lines": 2272,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "2026_60_121_2025_TT-BTC.md",
+      "size_kb": 901.4,
+      "chars": 699445,
+      "lines": 18482,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "252-ndcp.signed.md",
+      "size_kb": 423.0,
+      "chars": 320801,
+      "lines": 7197,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "254-ndcp.signed.md",
+      "size_kb": 168.6,
+      "chars": 127036,
+      "lines": 2936,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "267_CT_CS_24032025.md",
+      "size_kb": 0.4,
+      "chars": 360,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "3326_CT-CS.md",
+      "size_kb": 0.4,
+      "chars": 320,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "360-ndcp.signed.md",
+      "size_kb": 46.7,
+      "chars": 35416,
+      "lines": 822,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.md",
+      "size_kb": 0.6,
+      "chars": 566,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "66qhm.signed.md",
+      "size_kb": 28.2,
+      "chars": 21491,
+      "lines": 799,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "68-ndcp.signed.md",
+      "size_kb": 0.4,
+      "chars": 347,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "888_TCT_CS_27022025.md",
+      "size_kb": 0.4,
+      "chars": 365,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "89-btc.signed.md",
+      "size_kb": 1821.3,
+      "chars": 1408099,
+      "lines": 42927,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "90-btc.signed.md",
+      "size_kb": 461.4,
+      "chars": 356497,
+      "lines": 10486,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "90qh.signed.md",
+      "size_kb": 193.1,
+      "chars": 144816,
+      "lines": 3673,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "94-btc.md",
+      "size_kb": 92.9,
+      "chars": 70472,
+      "lines": 2114,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "CD3 Thuế 2025.md",
+      "size_kb": 855.7,
+      "chars": 662893,
+      "lines": 10998,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "CIT law_67qh.signed.md",
+      "size_kb": 0.4,
+      "chars": 372,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Cẩm nang thực hiện Bộ luật lao động tại DN.md",
+      "size_kb": 361.2,
+      "chars": 281617,
+      "lines": 6543,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.md",
+      "size_kb": 17.2,
+      "chars": 13657,
+      "lines": 295,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "HaiquanND167.md",
+      "size_kb": 0.4,
+      "chars": 337,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.md",
+      "size_kb": 0.6,
+      "chars": 536,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat 13GTGT-2008-QH12.md",
+      "size_kb": 24.6,
+      "chars": 18841,
+      "lines": 478,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat 13_THuế GTGT-2008-QH12.md",
+      "size_kb": 0.5,
+      "chars": 413,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat thuế GTGT_48.md",
+      "size_kb": 60.5,
+      "chars": 46582,
+      "lines": 828,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat thuế GTGT_48_VAT.md",
+      "size_kb": 60.5,
+      "chars": 46590,
+      "lines": 828,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat thuế TNCN_109_2025.md",
+      "size_kb": 0.5,
+      "chars": 396,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "luat109-2025.md",
+      "size_kb": 0.4,
+      "chars": 337,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "luat48.md",
+      "size_kb": 60.5,
+      "chars": 46558,
+      "lines": 828,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "luat48_VAT.md",
+      "size_kb": 60.9,
+      "chars": 46937,
+      "lines": 847,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "LuatGTGTND123vehoadon.md",
+      "size_kb": 0.4,
+      "chars": 385,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luathaiquan95VBHN.md",
+      "size_kb": 40.3,
+      "chars": 31362,
+      "lines": 620,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "LuathaiquanND08.md",
+      "size_kb": 0.4,
+      "chars": 352,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luatquanlythue2025VBHN29..md",
+      "size_kb": 262.0,
+      "chars": 200775,
+      "lines": 3812,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luatquanlythue2025_VBHN số 29..md",
+      "size_kb": 262.0,
+      "chars": 200778,
+      "lines": 3812,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "LuatthueGTGTND70suadoiND123.md",
+      "size_kb": 0.4,
+      "chars": 412,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat_109-2025_TNCN_bansach.md",
+      "size_kb": 38.7,
+      "chars": 29697,
+      "lines": 533,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat_48-2024_GTGT_bansach.md",
+      "size_kb": 57.1,
+      "chars": 43991,
+      "lines": 692,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luat_67-2025_TNDN_bansach.md",
+      "size_kb": 61.6,
+      "chars": 47486,
+      "lines": 804,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật 109_QH15 2025 thuế TNCN.md",
+      "size_kb": 41.0,
+      "chars": 31314,
+      "lines": 666,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật 66_thuế tiêu thụ đặc biệt.md",
+      "size_kb": 0.5,
+      "chars": 433,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật 67 thuế TNDN_2025-QH15.md",
+      "size_kb": 65.9,
+      "chars": 50804,
+      "lines": 986,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật 67_Thuế thu nhập doanh nghiệp.md",
+      "size_kb": 0.5,
+      "chars": 461,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật 90qh_Sửa đổi một số luật.md",
+      "size_kb": 0.5,
+      "chars": 408,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật quản lý thuế 2025.md",
+      "size_kb": 8.4,
+      "chars": 6377,
+      "lines": 126,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật quản lý thuế_Thông tư_94.md",
+      "size_kb": 0.5,
+      "chars": 405,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Luật_Hai quan_Nghị định_167.md",
+      "size_kb": 0.5,
+      "chars": 390,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND 181 2025_VAT.md",
+      "size_kb": 170.2,
+      "chars": 129765,
+      "lines": 2737,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND 310 2025_xu phat thue.md",
+      "size_kb": 46.7,
+      "chars": 35554,
+      "lines": 850,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND Giao dịch liên kết 20-cp.signed_2025.md",
+      "size_kb": 0.5,
+      "chars": 472,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND Giao dịch liên kết_132.signed.md",
+      "size_kb": 0.5,
+      "chars": 437,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND80.signed_01_HD luat ho tro SMEs.md",
+      "size_kb": 0.5,
+      "chars": 447,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "ND_320-2025_TNDN_bansach.md",
+      "size_kb": 234.7,
+      "chars": 180657,
+      "lines": 2755,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 08_2015_Hướng dẫn luật hải quan.md",
+      "size_kb": 0.6,
+      "chars": 460,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 123 về hóa đơn, chứng từ.md",
+      "size_kb": 0.6,
+      "chars": 454,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 132_Giao dịch liên kết.md",
+      "size_kb": 0.6,
+      "chars": 469,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 141- sửa nghị định 68 và nghị định 320.md",
+      "size_kb": 0.7,
+      "chars": 528,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 181_Hướng dẫn luật thuế GTGT.md",
+      "size_kb": 0.6,
+      "chars": 471,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 20_2025_gia-giao-dich-lien-ket.md",
+      "size_kb": 17.1,
+      "chars": 13627,
+      "lines": 295,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 20_Giao dịch liên kết_2025.md",
+      "size_kb": 0.6,
+      "chars": 489,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 254-ndcp_Quản lý hóa đơn điện tử.md",
+      "size_kb": 0.6,
+      "chars": 473,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 310_2025 về xử phạt thuế, hóa đơn.md",
+      "size_kb": 0.6,
+      "chars": 496,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 320-NĐ-CP-2025- Hướng dẫn Luật thuế TNDN.md",
+      "size_kb": 249.6,
+      "chars": 192314,
+      "lines": 3186,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 360-ndcp_Hướng dẫn luật thuế tiêu thụ đặc biệt.md",
+      "size_kb": 0.7,
+      "chars": 563,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định 80 về Luật hỗ trợ SMEs.md",
+      "size_kb": 0.6,
+      "chars": 451,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_108_Hướng dẫn Luật thuế tiêu thụ đặc biệt.md",
+      "size_kb": 0.7,
+      "chars": 538,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_218-nd-2013- Hướng dẫn Luật thuế TNDN.md",
+      "size_kb": 0.6,
+      "chars": 526,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.md",
+      "size_kb": 202.5,
+      "chars": 157111,
+      "lines": 3246,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 3.md",
+      "size_kb": 116.5,
+      "chars": 89719,
+      "lines": 1639,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_236-2025-NĐ-CP_xói mòn thuế.md",
+      "size_kb": 289.4,
+      "chars": 219873,
+      "lines": 3657,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_252-ndcp_Hướng dẫn thi hành Luật quản lý thuế.md",
+      "size_kb": 0.7,
+      "chars": 541,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Nghị định_68_2-26_Cá nhân kinh doanh, Hộ kinh doanh.md",
+      "size_kb": 0.6,
+      "chars": 546,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "NĐ108.signed.md",
+      "size_kb": 27.0,
+      "chars": 20379,
+      "lines": 483,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "NĐ_218-nd.md",
+      "size_kb": 101.9,
+      "chars": 77603,
+      "lines": 1797,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.md",
+      "size_kb": 96.8,
+      "chars": 74947,
+      "lines": 2481,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thuế TNDN _320-ndcp.signed.md",
+      "size_kb": 0.5,
+      "chars": 407,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thuế TNDN _Nghị định 320-ndcp.md",
+      "size_kb": 0.5,
+      "chars": 436,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.md",
+      "size_kb": 0.7,
+      "chars": 559,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tu 219_GTGT.md",
+      "size_kb": 264.4,
+      "chars": 204879,
+      "lines": 2976,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư 111_2013_THuế Thu nhập cá nhân.md",
+      "size_kb": 0.6,
+      "chars": 476,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "thông tư 39-2018-btc - tính thuế xuất khẩu.md",
+      "size_kb": 634.2,
+      "chars": 490197,
+      "lines": 11432,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "thông tư 39-2018-btc -Hải quan, thuế xuất khẩu.md",
+      "size_kb": 0.6,
+      "chars": 488,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư 89-btc-hướng dẫn luật quản lý thuế.md",
+      "size_kb": 0.6,
+      "chars": 481,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư 90-btc-hướng dẫn luật quản lý thuế.md",
+      "size_kb": 0.6,
+      "chars": 481,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư 94-btc-Hướng dẫn thi hành luật quản lý thuế.md",
+      "size_kb": 0.6,
+      "chars": 523,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư 99-2025-TT-BTC.md",
+      "size_kb": 0.4,
+      "chars": 395,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư _18_2026_TT-BTC_Quản lý thuế Cá nhân KD, Hộ KD.md",
+      "size_kb": 84.2,
+      "chars": 68738,
+      "lines": 2272,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "Thông tư_121_2025_TT-BTC_Thủ tục hải quan.md",
+      "size_kb": 901.5,
+      "chars": 699470,
+      "lines": 18482,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT-58-2026-TT-BTC TNVN.md",
+      "size_kb": 2.1,
+      "chars": 1770,
+      "lines": 190,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT-58-2026-TT-BTC_Hướng dẫn chế độ kế toán DN siêu nhỏ.md",
+      "size_kb": 2.2,
+      "chars": 1841,
+      "lines": 190,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT-96_2015_TT-BTC.md",
+      "size_kb": 146.6,
+      "chars": 113362,
+      "lines": 1809,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT69HD ND181 ThueGTGT2025.md",
+      "size_kb": 0.4,
+      "chars": 402,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT94.md",
+      "size_kb": 0.3,
+      "chars": 294,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT_103_2014_TT-BTC.md",
+      "size_kb": 89.5,
+      "chars": 70423,
+      "lines": 1440,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "TT_45_2013_TT-BTC.md",
+      "size_kb": 77.0,
+      "chars": 59904,
+      "lines": 1223,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VanBanGoc_nghi-dinh-135-2020-nd-cp-quy-dinh-ve-tuoi-nghi-huu.md",
+      "size_kb": 0.6,
+      "chars": 561,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN 02_2024_PIT.md",
+      "size_kb": 283.7,
+      "chars": 216543,
+      "lines": 4862,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN 15TTLuatQLT1.md",
+      "size_kb": 0.4,
+      "chars": 365,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN 15_Luật quản lý thuế_1.md",
+      "size_kb": 0.5,
+      "chars": 401,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN Luật hải quan_số 95_Từ chương 4 đến hết.md",
+      "size_kb": 40.4,
+      "chars": 31405,
+      "lines": 620,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN Thông tư số_02_2024_Hợp nhất TT luật thuế TNCN.md",
+      "size_kb": 0.6,
+      "chars": 536,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN15 TTHDLuatquanlythue.md",
+      "size_kb": 0.4,
+      "chars": 405,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN15HDLuatQLT3.md",
+      "size_kb": 0.4,
+      "chars": 360,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN15HDTTLuatQLT2.md",
+      "size_kb": 0.4,
+      "chars": 370,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHN15HDTTLuatQLT4.md",
+      "size_kb": 0.4,
+      "chars": 370,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHNTT21btc.md",
+      "size_kb": 0.4,
+      "chars": 332,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    },
+    {
+      "file": "VBHNTT21btc_Hợp nhất thông tư 39 và 60 về hải quan.md",
+      "size_kb": 0.6,
+      "chars": 505,
+      "lines": 15,
+      "has_headers": true,
+      "status": "100% CLEAN & VALID"
+    }
+  ]
+}

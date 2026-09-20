@@ -1,0 +1,77 @@
+// ===============================================================================
+// BATCH INGESTION: {{ batch_name }}
+// GENERATED AT: {{ timestamp }}
+// ===============================================================================
+
+// 1. MERGE CANONICAL BRIDGES (Điểm neo Kế toán & Nghiệp vụ)
+{% for event in events %}
+{% if event and event.event_code %}
+MERGE (event_{{ loop.index }}:CANONICAL_BUSINESS_EVENT {event_code: '{{ event.event_code | replace("'", "\\'") }}'})
+ON CREATE SET event_{{ loop.index }}.event_name = '{{ event.event_name | replace("'", "\\'") }}', event_{{ loop.index }}.domain = '{{ event.domain | replace("'", "\\'") }}';
+{% endif %}
+{% endfor %}
+
+{% for acc in accounts %}
+{% if acc and acc.account_code %}
+MERGE (acc_{{ loop.index }}:ACCOUNTING_CONCEPT {account_code: '{{ acc.account_code | replace("'", "\\'") }}'})
+ON CREATE SET acc_{{ loop.index }}.account_name = '{{ acc.account_name | replace("'", "\\'") }}';
+{% endif %}
+{% endfor %}
+
+// 2. MERGE/CREATE REGULATION & OFFICIAL DISPATCH
+{% for disp in dispatches %}
+{% if disp and disp.id %}
+MERGE (disp_{{ loop.index }}:OFFICIAL_DISPATCH {id: '{{ disp.id | replace("'", "\\'") }}'})
+ON CREATE SET 
+    disp_{{ loop.index }}.dispatch_number = '{{ disp.dispatch_number | replace("'", "\\'") }}',
+    disp_{{ loop.index }}.issue_date = '{{ disp.issue_date | replace("'", "\\'") }}',
+    disp_{{ loop.index }}.issuing_authority = '{{ disp.issuing_authority | replace("'", "\\'") }}',
+    disp_{{ loop.index }}.target_taxpayer = '{{ disp.target_taxpayer | replace("'", "\\'") }}',
+    disp_{{ loop.index }}.summary = '{{ disp.summary | replace("'", "\\'") }}',
+    disp_{{ loop.index }}.legal_status = 'Active';
+{% endif %}
+{% endfor %}
+
+// 3. CREATE PRACTICAL QA, RISKS & TRAPS
+{% for item in qas %}
+{% set qa = item.qa %}
+{% if qa and qa.id %}
+MERGE (qa_{{ loop.index }}:PRACTICAL_QA {id: '{{ qa.id | replace("'", "\\'") }}'})
+ON CREATE SET 
+    qa_{{ loop.index }}.title = '{{ qa.title | replace("'", "\\'") }}',
+    qa_{{ loop.index }}.scenario_description = '{{ qa.scenario_description | replace("'", "\\'") }}',
+    qa_{{ loop.index }}.core_question = '{{ qa.core_question | replace("'", "\\'") }}',
+    qa_{{ loop.index }}.tax_type = '{{ qa.tax_type | replace("'", "\\'") }}',
+    qa_{{ loop.index }}.target_audience = '{{ qa.target_audience | replace("'", "\\'") }}',
+    qa_{{ loop.index }}.tax_conclusion = '{{ qa.tax_conclusion | replace("'", "\\'") }}';
+
+{% if item.risk and item.risk.risk_code %}
+MERGE (risk_{{ loop.index }}:TAX_RISK {risk_code: '{{ item.risk.risk_code | replace("'", "\\'") }}'})
+ON CREATE SET 
+    risk_{{ loop.index }}.risk_level = '{{ item.risk.risk_level | replace("'", "\\'") }}',
+    risk_{{ loop.index }}.penalty_ref = '{{ item.risk.penalty_ref | replace("'", "\\'") }}',
+    risk_{{ loop.index }}.audit_warning = '{{ item.risk.audit_warning | replace("'", "\\'") }}';
+MERGE (qa_{{ loop.index }})-[:HAS_RISK]->(risk_{{ loop.index }});
+{% endif %}
+
+{% if item.trap and item.trap.id %}
+MERGE (trap_{{ loop.index }}:EXAM_TRAP {id: '{{ item.trap.id | replace("'", "\\'") }}'})
+ON CREATE SET 
+    trap_{{ loop.index }}.trap_name = '{{ item.trap.trap_name | replace("'", "\\'") }}',
+    trap_{{ loop.index }}.misconception_detail = '{{ item.trap.misconception_detail | replace("'", "\\'") }}',
+    trap_{{ loop.index }}.CPA_exam_relevance = '{{ item.trap.CPA_exam_relevance | replace("'", "\\'") }}';
+MERGE (qa_{{ loop.index }})-[:HAS_EXAM_TRAP]->(trap_{{ loop.index }});
+{% endif %}
+
+{% if item.event and item.event.event_code %}
+MERGE (event_qa_{{ loop.index }}:CANONICAL_BUSINESS_EVENT {event_code: '{{ item.event.event_code | replace("'", "\\'") }}'})
+MERGE (qa_{{ loop.index }})-[:TRIGGERS_EVENT]->(event_qa_{{ loop.index }});
+{% endif %}
+
+{% if item.dispatch_ref and item.dispatch_ref.id %}
+MERGE (disp_ref_{{ loop.index }}:OFFICIAL_DISPATCH {id: '{{ item.dispatch_ref.id | replace("'", "\\'") }}'})
+MERGE (qa_{{ loop.index }})-[:BASED_ON]->(disp_ref_{{ loop.index }});
+{% endif %}
+
+{% endif %}
+{% endfor %}

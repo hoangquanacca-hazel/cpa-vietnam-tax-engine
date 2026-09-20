@@ -1,0 +1,3246 @@
+# Nghị định_236-2025-NĐ-CP_xói mòn thuế 2
+
+**Nguồn văn bản**: `Thuế tối thiểu toàn cầu, chuyển giá,GDLK\Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.pdf`  
+**Số trang**: 95  
+
+---
+
+<!-- Page 1 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 2 
+  
+VĂN BẢN QUY PHẠM PHÁP LUẬT 
+ 
+CHÍNH PHỦ 
+ 
+Nghị định số 236/2025/NĐ-CP ngày 29 tháng 8 năm 2025 
+quy định chi tiết một số điều của Nghị quyết số 107/2023/QH15  
+ngày 29 tháng 11 năm 2023 của Quốc hội về việc áp dụng thuế thu nhập 
+doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu 
+(Tiếp theo Công báo số 1323 + 1324) 
+ 
+ 
+6. Liên doanh 
+6.1. Thuế bổ sung của tập đoàn liên doanh là thuế phân bổ của c ông ty mẹ tối 
+cao từ phần thuế bổ sung của tất cả các thành viên của tập đoàn liên doanh.  
+6.2. Quy định về thuế tối thiểu toàn cầu áp dụng cho một liên d oanh và các 
+công ty con của liên doanh cho mỗi năm tài chính như sau:  
+6.2.1. Liên doanh và c ác công ty con của liên doanh được xác đị nh là các đơn 
+vị hợp thành của một tập đoàn đa quốc gia riêng biệt và liên do anh được xác định 
+là công ty mẹ tối cao của tập đoàn đa quốc gia đó khi tính khoả n thuế bổ sung của 
+liên doanh và các công ty con củ a liên doanh theo quy định tại Điều 7, Điều 9, 
+
+### Điều 10, Điều 11, Điều 12 và Điều 13 Nghị định này.
+
+6.2.2. Công ty mẹ nắm giữ quyền sở hữu trực tiếp hoặc gián tiếp  t r o n g  l i ê n  
+doanh hoặc công ty con của liên doanh sẽ áp dụng IIR đối với ph ần thuế phân bổ 
+cho công ty mẹ từ thuế bổ sung của một thành viên trong tập đoà n liên doanh theo 
+quy định tại Điều 6, điểm e và điểm g khoản 1 Điều 7 Nghị định này. 
+7. Công ty mẹ tối cao là đơn vị trung chuyển  
+7.1. Thu nhập theo Quy định về thuế tối thiểu toàn cầu trong nă m tài chính của 
+một đơn vị trung chuyển là công ty mẹ tối cao của tập đoàn đa q uốc gia được giảm 
+một khoản bằng thu nhập theo Quy định về thuế tối thiểu toàn cầ u phân bổ cho 
+phần quyền sở hữu trong công ty nếu thuộc một trong ba trường hợp sau:  
+7.1.1. Đối tượng nắm giữ quyền sở  hữu đó phải khai thuế đối với  khoản thu 
+nhập này trong kỳ tính thuế mà kỳ tính thuế đó có thời điểm kết  thúc không muộn 
+hơn 12 tháng kể từ khi kết thúc năm tài chính của tập đoàn đa q uốc gia và đáp ứng 
+một trong hai điều kiện sau: 
+
+<!-- Page 2 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 3 
+ 
+7.1.1.1. Đối tượng nắm giữ quyền sở hữu đó phải chịu thuế đối với toàn bộ thu 
+nhập này theo thuế suất danh n ghĩa bằng hoặc cao hơn thuế suất tối thiểu. Thuế 
+suất danh nghĩa là thuế suất theo quy định của pháp luật đối vớ i đối tượng nắm giữ 
+quyền sở hữu trên phần thu nhập công ty mẹ tối cao phân bổ cho đối tượng này. 
+7.1.1.2. Có căn cứ hợp lý để xác định thuế thuộc phạm vi áp dụn g đã nộp 
+bởi công ty mẹ tối cao và các đơn vị khác của một hệ thống các đơn vị không 
+chịu thuế thu nhập và khoản thuế  mà đối tượng nắm giữ quyền sở hữu phải nộp 
+đối với thu nhập này bằng hoặc cao hơn giá trị của khoản thu nh ập này nhân với 
+thuế suất tối thiểu.  
+7.1.2. Đối tượng nắm giữ quyền sở hữu công ty mẹ tối cao là cá nhân cư trú 
+phải nộp thuế tại nước cư trú của công ty mẹ tối cao (nước nơi công ty mẹ tối cao 
+cư trú) và nắm giữ trực tiếp tổng quyền sở hữu từ 5% trở xuống đối với lợi nhuận 
+và tài sản của công ty mẹ tối cao. 
+7.1.3. Đối tượng nắm giữ quyền sở hữu công ty mẹ tối cao là tổ chức của chính 
+phủ, tổ chức quốc tế, tổ chức phi lợi nhuận hoặc quỹ hưu trí và  là đối tượng cư trú 
+tại nước cư trú của công ty mẹ tối cao nắm giữ tổng quyền sở hữ u từ 5% trở xuống 
+đối với lợi nhuận và tài sản của công ty mẹ tối cao.  
+7.2. Khi tính khoản lỗ theo Quy định về thuế tối thiểu toàn cầu  cho một năm 
+tài chính, một đơn vị trung chuyển là công ty mẹ tối cao của tậ p đoàn đa quốc gia 
+sẽ được giảm khoản lỗ theo Quy định về thuế tối thiểu toàn cầu trong năm tài 
+chính đó bằng khoản lỗ theo Quy định về thuế tối thiểu toàn cầu  tương ứng với 
+phần quyền sở hữu, trừ trường hợp người nắm giữ quyền sở hữu kh ông được phép 
+sử dụng khoản lỗ đó khi tính thu nhập chịu thuế riêng của mình.  
+7.3. Đơn vị trung chuyển giảm thu nhập theo Quy định về thuế tố i thiểu toàn 
+cầu theo quy định tại điểm 7.1 mục này thì giảm thuế thuộc phạm  vi áp dụng 
+tương ứng.  
+7.4. Một cơ sở thường trú được áp dụng quy định từ điểm 7.1 đến  điểm 7.3 
+mục này nếu thuộc một trong hai trường hợp sau:  
+7.4.1. Đơn vị trung chuyển là công ty mẹ tối cao của một tập đo àn đa quốc gia 
+thực hiện toàn bộ hoặc một phần hoạt động kinh doanh của mình t hông qua cơ sở 
+thường trú đó. 
+7.4.2. Đơn vị không chịu thuế thực  hiện một phần hoặc toàn bộ h oạt động 
+kinh doanh thông qua cơ sở thường trú đó và đơn vị không chịu t huế đó được 
+công ty mẹ tối cao sở hữu trực tiếp hoặc thông qua một hệ thống  c á c  đơ n  vị  
+không chịu thuế.  
+
+<!-- Page 3 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 4 
+  
+8. Công ty mẹ tối cao thực hiện cơ chế cho khấu trừ cổ tức  
+8.1. Cơ chế cho khấu trừ cổ tức  là một cơ chế thuế quy định thuế chỉ đánh đối 
+với chủ sở hữu của đơn vị thông qua việc cho phép phần lợi nhuận chia cho chủ sở 
+hữu được giảm trừ vào thu nhập chịu thuế của đơn vị đó. Theo cơ  chế cho khấu trừ 
+cổ tức, các khoản cổ tức hội viên của tổ chức hợp tác kinh doan h được coi là lợi 
+nhuận được chia cho chủ sở hữu. Cơ chế cho khấu trừ cổ tức cũng  bao gồm cơ chế 
+cho tổ chức hợp tác kinh doanh được miễn thuế thu nhập. 
+8.2. Tổ chức hợp tác kinh doanh là một tổ chức thay mặt cho các  thành viên 
+mua hoặc bán hàng hóa, dịch vụ và  phải tuân theo một cơ chế thu ế tại nước nơi tổ 
+chức hợp tác kinh doanh cư trú được quy định đảm bảo không ảnh hưởng đến 
+nghĩa vụ thuế đối với tài sản hoặc dịch vụ của các thành viên đ ược mua và bán 
+thông qua tổ chức hợp tác này. 
+8.3. Cổ tức được khấu trừ  đối với một đơn vị hợp thành thuộc đối tượng áp 
+dụng cơ chế cho khấu trừ cổ tức là: 
+8.3.1. Phần lợi nhuận được chia cho người nắm giữ quyền sở hữu và phần lợi 
+nhuận này được trừ khỏi thu nhập chịu thuế của đơn vị hợp thành  theo luật tại 
+nước tổ chức đó cư trú. 
+8.3.2. Khoản cổ tức hội viên chia cho thành viên của tổ chức hợp tác kinh doanh. 
+8.4. Khi tính thu nhập hoặc lỗ theo Quy định về thuế tối thiểu toàn cầu cho một 
+năm tài chính, công ty mẹ tối cao được áp dụng cơ chế cho khấu trừ cổ tức sẽ được 
+giảm trừ thu nhập theo Quy định về thuế tối thiểu toàn cầu tron g năm tài chính đó 
+bằng khoản tương đương cổ tức đ ược khấu trừ được chia trong vòn g 12 tháng kể 
+từ khi kết thúc năm tài chính (nhưng kết quả sau khi giảm trừ k hông nhỏ hơn 0 
+(không)) nếu thuộc một trong ba trường hợp sau:  
+8.4.1. Khoản cổ tức đó phải chịu thuế bởi đối tượng nhận cổ tức  trong kỳ tính 
+thuế mà kỳ tính thuế đó có thời điểm kết thúc không muộn hơn 12  tháng kể từ 
+ngày kết thúc năm tài chính của công ty mẹ tối cao và đảm bảo m ột trong các điều 
+kiện sau:  
+8.4.1.1. Đối tượng nhận cổ tức phải chịu thuế đối với cổ tức đó  theo thuế suất 
+danh nghĩa bằng hoặc lớn hơn thuế suất tối thiểu. 
+8.4.1.2. Có căn cứ hợp lý để xác định tổng của các khoản thuế t huộc phạm vi 
+áp dụng đã nộp bởi công ty mẹ tối cao và khoản thuế do đối tượn g nhận cổ tức 
+phải nộp đối với khoản cổ tức đó bằng hoặc lớn hơn giá trị của toàn bộ thu nhập 
+này nhân với thuế suất tối thiểu. 
+
+<!-- Page 4 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 5 
+ 
+8.4.1.3. Đối tượng nhận cổ tức l à một cá nhân và cổ tức là cổ t ức hội viên từ 
+một tổ chức hợp tác kinh doanh là bên cung ứng. 
+8.4.2. Đối tượng nhận cổ tức là cá nhân cư trú phải nộp thuế tạ i nước cư trú 
+của công ty mẹ tối cao và nắm giữ tổng quyền sở hữu từ 5% trở x uống đối với lợi 
+nhuận và tài sản của công ty mẹ tối cao.  
+8.4.3. Đối tượng nhận cổ tức là đối tượng cư trú phải nộp thuế tại nước cư trú 
+của công ty mẹ tối cao và là tổ chức của chính phủ, tổ chức quố c tế, tổ chức phi lợi 
+nhuận hoặc quỹ hưu trí không phải là tổ chức dịch vụ hưu trí. 
+8.5. Công ty mẹ tối cao khi thực hiện giảm trừ thu nhập theo Qu y định về thuế 
+tối thiểu toàn cầu theo điểm 8.4 mục này thì giảm thuế thuộc ph ạm vi áp dụng theo 
+tỷ lệ (trừ các khoản thuế được phép khấu trừ cổ tức, bao gồm th uế áp dụng trên lợi 
+nhuận để lại và vốn chủ sở hữu), đồng thời giảm thu nhập theo Q uy định về thuế 
+tối thiểu toàn cầu bằng một khoản tương ứng.  
+8.6. Nếu công ty mẹ tối cao nắm giữ quyền sở hữu trong một đơn vị hợp thành 
+khác đang thực hiện cơ chế cho khấu trừ cổ tức (trực tiếp hoặc thông qua một 
+chuỗi các đơn vị hợp thành cũng thực hiện cơ chế cho khấu trừ cổ tức) thì điểm 8.4 
+và điểm 8.5 mục này sẽ áp dụng c ho từng đơn vị hợp thành cư trú  tại nước cư trú 
+của công ty mẹ tối cao tuân theo cơ chế cho khấu trừ cổ tức tro ng phạm vi thu 
+nhập theo Quy định về thuế tối thiểu toàn cầu được công ty mẹ t ối cao phân phối 
+thêm cho những đối tượng nhận cổ tức mà đáp ứng các điều kiện t heo quy định tại 
+điểm 8.4 mục này.  
+8.7. Cổ tức hội viên từ một tổ chức hợp tác là bên cung ứng sẽ phải chịu thuế 
+khi phần cổ tức này làm giảm một khoản chi phí được khấu trừ kh i tính thu nhập 
+chịu thuế của hội viên nhận cổ t ức. Quy định này áp dụng với tấ t cả hội viên nhận 
+cổ tức, trừ hội viên là cá nhân. 
+9. Quy định thuế đối với việc phân chia thu nhập hợp lệ 
+9.1. Quy định thuế đối với phân chia thu nhập hợp lệ là quy địn h về thuế thu 
+nhập doanh nghiệp đảm bảo các điều kiện sau: 
+9.1.1. Thu nhập của công ty chỉ phải chịu thuế khi công ty đó p hân phối lợi 
+nhuận cho các cổ đông hoặc khi công ty được xem là đã phân chia  lợi nhuận cho 
+các cổ đông hoặc khi công ty có phát sinh các khoản chi phí khô ng liên quan đến 
+hoạt động kinh doanh; thuế đối với phân chia thu nhập hợp lệ kh ô n g  b a o  g ồ m  
+khoản thuế công ty phải chịu đối với lợi nhuận được phân phối m ặc dù các khoản 
+thuế này được công ty phân phối lợi nhuận giữ lại và khấu trừ. 
+
+<!-- Page 5 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 6 
+  
+9.1.2. Thuế suất được áp dụng bằng hoặc cao hơn thuế suất tối thiểu. 
+Trường hợp nước của công ty phân phối lợi nhuận áp dụng thuế su ất danh 
+nghĩa nhưng có quy định trước khi áp dụng thuế suất danh nghĩa, phải cộng số thuế 
+của các khoản lợi nhuận được phâ n phối để phản ánh thu nhập gộp  trước thuế thì 
+thuế suất theo quy định là thuế suất sau khi áp dụng cộng gộp.  
+9.1.3. Các quy định này có hiệu lực vào hoặc trước ngày 01 tháng 7 năm 2021. 
+9.2. Trường hợp đơn vị hợp thà nh phải tuân theo Quy định thuế đ ối với việc 
+phân chia thu nhập hợp lệ, đơn vị hợp thành chịu trách nhiệm kê  khai có thể thực 
+hiện lựa chọn theo quy định về lựa chọn hằng năm để cộng thêm m ột khoản thuế 
+đối với các khoản được xác định là lợi nhuận đã phân chia theo quy định tại điểm 9.4 
+Mục này vào thuế thuộc phạm vi á p dụng đã được điều chỉnh trong  năm tài chính. 
+Việc lựa chọn theo điểm này được  áp dụng cho tất cả các đơn vị hợp thành tại 
+một nước.  
+9.3. Thuế đối với các khoản được  xác định là lợi nhuận đã phân chia sẽ bằng 
+một trong hai khoản sau nếu khoản nào có giá trị nhỏ hơn:  
+9.3.1. Khoản cần phải tăng thêm đ ể thuế suất thực tế theo quy đ ịnh tại điểm b 
+khoản 1 Điều 7 Nghị định này tại một nước trong năm tài chính b ằng mức thuế 
+suất tối thiểu. 
+9.3.2. Khoản thuế đối với khoản được phân chia sẽ phải trả nếu các đơn vị hợp 
+thành cư trú tại nước đó thực hiện phân chia tất cả thu nhập tu ân theo Quy định 
+thuế đối với việc phân chia thu nhập hợp lệ trong năm đó.  
+9.4. Khi lựa chọn thực hiện theo quy định tại điểm 9.3 mục này cho mỗi năm 
+tài chính, sẽ phải lập một tài khoản thu hồi thuế đối với lợi n huận được xác định là 
+đã chia. Khoản thuế đối với các khoản được xác định là lợi nhuận đã phân chia xác 
+định theo quy định tại điểm 9.4 mục này tại một nước được ghi t ăng vào tài khoản 
+thu hồi thuế đối với lợi nhuận được xác định là đã chia trong n ăm tài chính mà tài 
+khoản đó được lập. Vào cuối mỗi năm tài chính tiếp theo, số dư của các tài khoản 
+thu hồi thuế đối với lợi nhuận được xác định là đã chia đã được lập cho các năm tài 
+chính trước đó thì được ghi giảm lần lượt theo thứ tự các khoản  dưới đây với điều 
+kiện giá trị sau khi giảm không nhỏ hơn 0 (không): 
+9.4.1. Thứ nhất, khoản thuế đã nộp của các đơn vị hợp thành tro n g  n ă m  t à i  
+chính đối với thu nhập thực tế đã phân chia hoặc được xác định là đã phân chia. 
+9.4.2. Thứ hai, khoản tiền được tính bằng lỗ ròng theo Quy định  về thuế tối 
+thiểu toàn cầu của nước đó nhân với thuế suất tối thiểu.  
+
+<!-- Page 6 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 7 
+ 
+9.4.3. Thứ ba, khoản chuyển lỗ t hu hồi áp dụng trong năm tài ch ính hiện tại 
+theo quy định tại điểm 9.5 mục này.  
+9.5. Khoản chuyển lỗ thu hồi được  lập cho một nước khi khoản ti ền được quy 
+định tại điểm 9.4.2 mục này vượ t quá số dư của tài khoản thu hồ i thuế đối với lợi 
+nhuận được xác định là đã chia. Khoản chuyển lỗ thu hồi sẽ bằng  số vượt quá đó 
+và được tính vào các năm tài chính tiếp theo như một khoản giảm  trừ đối với tài 
+khoản thu hồi thuế đối với lợi nhuận được xác định là đã chia t rong các năm tài 
+chính đó. Khi khoản này được tí nh vào năm tài chính tiếp theo, khoản chuyển lỗ 
+thu hồi phải được giảm đúng bằng số tương ứng. 
+9.6. Vào ngày cuối cùng của năm tài chính thứ tư kể từ năm tài chính mà tài 
+khoản thu hồi thuế đối với lợi nhuận được xác định là đã chia đ ược lập, nếu vẫn 
+còn số dư trên tài khoản (được xác định theo quy định tại điểm 9.4 mục này), thì 
+thuế suất thực tế và thuế bổ sung của năm tài chính mà tài khoả n đó được lập phải 
+được tính lại theo quy định tại điểm d khoản 1 Điều 7 Nghị định này. Khi đó, số dư 
+của tài khoản này được giảm trừ vào các thuế thuộc phạm vi áp d ụng đã được điều 
+chỉnh được xác định tại năm tài chính.  
+9.7. Các khoản thuế đã nộp trong năm tài chính liên quan đến cá c khoản thu 
+nhập phân chia thực tế hoặc được  xác định là đã phân chia không  được cộng vào 
+các khoản thuế thuộc phạm vi áp dụng đã được điều chỉnh trong t rường hợp các 
+khoản thuế này đã được ghi giảm vào tài khoản thu hồi thuế đối với lợi nhuận 
+được xác định là đã chia theo quy định tại điểm 9.4 mục này.  
+9.8. Trong năm tài chính mà một đơn vị thuộc đối tượng lựa chọn  theo quy 
+định tại điểm 9.3 nêu trên và r ời khỏi tập đoàn đa quốc gia hoặ c chuyển nhượng 
+hầu hết tất cả tài sản của mình cho một đối tượng không phải là  đơn vị hợp thành 
+của tập đoàn đa quốc gia đó tại cùng một nước, thì thuế suất th ực tế, thuế bổ sung 
+của tập đoàn và thuế bổ sung được điều chỉnh như sau: 
+9.8.1. Đối với mỗi năm tài chính trước năm tài chính mà đơn vị không còn là 
+thành viên của tập đoàn, trường hợp trên tài khoản thu hồi thuế  đối với lợi nhuận 
+được xác định là đã chia của tập  đoàn tại nước đó được lập cho năm liên quan vẫn 
+còn số dư thì thuế suất thực tế và thuế bổ sung của năm lập tài  khoản sẽ được tính 
+lại theo các nguyên tắc quy định tại điểm d khoản 1 Điều 7 Nghị  định này. Khi đó 
+số dư của tài khoản thu hồi thuế đối với lợi nhuận được xác địn h là đã chia được 
+giảm trừ vào khoản thuế thuộc phạm vi áp dụng đã được điều chỉn h đã được xác 
+định cho từng năm tài chính liên quan. 
+9.8.2. Số tiền thuế bổ sung tăng thêm do tính lại sẽ được nhân với tỷ lệ thanh 
+lý thu hồi để xác định thuế bổ sung được điều chỉnh của năm hiện hành.  
+
+<!-- Page 7 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 8 
+  
+Sau khi áp dụng quy định tại điểm này, tài khoản thu hồi thuế đ ố i  v ớ i  l ợ i  
+nhuận được xác định là đã chia, thu nhập theo Quy định về thuế tối thiểu toàn cầu, 
+thuế thuộc phạm vi áp dụng đã được điều chỉnh, giá trị tài sản hữu hình và tiền 
+lương được giảm trừ theo Quy định về thuế tối thiểu toàn cầu đố i với các năm tài 
+chính có tài khoản thu hồi thuế đối với lợi nhuận được xác định  là đã chia sẽ phải 
+giảm theo tỷ lệ tương ứng với tỷ lệ thanh lý thu hồi. 
+9.9. Tỷ lệ thanh lý thu hồi được xác định cho mỗi đơn vị không còn là thành 
+viên được xác định theo công thức sau: 
+Tỷ lệ thanh lý thu hồi 
+Thu nhập theo Quy định về thuế tối thiểu toàn cầu của đơn vị hợp thành 
+=  
+Thu nhập ròng tại một nước 
+Trong đó:  
+9.9.1. Thu nhập theo Quy định về thuế tối thiểu toàn cầu của đơ n vị hợp thành 
+là tổng thu nhập theo Quy định về thuế tối thiểu toàn cầu của đ ơn vị không còn là 
+thành viên được xác định theo quy định tại điểm c.1 khoản 1 Điề u 7 Nghị định này 
+cho mỗi năm tài chính tương ứng với tài khoản thu hồi thuế đối với lợi nhuận được 
+xác định là đã chia tại một nước;  
+9.9.2. Thu nhập ròng tại một nước là tổng thu nhập ròng theo Quy định về thuế 
+tối thiểu toàn cầu tại một nước cho mỗi năm tài chính tương ứng  với tài khoản thu 
+hồi thuế đối với lợi nhuận được xác định là đã chia tại nước đó. 
+9.10. Trường hợp đơn vị hợp thà nh phải tuân theo Quy định thuế đối với việc 
+phân chia thu nhập hợp lệ thì không được áp dụng quy định về lự a chọn lỗ theo 
+Quy định về thuế tối thiểu toàn cầu quy định tại điểm 10 mục II Phụ lục này. 
+10. Tính thuế suất thực tế đối với các đơn vị đầu tư 
+10.1. Đơn vị đầu tư là:  
+10.1.1. Một quỹ đầu tư, một đơn vị đầu tư bất động sản hoặc một đơn vị đầu tư 
+bảo hiểm. 
+10.1.2. Một đơn vị có ít nhất 95% giá trị của đơn vị đó thuộc s ở hữu trực tiếp 
+bởi một đơn vị được quy định tại điểm 10.1.1 mục này hoặc thông  qua một hệ 
+thống các quỹ đầu tư, tổ chức đầu tư bất động sản đó và đơn vị này hoạt động chỉ 
+hoặc gần như chủ yếu để nắm giữ tài sản hoặc đầu tư vốn phục vụ  lợi ích của các 
+đơn vị đầu tư đó. 
+10.1.3. Một đơn vị có ít nhất 85% giá trị của đơn vị đó thuộc s ở hữu bởi một 
+đơn vị được quy định tại điểm 10.1.1 mục này với điều kiện là h ầu hết thu nhập 
+
+<!-- Page 8 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 9 
+ 
+của đơn vị là cổ tức được loại trừ hoặc là các khoản lãi hoặc lỗ trên vốn chủ sở hữu 
+được loại trừ khi tính toán thu nhập hoặc lỗ theo Quy định về t huế tối thiểu toàn 
+cầu theo quy định tại điểm 4.1.2 hoặc điểm 4.1.3 mục II Phụ lục này. 
+10.2. Quỹ đầu tư là quỹ đáp ứng tất cả các tiêu chí sau đây:  
+10.2.1. Được thành lập để tập hợp các tài sản (có thể là tài sả n tài chính và tài 
+sản phi tài chính) từ một số nhà đầu tư (trong đó phải có một s ố nhà đầu tư không 
+có mối quan hệ liên kết). 
+10.2.2. Đầu tư theo một chính sách đầu tư xác định trước. 
+10.2.3. Cho phép các nhà đầu tư giảm  chi phí giao dịch, nghiên cứu và phân 
+tích hoặc phân tán rủi ro chung. 
+10.2.4. Được thiết lập chủ yếu để tạo ra thu nhập hoặc lợi nhuậ n đầu tư hoặc 
+nhằm phòng ngừa một sự kiện, một kết quả chung hoặc cụ thể. 
+10.2.5. Nhà đầu tư có quyền thu hồi vốn từ tài sản của quỹ hoặc  được hưởng 
+thu nhập phát sinh từ các tài sản đó, dựa trên phần đóng góp của các nhà đầu tư đó. 
+10.2.6. Đơn vị hoặc ban quản lý của đơn vị phải chịu điều chỉnh  bởi quy định 
+của pháp luật của nước nơi đơn vị được thành lập hoặc quản lý ( bao gồm quy định 
+liên quan về chống rửa tiền và bảo hộ nhà đầu tư). 
+10.2.7. Được quản lý bởi các nhà quản lý quỹ đầu tư chuyên nghi ệp, thay mặt 
+cho các nhà đầu tư. 
+10.3. Đơn vị đầu tư bảo hiểm là một đơn vị đáp ứng các quy định  về quỹ đầu 
+tư hoặc là tổ chức đầu tư bất động sản, được thành lập có liên quan đến các khoản 
+nợ theo hợp đồng bảo hiểm hoặc hợp đồng niên kim và đơn vị này thuộc sở hữu 
+của một đơn vị được xác định là công ty bảo hiểm theo các quy đ ịnh tại nước nơi 
+đơn vị sở hữu cư trú (bao gồm cả trường hợp đơn vị đầu tư bảo h iểm được sở hữu 
+bởi một đơn vị trung chuyển được xác định là công ty bảo hiểm t heo quy định). 
+Một đơn vị đầu tư bảo hiểm có thể được sở hữu toàn bộ bởi một đ ơn vị hoặc bởi 
+một số đơn vị cùng thuộc một tập đoàn đa quốc gia. Đơn vị đầu t ư bảo hiểm được 
+loại trừ khỏi quy định về xác định công ty mẹ trung gian. 
+10.4. Tổ chức đầu tư bất động sản là một tổ chức nắm giữ tài sả n chủ yếu là 
+bất động sản và tổ chức này thuộc sở hữu của nhiều nhà đầu tư. Tổ chức đầu tư bất 
+động sản có thu nhập chỉ bị đánh thuế một lần với tính chất là thu nhập của tổ chức 
+đầu tư bất động sản hoặc là thu nhập được chia cho đối tượng nắ m giữ quyền sở 
+hữu tổ chức đầu tư bất động sả n đó (chậm nhất trong vòng một nă m tiếp theo). 
+
+<!-- Page 9 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 10 
+  
+Trường hợp đối tượng nắm giữ quyền sở hữu là một đơn vị không có nghĩa vụ thuế 
+thì điều kiện chỉ bị đánh thuế một lần không được đáp ứng vào n ăm mà thu nhập 
+phân bổ cho nhà đầu tư có thể được miễn thuế, tuy nhiên vẫn đáp  ứng quy định về 
+tổ chức đầu tư bất động sản. 
+10.5. Đơn vị hợp thành là đơn vị đầu tư phải xác định thuế suất  thực tế theo 
+quy định tại điểm này, trừ các đơn vị đầu tư là các đơn vị không chịu thuế thu nhập 
+hoặc đối tượng được lựa chọn quy định tại điểm 11 hoặc điểm 12 mục này.  
+10.6. Thuế suất thực tế của một đơn vị đầu tư là một đơn vị hợp  thành của một 
+tập đoàn sẽ được tính riêng khi tính thuế suất thực tế theo tập đoàn tại quốc gia nơi 
+đơn vị đầu tư đó cư trú. Thuế suất thực tế cho mỗi đơn vị đầu t ư được xác định 
+bằng các khoản thuế thuộc phạm vi áp dụng đã được điều chỉnh củ a đơn vị đầu tư 
+chia cho phần thu nhập theo Quy định về thuế tối thiểu toàn cầu  của đơn vị đầu tư 
+này được tính theo quy định tại điểm c.1 khoản 1 Điều 7 Nghị đị nh này phân bổ 
+cho tập đoàn đa quốc gia. Trường hợp có nhiều hơn một đơn vị đầ u tư cư trú tại 
+một nước, số thuế thuộc phạm vi áp dụng đã được điều chỉnh và p hần thu nhập 
+theo Quy định về thuế tối thiểu toàn cầu của mỗi đơn vị đầu tư được phân bổ cho 
+tập đoàn đa quốc gia được tổng hợ p để tính thuế suất thực tế củ a tất cả các đơn vị 
+đầu tư tại nước đó. 
+10.7. Thuế thuộc phạm vi áp dụng đã được điều chỉnh của đơn vị đầu tư được 
+xác định bằng tổng các khoản thuế  thuộc phạm vi áp dụng đã được  điều chỉnh 
+được xác định cho đơn vị đầu tư theo quy định tại điểm b.2 khoả n 1 Điều 7 Nghị 
+định này tương ứng với phần thu nhập theo Quy định về thuế tối thiểu toàn cầu của 
+đơn vị đầu tư phân bổ cho tập đoà n đa quốc gia và các khoản thu ế thuộc phạm vi 
+áp dụng được phân bổ cho đơn vị đầu tư theo quy định tại điểm 3  mục này. Thuế 
+thuộc phạm vi áp dụng đã được điều chỉnh của đơn vị đầu tư khôn g bao gồm bất 
+kỳ khoản thuế thuộc phạm vi áp dụng nào của đơn vị đầu tư tính trên khoản thu 
+nhập không phải là phần thu nhập theo Quy định về thuế tối thiểu toàn cầu của đơn 
+vị đầu tư được phân bổ cho tập đoàn đa quốc gia.  
+10.8. Phần thu nhập theo Quy định về thuế tối thiểu toàn cầu củ a đơn vị đầu tư 
+phân bổ cho tập đoàn đa quốc gi a được xác định bằng phần phân b ổ từ thu nhập 
+hoặc lỗ theo Quy định về thuế tối thiểu toàn cầu của đơn vị đầu  tư cho công ty mẹ 
+tối cao theo các quy định về tỷ lệ phân bổ cho công ty mẹ đối v ới đơn vị hợp thành 
+chịu thuế suất thấp trong năm tài chính theo quy định tại điểm e khoản 1 Điều 7 
+Nghị định này, chỉ căn cứ trên quyền sở hữu mà không phải thực hiện việc lựa 
+chọn theo quy định tại điểm 11 hoặc điểm 12 mục này. 
+
+<!-- Page 10 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 11 
+ 
+10.9. Thuế bổ sung của đơn vị hợp  thành là đơn vị đầu tư được x ác định bằng 
+tỷ lệ thuế bổ sung của đơn vị đầu tư nhân với phần thu nhập theo Quy định về thuế 
+tối thiểu toàn cầu của đơn vị đầu tư sau khi đã trừ đi giá trị tài sản hữu hình và tiền 
+lương được giảm trừ theo Quy định về thuế tối thiểu toàn cầu củ a đơn vị đầu tư. 
+Tỷ lệ thuế bổ sung của một đơn vị đầu tư sẽ là tỷ lệ phần trăm chênh lệch dương 
+giữa thuế suất tối thiểu và thuế suất thực tế của đơn vị đầu tư. Trường hợp có nhiều 
+đơn vị đầu tư cư trú tại một nước, phần thu nhập theo Quy định về thuế tối thiểu 
+toàn cầu của đơn vị đầu tư và các khoản giá trị tài sản hữu hìn h và tiền lương được 
+giảm trừ theo Quy định về thuế tối thiểu toàn cầu của từng đơn vị đầu tư được tổng 
+hợp để tính thuế bổ sung của tất cả các đơn vị đầu tư tại nước đó.  
+10.10. Giá trị tài sản hữu hình và tiền lương được giảm trừ the o Quy định về 
+thuế tối thiểu toàn cầu một đơn vị đầu tư được xác định theo qu y định tại điểm c.2 
+khoản 1 Điều 7 Nghị định này và không áp dụng quy định loại trừ  đối với đơn vị 
+đầu tư. Giá trị tài sản hữu hình  và tiền lương được giảm trừ th eo Quy định về thuế 
+tối thiểu của một đơn vị đầu tư chỉ tính đối với tài sản hữu hì nh hợp lệ và chi tiền 
+lương hợp lệ trả cho các người làm công hợp lệ của các đơn vị đầu tư. 
+11. Lựa chọn đơn vị đầu tư không chịu thuế thu nhập 
+11.1. Đơn vị hợp thành chịu trách nhiệm kê khai có thể lựa chọn  xác định một 
+đơn vị hợp thành là đơn vị đầu tư là đơn vị không chịu thuế thu  nhập trong trường 
+hợp nước cư trú của chủ sở hữu của đơn vị đầu tư đó quy định ch ủ sở hữu này phải 
+chịu thuế đối với phần chênh lệch đánh giá lại hàng năm giá trị  hợp lý của quyền 
+sở hữu theo cơ chế điều chỉnh theo giá thị trường hoặc cơ chế tương tự và thuế suất 
+áp dụng đối với thu nhập của chủ sở hữu này bằng hoặc lớn hơn thuế suất tối thiểu.  
+11.2. Một đơn vị bảo hiểm tương hỗ cũng có quyền lựa chọn theo quy định tại 
+điểm 11.1 mục này đối với các đơn vị đầu tư mà đơn vị bảo hiểm tương hỗ này 
+kiểm soát. 
+11.3. Một đơn vị hợp thành gián tiếp sở hữu một đơn vị đầu tư t hông qua 
+quyền sở hữu trực tiếp trong một đơn vị đầu tư khác, nếu đơn vị  đầu tư thứ nhất 
+phải tuân theo cơ chế điều chỉnh theo thị trường hoặc cơ chế tư ơng tự đối với 
+quyền sở hữu trực tiếp trong đơn vị đầu tư thứ hai thì đơn vị h ợp thành đó sẽ được 
+xác định là phải chịu thuế theo cơ chế điều chỉnh theo giá thị trường hoặc cơ chế 
+tương tự đối với quyền sở hữu gián tiếp trong đơn vị đầu tư thứ nhất. 
+11.4. Lựa chọn theo điểm này áp dụng theo quy định về lựa chọn 5 năm. Nếu 
+việc lựa chọn bị chấm dứt, lãi hoặc lỗ từ việc thanh lý tài sản  hoặc các khoản nợ 
+phải trả do đơn vị đầu tư nắm giữ được xác định dựa trên giá tr ị hợp lý của tài sản 
+hoặc nợ phải trả vào ngày đầu tiên của năm chấm dứt việc lựa chọn đó.  
+
+<!-- Page 11 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 12 
+  
+12. Lựa chọn phương pháp áp dụng quy định thuế đối với việc phâ n chia 
+thu nhập 
+12.1. Đơn vị hợp thành chịu trách nhiệm kê khai có thể lựa chọn  chủ sở hữu 
+đơn vị hợp thành mà chủ sở hữu đó không phải là đơn vị đầu tư có thể áp dụng quy 
+định thuế đối với việc phân chia thu nhập đối với quyền sở hữu trong đơn vị hợp 
+thành là đơn vị đầu tư nếu có căn cứ hợp lý để xác định chủ sở hữu đơn vị hợp 
+thành phải chịu thuế đối với các khoản phân chia thu nhập từ đơ n vị đầu tư với 
+thuế suất bằng hoặc lớn hơn thuế suất tối thiểu.  
+12.2. Phương pháp áp dụng quy định thuế đối với việc phân chia thu nhập 
+như sau: 
+12.2.1. Các khoản phân chia và các khoản được coi là đã phân chia từ thu nhập 
+theo Quy định về thuế tối thiểu toàn cầu của đơn vị đầu tư theo  quy định thuế tại 
+nước mà chủ sở hữu cư trú được tính vào thu nhập theo Quy định về thuế tối thiểu 
+toàn cầu của chủ sở hữu đơn vị hợp thành đã thực nhận khoản phân chia đó (chủ sở 
+hữu đó không phải là đơn vị đầu tư). 
+12.2.2. Tổng số thuế gộp được khấ u trừ nội địa được tính vào tr ong thu nhập 
+theo Quy định về thuế tối thiểu toàn cầu và thuế thuộc phạm vi áp dụng đã được 
+điều chỉnh của chủ sở hữu đơn v ị hợp thành đã thực nhận khoản p hân chia đó (chủ 
+sở hữu đó không phải là đơn vị đầu tư).  
+12.2.3. Phần thu nhập theo tỷ lệ của chủ sở hữu đơn vị hợp thàn h trong thu 
+nhập ròng theo Quy định về thuế tối thiểu toàn cầu chưa phân chia của đơn vị đầu tư 
+trong năm xem xét được xác định là thu nhập theo Quy định về thuế tối thiểu toàn cầu 
+của đơn vị đầu tư trong năm tài chính báo cáo. Thu nhập theo Qu y định về thuế tối 
+thiểu toàn cầu quy định tại điểm này nhân với thuế suất tối thiểu được xác định là thuế 
+bổ sung của một đơn vị hợp thành chịu thuế suất thấp trong năm tài chính theo quy 
+định tại Điều 6, điểm e và điểm g khoản 1 Điều 7 Nghị định này.  
+12.2.4. Thu nhập hoặc lỗ theo Quy định về thuế tối thiểu toàn c ầu của đơn 
+vị đầu tư trong năm tài chính và bất kỳ khoản thuế thuộc phạm v i áp dụng đã 
+được điều chỉnh liên quan đến th u nhập đó đều được loại trừ khi  tính thuế suất 
+thực tế theo quy định tại Điều 7 Nghị định này, điểm 10.6, điểm  10.7, điểm 10.8 
+và điểm 10.9 mục này, trừ trườ ng hợp thuộc quy định tại điểm 12 .2.2 mục này.  
+12.3. Thu nhập ròng theo Quy định về thuế tối thiểu toàn cầu ch ưa phân chia 
+của một năm tài chính là khoản thu nhập theo Quy định về thuế t ối thiểu toàn cầu 
+của đơn vị đầu tư (nếu có) trong năm xem xét trừ đi các khoản s au, với điều kiện 
+giá trị sau khi trừ không nhỏ hơn 0 (không):  
+
+<!-- Page 12 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 13 
+ 
+12.3.1. Khoản thuế thuộc phạm vi áp dụng của đơn vị đầu tư;  
+12.3.2. Các khoản phân chia và c ác khoản được coi là đã phân ch ia cho các cổ 
+đông không phải là đơn vị hợp thành là đơn vị đầu tư trong giai đoạn xem xét;  
+12.3.3. Lỗ theo Quy định về thuế tối thiểu toàn cầu phát sinh t rong giai đoạn 
+xem xét.  
+12.3.4. Khoản lỗ đầu tư được chuyển.  
+12.4. Thu nhập ròng theo Quy định về thuế tối thiểu toàn cầu ch ưa phân chia 
+cho năm xem xét không được giảm trừ bởi các khoản phân chia hoặ c các khoản 
+được coi là đã phân chia nếu c ác khoản phân chia đó đã được xác  định là khoản 
+giảm trừ thu nhập ròng theo Quy định về thuế tối thiểu toàn cầu  chưa phân chia 
+của năm xem xét trước đó. Khi tính thu nhập ròng theo Quy định về thuế tối thiểu 
+toàn cầu chưa phân chia, khoản lỗ theo Quy định về thuế tối thi ểu toàn cầu được 
+ghi giảm phần lỗ đã được sử dụng làm giảm thu nhập ròng theo Qu y định về thuế 
+tối thiểu toàn cầu chưa phân chia vào cuối năm tài chính trước.  Nếu khoản lỗ theo 
+Quy định về thuế tối thiểu toàn cầu cho một năm tài chính chưa giảm về 0 (không) 
+trước khi kết thúc giai đoạn xem xét cuối cùng có năm tài chính  đó, phần lỗ còn 
+lại sẽ trở thành khoản lỗ đầu tư được chuyển tiếp và được giảm trừ theo cách 
+tương tự như khoản lỗ theo Quy định về thuế tối thiểu toàn cầu trong các năm 
+tài chính tiếp theo.  
+12.5. Năm xem xét, giai đoạn xem xét, khoản được coi là đã phân  chia và tổng 
+số thuế gộp được khấu trừ nội địa được xác định như sau:  
+12.5.1. Năm xem xét là năm thứ ba trước năm tài chính báo cáo. 
+12.5.2. Giai đoạn xem xét là gia i đoạn bắt đầu từ ngày đầu tiên  của năm xem 
+xét và kết thúc vào ngày cuối cùng của năm tài chính báo cáo mà  một đơn vị trong 
+tập đoàn nắm giữ quyền sở hữu. 
+12.5.3. Khoản được coi là đã phâ n chia phát sinh khi quyền sở h ữu trực tiếp 
+hoặc gián tiếp trong đơn vị đầu tư được chuyển nhượng cho một đ ơn vị không 
+thuộc tập đoàn và bằng thu nhập đ ược chia theo tỷ lệ từ phần th u nhập ròng theo 
+Quy định về thuế tối thiểu toàn cầu chưa phân chia tương ứng củ a quyền sở hữu 
+vào ngày chuyển nhượng (không bao gồm khoản được coi là đã phân chia). 
+12.5.4. Tổng số thuế gộp được khấu trừ nội địa là khoản thuế thuộc phạm vi áp 
+dụng của đơn vị đầu tư được phép giảm trừ vào nghĩa vụ thuế của  chủ sở hữu đơn 
+vị hợp thành liên quan đến việc phân chia lợi nhuận của đơn vị đầu tư.  
+12.6. Lựa chọn theo điểm 12 mục này áp dụng theo quy định về lự a chọn 5 
+năm. Nếu việc lựa chọn bị chấm dứt, phần thu nhập tương ứng của  chủ sở hữu đơn 
+
+<!-- Page 13 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 14 
+  
+vị hợp thành trong thu nhập ròng theo Quy định về thuế tối thiể u toàn cầu chưa 
+phân chia của đơn vị đầu tư cho nă m xem xét vào cuối năm tài ch ính trước năm 
+chấm dứt lựa chọn được xác định là thu nhập theo Quy định về th uế tối thiểu 
+toàn cầu của đơn vị đầu tư cho n ăm chấm dứt việc lựa chọn và mộ t khoản thuế 
+bổ sung đối với một đơn vị hợp thà nh chịu thuế suất thấp sẽ đượ c xác định là 
+phát sinh bằng việc nhân thuế suấ t tối thiểu với khoản thu nhập  theo Quy định 
+về thuế tối thiểu toàn cầu đó trong năm chấm dứt việc lựa chọn theo quy định 
+tại Điều 6, điểm e và điểm g k hoản 1 Điều 7 Nghị định này. 
+13. Trường hợp các đơn vị hợp thành có công ty mẹ tối cao là ch ủ sở hữu 
+thiểu số 
+Việc tính thuế suất thực tế và t huế bổ sung tại một nước đối vớ i trường hợp 
+các đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số thực thiện theo 
+quy định tại điểm 12 mục II Phụ lục này. 
+14. Quy định đối với các đơn vị hợp thành tham gia và rời khỏi tập đoàn đa 
+quốc gia  
+Trường hợp đơn vị hợp thành tham gia và rời khỏi tập đoàn đa qu ốc gia thực 
+hiện theo quy định tại điểm 13 mục II Phụ lục này. 
+Trường hợp công ty bị chuyển nhượ ng quyền sở hữu là công ty mẹ và là đơn 
+vị thuộc hai hoặc nhiều tập đoàn đa quốc gia trong năm chuyển nhượng thì công ty 
+bị chuyển nhượng quyền sở hữu đó sẽ áp dụng riêng IIR đối với c ác phần thuế 
+phân bổ cho công ty bị chuyển nhượ ng quyền sở hữu từ thuế bổ su ng của các đơn 
+vị hợp thành chịu thuế suất thấp, được xác định cho từng tập đoàn đa quốc gia.  
+15. Tập đoàn đa quốc gia có nhiều công ty mẹ 
+Trường hợp tập đoàn đa quốc gia c ó nhiều công ty mẹ thực hiện t heo quy định 
+tại điểm 16 mục II Phụ lục này. 
+Các công ty mẹ của tập đoàn đa quốc gia có nhiều công ty mẹ tại  Việt Nam sẽ 
+áp dụng IIR theo quy định tại Điều 6 và Điều 7 Nghị định này đố i với phần 
+thuế phân bổ cho từng công ty mẹ từ thuế bổ sung của đơn vị hợp  thành chịu 
+thuế suất thấp. 
+IV. CÁCH XỬ LÝ CÁC KHOẢN THUẾ TRONG THỜI GIAN CHUYỂN TIẾP 
+1. Tài sản thuế hoãn lại và thuế hoãn lại phải trả 
+1.1. Tài sản thuế hoãn lại và t huế hoãn lại phải trả theo quy đ ịnh tại khoản 2 
+
+### Điều 8 Nghị định này bao gồm cả các khoản lỗ chưa được ghi nhận  d o  đ i ề u
+
+chỉnh ghi nhận kế toán, dự phò ng giảm giá hoặc do không đáp ứng  các điều kiện 
+để ghi nhận. 
+
+<!-- Page 14 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 15 
+ 
+1.2. Tài sản thuế hoãn lại và t huế hoãn lại phải trả phải được tính theo mức 
+thuế suất thấp hơn giữa thuế suất tối thiểu và thuế suất trong nước áp dụng cho đơn 
+vị đó.  
+1.3. Tài sản thuế hoãn lại liên quan đến khấu trừ thuế được chu yển tiếp được 
+xác định bằng tài sản thuế hoãn lạ i được trích trước trong sổ k ế toán được sử 
+dụng để tính thuế suất thực tế trong năm chuyển tiếp và các năm  tiếp theo nếu 
+thuế suất áp dụng để xác  định tài sản thuế h oãn lại đó thấp hơn  thuế suất tối 
+thiểu hoặc trong bất kỳ trường hợp nào khác, tài sản thuế hoãn lại tại điểm này 
+được xác định như sau: 
+Tài sản thuế hoãn lại được ghi nhận 
+trong sổ kế toán Tài sản thuế hoãn lại = Thuế suất trong nước áp dụng để tính 
+tài sản thuế hoãn lại cho đơn vị đó 
+x 
+Thuế 
+suất tối 
+thiểu 
+1.4. Tài sản thuế hoãn lại đã đ ược ghi nhận theo thuế suất thấp  hơn thuế suất 
+tối thiểu có thể được tính theo thuế suất tối thiểu nếu người n ộp thuế có thể chứng 
+minh rằng tài sản thuế hoãn lại có liên quan đến khoản lỗ theo Quy định về thuế tối 
+thiểu toàn cầu. Tài sản thuế hoã n lại không tính đến ảnh hưởng của các điều chỉnh 
+do đánh giá hoặc do ghi nhận kế toán.  
+1.5. Tài sản thuế hoãn lại và thuế hoãn lại phải trả không được  điều chỉnh theo 
+quy định về chi phí thuế hoãn lại theo quy định từ điểm 9.1.1 đ ến điểm 9.1.4 và 
+điểm 9.4 mục II Phụ lục này, trừ trường hợp áp dụng quy định tại điểm 2 mục này. 
+2. Tài sản thuế hoãn lại phát si nh từ các khoản mục bị loại trừ  khi tính thu 
+nhập hoặc lỗ theo Quy định về thuế tối thiểu toàn cầu phải được  loại trừ khi 
+tính tài sản thuế hoãn lại và thuế hoãn lại phải trả theo  quy định tại điểm 1 
+mục này nếu tài sản thuế hoãn lại đó được hình thành từ một gia o dịch diễn 
+ra sau ngày 30 tháng 11 năm 2021.  
+3. Các loại trừ theo quy định tại điểm 2 mục này bao gồm khoản tài sản thuế 
+hoãn lại phát sinh từ các khoản mục bị loại trừ khi tính thu nh ập hoặc lỗ theo Quy 
+định về thuế tối thiểu toàn cầu do các khoản mục bị loại trừ này là chi phí không được 
+ghi nhận theo quy định kế toán, như chi phí khấu hao vượt quá chi phí thực tế. 
+4. Trong trường hợp chuyển nhượng tài sản giữa các đơn vị hợp t hành (bao 
+gồm trường hợp chuyển nhượng tài sản trong một nước, trường hợp  chuyển 
+nhượng tài sản xuyên biên giới, t rường hợp chuyển nhượng hoặc đ ược xác định là 
+chuyển nhượng tài sản trong một đơn vị) sau ngày 30 tháng 11 nă m 2021 và trước 
+khi bắt đầu năm chuyển tiếp, giá trị tài sản chuyển giao (trừ h àng tồn kho) được 
+
+<!-- Page 15 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 16 
+  
+căn cứ vào giá trị ghi sổ còn lại của tài sản tại thời điểm chu yển giao của đơn vị 
+chuyển giao tài sản và tài sản thuế hoãn lại, thuế hoãn lại phải trả theo Quy định về 
+thuế tối thiểu toàn cầu cũng được căn cứ vào giá trị ghi sổ còn lại đó.  
+4.1. Năm chuyển tiếp là năm chuyển tiếp đối với đơn vị hợp thàn h bán tài 
+sản, cụ thể là năm đầu tiên thu nhập chịu thuế suất thấp của đơ n vị hợp thành 
+phải áp dụng Quy định về thuế tối t hiểu toàn cầu hoặc năm mà đơ n vị hợp thành 
+thuộc đối tượng áp dụng QDMTT, không phụ thuộc vào việc các đơn  v ị  h ợ p 
+thành khác trong nước có thuộc đối tượng áp dụng Quy định về th uế tối thiểu 
+toàn cầu h ay không. 
+4.2. Giá trị ghi sổ còn lại là g iá trị ghi sổ còn lại của tài s ản được chuyển giao 
+vào ngày thực hiện chuyển giao, sau khi điều chỉnh chi phí vốn và khấu hao sau 
+khi chuyển giao và trước khi bắt đầu năm chuyển tiếp. 
+5. Trường hợp giao dịch tại điểm  4 mục này được ghi nhận kế toá n theo giá trị 
+ghi sổ của đơn vị hợp thành chuyể n nhượng tài sản, đơn vị hợp t hành nhận chuyển 
+nhượng tài sản có thể ghi nhận một tài sản thuế hoãn lại là tổng của hai giá trị sau: 
+5.1. Số thuế đơn vị chuyển nhượng tài sản đã nộp đối với giao dịch chuyển nhượng. 
+5.2. Tài sản thuế hoãn lại đã có thể phát sinh hoặc có thể được  ghi nhận bởi 
+đơn vị chuyển nhượng tài sản theo  theo điểm 1 mục này nhưng thự c tế đã không 
+phát sinh hoặc đã bị hoàn nhập do khoản thu nhập từ chuyển nhượng tài sản này đã 
+được bao gồm trong thu nhập chịu thuế của đơn vị chuyển nhượng tài sản. 
+6. Trường hợp đơn vị hợp thành nhận chuyển nhượng ghi nhận tài sản mua lại 
+trên sổ kế toán theo giá hợp lý thì đơn vị này có thể sử dụng g iá trị ghi sổ còn lại 
+được ghi nhận trên sổ kế toán để  xác định thuế bổ sung theo Quy  định về thuế tối 
+thiểu toàn cầu cho tất cả các nă m tiếp theo nếu đơn vị hợp thàn h đó trong trường 
+hợp không sử dụng giá trị còn lại ghi sổ của tài sản trên sổ kế  toán cho việc xác 
+định thuế bổ sung theo Quy định về thuế tối thiểu toàn cầu, thì  có quyền ghi nhận 
+tài sản thuế hoãn lại bằng giá tr ị của thuế suất tối thiểu nhân  với (x) chênh lệch 
+giữa giá trị ghi sổ làm cơ sở tính thuế của tài sản và giá trị còn lại ghi sổ xác định 
+theo Quy định về thuế tối thiểu toàn cầu tại điểm 4 mục này. 
+7. Trường hợp một đơn vị hợp t hành thuộc đối tượng áp dụng QDMT T tại 
+Việt Nam trước khi thuộc đối tượng áp dụng IIR tại nước của công ty mẹ thì: 
+7.1. Phần chi phí thuế nhỏ hơn 0 chưa bù trừ hết theo quy định tại điểm a 
+khoản 1 Điều 5 Nghị định này và điểm 8.5 mục II Phụ lục này sẽ được loại trừ khi 
+bắt đầu năm chuyển tiếp mới. 
+
+<!-- Page 16 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 17 
+ 
+7.2. Quy định tại điểm 9.4 mục II Phụ lục này không áp dụng đối  với khoản 
+thuế hoãn lại phải trả đã được dùng để tính thuế suất thực tế t heo QDMTT và 
+không được thu hồi trước năm chuyể n tiếp mới. Quy định tại điểm  9.4 mục II Phụ 
+lục này chỉ áp dụng đối với khoản thuế hoãn lại phải trả phát sinh trong và sau năm 
+chuyển tiếp mới. 
+7.3. Tài sản thuế hoãn lại do lỗ phát sinh vào năm trước năm ch uyển tiếp mới 
+theo quy định tại điểm 10 mục II Phụ lục này sẽ bị loại trừ. Đơ n vị hợp thành chịu 
+trách nhiệm kê khai có thể lựa chọn áp dụng quy định tại điểm 1 0 mục II Phụ lục 
+này từ năm chuyển tiếp mới. 
+7.4. Khoản tài sản thuế hoãn lạ i và khoản thuế hoãn lại phải tr ả được xác định 
+trước năm chuyển tiếp mới sẽ bị loại trừ. Khoản 2 Điều 8 Nghị đ ịnh này được áp 
+dụng khi bắt đầu năm chuyển tiếp mới. 
+7.5. Trường hợp thuế thu nhập doanh nghiệp bổ sung tối thiểu nộ i địa đạt 
+chuẩn phát sinh theo quy định tại điểm 8.5 mục II Phụ lục này liên quan đến tài sản 
+thuế hoãn lại phát sinh do lỗ thuế thì khoản tài sản thuế hoãn lại đó không được 
+xác định là phát sinh từ các khoản mục bị loại trừ khi tính thu  nhập hoặc lỗ theo 
+Quy định về thuế tối thiểu toàn cầu. 
+V. CÁCH XÁC ĐỊNH CÁC YẾU TỐ ĐỂ ĐÁP ỨNG ĐIỀU KIỆN GIẢM 
+TRỪ TRÁCH NHIỆM  
+1. Tổng doanh thu là tổng doanh thu của tập đoàn đa quốc gia tạ i một nước 
+trên báo cáo lợi nhuận liên quốc gia đạt chuẩn. 
+2. Lợi nhuận trước thuế thu nhập doanh nghiệp là lợi nhuận trướ c thuế thu 
+nhập doanh nghiệp tại một nước trên báo cáo lợi nhuận liên quốc gia đạt chuẩn. 
+3. Báo cáo lợi nhuận liên quốc gia đạt chuẩn là báo cáo lợi nhu ận liên quốc gia 
+được lập và nộp bằng cách sử dụng báo cáo tài chính đạt chuẩn. 
+Trường hợp một tập đoàn đa quốc g ia thuộc đối tượng áp dụng Quy  định về 
+thuế tối thiểu toàn cầu nhưng không phải nộp báo cáo lợi nhuận liên quốc gia theo 
+quy định thì tập đoàn đa quốc gia đó đủ điều kiện áp dụng giảm trừ trách nhiệm 
+trên cơ sở báo cáo lợi nhuận liên quốc gia nếu tập đoàn đa quốc  gia hoàn thành xác 
+định mục giảm trừ trách nhiệm trên cơ sở báo cáo lợi nhuận liên  quốc gia trong 
+thời gian chuyển tiếp tại Tờ kha i thông tin theo Quy định về th uế tối thiểu toàn 
+cầu, sử dụng dữ liệu về tổng doanh thu và lợi nhuận trước thuế thu nhập doanh 
+nghiệp từ báo cáo tài chính đạt chuẩn. 
+
+<!-- Page 17 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 18 
+  
+ 4. Thuế suất thực tế được đơn giản hóa được xác định theo công thức sau: 
+Các khoản thuế thuộc phạm vi áp dụng được đơn giản hóa Thuế suất 
+thực tế được 
+đơn giản hóa 
+= Lợi nhuận hoặc lỗ trước thuế thu nhập được báo cáo tại báo 
+cáo lợi nhuận liên quốc gia đạt chuẩn của tập đoàn đa quốc gia 
+5. Báo cáo tài chính đạt chuẩn là: 
+5.1. Các sổ kế toán được sử dụng để lập báo cáo tài chính hợp nhất của công ty 
+mẹ tối cao. Trong một số trường hợp, đơn vị hợp thành có thể sử  dụng sổ kế toán 
+đã bao gồm các khoản điều chỉnh liên quan đến kế toán theo giá mua khi tính thu 
+nhập hoặc lỗ trước thuế. 
+5.2. Báo cáo tài chính riêng của từng đơn vị hợp thành với điều  kiện các báo 
+cáo này được lập theo chuẩn mực kế toán tài chính được chấp nhậ n hoặc chuẩn 
+mực kế toán tài chính được phép áp dụng trong trường hợp sổ kế toán của đơn vị 
+hợp thành được lập theo chuẩn mự c kế toán tài chính được phép á p dụng và thông 
+tin trên sổ kế toán là đáng tin cậy. 
+5.3. Trường hợp một đơn vị hợp thành không được đưa vào báo cáo  tài chính 
+hợp nhất của tập đoàn đa quốc gia  trên cơ sở cộng từng chỉ tiêu  do quy mô hoặc 
+yếu tố trọng yếu thì báo cáo tài chính đạt chuẩn là sổ kế toán của đơn vị hợp thành 
+đó sử dụng để lập báo cáo lợi nhuận liên quốc gia của tập đoàn đa quốc gia. 
+6. Việc sử dụng dữ liệu trong bá o cáo tài chính đạt chuẩn phải nhất quán và 
+chính xác. 
+7. Trường hợp một cơ sở thường t rú không có báo cáo tài chính đ ạt chuẩn, tập 
+đoàn đa quốc gia có thể xác định phần tỷ lệ tổng doanh thu và lợi nhuận trước thuế 
+thu nhập doanh nghiệp của công ty  chính được phân bổ cho cơ sở thường trú bằng 
+sử dụng báo cáo tài chính riêng công ty chính đã lập cho cơ sở thường trú phục vụ 
+nhu cầu báo cáo tài chính, thực hiện theo quy định của pháp luậ t ,  b á o  c á o  t h u ế  
+hoặc quản lý nội bộ. Nếu một khoản lỗ phát sinh từ cơ sở thường  trú được phân bổ 
+cho cơ sở thường trú đó thì phải thực hiện điều chỉnh lợi nhuận trước thuế thu nhập 
+doanh nghiệp tương ứng của công ty chính để khoản lỗ không bị tính hai lần. 
+8. Các khoản thuế thuộc phạm vi áp dụng được đơn giản hóa là ch i phí thuế 
+thu nhập tại một nước được báo cáo trên báo cáo tài chính đạt c huẩn của tập đoàn 
+đa quốc gia, sau khi loại bỏ bấ t kỳ khoản thuế nào không phải l à khoản thuế thuộc 
+phạm vi áp dụng và các khoản thuế  liên quan đến nghiệp vụ thuế không chắc chắn 
+(chờ điều chỉnh) trong báo cáo tài chính đạt chuẩn của tập đoàn đa quốc gia. 
+
+<!-- Page 18 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 19 
+ 
+9. Trường hợp có thỏa thuận chênh l ệ c h  g i á  l ư ỡ n g  t í n h  đ ư ợ c  t h ự c h i ệ n  s a u  
+ngày 15 tháng 12 năm 2022 thì phả i thực hiện điều chỉnh Lợi nhu ận trước thuế thu 
+nhập doanh nghiệp và chi phí thuế thu nhập doanh nghiệp theo quy định. 
+10. Lỗ ròng từ đánh giá lại theo giá trị hợp lý chưa thực hiện nếu vượt quá 50 
+triệu EUR tại một nước được loại trừ khỏi lợi nhuận hoặc lỗ trư ớc thuế thu nhập. 
+Lỗ ròng từ đánh giá lại theo giá trị hợp lý chưa thực hiện là t ổng các khoản lỗ, trừ 
+đi các khoản lãi, phát sinh do thay đổi giá trị hợp lý của quyề n sở hữu (trừ trường 
+hợp sở hữu đối với quyền sở hữu đầu tư gián tiếp). 
+11. Đơn vị hợp thành không trọng yếu, là đơn vị và các cơ sở th ường trú của 
+đơn vị đó không được hợp nhất tr ên cơ sở cộng từng chỉ tiêu trên báo cáo tài chính 
+hợp nhất của công ty mẹ tối cao căn cứ theo quy mô hoặc yếu tố trọng yếu, các 
+đơn vị này được xác định là đơn vị hợp thành theo quy định tại điểm a khoản 2 
+
+### Điều 3 Nghị quyết số 107/2023/QH15 với các điều kiện sau:
+
+11.1. Báo cáo tài chính hợp nhất là các báo cáo theo quy định t ại điểm a hoặc 
+điểm c khoản 10 Điều 3 Nghị quyết số 107/2023/QH15; 
+11.2. Báo cáo tài chính hợp nhất được kiểm toán độc lập. 
+11.3. Trường hợp đơn vị có tổng doanh thu vượt quá 50 triệu EUR thì sổ kế toán 
+sử dụng để lập báo cáo lợi nhuận liên quốc gia phải tuân theo chuẩn mực kế toán tài 
+chính được chấp nhận hoặc một chuẩn mực kế toán tài chính được phép sử dụng.  
+12. Áp dụng phương pháp tính toán giản đơn cho đơn vị hợp thành  không 
+trọng yếu là việc sử dụng các chỉ tiêu theo Quy định liên quan về báo cáo lợi 
+nhuận liên quốc gia (tổng doanh thu và thuế thu nhập doanh nghi ệp phải nộp cho 
+năm hiện hành) thay thế cho các chỉ tiêu theo Quy định về thuế tối thiểu toàn cầu 
+(thu nhập, doanh thu, thuế thuộc phạm vi áp dụng đã được điều chỉnh) để xác định việc 
+đáp ứng các tiêu chí giảm trừ trách nhiệm theo quy định tại Điều 12 Nghị định này. 
+13. Quy định liên quan về báo cáo  lợi nhuận liên quốc gia là qu y định của 
+nước công ty mẹ tối cao hoặc nước của công ty mẹ nộp báo cáo lợ i nhuận liên 
+quốc gia thay công ty mẹ tối cao. Nếu nước của công ty mẹ tối c ao không có quy 
+định về báo cáo lợi nhuận liên quốc gia hoặc một tập đoàn đa qu ốc gia không phải 
+nộp báo cáo lợi nhuận liên quốc gia ở bất kỳ nước nào thì quy đ ịnh liên quan về 
+báo cáo lợi nhuận liên quốc gia được thực hiện theo chuẩn mực chung. 
+ 
+
+<!-- Page 19 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 20 
+  
+Phụ lục III 
+(Kèm theo Nghị định số 236/2025/NĐ-CP  
+ngày 29 tháng 8 năm 2025 của Chính phủ) 
+ 
+TT Mẫu số Nội dung 
+1 Mẫu số: 01/TB-ĐVHT 
+Thông báo đơn vị hợp thành chịu trách 
+nhiệm kê khai và danh sách các đơn vị hợp 
+thành thuộc đối tượng áp dụng Nghị quyết 
+số 107/2023/QH15 
+2 Mẫu số: 02/TB-ĐVHT 
+Thông báo chỉ định đơn vị hợp thành tại Việt 
+Nam chịu trách nhiệm kê khai, nộp thuế theo 
+Quy định về thuế tối thiểu toàn cầu 
+3 Mẫu số: 03/TB-ĐVHT 
+Thông báo đơn vị hợp thành đã nộp Tờ khai 
+thông tin theo Quy định về thuế tối thiểu 
+toàn cầu tại nước có Hiệp định giữa nhà chức 
+trách có thẩm quyền về trao đổi thông tin 
+theo quy định thuế tối thiểu toàn cầu có hiệu 
+lực với Việt Nam  
+4 Mẫu số: 01-MST-ĐVHT Thông báo mã số thuế 
+5 Mẫu số: 01-ĐKTĐ-ĐVHT Tờ khai đă ng ký/thay đổi thông tin đăng ký thuế 
+6 Mẫu số: 01/TNDN-QDMTT 
+Tờ khai thuế thu nhập doanh nghiệp bổ sung áp 
+dụng đối với Quy định về thuế thu nhập doanh 
+nghiệp bổ sung tối thiểu nội địa đạt chuẩn 
+7 Mẫu số: 01/TNDN-IIR 
+Tờ khai thuế thu nhập doanh nghiệp bổ sung 
+áp dụng đối với Quy định về tổng hợp thu 
+nhập chịu thuế tối thiểu 
+8 Mẫu số: 01/TM Bản thuyết minh giải trình chênh lệch do 
+khác biệt chuẩn mực kế toán tài chính 
+9 Mẫu số: 01/TKTT-QDMTT 
+Tờ khai thông tin áp dụng đối với Quy định 
+về thuế thu nhập doanh nghiệp bổ sung tối 
+thiểu nội địa đạt chuẩn 
+10 Mẫu số: 01/TKTT-IIR Tờ khai thông tin áp dụng đối với Quy định 
+về tổng hợp thu nhập chịu thuế tối thiểu 
+
+<!-- Page 20 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 21 
+ 
+Mẫu số: 01/TB-ĐVHT 
+ 
+TÊN ĐƠN VỊ THỰC HIỆN 
+ THÔNG BÁO 
+ 
+Số:........... 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+........, ngày....... tháng...... năm........ 
+  
+THÔNG BÁO 
+Đơn vị hợp thành chịu trách nhiệm kê khai và danh sách các đơn vị  
+hợp thành thuộc đối tượng áp dụng Nghị quyết số 107/2023/QH15 
+ 
+  Thông báo lần đầu       Thông báo lần đầu sau khi cơ quan thuế chỉ định   
+  Thông báo thay đổi        Thay đổi lần thứ:... 
+  Tập đoàn đa quốc gia thuộc đối tượng áp dụng quy định về thuế  thu nhập 
+doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn (QDMTT) 
+Thông tin về loại đối tượng áp dụng quy định QDMTT: 
+   Đơn vị hợp thành của Tập đoàn đa quốc gia 
+   Liên doanh không phải thành viên của Tập đoàn liên doanh 
+   Công ty thành viên thuộc Tập đoàn liên doanh  
+   Đơn vị hợp thành của Tập đoàn con có công ty mẹ tối cao là c hủ sở hữu 
+thiểu số 
+   Đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu s ố không phải là 
+thành viên của Tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số  
+  Tập đoàn đa quốc gia thuộc đối  tượng áp dụng quy định về tổng  hợp thu 
+nhập chịu thuế tối thiểu (IIR) 
+Nội dung thông báo thay đổi:  
+  Thay đổi đơn vị hợp thành chịu trách nhiệm kê khai 
+  Thay đổi thông tin đơn vị hợp thành thuộc đối tượng áp dụng quy định QDMTT 
+  Thay đổi thông tin đơn vị hợp thành thuộc đối tượng áp dụng quy định IIR 
+Kính gửi:...................................................... 
+I. Thông tin chung 
+1. Tên đơn vị thông báo:....................................................................................... 
+
+<!-- Page 21 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 22 
+  
+2. Mã số thuế/Mã số doanh nghiệp  (hoặc tương tự) tại quốc gia n ơi thành lập 
+của đơn vị thông báo:................................................................................................. 
+3. Địa chỉ trụ sở chính của đơn vị thông báo:....................................................... 
+4. Số điện thoại của đơn vị thông báo:.................................................................. 
+Email của đơn vị thông báo:................................................................................. 
+5. Tên Công ty mẹ tối cao:.................................................................................... 
+6. Mã số thuế/Mã số doanh nghiệp  (hoặc tương tự) tại quốc gia n ơi thành lập 
+của Công ty mẹ tối cao:............................................................................................... 
+7. Địa chỉ trụ sở chính của Công ty mẹ tối cao:.................................................... 
+8. Năm tài chính của Công ty mẹ tối cao: Từ............/............ đến.........../........... 
+Trường hợp đối tượng áp dụng quy định QDMTT là Liên doanh không  phải 
+thành viên của Tập đoàn liên doanh, Tập đoàn liên doanh, Tập đoàn con có công ty 
+mẹ tối cao là chủ sở hữu thiểu số thì khai chỉ tiêu 9, 10, 11, 12 dưới đây: 
+9. Tên Liên doanh, Công ty mẹ có sở hữu thiểu số:............................................. 
+10. Mã số thuế/Mã số doanh nghiệp  (hoặc tương tự) tại quốc gia nơi thành lập 
+của của Liên doanh, Công ty mẹ có sở hữu thiểu số:.................................................. 
+11. Địa chỉ trụ sở chính của Liên doanh, Công ty mẹ có sở hữu thiểu số:........... 
+12. Năm tài chính của Liên doanh, Công ty mẹ có sở hữu thiểu số : Từ....../...... 
+đến....../...... 
+II. Thông tin về đơn vị hợp thành chịu trách nhiệm kê khai 
+1. Tên đơn vị hợp thành chịu trách nhiệm kê khai:.............................................. 
+2. Mã số thuế đã được cấp tại Việt Nam:............................................................. 
+3. Địa chỉ trụ sở chính:......... Xã/Phường/Đặc khu................ Tỉnh...................... 
+III. Danh sách các đơn vị hợp thành thuộc đối tượng áp dụng Ngh ị quyết 
+số 107/2023/QH15 
+1. Danh sách đơn vị hợp thành thuộc đối tượng áp dụng quy định QDMTT 
+TT Mã số thuế đã được cấp 
+tại Việt Nam Tên đơn vị hợp thành Địa chỉ trụ sở chính 
+    
+
+<!-- Page 22 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 23 
+ 
+2. Danh sách đơn vị hợp thành thuộc đối tượng áp dụng quy định IIR 
+2.1. Thông tin về các công ty mẹ thuộc đối tượng áp dụng quy định IIR 
+TT Loại hình 
+công ty mẹ 
+Mã số thuế đã được  
+cấp tại Việt Nam Tên Công ty mẹ Địa chỉ  
+trụ sở chính 
+     
+2.2. Thông tin về các đơn vị hợp thành thuộc đối tượng áp dụng quy định IIR  
+TT 
+Mã số thuế/Mã số 
+doanh nghiệp  
+(hoặc tương tự) 
+Tên đơn vị          
+hợp thành Quốc gia cư trú Địa chỉ  
+trụ sở chính 
+     
+[Tên đơn vị thực hiện thông báo] cam kết về tính chính xác, trung thực và hoàn 
+toàn chịu trách nhiệm trước pháp luật về nội dung của văn bản này. 
+ 
+ 
+ 
+ 
+ĐƠN VỊ THỰC HIỆN THÔNG BÁO hoặc  
+ĐẠI DIỆN HỢP PHÁP CỦA ĐƠN VỊ THỰC HIỆN THÔNG BÁO 
+ (Ký, ghi rõ họ tên và đóng dấu (nếu có) 
+ 
+
+<!-- Page 23 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 24 
+  
+HƯỚNG DẪN KÊ KHAI MẪU SỐ 01/TB-ĐVHT 
+ 
+Đơn vị thông báo phải đánh dấu X vào ô Thông báo lần đầu  nếu thực thông 
+báo lần đầu (mà chưa t hông báo bổ sung) hoặc ô Thông báo thay đổi  nếu thực 
+hiện thông báo thay đổi, đồng thời ghi rõ lần thay đổi. Trường hợp thông báo sau 
+khi nhận được thông báo chỉ định củ a cơ quan thuế, đơn vị thông  báo đánh dấu X 
+vào ô Thông báo lần đầu sau khi cơ quan thuế chỉ định. 
+Đơn vị thông báo phải đánh dấu X vào ô thích hợp (có thể chọn nhiều hơn 01 ô) 
+để xác định quy định về thuế tối thiểu toàn cầu mà Tập đoàn đa quốc gia thuộc đối 
+tượng áp dụng. Trường hợp Tập đoàn đa quốc gia thuộc đối tượng áp dụng quy 
+định về thuế thu nhập doanh nghiệp  bổ sung tối thiểu nội địa đạ t chuẩn (QDMTT) 
+thì đánh dấu X vào ô thích hợp (chỉ chọn 01 ô) để xác định loại  đối tượng áp dụng 
+quy định QDMTT tại Việt Nam.  
+Nội dung thông báo thay đổi: Đơn vị thông báo phải đánh dấu X vào ô thích hợp 
+(có thể chọn nhiều hơn 01 ô) để xác định nội dung thực hiện thông báo thay đổi. 
+I. Thông tin chung 
+1. Tên đơn vị thông báo:  Ghi rõ ràng, đầy đủ bằng chữ in hoa tên tổ chức 
+theo Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+Việt Nam hoặc quốc gia nơi đơn vị thông báo cư trú cấp. 
+2. Mã số thuế/Mã số doanh nghiệp (hoặc tương tự) tại quốc gia nơi thành lập 
+của đơn vị thông báo: Ghi rõ mã số thuế do cơ quan thuế Việt Nam đã cấp cho đơn 
+vị thông báo. Trường hợp đơn vị thông báo cư trú ngoài Việt Nam thì ghi rõ mã số 
+doanh nghiệp (hoặc tương tự) tại quốc gia nơi thành lập của đơn vị thông báo. 
+3. Địa chỉ trụ sở chính của đơn vị thông báo:  Ghi rõ địa chỉ số nhà, ngách, 
+hẻm, ngõ, đường phố/xóm/ấp/thôn,  xã/phường/đặc khu, tỉnh/thành phố, quốc gia 
+của đơn vị thông báo. 
+ 4. Số điện thoại/Email của đơn vị thông báo : Ghi rõ số điện thoại và địa chỉ 
+email của đơn vị thông báo. 
+5. Tên Công ty mẹ tối cao:  Ghi rõ ràng, đầy đủ bằng chữ in hoa tên tổ chức 
+theo Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+Việt Nam hoặc quốc gia nơi Công ty mẹ tối cao cư trú cấp. 
+
+<!-- Page 24 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 25 
+ 
+6. Mã số thuế/Mã số doanh nghiệp (hoặc tương tự) tại quốc gia n ơi thành 
+lập của Công ty mẹ tối cao: Ghi rõ mã số thuế do cơ quan thuế Việt Nam đã cấp 
+cho Công ty mẹ tối cao. Trường hợp Công ty mẹ tối cao cư trú ng oài Việt Nam thì 
+ghi rõ mã số doanh nghiệp (hoặc tương tự) tại quốc gia nơi thàn h lập của Công ty 
+mẹ tối cao.  
+7. Địa chỉ trụ sở chính của Công ty mẹ tối cao:  Ghi rõ địa chỉ số nhà, ngách, 
+hẻm, ngõ, đường phố/xóm/ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố, quốc gia.  
+8. Năm tài chính của Công ty mẹ tối cao:  Ghi rõ từ ngày, tháng đầu niên độ 
+kế toán đến ngày, tháng cuối niê n độ kế toán theo năm dương lịc h hoặc năm tài 
+chính mà Công ty mẹ tối cao lập Báo cáo tài chính hợp nhất.  
+Riêng đối với quy định QDMTT, trường hợp đối tượng áp dụng là L iên doanh 
+không phải thành viên của Tập đoàn liên doanh, Tập đoàn liên do anh, Tập đoàn 
+con có công ty mẹ tối cao là chủ sở hữu thiểu số thì đơn vị hợp  thành chịu trách 
+nhiệm kê khai điền vào các chỉ tiêu 9, 10, 11, 12 thông tin tươ ng ứng của Liên 
+doanh, Công ty mẹ có sở hữu thiểu số. 
+II. Đơn vị hợp thành chịu trách nhiệm kê khai 
+Đơn vị thực hiện thông báo kê khai rõ ràng, đầy đủ thông tin đơ n vị hợp thành 
+chịu trách nhiệm kê khai: 
+1. Tên đơn vị hợp thành chịu trách nhiệm kê khai:  Ghi rõ ràng, đầy đủ 
+bằng chữ in hoa tên tổ chức theo Quyết định thành lập hoặc Giấy  phép thành lập 
+và hoạt động hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy tờ tương 
+đương do cơ quan có thẩm quyền tại Việt Nam cấp.  
+2. Mã số thuế đã được cấp tại Việt Nam:  Ghi rõ mã số thuế do cơ quan thuế 
+Việt Nam đã cấp. 
+3 .  Đ ị a  c h ỉ  t r ụ  s ở  c h í n h : Ghi rõ địa chỉ số nhà, ngách, hẻm, ngõ, đường 
+phố/xóm/ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố, quốc gia. 
+III. Danh sách các đơn vị hợp thành thuộc đối tượng áp dụng Ngh ị quyết 
+số 107/2023/QH15 
+1. Danh sách đơn vị hợp thành thuộc đối tượng áp dụng quy định QDMTT 
+Đơn vị thông báo kê khai rõ ràn g, đầy đủ thông tin trên mẫu bản g kê về đơn vị 
+hợp thành thuộc đối tượng áp dụng quy định QDMTT, bao gồm: 
+- Mã số thuế được cấp tại Việt Nam: Ghi rõ mã số thuế do cơ qua n thuế 
+Việt Nam đã cấp cho các đơn vị hợp thành. 
+
+<!-- Page 25 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 26 
+  
+- Tên đơn vị hợp thành: Ghi rõ ràng, đầy đủ bằng chữ in hoa tên  tổ chức theo 
+Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc  Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+Việt Nam cấp.  
+- Địa chỉ trụ sở chính: Ghi rõ địa chỉ số nhà, ngách, hẻm, ngõ, đường phố/xóm/ 
+ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố, quốc gia. 
+2. Danh sách đơn vị hợp thành thuộc đối tượng áp dụng quy định IIR 
+2.1. Thông tin về các công ty mẹ áp dụng quy định IIR 
+Đơn vị thông báo kê khai rõ ràng, đầy đủ thông tin trên mẫu bản g kê về các 
+công ty mẹ tại Việt Nam áp dụng quy định IIR: 
+- Loại hình công ty mẹ: Ghi rõ công ty mẹ tại Việt Nam áp dụng quy định IIR 
+là công ty mẹ tối cao, công ty mẹ trung gian hay công ty mẹ bị sở hữu một phần. 
+- Mã số thuế đã được cấp tại Việt Nam: Ghi rõ mã số thuế do cơ quan thuế 
+Việt Nam cấp. 
+- Tên công ty mẹ: Ghi rõ ràng, đầy đủ bằng chữ in hoa tên tổ ch ức theo 
+Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc  Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy  tờ tương đương do cơ quan có thẩm quyền 
+tại Việt Nam cấp. 
+- Địa chỉ trụ sở chính: Ghi rõ địa chỉ số nhà, ngách, hẻm, ngõ, đường phố/xóm/ 
+ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố, quốc gia.  
+2.2. Thông tin về các đơn vị hợp thành áp dụng quy định IIR: 
+Đơn vị thông báo kê khai rõ ràn g, đầy đủ thông tin trên mẫu bản g kê về đơn vị 
+hợp thành thuộc đối tượng áp dụng quy định IIR (ngoại trừ các c ông ty mẹ đã khai 
+thông tin ở mục 2.1), bao gồm: 
+- Mã số thuế/Mã số doanh nghiệp (hoặc tương tự): Ghi rõ mã số t huế hoặc mã 
+số doanh nghiệp (hoặc tương tự) tại quốc gia nơi thành lập của đơn vị hợp thành. 
+- Tên đơn vị hợp thành: Ghi rõ ràng, đầy đủ bằng chữ in hoa tên  tổ chức theo 
+Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc  Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+Việt Nam hoặc quốc gia nơi đơn vị hợp thành cư trú cấp.  
+- Quốc gia cư trú: Ghi mã quốc gia nơi có đơn vị hợp thành cư trú.  
+- Địa chỉ trụ sở chính: Ghi rõ địa chỉ số nhà, ngách, hẻm, ngõ, đường phố/xóm/ 
+ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố, quốc gia. 
+
+<!-- Page 26 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 27 
+ 
+Mẫu số: 02/TB-ĐVHT 
+ 
+CỤC THUẾ 
+ ......................(1) 
+ 
+Số:........... 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+........, ngày....... tháng..... năm........ 
+THÔNG BÁO 
+Chỉ định đơn vị hợp thành tại Việt Nam chịu trách nhiệm kê khai,  
+nộp thuế theo Quy định về thuế tối thiểu toàn cầu 
+ 
+Căn cứ Nghị quyết số 107/2023/QH15 ngày 29/11/2023 của Quốc hội; 
+Căn cứ Nghị định số.................................. ngày......................... của Chính phủ; 
+Cơ quan thuế thông báo chỉ định đơn vị hợp thành chịu trách nhi ệm kê khai 
+theo Quy định thuế tối thiểu toàn cầu của...... (2) tại Việt Nam như sau: 
+Tên đơn vị hợp thành chịu trách nhiệm kê khai (3):....................................... 
+Mã số thuế đã được cấp tại Việt Nam (4):........................................................ 
+Địa chỉ trụ sở chính (5):...................................................................................... 
+Đề nghị.... (6) thực hiện thủ tục  đăng ký thuế, kê khai thuế và  nộp thuế theo 
+quy định tại Nghị định số.... ngày........ của Chính phủ. 
+Nếu có vướng mắc, xin vui lòng liên hệ với cơ quan thuế: 
+...................................... (7).................................. (8) 
+Địa chỉ:......................................... (9) 
+Số điện thoại:                                      Địa chỉ E-mail: 
+Cơ quan thuế thông báo để.... (10) được biết và thực hiện. 
+ 
+Nơi nhận: QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ 
+- <ĐVHT chịu trách nhiệm kê khai  
+ được chỉ định>; 
+- <Các bộ phận có liên quan:>; 
+- Lưu: VT, BP ban hành TB. 
+(Ký, ghi rõ họ tên và đóng dấu/Ký điện tử) 
+ 
+
+<!-- Page 27 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 28 
+  
+(1) Tên cơ quan thuế ban hành thông báo. 
+(2) Tên Công ty mẹ tối cao. Trường hợp đối tượng áp dụng là Liên doanh không phải 
+thành viên của Tập đoàn liên doanh, Tập đoàn liên doanh, Tập đo àn con có công ty mẹ 
+tối cao là chủ sở hữu thiểu số, đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu 
+số nhưng không phải là thành viên của Tập đoàn con có công ty m ẹ tối cao là chủ sở hữu 
+thiểu số áp dụng quy định QDMTT,  ghi tên Liên doanh, Công ty mẹ  có sở hữu thiểu số, 
+đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số n hưng không phải là thành 
+viên của tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số.  
+(3) Tên đơn vị hợp thành chịu trách nhiệm kê khai được cơ quan thuế chỉ định. 
+(4) Mã số thuế đã được cơ quan thuế Việt Nam cấp theo quy định pháp luật về quản 
+lý thuế Việt Nam của đơn vị hợp thành chịu trách nhiệm kê khai. 
+(5) Địa chỉ trụ sở chính của đơn vị hợp thành chịu trách nhiệm kê khai. 
+(6) Tên đơn vị hợp thành chịu trách nhiệm kê khai. 
+(7) Tên cơ quan thuế ban hành Thông báo. 
+(8) Bộ phận mà đơn vị hợp thành chịu trách nhiệm kê khai có thể liên hệ. 
+(9) Ghi cụ thể địa chỉ cơ quan thuế ban hành Thông báo. 
+(10) Tên đơn vị hợp thành chịu trách nhiệm kê khai. 
+
+<!-- Page 28 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 29 
+ 
+Mẫu số: 03/TB-ĐVHT 
+  
+TÊN ĐƠN VỊ HỢP THÀNH  
+CHỊU TRÁCH NHIỆM KÊ KHAI 
+ 
+Số:........... 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+........, ngày....... tháng..... năm........ 
+THÔNG BÁO 
+Đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về thuế tối thiểu 
+toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyền về trao đổi 
+thông tin theo quy định thuế tối thiểu toàn cầu có hiệu lực với Việt Nam 
+Năm tài chính báo cáo: Năm....... Từ....../....../...... đến....../....../...... 
+Kính gửi:......................................... 
+1. Tên đơn vị hợp thành chịu trách nhiệm kê khai:......................................... 
+2. Mã số thuế được cấp theo quy định thuế tối thiểu toàn cầu:...................... 
+3. Địa chỉ trụ sở chính:....................................................................................... 
+4. Đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về t huế tối 
+thiểu toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyền về trao 
+đổi thông tin theo Quy định về thuế tối thiểu toàn cầu có hiệu lực với Việt Nam: 
+4.1. Tên đơn vị hợp thành:................................................................................. 
+4.2: Mã số thuế được cấp tại Việt Nam (nếu có):............................................. 
+4.3. Quốc gia cư trú:........................................................................................... 
+[Tên đơn v ị h ợp thành ch ịu trách nhi ệm kê khai ] cam kết về tính chính xác, 
+trung thực và hoàn toàn chịu trách nhiệm trước pháp luật về nội dung của văn bản này. 
+ 
+ 
+ 
+ĐƠN VỊ HỢP THÀNH CHỊU TRÁCH NHIỆM KÊ KHAI hoặc 
+ĐẠI DIỆN HỢP PHÁP CỦA ĐƠN VỊ HỢP THÀNH  
+CHỊU TRÁCH NHIỆM KÊ KHAI 
+(Ký, ghi rõ họ tên và đóng dấu (nếu có)) 
+ 
+ 
+ 
+ 
+ 
+
+<!-- Page 29 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 30 
+  
+HƯỚNG DẪN KÊ KHAI MẪU SỐ 03/TB-ĐVHT 
+ 
+1. Tên đơn vị hợp thành chịu trách nhiệm kê khai: Ghi rõ ràng, đầy đủ bằng 
+chữ in hoa tên tổ chức theo Quyết định thành lập hoặc Giấy phép  thành lập và hoạt 
+động hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy tờ tương  đương do cơ 
+quan có thẩm quyền tại Việt Nam cấp. 
+2. Mã số thuế được cấp theo quy định thuế tối thiểu toàn cầu:  Ghi rõ mã số 
+thuế của đơn vị hợp thành chịu trách nhiệm kê khai do cơ quan t huế Việt Nam cấp 
+để thực hiện nghĩa vụ thuế theo quy định thuế tối thiểu toàn cầu. 
+3 .  Đ ị a  c h ỉ  t r ụ  s ở  c h í n h : Ghi rõ địa chỉ số nhà, ngách, hẻm, ngõ, đường 
+phố/xóm/ấp/thôn, xã/phường/đặc khu, tỉnh/thành phố của đơn vị h ợp thành chịu 
+trách nhiệm kê khai.  
+4. Đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về thuế tối thiểu 
+toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyề n về trao 
+đổi thông tin theo Quy định về thuế tối thiểu toàn cầu có hiệu lực với Việt 
+Nam: Đơn vị hợp thành chịu trách nhiệm kê khai ghi rõ ràng, đầy đủ thông tin 
+về đơn vị hợp thành đã nộp Tờ khai thông tin theo Quy định về t huế tối thiểu 
+toàn cầu tại nước có Hiệp định giữa nhà chức trách có thẩm quyề n về trao đổi 
+thông tin theo Quy định về thuế tối thiểu toàn cầu có hiệu lực với Việt Nam, bao gồm: 
+- Tên đơn vị hợp thành: Ghi rõ ràng, đầy đủ bằng chữ in hoa tên  tổ chức theo 
+Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc  Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+quốc gia nơi đơn vị hợp thành cư trú cấp. 
+- Mã số thuế được cấp tại Việt Nam (nếu có): Ghi rõ mã số thuế do cơ quan 
+thuế Việt Nam cấp (nếu có). 
+- Quốc gia cư trú: Ghi rõ quốc gia nơi đơn vị hợp thành cư trú. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+<!-- Page 30 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 31 
+ 
+Mẫu số: 01-MST-ĐVHT 
+ CỤC THUẾ 
+ ...................... 
+ 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+........, ngày....... tháng..... năm........ 
+THÔNG BÁO MÃ SỐ THUẾ 
+............1 thông báo mã số thuế của đơn vị hợp thành chịu trách nhiệm kê khai 
+theo quy định thuế tối thiểu toàn cầu như sau: 
+Mã số thuế theo quy định thuế tối thiểu toàn cầu2: ........................................ 
+Tên Công ty mẹ tối cao3: ................................................................................... 
+Tên Liên doanh, Công ty mẹ có sở hữu thiểu số4: ........................................... 
+Tên đơn vị hợp thành chịu trách nhiệm kê khai5:........................................... 
+Địa chỉ trụ sở chính của đơn vị hợp thành chịu trách nhiệm kê khai6:......... 
+Ngày cấp mã số thuế7:......................................................................................... 
+Cơ quan thuế được giao nhiệm vụ quản lý thuế thu nhập doanh ngh iệp bổ 
+sung theo Quy định về thuế tối thiểu toàn cầu8:..................................................... 
+Yêu cầu đơn vị hợp thành chịu trách nhiệm kê khai phải sử dụng mã số thuế 
+theo đúng quy định kể từ ngày được cơ quan thuế cấp mã số thuế. 
+ 
+QUYỀN HẠN, CHỨC VỤ CỦA NGƯỜI KÝ 
+(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/Ký điện tử) 
+                                           
+1 Tên cơ quan thuế thông báo mã số thuế. 
+2 Mã số thuế được cấp cho đơn vị hợp thành chịu trách nhiệm kê k hai theo quy định về thuế 
+tối thiểu toàn cầu. 
+3 Tên Công mẹ tối cao. 
+4 Trường hợp đối tượng áp dụng là Liên doanh không phải thành vi ên của Tập đoàn Liên 
+doanh, Tập đoàn liên doanh, Tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số áp dụng 
+quy định QDMTT, ghi tên Liên doanh, Công ty mẹ có sở hữu thiểu số. 
+5 Tên đơn vị hợp thành chịu trách nhiệm kê khai. 
+6 Địa chỉ trụ sở chính của đơn vị hợp thành chịu trách nhiệm kê khai. 
+7 Ngày cấp mã số thuế cho đơn vị hợp thành chịu trách nhiệm kê k hai theo quy định về thuế 
+tối thiểu toàn cầu. 
+8 Cơ quan thuế được giao nhiệm vụ quản lý trực tiếp nghĩa vụ thuế theo quy định về thuế tối 
+thiểu toàn cầu. 
+
+<!-- Page 31 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 32 
+  
+Mẫu số: 01-ĐKTĐ-ĐVHT 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+ 
+TỜ KHAI 
+ ĐĂNG KÝ/THAY ĐỔI THÔNG TIN ĐĂNG KÝ THUẾ 
+(Dành cho đơn vị hợp thành chịu trách nhiệm kê khai 
+ theo quy định về thuế tối thiểu toàn cầu) 
+  Đăng ký lần đầu              Đăng ký thay đổi            Thay đổi lần thứ:... 
+ 
+  Tập đoàn đa quốc gia thuộc đối tượng áp dụng quy định về thuế  thu nhập 
+doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn (QDMTT) 
+  Tập đoàn đa quốc gia thuộc đối  tượng áp dụng quy định về tổng  hợp thu 
+nhập chịu thuế tối thiểu (IIR) 
+ 
+1. Thông tin Tập đoàn đa quốc gia: 
+1a. Tên Công ty mẹ tối cao:....................................................................................... 
+1b. Mã số thuế/Mã số doanh nghiệp (hoặc tương tự) của Công ty mẹ tối cao:…..... 
+1c. Tên Liên doanh, Công ty mẹ có sở hữu thiểu số:................................................ 
+1d. Mã số thuế/Mã số doanh nghiệp (hoặc tương tự) của Liên doan h, Công ty mẹ 
+có sở hữu thiểu số:..................................................................................................... 
+2. Thông tin đơn vị hợp thành chịu trách nhiệm kê khai: 
+2a. Tên đơn vị hợp thành chịu trách nhiệm kê khai:.................................................. 
+2b. Mã số thuế đã được cấp tại Việt Nam:................................................................. 
+3. Thông tin đại lý thuế (nếu có): 
+3a. Tên:...................................................................................................................... 
+3b. Mã số thuế:......................................................................................................... 
+3c. Hợp đồng đại lý thuế: Số............................... Ngày:.......................................... 
+
+<!-- Page 32 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 33 
+ 
+4 .  Đ ị a  c h ỉ  t r ụ  s ở  c ủ a  đ ơ n  v ị  h ợ p  
+thành chịu trách nhiệm kê khai 
+ 5. Địa chỉ nhận thông báo của cơ quan 
+thuế của đơn vị hợp thành chịu trách 
+nhiệm kê khai 
+4a. Số nhà, đường phố, thôn, xóm:  5a. Số nhà, đường phố, thôn,  xóm: 
+4b. Xã/phường/đặc khu:  5b. Xã/phường/đặc khu: 
+4c. Tỉnh/Thành phố:  5c. Tỉnh/Thành phố: 
+4d. Điện thoại:                    /Fax: 
+Email: 
+ 5d. Điện thoại:                   /Fax: 
+Email: 
+6. Năm tài chính của Công ty mẹ tối cao, Liên doanh, Công ty mẹ  có sở hữu 
+thiểu số: Từ ....../...... đến ....../...... 
+7. Thông tin người đại diện theo pháp luật của đơn vị hợp thành  chịu trách 
+nhiệm kê khai: 
+7a. Tên:...................................................................................................................... 
+7b. Số định danh cá nhân:.......................................................................................... 
+7c. Địa chỉ nơi thường trú:......................................................................................... 
+7d. Thông tin khác 
+Điện thoại:..................................................... Email:.................................................  
+Tôi xin cam đoan những nội dung tr ong bản kê khai này là đúng v à chịu trách 
+nhiệm trước pháp luật về những nội dung đã kê khai. 
+ 
+ 
+NHÂN VIÊN ĐẠI LÝ THUẾ  
+Họ và tên:........................ 
+Chứng chỉ hành nghề số......... 
+...., ngày.../.../...... 
+ĐƠN VỊ HỢP THÀNH CHỊU TRÁCH NHIỆM  
+KÊ KHAI hoặc ĐẠI DIỆN HỢP PHÁP CỦA  
+ĐƠN VỊ HỢP THÀNH CHỊU TRÁCH NHIỆM  
+KÊ KHAI 
+(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có)/ 
+Ký điện tử) 
+ 
+ 
+ 
+ 
+
+<!-- Page 33 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 34 
+  
+HƯỚNG DẪN KÊ KHAI MẪU SỐ 01-ĐKTĐ-ĐVHT 
+ 
+Đơn vị hợp thành chịu trách nhiệm kê khai phải tích chọn 01 ô đ ể xác định tờ 
+khai là đăng ký lần đầu hay thay đổi thông tin đăng ký. 
+Đơn vị hợp thành chịu trách nhiệm kê khai phải tích chọn vào ô thích hợp 
+để xác định quy định về thuế tối thiểu toàn cầu Tập đoàn đa quố c gia áp dụng 
+(được chọn nhiều hơn 01 lựa chọn) tại Việt Nam trước khi kê kha i vào phần 
+thông tin chi tiết. 
+Thông tin chi tiết gồm: 
+1. Thông tin Tập đoàn đa quốc gia: 
+- Tên Công ty mẹ tối cao: Ghi rõ ràng, đầy đủ bằng chữ in hoa t ên tổ chức theo 
+Quyết định thành lập hoặc Giấy phép thành lập và hoạt động hoặc  Giấy chứng 
+nhận đăng ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền tại 
+Việt Nam hoặc quốc gia nơi Công ty mẹ tối cao cư trú cấp. 
+- Mã số thuế/Mã số doanh nghiệp  (hoặc tương tự) của Công ty mẹ tối cao: 
+Ghi rõ mã số thuế do cơ quan t huế Việt Nam đã cấp cho Công ty m ẹ tối cao. 
+Trường hợp Công ty mẹ tối cao cư  trú ngoài Việt Nam thì ghi rõ mã số doanh 
+nghiệp (hoặc tương tự)  tại quốc gia nơi thà nh lập của Công ty m ẹ tối cao. 
+- Tên Liên doanh, Công ty mẹ có s ở hữu thiểu số: Ghi rõ ràng, đ ầy đủ bằng 
+chữ in hoa tên Liên doanh, Công ty mẹ có sở hữu thiểu số thuộc đối tượng áp dụng 
+của quy định QDMTT theo Quyết định thành lập hoặc Giấy phép thành lập và hoạt 
+động hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy tờ tương  đương do cơ 
+quan có thẩm quyền tại Việt Nam hoặc quốc gia nơi cư trú cấp. 
+- Mã số thuế/Mã số doanh nghiệp (hoặc tương tự) của Liên doanh, Công ty mẹ 
+có sở hữu thiểu số: Ghi rõ mã số thuế do cơ quan thuế Việt Nam đã cấp cho Liên 
+doanh, Công ty mẹ có sở hữu thiểu số. Trường hợp Liên doanh, Cô ng ty mẹ có sở 
+hữu thiểu số cư trú ngoài Việt Nam thì ghi rõ mã số doanh nghiệ p (hoặc tương tự) 
+tại quốc gia nơi thành lập của Công ty mẹ tối cao. 
+2. Thông tin đơn vị hợp thành chịu trách nhiệm kê khai: 
+- Tên đơn vị hợp thành chịu trách nhiệm kê khai: Ghi rõ ràng, đ ầy đủ bằng chữ 
+in hoa tên tổ chức theo Quyết đị nh thành lập hoặc Giấy phép thà nh lập và hoạt 
+
+<!-- Page 34 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 35 
+ 
+động hoặc Giấy chứng nhận đăng ký kinh doanh hoặc Giấy tờ tương  đương do cơ 
+quan có thẩm quyền tại Việt Nam cấp. 
+- Mã số thuế đã được cấp của đơn vị hợp thành chịu trách nhiệm kê khai: Ghi 
+rõ mã số thuế đã được cơ quan thuế Việt Nam cấp theo quy định p háp luật về quản 
+lý thuế Việt Nam. 
+3. Thông tin đại lý thuế: Ghi đầy đủ các thông tin của đại lý thuế trong 
+trường hợp Đại lý thuế ký hợp đồng với đơn vị hợp thành chịu tr ách nhiệm kê khai 
+để thực hiện thủ tục đăng ký thuế  thay cho đơn vị hợp thành chị u trách nhiệm kê 
+khai theo quy định pháp luật về quản lý thuế. 
+4. Địa chỉ trụ sở của đơn vị hợp thành chịu trách nhiệm kê khai: Ghi rõ địa 
+chỉ của đơn vị hợp thành chịu trách nhiệm kê khai. Nếu có số đi ện thoại, số Fax thì 
+ghi rõ mã vùng - số điện thoại/số Fax. Đơn vị hợp thành chịu trách nhiệm kê khai 
+phải kê khai đầy đủ, chính xác thông tin email . Địa chỉ email này dùng làm tài 
+khoản giao dịch điện tử với cơ quan thuế đối với hồ sơ đăng ký thuế điện tử.  
+5. Địa chỉ nhận thông báo thuế:  Nếu đơn vị hợp thành chịu trách nhiệm kê 
+khai là tổ chức có địa chỉ nhận các thông báo của cơ quan thuế khác với địa chỉ của 
+trụ sở chính tại chỉ tiêu 4 nêu trên thì ghi rõ địa chỉ nhận thông báo thuế để cơ quan 
+thuế liên hệ.  
+6. Năm tài chính của Công ty mẹ tối cao, Liên doanh, Công ty mẹ  có sở 
+hữu thiểu số: Ghi rõ từ ngày, tháng đầu niên độ kế toán đến ngày, tháng cuối niên 
+độ kế toán theo năm dương lịch hoặc năm tài chính mà Công ty mẹ  tối cao lập Báo 
+cáo tài chính hợp nhất.  
+Trường hợp đối tượng đăng ký thuế là đơn vị chịu trách nhiệm kê  kh a i  c ủa 
+Liên doanh không phải thành viên  của Tập đoàn liên doanh, Công ty thành viên 
+thuộc Tập đoàn liên doanh, Đơn vị hợp thành của Tập đoàn con có  công ty mẹ tối 
+cao là chủ sở hữu thiểu số, Đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu 
+thiểu số không phải là thành viên của Tập đoàn con có công ty mẹ tối cao là chủ sở 
+hữu thiểu số thì điền năm tài chính của Liên doanh/Công ty mẹ có sở hữu thiểu số. 
+7. Thông tin người đại diện theo pháp luật của đơn vị hợp thành  c h ị u  
+trách nhiệm kê khai:  Kê khai thông tin chi tiết của người đại diện theo pháp luật 
+của đơn vị hợp thành chịu trách nhiệm kê khai 
+
+<!-- Page 35 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 36 
+  
+Mẫu số: 01/TNDN-QDMTT 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+TỜ KHAI THUẾ THU NHẬP DOANH NGHIỆP BỔ SUNG  
+(Áp dụng đối với Quy định về thuế thu nhập doanh nghiệp  
+bổ sung tối thiểu nội địa đạt chuẩn)  
+[01] Năm tài chính báo cáo1: Năm....... Từ ...../....../...... đến....../....../...... 
+[02] Lần đầu2                     [03] Bổ sung lần thứ3:...  
+[04] Tên đơn vị hợp thành chịu trách nhiệm kê khai4:................................... 
+[05] Mã số thuế theo quy định thuế tối thiểu toàn cầu5: ...................................... 
+[06] Tên đại lý thuế (nếu có) 6............................................................................ 
+[07] Mã số thuế:.................................................................................................... 
+[08] Hợp đồng đại lý thuế: Số.............................. ngày........................................ 
+[09] Đồng tiền khai Tờ khai thông tin7: ........................................................... 
+[10] Lựa chọn đồng tiền kê khai Tờ khai thuế TNDN bổ sung, nộp thuế 
+TNDN bổ sung8:  
+Đồng tiền khai Tờ khai thông tin (khác Đồng Việt Nam)     Đồng Việt Nam   
+[11] Tỷ giá quy đổi trong trường hợp khai Tờ khai thông tin bằn g đồng 
+ngoại tệ và lựa chọn khai Tờ khai thuế TNDN bổ sung, nộp thuế T NDN bổ 
+sung bằng đồng Việt Nam:................ tại Ngân hàng.............................................. 9 
+[12] Áp dụng quy định giảm trừ trách nhiệm10:………. .............................. 
+I .  X Á C  Đ Ị N H  S Ố  T H U Ế  T H U  N H Ậ P  D O A N H  N G H I Ệ P  B Ổ  S U N G  
+THEO QUY ĐỊNH VỀ THUẾ THU NHẬP DOANH NGHIỆP BỔ SUNG 
+TỐI THIỂU NỘI ĐỊA ĐẠT CHUẨN TẠI VIỆT NAM 
+ 
+STT Chỉ tiêu Mã 
+số 
+Đơn 
+vị 
+Giá 
+trị 
+(1) (2) (3) (4) (5) 
+1 Lợi nhuận tính thuế  bổ sung (A =A1-A4) 11 A    
+1.1 Thu nhập ròng tại Việt Nam trong năm tài chính theo 
+Quy định về thuế tối thiểu toàn cầu (A1=A2 - A3) 12 A1   
+
+<!-- Page 36 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 37 
+ 
+STT Chỉ tiêu Mã 
+số 
+Đơn 
+vị 
+Giá 
+trị 
+(1) (2) (3) (4) (5) 
+1.1.1 Thu nhập theo Quy định về thuế tối thiểu toàn 
+cầu của tất cả các đơn vị hợp thành A2   
+1.1.2 Lỗ theo Quy định về thuế tối thiểu toàn cầu của 
+tất cả các đơn vị hợp thành A3   
+2 Giá trị tài sản hữu hình và tiền lương được giảm 
+trừ theo Quy định về thuế tối thiểu toàn cầu 
+(A4=A5+A8) 13 
+A4  
+ 
+2.1 Giá trị tài sản hữu hình đượ c giảm trừ (A5=A6 x A7) A5   
+2.1.1 Giá trị tài sản hữu hình hợp lệ A6   
+2.1.2 Tỷ lệ giảm trừ A7   
+2.2 Giá trị tiền lương được g iảm trừ (A8=A9 x A10) A8   
+2.2.1 Chi tiền lương hợp lệ  A9   
+2.2.2 Tỷ lệ giảm trừ A10   
+3 Tỷ lệ thuế bổ sung (B = 15% - B2)  14 B    
+3.1 Tổng số thuế thu nhập doanh nghiệp tại Việt Nam 
+thuộc phạm vi áp dụng đã được điều chỉnh trong 
+năm tài chính của các đơn vị hợp thành tại Việt Nam 
+B1  
+ 
+3.2 Thuế suất thực tế (B2=B1/A1) B2   
+4 Số thuế bổ sung được điều chỉnh trong năm hiện 
+hành (nếu có) 15 C   
+5 Tổng số thuế bổ sung của đơn vị hợp thành tại 
+Việt Nam (D = A x B + C) 16 
+D   
+6 Tổng số thuế bổ sung của đơn vị hợp thành theo 
+đồng Việt Nam trong trường hợp khai Tờ khai 
+thông tin bằng đồng ngoại tệ và lựa chọn khai Tờ 
+khai thuế TNDN bổ sung, nộp thuế TNDN bổ 
+sung bằng đồng Việt Nam (nếu có) 17 
+E   
+
+<!-- Page 37 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 38 
+  
+I I .  P H Â N  B Ổ  T H U Ế  T H U  N H Ậ P  D O A N H  N G H I Ệ P  B Ổ  S U N G  T H E O  
+QUY ĐỊNH VỀ THUẾ THU NHẬP DOANH NGHIỆP BỔ SUNG TỐI 
+THIỂU NỘI ĐỊA ĐẠT CHUẨN GIỮA CÁC ĐƠN VỊ HỢP THÀNH TẠI 
+VIỆT NAM 
+Đơn vị tiền:........... 
+Tiêu thức phân bổ số thuế TNDN bổ sung phải nộp theo quy định v ề thuế thu 
+nhập doanh nghiệp bổ sung tối th iểu nội địa đạt chuẩn giữa các đơn vị hợp thành 
+tại Việt Nam18:............................................................................................................. 
+TT Tên đơn vị 
+hợp thành 
+Mã số 
+thuế được 
+cấp tại 
+Việt Nam 
+Cơ quan thuế 
+quản lý trực 
+tiếp đơn vị 
+hợp thành 
+Tỷ lệ 
+phân 
+bổ 
+(%)19 
+Số thuế TNDN 
+bổ sung phải 
+nộp được        
+phân bổ20 
+(1) (2) (3) (4) (5) (6) 
+      
+ Tổng x x   
+ 
+Tôi cam đoan số liệu, tài liệu khai trên là đúng và chịu trách nhiệm trước pháp 
+luật về những số liệu, tài liệu đã khai. 
+ 
+ 
+NHÂN VIÊN ĐẠI LÝ THUẾ 
+Họ và tên:.............................. 
+Chứng chỉ hành nghề số:...... 
+..., ngày....... tháng....... năm... 
+ĐƠN VỊ CHỊU TRÁCH NHIỆM KÊ KHAI  
+hoặc ĐẠI DIỆN HỢP PHÁP CỦA 
+ĐƠN VỊ CHỊU TRÁCH NHIỆM KÊ KHAI  
+(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có) 
+/Ký điện tử) 
+ 
+ 
+Hướng dẫn khai tờ khai thuế TNDN bổ sung áp dụng đối với Quy đị nh về thuế 
+thu nhập doanh nghiệp bổ sung tối thiểu nội địa đạt chuẩn 
+1 Năm tài chính báo cáo là năm tài chính phải thực hiện kê khai Tờ khai thông tin 
+theo Quy định về thuế tối thiểu toàn cầu. Đơn vị hợp thành chịu  trách nhiệm kê khai ghi 
+rõ năm tài chính báo cáo từ ngày  đầu tiên của năm tài chính đến  ngày kết thúc năm tài 
+chính. 
+
+<!-- Page 38 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 39 
+ 
+2 Đánh dấu X vào ô này nếu đơn vị hợp thành chịu trách nhiệm kê khai khai thuế 
+TNDN bổ sung theo Quy định về thuế  tối thiểu toàn cầu lần đầu c ho năm tài chính báo 
+cáo (mà chưa khai bổ sung). 
+3 Khai lần khai bổ sung thuế TNDN bổ sung theo Quy định về thuế tối thiểu toàn cầu 
+cho năm tài chính báo cáo. 
+4 Điền tên đơn vị hợp thành chịu trách nhiệm kê khai theo thông tin đăng ký doanh 
+nghiệp (theo Giấy chứng nhận đă ng ký doanh nghiệp, Giấy chứng n hận đầu tư hoặc các 
+giấy tờ tương đương). 
+5 Điền mã số thuế của đơn vị hợp thành chịu trách nhiệm kê khai được cấp theo Quy 
+định về thuế tối thiểu toàn cầu. 
+6 Tại chỉ tiêu [6], [7] và [8]: Ghi tên đại lý thuế, mã số thuế đại lý thuế, thông tin hợp 
+đồng đại lý thuế trong trường hợp khai thuế qua đại lý thuế. 
+7 Điền loại đồng tiền được sử dụng để khai thông tin tại Tờ khai  thông tin theo Quy 
+định về thuế tối thiểu toàn cầu. 
+8 Đánh dấu X trước ô loại đồng tiền được lựa chọn để khai Tờ kha i thuế thu nhập 
+doanh nghiệp bổ sung và nộp thuế thu nhập doanh nghiệp bổ sung.  
+9 Điền tỷ giá dùng để quy đổi trong trường hợp khai Tờ khai thôn g tin bằng đồng 
+ngoại tệ và lựa chọn khai Tờ khai thuế TNDN bổ sung, nộp thuế T NDN bổ sung bằng 
+đồng Việt Nam. 
+10 Đánh dấu X vào ô này nếu Tập đoàn đa quốc gia có áp dụng quy đ ịnh giảm trừ 
+trách nhiệm. Trường hợp việc áp dụng quy định giảm trừ trách nh iệm dẫn đến số thuế bổ 
+sung tại Việt Nam bằng 0 thì đơn vị hợp thành chịu trách nhiệm kê khai chỉ cần điền số 
+thuế bổ sung tại Việt Nam bằng 0 vào chỉ tiêu [D] tại Mục I và không cần kê khai Mục II. 
+11 Kê khai lợi nhuận tính thuế bổ sung của tất cả các đơn vị hợp t hành cư trú tại Việt 
+Nam, được xác định theo công thức: [A] =[A1] -[A4] 
+Lợi nhuận tính thuế bổ sung là kết quả của chỉ tiêu số 3. Lợi n huận tính thuế 
+bổ sung, Mục 3.6 - Tính toán thu ế bổ sung, Tờ khai thông tin mẫ u số 01/TKTT-
+QDMTT. 
+12  Kê khai thu nhập ròng theo quy đị nh về thuế tối thiểu toàn cầu  của tất cả các 
+đơn vị hợp thành cư trú tại Việ t Nam. Thu nhập ròng theo Quy đị nh về thuế tối thiểu 
+toàn cầu của tất cả các đơn vị hợp thành cư trú tại Việt Nam là  kết quả của chỉ tiêu số 2. 
+Thu nhập ròng theo Quy định về thuế tối thiểu toàn cầu, Mục 3.4  - Xác định thuế suất 
+thực tế, Tờ khai thông tin mẫu số 01/TKTT-QDMTT. Công thức xác định như sau:  
+[A1] = [A2] - [A3] 
+
+<!-- Page 39 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 40 
+  
+Trong đó: 
+- [A2]: Tổng thu nhập theo Quy định về thuế tối thiểu toàn cầu của các đơn vị hợp 
+thành cư trú tại Việt Nam phát sinh thu nhập theo Quy định về thuế tối thiểu toàn cầu; 
+- [A3]: Tổng lỗ theo Quy định về thuế tối thiểu toàn cầu của cá c đơn vị hợp thành cư 
+trú tại Việt Nam phát sinh lỗ the o Quy định về thuế tối thiểu t oàn cầu. [A3] được trình 
+bày dưới dạng số dương. 
+13 Kê khai tổng giá trị tài sản hữu hình và tiền lương được giảm trừ theo Quy định về 
+thuế tối thiểu toàn cầu, được xác định theo công thức: [A4] = [A5] + [A8] 
+Trong đó:  [A5] = [A6] * [A7] 
+                 [A8] = [A9] * [A10] 
+Chỉ tiêu [A4] tương ứng với chỉ tiêu 2. Giá trị tài sản hữu hìn h và tiền lương 
+được giảm trừ, Mục 3.6 - Tính toán thuế bổ sung, Tờ khai thông tin mẫu số 
+01/TKTT-QDMTT. 
+14 Kê khai tỷ lệ thuế bổ sung (%) tại Việt Nam, được xác định theo công thức:  
+[B] = 15% - [B2] 
+Trong đó, [B2] là thuế suất thực tế (%) tại Việt Nam, được xác định theo công 
+thức:  
+[B2] = [B1]/[A1] 
++ [B1]: Kê khai Tổng số thuế thu nhập doanh nghiệp tại Việt Nam  thuộc phạm vi 
+áp dụng đã được điều chỉnh trong năm tài chính của các đơn vị h ợp thành tại Việt 
+Nam. Đây là kết quả của chỉ tiê u số 4. Thuế thuộc phạm vi áp dụ ng được điều chỉnh, 
+
+### Mục 3.4 - Xác định thuế suất thực tế, Tờ khai thông tin mẫu số 01/TKTT-QDMTT.
+
+15 Kê khai tổng số thuế bổ sung được điều chỉnh trong năm hiện hành. Đây là kết quả 
+tương ứng với chỉ tiêu 4. Thuế bổ  sung được điều chỉnh cho năm hiện hành, Mục 3.6 - 
+Tính toán thuế bổ sung, Tờ khai thông tin mẫu số 01/TKTT-QDMTT. 
+16 Kê khai tổng số thuế bổ sung của đơn vị hợp thành tại Việt Nam , được xác định 
+theo công thức: [D] = [A] * [B] + [C] 
+17 Kê khai tổng số thuế bổ sung c ủa đơn vị hợp thành theo đồng Vi ệt Nam trong 
+trường hợp khai Tờ khai thông tin bằng đồng ngoại tệ và lựa chọ n khai Tờ khai thuế 
+TNDN bổ sung, nộp thuế TNDN bổ su ng bằng đồng Việt Nam, được xá c định theo công 
+thức: [E] = [D] * [Tỷ giá quy đổi tại chỉ tiêu 11] 
+
+<!-- Page 40 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 41 
+ 
+18 Ghi rõ tiêu thức phân bổ được sử dụng để phân bổ số thuế TNDN bổ sung phải 
+nộp theo quy định QDMTT cho các đơn vị hợp thành tại Việt Nam. 
+19 Khai tỷ lệ (%) phân bổ số thuế TNDN bổ sung phải nộp theo quy định QDMTT 
+cho từng đơn vị hợp thành tại Việt Nam. 
+20 Khai số tiền thuế TNDN bổ sung phải nộp theo quy định QDMTT ch o từng đơn vị 
+hợp thành tại Việt Nam. Số tiền thuế phân bổ được làm tròn đến chữ số thập phân thứ tư. 
+
+<!-- Page 41 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 42 
+  
+Mẫu số: 01/TNDN-IIR 
+ 
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc 
+ 
+TỜ KHAI THUẾ THU NHẬP DOANH NGHIỆP BỔ SUNG  
+(Áp dụng đối với Quy định về tổng hợp thu nhập chịu thuế tối thiểu)  
+[01] Năm tài chính báo cáo1: Năm....... Từ....../....../...... đến....../....../...... 
+[02] Lần đầu2                         [03] Bổ sung lần thứ3:... 
+[04] Tên đơn vị hợp thành chịu trách nhiệm kê khai4:................................... 
+[05] Mã số thuế theo quy định thuế tối thiểu toàn cầu5: ...................................... 
+[06] Tên đại lý thuế (nếu có) 6:............................................................................ 
+[07] Mã số thuế:....................................................................................................  
+[08] Hợp đồng đại lý thuế: Số................................. ngày..................................... 
+[09] Đồng tiền khai Tờ khai thông tin7:............................................................ 
+[10] Lựa chọn đồng tiền kê khai Tờ khai thuế TNDN bổ sung, nộp thuế 
+TNDN bổ sung8:  
+Đồng tiền khai Tờ khai thông tin (khác Đồng Việt Nam)   Đồng Việt Nam   
+[11] Tỷ giá quy đổi trong trường hợp khai Tờ khai thông tin bằn g đồng 
+ngoại tệ và lựa chọn khai Tờ khai thuế TNDN bổ sung, nộp thuế T NDN bổ 
+sung bằng đồng Việt Nam:.......................... tại Ngân hàng.................................... 9 
+[12] Áp dụng quy định giảm trừ trách nhiệm10:  .......................................... 
+I. TỔNG SỐ THUẾ BỔ SUNG CỦA TẬP ĐOÀN TẠI MỖI QUỐC GIA11 
+Đơn vị tiền:..... 
+STT Quốc gia Số thuế bổ sung c ủa Tập đoàn tại mỗi quốc gia 
+(1) (2) (3) 
+   
+ Tổng cộng [13] 
+II. SỐ THUẾ PHÂN BỔ CHO CÔNG TY MẸ TỪ SỐ THUẾ BỔ SUNG 
+CỦA ĐƠN VỊ HỢP THÀNH CHỊU THUẾ SUẤT THẤP 12 
+
+<!-- Page 42 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 43 
+ 
+Đơn vị tiền:..... 
+Mã số thuế 
+công ty mẹ 
+được phân 
+bổ thuế bổ 
+sung từ 
+đơn vị hợp 
+thành chịu 
+thuế suất 
+thấp 
+Tên công 
+ty mẹ 
+được 
+phân bổ 
+thuế bổ 
+sung từ 
+đơn vị 
+hợp thành 
+chịu thuế 
+suất thấp 
+Quốc 
+gia có 
+đơn vị 
+hợp 
+thành 
+chịu 
+thuế 
+suất 
+thấp cư 
+trú 
+Mã số 
+thuế/mã 
+số doanh 
+nghiệp 
+đơn vị 
+hợp thành 
+chịu thuế 
+suất thấp 
+Tên 
+đơn vị 
+hợp 
+thành 
+chịu 
+thuế 
+suất 
+thấp 
+Số thuế 
+bổ sung 
+của đơn 
+vị hợp 
+thành 
+chịu 
+thuế 
+suất 
+thấp 
+Thu 
+nhập 
+phân bổ 
+theo 
+quyền sở 
+hữu do 
+các chủ 
+sở hữu 
+khác 
+nắm giữ 
+Thu nhập 
+theo quy 
+định về 
+thuế tối 
+thiểu toàn 
+cầu của 
+đơn vị hợp 
+thành chịu 
+thuế suất 
+thấp trong 
+năm 
+Tỷ lệ 
+phân bổ 
+cho công 
+ty mẹ đối 
+với đơn vị 
+hợp 
+thành 
+chịu thuế 
+suất thấp 
+trong 
+năm tài 
+chính 
+Số thuế 
+phân bổ 
+cho công ty 
+mẹ từ số 
+thuế bổ 
+sung của 
+đơn vị hợp 
+thành chịu 
+thuế suất 
+thấp 
+(1) (2) (3) (4) (5) (6) (7) (8) (9)=((8)-
+(7))/(8) 
+(10)=(6) x 
+(9) 
+          
+Tổng cộng         [14] 
+III. SỐ THUẾ BỔ SUNG PHẢI NỘP 13 
+STT Chỉ tiêu Mã chỉ 
+tiêu 
+Đơn vị 
+tiền Số tiền 
+(1) (2) (3) (4) (5) 
+1 Tổng số thuế phân bổ cho công ty mẹ tại 
+Việt Nam từ số thuế bổ sung của các đơn 
+vị hợp thành chịu thuế suất thấp  
+[15]   
+2 Tổng số thuế phân bổ cho công ty mẹ tại 
+Việt Nam từ số thuế bổ sung của đơn vị 
+hợp thành chịu thuế suất thấp được giảm 
+trừ theo quy định IIR (nếu có) 
+[16]   
+3 Tổng số thuế phân bổ cho công ty mẹ tại 
+Việt Nam từ số thuế bổ sung của các đơn 
+vị hợp thành chịu thuế suất thấp sau khi bù 
+trừ nghĩa vụ thuế theo quy định IIR  
+[17]   
+4 Tổng số thuế phân bổ cho công ty mẹ từ số 
+thuế bổ sung của các đơn vị hợp thành chịu 
+thuế suất thấp sau khi bù trừ nghĩa vụ thuế 
+theo đồng Việt Nam trong trường hợp khai 
+[18]   
+
+<!-- Page 43 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 44 
+  
+STT Chỉ tiêu Mã chỉ 
+tiêu 
+Đơn vị 
+tiền Số tiền 
+(1) (2) (3) (4) (5) 
+Tờ khai thông tin bằng đồng ngoại tệ và 
+lựa chọn khai Tờ khai thuế TNDN bổ sung, 
+nộp thuế TNDN bổ sung bằng đồng Việt 
+Nam (nếu có) 
+Tôi cam đoan số liệu, tài liệu khai trên là đúng và chịu trách nhiệm trước pháp 
+luật về những số liệu, tài liệu đã khai. 
+ 
+ 
+NHÂN VIÊN ĐẠI LÝ THUẾ 
+Họ và tên:.............................. 
+Chứng chỉ hành nghề số:...... 
+..., ngày....... tháng....... năm... 
+ĐƠN VỊ CHỊU TRÁCH NHIỆM KÊ KHAI  
+hoặc ĐẠI DIỆN HỢP PHÁP CỦA 
+ĐƠN VỊ CHỊU TRÁCH NHIỆM KÊ KHAI  
+(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có) 
+/Ký điện tử) 
+ 
+ 
+ 
+
+<!-- Page 44 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 45 
+ 
+Hướng dẫn khai Tờ khai thuế TNDN bổ sung áp dụng đối với Quy đị nh về tổng 
+hợp thu nhập chịu thuế tối thiểu: 
+1 Năm tài chính báo cáo là năm tài chính phải thực hiện kê khai Tờ khai thông tin 
+theo Quy định về thuế tối thiểu toàn cầu. Đơn vị hợp thành chịu  trách nhiệm kê khai ghi 
+rõ năm tài chính báo cáo từ ngày đầu tiên của năm tài chính đến ngày kết thúc năm tài chính. 
+2 Đánh dấu X vào ô này nếu đơn vị hợp thành chịu trách nhiệm kê khai khai thuế 
+TNDN bổ sung theo Quy định về thuế  tối thiểu toàn cầu lần đầu c ho năm tài chính báo 
+cáo (mà chưa khai bổ sung). 
+3 Khai lần khai bổ sung thuế TNDN bổ sung theo Quy định về thuế tối thiểu toàn cầu 
+cho năm tài chính báo cáo. 
+4 Điền tên đơn vị hợp thành chịu trách nhiệm kê khai theo thông tin đăng ký doanh 
+nghiệp (theo Giấy chứng nhận đă ng ký doanh nghiệp, Giấy chứng n hận đầu tư hoặc các 
+giấy tờ tương đương). 
+5 Điền mã số thuế của đơn vị hợp thành chịu trách nhiệm kê khai được cấp theo Quy 
+định về thuế tối thiểu toàn cầu. 
+6 Tại chỉ tiêu [6], [7] và [8]: Ghi tên đại lý thuế, mã số thuế đại lý thuế, thông tin hợp 
+đồng đại lý thuế trong trường hợp khai thuế qua đại lý thuế. 
+7 Điền loại đồng tiền được sử dụng để khai thông tin tại Tờ khai  thông tin theo Quy 
+định về thuế tối thiểu toàn cầu. 
+8 Đánh dấu X trước ô loại đồng tiền được lựa chọn để khai Tờ kha i thuế thu nhập 
+doanh nghiệp bổ sung và nộp thuế thu nhập doanh nghiệp bổ sung.  
+9 Điền tỷ giá dùng để quy đổi trong trường hợp khai Tờ khai thôn g tin bằng đồng 
+ngoại tệ và lựa chọn khai Tờ khai thuế TNDN bổ sung, nộp thuế T NDN bổ sung bằng 
+đồng Việt Nam. 
+10 Đánh dấu X vào ô này nếu Tập đoàn đa quốc gia có áp dụng quy đ ịnh giảm trừ 
+trách nhiệm. Trường hợp việc áp dụng quy định giảm trừ trách nh iệm dẫn đến số thuế bổ 
+sung tại quốc gia bằng 0 thì đơn vị hợp thành chịu trách nhiệm kê khai điền số thuế bổ 
+sung tại quốc gia đó bằng 0 vào dòng tương ứng tại Mục I. 
+11 I. TỔNG SỐ THUẾ BỔ SUNG CỦA TẬP ĐOÀN TẠI MỖI QUỐC GIA 
+- Cột (2): Ghi tên quốc gia có đơn vị hợp thành chịu thuế suất thấp cư trú. 
+- Cột (3): Điền tổng số thuế bổ sung của các đơn vị hợp thành c hịu thuế suất thấp tại 
+mỗi quốc gia đã kê khai tại cột (2). 
+12 II. SỐ THUẾ PHÂN BỔ CHO CÔNG TY MẸ TỪ SỐ THUẾ BỔ SUNG CỦA 
+ĐƠN VỊ HỢP THÀNH CHỊU THUẾ SUẤT THẤP 
+- Cột (1), (2): Ghi mã số thuế, tên công ty mẹ được phân bổ thu ế bổ sung từ các đơn 
+vị hợp thành chịu thuế suất thấp. 
+
+<!-- Page 45 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 46 
+  
+- Cột (3): Ghi tên quốc gia cư trú của đơn vị hợp thành chịu thuế suất thấp. 
+- Cột (4), (5): Ghi mã số thuế, tên mỗi đơn vị hợp thành chịu t huế suất thấp tại mỗi 
+quốc gia đã kê khai tại cột (3). 
+- Cột (6): Điền số thuế bổ sung của đơn vị hợp thành chịu thuế suất thấp.  
+- Cột (7): Điền thu nhập theo Quy định về thuế tối thiểu toàn c ầu của mỗi đơn vị 
+hợp thành chịu thuế suất thấp th eo quyền sở hữu do các chủ sở h ữu khác nắm giữ. 
+- Cột (8): Điền thu nhập theo Quy định về thuế tối thiểu toàn c ầu của đơn vị hợp 
+thành chịu thuế suất thấp. 
+- Cột (9): Điền tỷ lệ phân bổ cho công ty mẹ đối với mỗi đơn vị  hợp thành chịu thuế 
+suất thấp trong năm tài chính, được xác định bằng công thức:  
+(9) = [(8)-(7)]/(8) 
+- Cột (10): Điền số thuế phân bổ cho công ty mẹ từ số thuế bổ s ung của mỗi đơn vị 
+hợp thành chịu thuế suất thấp, được xác định bằng công thức:  
+(10) = (6) x (9) 
+13 III. SỐ THUẾ BỔ SUNG PHẢI NỘP 
+- Chỉ tiêu [15]: Kê khai tổng số thuế phân bổ cho công ty mẹ tạ i Việt Nam từ số thuế 
+bổ sung của các đơn vị hợp thành chịu thuế suất thấp. 
+- Chỉ tiêu [16]: Kê khai tổng số  thuế phân bổ cho công ty mẹ tạ i Việt Nam từ số 
+thuế bổ sung của đơn vị hợp thàn h chịu thuế suất thấp được giảm  trừ theo quy định IIR 
+(nếu có). 
+- Chỉ tiêu [17]: [17] = [15]-[16] 
+- Chỉ tiêu [18]: Kê khai tổng số thuế bổ sung của đơn vị hợp th ành theo đồng Việt 
+Nam trong trường hợp khai Tờ khai thông tin bằng đồng ngoại tệ và lựa chọn khai Tờ 
+khai thuế TNDN bổ sung, nộp thuế TNDN bổ sung bằng đồng Việt Na m, được xác định 
+theo công thức: [18] = [17] x [Tỷ giá quy đổi ở chỉ tiêu [11].  
+ 
+
+<!-- Page 46 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 47 
+ 
+Mẫu số: 01/TM  
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM 
+Độc lập - Tự do - Hạnh phúc  
+ 
+BẢN THUYẾT MINH GIẢI TRÌNH CHÊNH LỆCH DO KHÁC BIỆT 
+ CHUẨN MỰC KẾ TOÁN TÀI CHÍNH 
+[01] Năm tài chính báo cáo: Năm....... Từ....../....../...... đến....../....../...... 
+[02] Lần đầu             [03] Bổ sung lần thứ:... 
+ 
+[04] Tên đơn vị hợp thành chịu trách nhiệm kê khai:.................................... 
+[05] Mã số thuế theo quy định thuế tối thiểu toàn cầu:........................................  
+[06] Tên đại lý thuế (nếu có):.............................................................................. 
+[07] Mã số thuế:.................................................................................................... 
+[08] Hợp đồng đại lý thuế: Số..................................... ngày................................. 
+[09] Đồng tiền sử dụng lập Báo cáo tài chính hợp nhất của công ty mẹ tối cao:.......... 
+[10] Áp dụng quy định giảm trừ trách nhiệm:... ........................................... 
+ 
+TT 
+Mã số 
+thuế đơn 
+vị hợp 
+thành 
+Tên đơn 
+vị hợp 
+thành 
+Chỉ 
+tiêu 
+Mã số 
+chỉ 
+tiêu 
+Số liệu trên 
+Báo cáo tài 
+chính của 
+đơn vị hợp 
+thành 
+Số liệu trên Báo 
+cáo số liệu tài 
+chính phục vụ 
+mục đích hợp 
+nhất của Công 
+ty mẹ tối cao 
+Chênh lệch 
+Nguyên 
+nhân 
+chênh lệch 
+(1) (2) (3) (4) (5) (6) (7) (8) = (7) - (6) (9) 
+         
+         
+         
+         
+         
+         
+         
+Tôi cam đoan số liệu, tài liệu khai trên là đúng và chịu trách nhiệm trước pháp 
+luật về những số liệu, tài liệu đã khai. 
+ 
+NHÂN VIÊN ĐẠI LÝ THUẾ 
+Họ và tên:............................. 
+Chứng chỉ hành nghề số:...... 
+..., ngày....... tháng....... năm... 
+ĐƠN VỊ HỢP THÀNH CHỊU TRÁCH NHIỆM KÊ KHAI 
+hoặc ĐẠI DIỆN HỢP PHÁP CỦA ĐƠN VỊ HỢP THÀNH 
+CHỊU TRÁCH NHIỆM KÊ KHAI 
+(Chữ ký, ghi rõ họ tên; chức vụ và đóng dấu (nếu có) 
+/Ký điện tử) 
+
+<!-- Page 47 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 48 
+  
+HƯỚNG DẪN KÊ KHAI MẪU SỐ 01/TM 
+ 
+1. Năm tài chính báo cáo  là năm tài chính phải th ực hiện kê khai Tờ khai 
+thông tin theo quy định về thuế tối thiểu toàn cầu. Đơn vị hợp thành chịu trách 
+nhiệm kê khai ghi rõ năm tài chính báo cáo từ ngày đầu tiên của  năm tài chính đến 
+ngày kết thúc năm tài chính. 
+2. Lần đầu: Đánh dấu X vào ô này nếu đơn vị  hợp thành chịu trách nhiệm kê 
+khai khai bản giải trình thuyết minh chênh lệch do khác biệt ch uẩn mực kế toán tài 
+chính theo quy định về thuế tối thiểu toàn cầu lần đầu cho năm tài chính báo cáo 
+(mà chưa khai bổ sung). 
+3. Bổ sung lần thứ: Khai lần khai bổ sung về bản giải trình thuyết minh chênh 
+lệch do khác biệt chuẩn mực kế toán tài chính theo Quy định về thuế tối thiểu toàn 
+cầu cho năm tài chính báo cáo. 
+4. Tên đơn vị hợp thành chịu trách nhiệm kê khai: Điền tên đơn vị hợp thành 
+chịu trách nhiệm kê khai theo thông tin đăng ký doanh nghiệp (theo Giấy chứng nhận 
+đăng ký doanh nghiệp, Giấy chứng nhận đầu tư hoặc các giấy tờ tương đương). 
+5. Mã số thuế theo quy định thuế tối thiểu toàn cầu:  Điền mã số thuế của 
+đơn vị hợp thành chịu trách nhiệm kê khai được cấp theo quy định về thuế tối thiểu 
+toàn cầu. 
+Đại lý thuế:  Tại chỉ tiêu [6], [7] và [8], ghi tên đại lý thuế, mã số thuế đại lý 
+thuế, thông tin hợp đồng đại lý thuế trong trường hợp khai thuế qua đại lý thuế. 
+9. Đồng tiền sử dụng lập Báo cáo tài chính hợp nhất của công ty  mẹ tối 
+cao: Điền loại đồng tiền được sử dụng để lập Báo cáo tài chính hợp nhất của công 
+ty mẹ tối cao (cũng là đồng tiền để khai thông tin tại Tờ khai thông tin theo Quy 
+định về thuế tối thiểu toàn cầu).  
+10. Áp dụng quy định giảm trừ trách nhiệm: Đánh dấu X vào ô này nếu Tập 
+đoàn đa quốc gia có áp dụng quy định giảm trừ trách nhiệm. Khi đó, đơn vị hợp 
+thành chịu trách nhiệm kê khai không phải kê khai giải trình bả ng thuyết minh 
+dưới đây. 
+11. Bảng thuyết minh giải trình chênh lệch: Đơn vị hợp thành chịu trách 
+nhiệm kê khai khai phần thuyết minh giải trình chênh lệch cho t ừng đơn vị hợp 
+thành có phát sinh chênh lệch do khác biệt chuẩn mực kế toán tà i chính theo các 
+hướng dẫn dưới đây: 
+
+<!-- Page 48 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 49 
+ 
+Cột (4): Khai tên các chỉ tiêu trên Báo cáo số liệu tài chính của đơn v ị hợp 
+thành sử dụng cho mục đích lập Báo cáo tài chính hợp nhất của C ông ty mẹ tối cao 
+có ảnh hưởng đến việc tính toán theo quy định về thuế tối thiểu  toàn cầu, mà các 
+chỉ tiêu này có chênh lệch với chỉ tiêu tương ứng trên Báo cáo tài chính của đơn vị 
+hợp thành lập theo chuẩn mực kế toán tài chính nội địa áp dụng tại quốc gia đơn vị 
+hợp thành cư trú.  
+Cột (5): Khai mã số chỉ tiêu (nếu có) tương ứng với các chỉ tiêu đã kha i tại cột 
+(5) trên Báo cáo số liệu tài chính của đơn vị hợp thành sử dụng  để lập Báo cáo tài 
+chính hợp nhất của Công ty mẹ tối cao. 
+Cột (6): Khai số liệu của từng chỉ tiêu được trình bày trên Báo cáo tài  chính 
+của đơn vị hợp thành lập theo chuẩn mực kế toán tài chính nội địa áp dụng tại quốc 
+gia đơn vị hợp thành cư trú. Số liệu tại cột này được khai bằng  đồng tiền sử dụng 
+để lập Báo cáo tài chính hợp nhất của Công ty mẹ tối cao. 
+Cột (7): Khai số liệu của từng chỉ tiêu được trình bày trên Báo cáo số liệu tài 
+chính của đơn vị hợp thành sử dụng cho mục đích lập Báo cáo tài  chính hợp nhất 
+của Công ty mẹ tối cao. Số liệu tại cột này được khai bằng đồng  tiền sử dụng để 
+lập Báo cáo tài chính hợp nhất của Công ty mẹ tối cao.  
+Cột (8) = (7) - (6) 
+Cột (9):  Giải thích rõ ràng sự khác biệt  về chuẩn mực kế toán tài chính  s ử  
+dụng dẫn đến chênh lệch số liệu đối với các khác biệt từ 1 triệu EUR trở lên  do 
+áp dụng một nguyên tắc hoặc chuẩn mực cụ thể. 
+Riêng đối với quy định QDMTT, trường hợp đối tượng áp dụng là L iên doanh 
+không phải thành viên của Tập đoàn liên doanh, Tập đoàn liên do anh, Tập đoàn 
+con có công ty mẹ tối cao là chủ sở hữu thiểu số thì đơn vị hợp  thành chịu trách 
+nhiệm kê khai khai theo hướng dẫn sau: 
+9. Đồng tiền sử dụng lập Báo cáo tài chính hợp nhất của công ty mẹ tối cao: 
+Ghi đồng tiền sử dụng lập Báo cáo tài chính hợp nhất của của Li ên doanh, Công ty 
+mẹ có sở hữu thiểu số. 
+11. Bảng thuyết minh giải trình chênh lệch: 
+Cột (4): Khai tên các chỉ tiêu trên Báo cáo số liệu tài chính của đơn v ị hợp 
+thành sử dụng cho mục đích lập Báo cáo tài chính hợp nhất của L iên doanh, Công 
+ty mẹ có sở hữu thiểu số có ảnh hưởng đến việc tính toán theo q uy định về thuế tối 
+
+<!-- Page 49 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 50 
+  
+thiểu toàn cầu, mà các chỉ tiêu này có chênh lệch với chỉ tiêu tương ứng trên Báo 
+cáo tài chính của đơn vị hợp thành lập theo chuẩn mực kế toán t ài chính nội địa áp 
+dụng tại quốc gia đơn vị hợp thành cư trú. 
+Cột (6):  Khai số liệu trên Báo cáo tài chính của đơn vị hợp thành lập t heo 
+chuẩn mực kế toán tài chính nội  địa áp dụng tại quốc gia đơn vị  hợp thành cư trú 
+bằng đồng tiền sử dụng để lập Báo cáo tài chính hợp nhất của Liên doanh, Công ty 
+mẹ có sở hữu thiểu số. Số liệu tại cột này được khai bằng đồng tiền sử dụng để lập 
+Báo cáo tài chính hợp nhất của Liên doanh, Công ty mẹ có sở hữu thiểu số. 
+Cột (7): Khai thông tin trên Báo cáo số liệu tài chính của đơn vị hợp t hành sử 
+dụng cho mục đích lập Báo cáo tài chính hợp nhất của Liên doanh , Công ty mẹ có 
+sở hữu thiểu số. Số liệu tại cột này được khai bằng đồng tiền s ử dụng để lập Báo 
+cáo tài chính hợp nhất của Liên doanh, Công ty mẹ có sở hữu thiểu số. 
+ 
+
+<!-- Page 50 -->
+ 
+ 
+51 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      51 
+
+
+<!-- Page 51 -->
+ 
+ 
+52 
+52 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 52 
+
+
+<!-- Page 52 -->
+ 
+ 
+53 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      53 
+
+
+<!-- Page 53 -->
+ 
+ 
+54 
+54 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 54 
+
+
+<!-- Page 54 -->
+ 
+ 
+55 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      55 
+
+
+<!-- Page 55 -->
+ 
+ 
+56 
+56 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 56 
+
+
+<!-- Page 56 -->
+ 
+ 
+57 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      57 
+con của liên doanh 
+
+<!-- Page 57 -->
+ 
+ 
+58 
+58 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 58 
+
+
+<!-- Page 58 -->
+ 
+ 
+59 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      59 
+
+
+<!-- Page 59 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 60 
+  
+ 60 
+HƯỚNG DẪN KÊ KHAI TỜ KHAI THÔNG TIN 
+ÁP DỤNG ĐỐI VỚI QUY ĐỊNH THUẾ THU NHẬP DOANH NGHIỆP 
+BỔ SUNG TỐI THIỂU NỘI ĐỊA ĐẠT CHUẨN 
+(Mẫu số 01/TKTT-QDMTT) 
+ 
+1. THÔNG TIN TẬP ĐOÀN ĐA QUỐC GIA 
+1.1. Thông tin về đơn vị hợp thành chịu trách nhiệm kê khai 
+1. Công ty mẹ tối cao là đơn vị hợp thành chịu trách nhiệm kê k hai: Tích chọn 
+vào ô Có/Không để xác định đơn vị hợp thành chịu trách nhiệm kê  khai có phải là 
+Công ty mẹ tối cao của Tập đoàn hay không. 
+2. Tên đơn vị hợp thành chịu trách nhiệm kê khai:  Ghi rõ ràng, đầy đủ tên đơn 
+vị hợp thành chịu trách nhiệm kê khai theo Quyết định thành lập  hoặc Giấy phép 
+thành lập và hoạt động hoặc Gi ấy chứng nhận đăng ký kinh doanh hoặc Giấy tờ 
+tương đương do cơ quan có thẩm quyền tại Việt Nam cấp.  
+ 3. Mã số thuế của đơn vị hợp thành chịu trách nhiệm kê khai th eo quy định về 
+thuế tối thiểu toàn cầu: Khai mã số thuế đơn vị hợp thành chịu trách nhiệm kê khai 
+được cấp để kê khai, nộp thuế theo quy định về thuế tối thiểu toàn cầu. 
+4. Quốc gia có hiệp định giữa nhà chức trách có thẩm quyền về t rao đổi thông 
+tin theo quy định về thuế tối thiểu toàn cầu có hiệu lực với Vi ệ t Nam  (nế u c ó): 
+Điền tên quốc gia có Hiệp định nhà chức trách có thẩm quyền về trao đổi thông tin 
+theo quy định về thuế tối thiểu toàn cầu có hiệu lực với Việt N am (nếu có). Tên 
+quốc gia đó được khai theo định dạng mã quốc gia gồm 2 ký tự ch ữ cái theo tiêu 
+chuẩn ISO 3166-1 Alpha 2. 
+1.2. Thông tin chung của Tập đoàn đa quốc gia 
+1.2.1. Thông tin về năm tài chính của Tập đoàn đa quốc gia 
+1. Tên Tập đoàn đa quốc gia:  Ghi rõ ràng, đầy đủ tên Tập đoàn đa quốc gia 
+được trình bày trên Báo cáo tài chính hợp nhất của Công ty mẹ tối cao.  
+2. Ngày bắt đầu năm tài chính:  Ghi ngày bắt đầu của năm tài chính theo định 
+dạng dd/mm (Ví dụ: 01/01).  
+3. Ngày kết thúc năm tài chính:  Ghi ngày kết thúc của năm tài chính theo định 
+dạng dd/mm (Ví dụ: 31/12). 
+1.2.2. Thông tin kế toán chung của Tập đoàn đa quốc gia 
+1. Báo cáo tài chính hợp nhất của Công ty mẹ tối cao:  Ghi cách thức lập báo 
+cáo tài chính hợp nhất của Công ty mẹ tối cao theo một trong cá c quy định tại 
+khoản 10 Điều 3 Nghị quyết số 107/2023/QH15. Cụ thể, đơn vị hợp  thành chịu 
+
+<!-- Page 60 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 61 
+ 
+ 
+trách nhiệm kê khai điền chỉ tiêu này với nội dung như sau: Báo  cáo tài chính hợp 
+nhất của công ty mẹ tối cao được lập theo quy định tại điểm a/điểm b/điểm c/điểm d, 
+khoản 10, Điều 3, Nghị quyết số 107/2023/QH15. 
+2. Chuẩn mực kế toán tài chính được sử dụng trong báo cáo tài c hính hợp nhất 
+của công ty mẹ tối cao: Ghi chuẩn mực kế toán tài chính được sử  dụng trong báo 
+cáo tài chính hợp nhất của công ty mẹ tối cao. Nếu công ty mẹ t ối cao không lập 
+báo cáo tài chính hợp nhất, đơn vị hợp thành chịu trách nhiệm k ê khai phải khai 
+chuẩn mực kế toán tài chính được  chấp nhận bởi cơ quan kế toán có thẩm quyền 
+được sử dụng theo quy định về thuế tối thiểu toàn cầu. 
+3. Đơn vị tiền tệ được sử dụng trong báo cáo tài chính hợp nhất của công ty mẹ 
+tối cao: Ghi mã ISO của đơn vị tiền tệ được sử dụng trong báo cáo tài ch ính hợp 
+nhất của công ty mẹ tối cao. Nếu công ty mẹ tối cao không lập b áo cáo tài chính 
+hợp nhất, đơn vị hợp thành chịu trách nhiệm kê khai điền mã ISO  của đơn vị tiền 
+tệ được sử dụng cho mục đích quy định về thuế tối thiểu toàn cầu. 
+1.3. Cấu trúc Tập đoàn 
+1.3.1. Công ty mẹ tối cao 
+Thông tin công ty mẹ tối cao dùng để kê khai ở mục này là thông  tin tại ngày 
+cuối cùng của năm tài chính báo cáo. Trường hợp Tập đoàn đa quố c gia là Tập 
+đoàn đa quốc gia có nhiều công ty  mẹ, đơn vị hợp thành chịu trá ch nhiệm kê khai 
+phải kê khai thông tin tại chỉ tiêu 1 và 2 cho từng công ty mẹ tối cao. 
+1. Quốc gia công ty mẹ tối cao cư trú: Ghi mã quốc gia gồm 2 ký  tự theo tiêu 
+chuẩn ISO 3166-1 cho quốc gia cư trú theo quy định về thuế tối thiểu toàn cầu của 
+công ty mẹ tối cao. 
+2. Tên công ty mẹ tối cao: Ghi rõ ràng, đầy đủ tên công ty mẹ tối cao theo Quyết 
+định thành lập hoặc Giấy phép thành lập và hoạt động hoặc Giấy chứng nhận đăng ký 
+kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền cấp. 
+3. Mã số thuế/Mã số doanh nghiệp của công ty mẹ tối cao: Ghi mã  số thuế 
+được cơ quan thuế Việt Nam cấp cho công ty mẹ tối cao. Trường h ợp công ty mẹ 
+tối cao cư trú ngoài Việt Nam thì ghi mã số doanh nghiệp (hoặc mã số tương tự) tại 
+quốc gia nơi thành lập của công ty mẹ tối cao. 
+1.3.2. Các đơn vị của Tập đoàn đa quốc gia tại Việt Nam 
+1. Tên của đơn vị hợp thành, liên doanh, công ty con của liên doanh: Ghi rõ ràng, 
+đầy đủ tên đơn vị hợp thành, liên doanh, công ty con của liên doanh theo Quyết định 
+thành lập hoặc Giấy phép thành lập và hoạt động hoặc Giấy chứng nhận đăng ký kinh 
+doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền cấp. 
+
+<!-- Page 61 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 62 
+  
+ 62 
+2. Mã số thuế: Ghi mã số thuế được sử dụng để thực hiện nghĩa v ụ thuế thuộc 
+phạm vi áp dụng (thuế nội địa) tại Việt Nam của đơn vị hợp thàn h, liên doanh, 
+công ty con của liên doanh. 
+3. Loại hình theo quy định về thuế tối thiểu toàn cầu: Ghi loại  hình cho mục 
+đích áp dụng quy định về thuế tối  thiểu toàn cầu của từng đơn v ị hợp thành, liên 
+doanh, công ty con của liên doanh. Các loại hình bao gồm: 
+- Đơn vị hợp thành 
+- Đơn vị trung chuyển - Đơn vị không chịu thuế thu nhập 
+- Đơn vị trung chuyển - Đơn vị lưỡng tính nghịch 
+- Đơn vị lưỡng tính 
+- Cơ sở thường trú 
+- Công ty chính 
+- Công ty mẹ có sở hữu thiểu số  
+- Công ty con thuộc sở hữu thiểu số 
+- Đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số  không phải là 
+thành viên của tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số  
+- Đơn vị đầu tư 
+- Đơn vị đầu tư bảo hiểm 
+- Liên doanh 
+- Công ty con của liên doanh 
+- Đơn vị hợp thành không trọng yếu 
+Nếu một đơn vị hợp thành, liên doanh, công ty con của liên doan h thuộc nhiều 
+loại hình khác nhau, đơn vị hợp thành chịu trách nhiệm kê khai sẽ liệt kê tất cả loại 
+hình trong cùng một dòng tương ứng với tên và mã số thuế của đơ n vị hợp thành, 
+liên doanh, công ty con của liên doanh đó. 
+1.3.3. Đơn vị bị loại trừ 
+1. Tên đơn vị bị loại trừ: Ghi rõ ràng, đầy đủ tên đơn vị bị lo ại trừ theo Quyết 
+định thành lập hoặc Giấy phép thành lập và hoạt động hoặc Giấy chứng nhận đăng 
+ký kinh doanh hoặc Giấy tờ tương đương do cơ quan có thẩm quyền cấp. 
+2. Mã số thuế: Ghi mã số thuế của đơn vị bị loại trừ sử dụng để  kê khai các 
+khoản thuế thuộc phạm vi áp dụng (thuế nội địa) tại Việt Nam. 
+3. Loại hình đơn vị bị loại trừ: Ghi loại hình của từng đơn vị bị loại trừ đã khai 
+tên. Các loại hình bao gồm (với mỗi đối tượng chỉ chọn 01 loại hình duy nhất): 
+- Tổ chức chính phủ 
+
+<!-- Page 62 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 63 
+ 
+ 
+- Tổ chức quốc tế 
+- Tổ chức phi lợi nhuận 
+- Quỹ hưu trí 
+- Quỹ đầu tư là công ty mẹ tối cao 
+- Tổ chức đầu tư bất động sản là công ty mẹ tối cao 
+- Đơn vị được sở hữu bởi đơn vị bị loại trừ theo quy định tại đ iểm b.1, 
+khoản 3, Điều 3 Nghị định này 
+- Đơn vị được sở hữu bởi đơn vị bị loại trừ theo quy định tại đ iểm b.2, 
+khoản 3, Điều 3 Nghị định này 
+1.3.4. Thay đổi về cấu trúc Tập đoàn phát sinh trong năm tài ch ính 
+báo cáo 
+Đơn vị hợp thành chịu trách nhiệm kê khai không phải khai thông  tin mục này 
+nếu không có đơn vị hợp thành nào có thay đổi trong năm tài chí nh báo cáo và chỉ 
+khai khi phát sinh những thay đổi  trong năm tài chính báo cáo c ó ảnh hưởng đến 
+việc tính toán thuế suất thực tế, thuế bổ sung hoặc xác định số thuế phân bổ từ thuế 
+bổ sung. 
+1. Tên đơn vị hợp thành, liên doanh, công ty con của liên doanh: Ghi tên từng đơn 
+vị hợp thành, liên doanh, công ty con của liên doanh có phát sinh thay đổi trong năm tài 
+chính báo cáo ảnh hưởng đến việc tính tính toán thuế tối thiểu toàn cầu. 
+2. Mã số thuế:  Ghi mã số thuế được sử dụng để thực hiện nghĩa vụ các khoản 
+thuế thuộc phạm vi áp dụng (thuế nội địa) tại Việt Nam của tất cả đơn vị hợp 
+thành, liên doanh, công ty con củ a liên doanh có phát sinh thay  đổi trong năm tài 
+chính báo cáo ảnh hưởng đến việc tính tính toán thuế tối thiểu toàn cầu trong năm 
+tài chính báo cáo.  
+3. Ngày có hiệu lực thay đổi:  Ghi ngày có hiệu lực của thay đổi (theo định 
+dạng dd/mm/yyyy). Nếu một đơn vị hợp thành có nhiều hơn một tha y đổi trong 
+năm tài chính báo cáo, đơn vị hợp thành chịu trách nhiệm kê kha i phải khai riêng 
+từng dòng cho mỗi sự thay đổi.  
+4. Loại hình theo quy định về thuế tối thiểu toàn cầu trước thay đổi: Xác định loại 
+hình cho mục đích áp dụng quy định về thuế tối thiểu toàn cầu của đơn vị hợp thành, 
+liên doanh, công ty con của liên doanh vào ngày ngay trước ngày có thay đổi.  
+Các loại hình bao gồm: 
+- Đơn vị hợp thành 
+- Đơn vị trung chuyển - Đơn vị không chịu thuế thu nhập 
+- Đơn vị trung chuyển - Đơn vị lưỡng tính nghịch 
+
+<!-- Page 63 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 64 
+  
+ 64 
+- Đơn vị lưỡng tính 
+- Cơ sở thường trú 
+- Công ty chính 
+- Công ty mẹ có sở hữu thiểu số  
+- Công ty con thuộc sở hữu thiểu số 
+- Đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số  không phải là 
+thành viên của tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số  
+- Đơn vị đầu tư 
+- Đơn vị đầu tư bảo hiểm 
+- Liên doanh 
+- Công ty con của liên doanh 
+- Đơn vị hợp thành không trọng yếu 
+- Công ty mẹ bị sở hữu một phần 
+- Công ty mẹ trung gian 
+- Công ty mẹ tối cao 
+- Đơn vị bị loại trừ 
+- Đơn vị không thuộc Tập đoàn 
+Nếu một đơn vị hợp thành, liên doanh, công ty con của liên doan h thuộc nhiều 
+loại hình khác nhau, đơn vị hợp thành chịu trách nhiệm kê khai sẽ liệt kê tất cả các 
+loại hình trong cùng một dòng tươ ng ứng với tên và mã số thuế c ủa đơn vị hợp 
+thành, liên doanh, công ty con của liên doanh đó. 
+5. Loại hình theo quy định về thuế tối thiểu toàn cầu sau thay đổi: Xác định 
+loại hình cho mục đích áp dụng quy định về thuế tối thiểu toàn cầu của đơn vị hợp 
+thành, liên doanh, công ty con của liên doanh vào ngày có hiệu lực thay đổi.  
+Các loại hình bao gồm: 
+- Đơn vị hợp thành 
+- Đơn vị trung chuyển - Đơn vị không chịu thuế thu nhập 
+- Đơn vị trung chuyển - Đơn vị lưỡng tính nghịch 
+- Đơn vị lưỡng tính 
+- Cơ sở thường trú 
+- Công ty chính 
+- Công ty mẹ có sở hữu thiểu số  
+- Công ty con thuộc sở hữu thiểu số 
+
+<!-- Page 64 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 65 
+ 
+ 
+- Đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số  không phải là 
+thành viên của tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số  
+- Đơn vị đầu tư 
+- Đơn vị đầu tư bảo hiểm 
+- Liên doanh 
+- Công ty con của liên doanh 
+- Đơn vị hợp thành không trọng yếu 
+- Công ty mẹ bị sở hữu một phần 
+- Công ty mẹ trung gian 
+- Công ty mẹ tối cao 
+- Đơn vị bị loại trừ 
+- Đơn vị không thuộc Tập đoàn 
+Nếu một đơn vị hợp thành, liên doanh, công ty con của liên doan h thuộc nhiều 
+loại hình khác nhau, đơn vị hợp thành chịu trách nhiệm kê khai sẽ liệt kê tất cả các 
+loại hình trong cùng một dòng tươ ng ứng với tên và mã số thuế c ủa đơn vị hợp 
+thành, liên doanh, công ty con của liên doanh. 
+2. Quy định giảm trừ trách nhiệm áp dụng tại Việt Nam 
+Trong trường hợp thỏa mãn điều kiện áp dụng quy định giảm trừ t rách nhiệm, 
+đơn vị hợp thành chịu trách nhiệm kê khai chỉ kê khai thông tin  về quy định giảm 
+trừ trách nhiệm áp dụng tương ứng tại Mục 2 này, không phải kê khai phần tính 
+toán tại Mục 3 ngoại trừ hướng dẫn chi tiết một số chỉ tiêu tại Mục 3 yêu cầu phải 
+kê khai khi áp dụng quy định giảm trừ trách nhiệm tương ứng. 
+2.1. Quy định giảm trừ trách nhiệm tại Việt Nam 
+1. Quy định giảm trừ trách nhiệm áp dụng: Ghi rõ ràng, đầy đủ q uy định giảm 
+trừ trách nhiệm mà các đơn vị hợp thành thỏa mãn điều kiện áp dụng.  
+Các quy định giảm trừ trách nhiệm bao gồm: 
+(a) Quy định giảm trừ trách nhi ệm trên cơ sở báo cáo lợi nhuận liên quốc gia 
+trong thời gian chuyển tiếp - Tiêu chí về tổng doanh thu và lợi  nhuận trước thuế 
+thu nhập (Điểm a.1, khoản 2, Điều 11 Nghị định này). 
+(b) Quy định giảm trừ trách nhi ệm trên cơ sở báo cáo lợi nhuận liên quốc gia 
+trong thời gian chuyển tiếp - Tiêu chí về thuế suất thực tế đượ c đơn giản hóa 
+(Điểm a.2, khoản 2, Điều 1 Nghị định này). 
+
+<!-- Page 65 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 66 
+  
+ 66 
+(c) Quy định giảm trừ trách nhi ệm trên cơ sở báo cáo lợi nhuận liên quốc gia 
+trong thời gian chuyển tiếp - Tiêu chí về lợi nhuận (hoặc lỗ) t rước thuế thu nhập 
+(Điểm a.3, khoản 2, Điều 11 Nghị định này). 
+(d) Quy định giảm trừ trách nhiệm - Tiêu chí về lợi nhuận thông  thường (Điểm 
+a khoản 1 Điều 12 Nghị định này). 
+(đ) Quy định giảm trừ trách nhiệm - Tiêu chí về ngưỡng doanh thu và thu nhập 
+tối thiểu (Điểm b khoản 1 Điều 12 Nghị định này). 
+(e) Quy định giảm trừ trách nhiệm - Tiêu chí về thuế suất thực t ế  ( Đ i ể m  c  
+khoản 1 Điều 12 Nghị định này). 
+Trường hợp lựa chọn quy định giảm trừ trách nhiệm tại điểm (c),  đơn vị hợp 
+thành chịu trách nhiệm kê khai phải kê khai mục xác định giá tr ị tài sản hữu hình 
+và tiền lương được giảm trừ đối v ới các đơn vị hợp thành, liên doanh, công ty con 
+của liên doanh tuân theo các quy định giảm trừ trách nhiệm đã lựa chọn (Mục 3.1.2 
+Tờ khai thông tin này). 
+2.1.1. Quy định giảm trừ trách nhiệm - Phương pháp tính toán đơ n giản 
+đối với đơn vị hợp thành không trọng yếu 
+1. Tổng doanh thu của tất cả các đơn vị hợp thành trong quốc gi a: Khai tổng 
+doanh thu của các đơn vị hợp thành không trọng yếu cư trú tại V iệt Nam trong 
+năm tài chính báo cáo, năm tài chính liền kề trước đó (nếu áp d ụng) và năm tài 
+chính thứ 2 liền kề trước đó (nếu áp dụng) và bình quân 3 năm t ài chính tương ứng 
+theo quy định giảm trừ trách nhiệm. 
+2. Tổng số thuế được đơn giản hóa của tất cả các đơn vị hợp thành không trọng 
+yếu: Khai tổng số thuế được đơn giản hóa của các đơn vị hợp thành kh ông trọng 
+yếu cư trú tại Việt Nam trong năm tài chính báo cáo.  
+2.1.2. Quy định giảm trừ trách nhiệm trên cơ sở báo cáo lợi nhu ận liên 
+quốc gia trong thời gian chuyển tiếp  
+Khi Báo cáo tài chính đạt chuẩn được sử dụng để khai trong mục này là Báo 
+cáo tài chính riêng của một đơn vị hợp thành và dựa trên chuẩn mực kế toán khác 
+với chuẩn mực kế toán được sử dụng trong Báo cáo tài chính hợp nhất của công ty 
+mẹ tối cao, đơn vị hợp thành chịu trách nhiệm kê khai phải kê k hai Mục 4.5 Tờ 
+khai thông tin này để khai thông tin về các chuẩn mực kế toán khác.  
+Trong năm tài chính, Tập đoàn đa quốc gia có Báo cáo lợi nhuận liên quốc gia 
+đạt chuẩn mà tổng doanh thu dưới 10 triệu EUR và lỗ tại quốc gi a đó thì đơn vị 
+hợp thành chịu trách nhiệm kê khai không phải kê khai mục xác đ ịnh giá trị tài sản 
+hữu hình và tiền lương được giảm trừ tại mục 3.1.2 Tờ khai thông tin này. 
+
+<!-- Page 66 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 67 
+ 
+ 
+1. Tổng doanh thu của Tập đoàn đa quốc gia tại Việt Nam:  Khai tổng doanh 
+thu của Tập đoàn đa quốc gia tại Việt Nam trên Báo cáo lợi nhuậ n liên quốc gia 
+đạt chuẩn cho năm tài chính báo cáo.  
+2. Lợi nhuận trước thuế thu nhậ p doanh nghiệp hoặc lỗ của Tập đ oàn đa quốc 
+gia tại Việt Nam: Khai lợi nhuận hoặc lỗ trước thuế thu nhập do anh nghiệp tại Việt 
+Nam trên Báo cáo lợi nhuận liên quốc gia đạt chuẩn của Tập đoàn  đa quốc gia cho 
+năm tài chính báo cáo. 
+3. Tổng các khoản thuế thuộc phạm vi áp dụng được đơn giản hóa:  Khai tổng 
+các khoản thuế thuộc phạm vi áp dụng được đơn giản hóa. 
+4. Thuế suất thực tế được đơn g iản hóa: Khai thuế suất thực tế được đơn giản 
+hóa của tất cả các đơn vị hợp thành, liên doanh, công ty con của liên doanh. 
+2.2. Số thuế thu nhập doanh nghiệp  bổ sung tối thiểu nội địa đạ t chuẩn 
+được xác định bằng 0  
+Khi Tập đoàn đa quốc gia xác định thuế bổ sung của các đơn vị h ợp thành, 
+liên doanh, công ty con của liên d oanh tại Việt Nam bằng 0, đơn  vị hợp thành 
+chịu trách nhiệm kê khai sẽ kê khai Mục 3.5, Mục 4.5 (nếu có) T ờ khai thông 
+tin này cho các đơn vị hợp thành, liên doanh, công ty con của l iên doanh cư trú 
+tại Việt Nam. Đơn vị hợp thành c hịu trách nhiệm kê khai sẽ khai  số liệu cho các 
+chỉ tiêu từ 1 đến chỉ tiêu 4 dưới  đây cho năm tài chính báo cáo , năm tài chính 
+liền kề trước đó (nếu áp dụng) và  năm tài chính thứ 2 liền kề t rước đó (nếu áp 
+dụng), cùng với bình quân 3 nă m tài chính tương ứng. 
+Việc xác định số thuế thu nhập doanh nghiệp bổ sung tối thiểu n ội địa đạt 
+chuẩn được xác định bằng 0  áp dụng đối với tất cả các đơn vị hợp thành, liên 
+doanh, công ty con của liên doanh cư trú tại Việt Nam. Khi tính  doanh thu và thu 
+nhập bình quân theo quy định về thuế tối thiểu toàn cầu, Tập đo àn đa quốc gia tính 
+cả phần doanh thu bình quân và thu nhập bình quân theo quy định  về thuế tối thiểu 
+toàn cầu của các đơn vị của một tập đoàn con có công ty mẹ tối cao là chủ sở hữu 
+thiểu số hoặc đơn vị hợp thành có công ty mẹ tối cao là chủ sở hữu thiểu số không 
+phải là thành viên của tập đoàn con có công ty mẹ tối cao là chủ sở hữu thiểu số.  
+Trường hợp đơn vị hợp thành có năm tài chính ngắn hơn 12 tháng thì doanh 
+thu, thu nhập hoặc lỗ của năm đó được điều chỉnh theo quy định tại điểm a khoản 2 
+
+### Điều 3 Nghị định này.
+
+1. Doanh thu tại Báo cáo tài chính:  Khai tổng doanh thu của các đơn vị hợp 
+thành, liên doanh, công ty con củ a liên doanh cư trú tại Việt N am trước khi có bất 
+kỳ điều chỉnh nào theo Mục 3 Tờ khai thông tin này. 
+
+<!-- Page 67 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 68 
+  
+ 68 
+2. Doanh thu theo quy định về thuế tối thiểu toàn cầu:  Khai tổng doanh thu 
+theo quy định thuế tối thiểu toàn cầu của các đơn vị hợp thành,  liên doanh, công ty 
+con của liên doanh cư trú tại Việt Nam sau khi thực hiện các đi ều chỉnh tại Mục 3 
+Tờ khai thông tin này và chỉ tính đến các khoản điều chỉnh có l iên quan đến doanh 
+thu của đơn vị hợp thành, liên doanh, công ty con của liên doanh.  
+3. Thu nhập hoặc lỗ ròng tại Báo cáo tài chính: Khai tổng thu nhập hoặc lỗ ròng tại 
+báo cáo tài chính của các đơn vị hợp thành, liên doanh, công ty  con của liên doanh 
+cư trú tại Việt Nam trước khi có bất kỳ điều chỉnh nào theo Mục  3 Tờ khai thông 
+tin này. 
+4. Thu nhập hoặc lỗ theo quy định về thuế tối thiểu toàn cầu:  Khai tổng thu 
+nhập hoặc lỗ theo quy định về thuế tối thiểu toàn cầu của các đ ơn vị hợp thành, 
+liên doanh, công ty con của liên doanh cư trú tại Việt Nam theo  kết quả tính toán 
+tại Mục 3 Tờ khai thông tin này. 
+2.3. Giảm trừ trách nhiệm trong giai đoạn đầu thực hiện hoạt động đầu tư 
+quốc tế  
+Trường hợp thỏa mãn điều kiện tại mục này, đơn vị hợp thành chị u trách 
+nhiệm kê khai không phải khai Mục 2.1, Mục 2.2 và Mục 3 Tờ khai thông tin này. 
+1. Ngày đầu tiên của năm tài ch ính đầu tiên mà Tập đoàn đa quốc  gia bắt đầu 
+thuộc phạm vi điều chỉnh của quy định về thuế tối thiểu toàn cầ u: Ghi theo định 
+dạng dd/mm/yyyy. 
+2. Nước tham chiếu: Nước tham chiếu của tập đoàn đa quốc gia đư ợc định 
+nghĩa tại khoản 2 Điều 9 Nghị định này.  
+3. Tính toán theo quy định về thuế tối thiểu toàn cầu 
+3.1. Xác định lợi nhuận tính thuế bổ sung  
+3.1.1. Xác định thu nhập hoặc lỗ theo quy định về thuế tối thiểu toàn cầu 
+1. Tổng thu nhập hoặc lỗ ròng tại báo cáo tài chính sau khi thự c hiện phân bổ 
+thu nhập hoặc lỗ giữa một công ty chính và một cơ sở thường trú , phân bổ thu 
+nhập hoặc lỗ của một cơ sở thường trú có công ty mẹ tối cao là đơn vị trung 
+chuyển: Khai tổng thu nhập hoặc lỗ ròng tại báo cáo tài chính c ủa tất cả các đơn vị 
+hợp thành, liên doanh, công ty con của liên doanh cư trú tại Vi ệt Nam sau khi thực 
+hiện phân bổ thu nhập hoặc lỗ giữa một công ty chính và một cơ sở thường trú, 
+phân bổ thu nhập hoặc lỗ của một cơ sở thường trú có công ty mẹ  tối cao là đơn vị 
+trung chuyển.  
+
+<!-- Page 68 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 69 
+ 
+ 
+2. Các khoản điều chỉnh: 
+Trong mục này, đơn vị hợp thành chịu trách nhiệm kê khai được y êu cầu kê 
+khai tổng tất cả các điều chỉnh đối với thu nhập hoặc lỗ ròng t ại báo cáo tài chính 
+của tất cả các đơn vị hợp thành, liên doanh, công ty con của li ên doanh cư trú tại 
+Việt Nam.  
+ 
+Khoản điều chỉnh Tham chiếu 
+2.1. Chi phí thuế ròng  Điể m 4.1.1 Mục II Phụ lục 2 
+2.2. Cổ tức được loại trừ  Đ iểm 4.1.2 Mục II Phụ lục 2 
+2.3. Lãi hoặc lỗ trên vốn chủ sở hữu được loại trừ Điểm 4.1.3 M ục II Phụ lục 2 
+2.4. Lãi hoặc lỗ do đánh giá lại Điểm 4.1.4 Mục II Phụ lục 2 
+2.5. Lãi hoặc lỗ về chênh lệch tỷ giá do sử dụng 
+đồng tiền kế toán và đồng tiền tính thuế khác nhau Điểm 4.1.5 Mục II Phụ lục 2 
+2.6. Các khoản chi phí không được trừ theo quy định Điểm 4.1.6 Mục II Phụ lục 2 
+2.7. Sai sót của các kỳ trước Điểm 4.1.7 Mục II Phụ lục 2 
+2.8. Những thay đổi về nguyên tắc kế toán Điểm 4.1.7 Mục II Phụ  lục 2 
+2.9. Chi phí hưu trí trích trước của Chương trình 
+hưu trí do các quỹ hưu trí cung cấp Điểm 4.1.8 Mục II Phụ lục 2 
+2.10. Xóa nợ  Điểm 4.2 Mục II Phụ lục 2 
+2.11. Khoản chi phí phát sinh chi trả cho người 
+làm công dựa trên cổ phiếu  Điểm 4.3 Mục II Phụ lục 2 
+2.12. Điều chỉnh theo nguyên tắc giá thị trường Điểm 4.4 Mục II  Phụ lục 2 
+2.13. Khoản giảm trừ thuế  thu nhập có thể được 
+hoàn trả không đạt chuẩn Điểm 4.9 Mục II Phụ lục 2 
+2.14. Điều chỉnh do lựa chọn nguyên tắc thực tế phát 
+sinh đối với các tài sản và nợ phải trả đang được hạch 
+toán theo giá trị hợp lý hoặc giá trị suy giảm 
+Điểm 4.5 Mục II Phụ lục 2 
+2.15. Điều chỉnh đối với thỏa thuận tài chính 
+trong nội bộ tập đoàn Điểm 4.6 Mục II Phụ lục 2 
+
+<!-- Page 69 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 70 
+  
+ 70 
+Khoản điều chỉnh Tham chiếu 
+2.16. Điều chỉnh khoản thu nhập hoặc lỗ tương ứng 
+phần thuế nộp thay chủ hợp đồng bảo hiểm liên 
+quan đến thu nhập của chủ hợp đồng bảo hiểm 
+Điểm 4.7 Mục II Phụ lục 2 
+2.17. Điều chỉnh thu nhập hoặc lỗ liên quan đến 
+vốn cấp một bổ sung, vốn cấp một bị hạn chế Điểm 4.8 Mục II Phụ lục 2 
+2.18. Điều chỉnh đối với các đơn vị hợp thành 
+tham gia và rời khỏi Tập đoàn đa quốc gia Điểm 13 Mục II Phụ lục 2 
+2.19. Điều chỉnh thu nhập hoặc lỗ theo quy định 
+về thuế tối thiểu toàn cầu của cơ sở thường trú có 
+công ty mẹ tối cao là đơn vị trung chuyển 
+Điểm 17 Mục II Phụ lục 2 
+2.20. Thu nhập vận tải quốc tế được loại trừ Điểm 5 Mục II Phụ lục 2 
+2.21. Điều chỉnh do giao dịch chuyển giao tài sản 
+giữa các đơn vị hợp th ành sau ngày 30/11/2021 
+và trước khi bắt đầu năm chuyển tiếp 
+Mục IV Phụ lục 2 
+3. Thu nhập ròng theo Quy định về thuế tối thiểu toàn cầu: Đơn vị hợp thành 
+chịu trách nhiệm kê khai khai tổng thu nhập ròng theo quy định về thuế tối thiểu 
+toàn cầu của tất cả các đơn vị hợp thành, liên doanh, công ty con của liên doanh. 
+3.1.2. Giá trị tài sản hữu hình và tiền lương được giảm trừ the o quy định 
+về thuế tối thiểu toàn cầu  
+3.1.2.1. Tổng giá trị tài sản hữu hình và tiền lương được giảm trừ theo quy 
+định về thuế tối thiểu toàn cầu  
+Trường hợp đơn vị hợp thành chịu trách nhiệm kê khai không khai  thông tin 
+tại mục này có nghĩa là đơn vị hợp thành chịu trách nhiệm kê kh ai lựa chọn không 
+áp dụng giảm trừ giá trị tài sản hữu hình và tiền lương theo qu y định về thuế tối 
+thiểu toàn cầu. 
+1. Giá trị tiền lương được giảm trừ:  
+1.1. Chi tiền lương hợp lệ: Khai  tổng chi phí tiền lương hợp lệ  trả cho tổng số 
+người làm công hợp lệ thực hiện các hoạt động của Tập đoàn đa q uốc gia cư trú tại 
+Việt Nam.  
+
+<!-- Page 70 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 71 
+ 
+ 
+1.2. Tỷ lệ giảm trừ: 5%.  
+Trong giai đoạn chuyển tiếp từ năm  2024, giá trị tiền lương đượ c giảm 
+trừ cho từng năm theo tỷ lệ quy định tại Phụ lục ban hành kèm t heo Nghị 
+quyết số 107/2023/QH15. 
+2. Giá trị tài sản hữu hình được giảm trừ:  
+2.1. Giá trị tài sản hữu hình hợp lệ: Khai tổng giá trị còn lại  ghi sổ của tài sản 
+hữu hình hợp lệ của tất cả các đơn vị hợp thành cư trú tại Việt Nam. 
+2.2. Tỷ lệ giảm trừ: 5%.  
+Trong giai đoạn chuyển tiếp từ năm 2024, giá trị tài sản hữu hì nh được 
+giảm trừ cho từng năm theo tỷ lệ  quy định tại Phụ lục ban hành kèm theo 
+Nghị quyết số 107/2023/QH15. 
+3. Tổng giá trị tài sản hữu hình và tiền lương được giảm trừ th eo quy định về 
+thuế tối thiểu toàn cầu 
+Tổng giá trị tài sản hữu hình và tiền lương được giảm trừ theo quy định về thuế 
+tối thiểu toàn cầu = [Chi tiền lương hợp lệ] * [Tỷ lệ giảm trừ]  + [Giá trị tài sản hữu 
+hình hợp lệ] * [Tỷ lệ giảm trừ]. 
+3.1.2.2. Phân bổ chi tiền lương và giá trị tài sản hữu hình hợp  lệ giữa công 
+ty chính và cơ sở thường trú 
+1. Quốc gia công ty chính cư trú: Ghi mã quốc gia gồm 2 ký tự c hữ cái dựa 
+trên tiêu chuẩn ISO 3166-1 Alpha  2 cho quốc gia công ty chính c ư trú theo quy 
+định về thuế tối thiểu toàn cầu, mà các công ty chính này có cơ  sở thường trú được 
+phân bổ chi tiền lương và tài sản  hữu hình hợp lệ, bao gồm trườ ng hợp công ty 
+chính cư trú tại Việt Nam hoặc công ty chính cư trú tại nước ngoài có cơ sở thường 
+trú tại Việt Nam. 
+2. Chi tiền lương hợp lệ của các công ty chính: Khai giá trị ch i tiền 
+lương hợp lệ của tất cả các công ty chính trước khi thực hiện p hân bổ cho 
+các cơ sở thường trú. 
+3. Giá trị tài sản hữu hình hợp lệ của các công ty chính: Khai giá trị tài sản hữu 
+hình hợp lệ của tất cả các công ty chính trước khi thực hiện ph ân bổ cho các cơ sở 
+thường trú. 
+4. Quốc gia cơ sở thường trú cư trú: Ghi mã quốc gia gồm 2 ký t ự chữ cái dựa 
+trên tiêu chuẩn ISO 3166-1 Alpha  2 cho quốc gia cơ sở thường tr ú của các công ty 
+chính cư trú theo quy định về t huế tối thiểu toàn cầu, mà các c ơ sở thường trú này 
+được phân bổ chi tiền lương và tài sản hữu hình hợp lệ.  
+
+<!-- Page 71 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 72 
+  
+ 72 
+5. Chi tiền lương hợp lệ được phân bổ cho cơ sở thường trú: Kha i giá trị chi 
+tiền lương hợp lệ được phân bổ cho các cơ sở thường trú của các công ty chính. 
+6. Giá trị tài sản hữu hình hợp lệ được phân bổ cho cơ sở thườn g trú: Khai giá 
+trị còn lại ghi sổ của tài sản hữu hình hợp lệ được phân bổ cho các cơ sở thường trú 
+của các công ty chính. 
+7. Chi tiền lương hợp lệ sau phân bổ của công ty chính: [7] = [2] - [5]. 
+8. Giá trị tài sản hữu hình hợp lệ sau phân bổ của công ty chính: [8] = [3] - [6] 
+3.1.2.3. Phân bổ chi tiền lương và giá trị tài sản hữu hình hợp lệ của các cơ 
+sở thường trú có công ty mẹ tối cao là đơn vị trung chuyển 
+1. Chi tiền lương hợp lệ của cơ sở thường trú có công ty mẹ tối  cao là đơn vị 
+trung chuyển: Khai giá trị chi tiề n lương hợp lệ của tất cả các  cơ sở thường trú cư 
+trú tại Việt Nam có công ty mẹ tối cao là đơn vị trung chuyển t rước khi thực hiện 
+phân bổ. 
+2. Giá trị tài sản hữu hình hợp lệ của cơ sở thường trú có công  ty mẹ tối cao là 
+đơn vị trung chuyển: Khai giá trị tài sản hữu hình hợp lệ của t ất cả các cơ sở 
+thường trú cư trú tại Việt Nam có công ty mẹ tối cao là đơn vị trung chuyển trước 
+khi thực hiện phân bổ. 
+3. Quốc gia đối tượng nắm giữ quyền sở hữu trong công ty mẹ tối  cao cư trú: 
+Đơn vị hợp thành chịu trách nhiệm kê khai ghi mã quốc gia gồm 2  ký tự theo tiêu 
+chuẩn ISO 3166-1 cho quốc gia đối tượng nắm giữ quyền sở hữu tr ong công ty mẹ 
+tối cao cư trú theo quy định về thuế tối thiểu toàn cầu.  
+4. Chi tiền lương hợp lệ được phân bổ cho đối tượng nắm giữ quy ền sở hữu 
+trong công ty mẹ tối cao: Khai chi tiền lương hợp lệ được phân bổ cho đối tượng 
+nắm giữ quyền sở hữu trong công ty mẹ tối cao.  
+5. Giá trị tài sản hữu hình hợp lệ được phân bổ cho đối tượng n ắm giữ quyền 
+sở hữu trong công ty mẹ tối cao: Khai giá trị tài sản hữu hình hợp lệ được phân bổ 
+cho đối tượng nắm giữ quyền sở hữu trong công ty mẹ tối cao. 
+6. Chi tiền lương hợp lệ của cơ sở thường trú có công ty mẹ tối  cao là đơn vị 
+trung chuyển sau khi phân bổ cho đối tượng nắm giữ quyền sở hữu  trong công ty 
+mẹ tối cao: [6] = [1] - [4]. 
+7. Giá trị tài sản hữu hình hợp lệ của cơ sở thường trú có công  ty mẹ tối cao là 
+đơn vị trung chuyển sau khi phâ n bổ cho đối tượng nắm giữ quyền  sở hữu trong 
+công ty mẹ tối cao: [7] = [2] - [5]. 
+
+<!-- Page 72 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 73 
+ 
+ 
+3.2. Xác định thuế thuộc phạm vi áp dụng đã được điều chỉnh 
+3.2.1. Tổng số thuế thuộc phạm vi áp dụng đã được điều chỉnh 
+1. Tổng khoản thuế thuộc phạm vi  áp dụng sau khi thực hiện phân  bổ từ một 
+đơn vị hợp thành này sang đơn vị hợp thành khác: Khai tổng các khoản thuế thuộc 
+phạm vi áp dụng của tất cả các đơn  vị hợp thành, liên doanh, cô ng ty con của liên 
+doanh cư trú tại Việt Nam sau khi phân bổ thuế thuộc phạm vi áp  dụng từ một đơn 
+vị hợp thành sang một đơn vị hợp thành khác. 
+2. Các khoản điều chỉnh: Trong mục này, đơn vị hợp thành chịu t rách nhiệm 
+kê khai được yêu cầu kê khai tổng giá trị các điều chỉnh đối với thuế thuộc phạm vi 
+áp dụng của tất cả các đơn vị hợp thành, liên doanh, công ty co n của liên doanh cư 
+trú tại Việt Nam. 
+Khoản điều chỉnh Tham chiếu 
+2.1. Khoản thuế thuộc phạm vi áp dụng được 
+hạch toán là chi phí khi tính lợi nhuận trước 
+thuế trong sổ sách kế toán 
+Điểm 8.2.1 Mục II Phụ lục 2 
+ 
+2.2. Khoản tài sản thuế hoãn lại do lỗ theo Quy 
+định về thuế tối thiểu toàn cầu được sử dụng 
+theo quy định 
+Điểm 8.2.2 Mục II Phụ lục 2  
+2.3. Khoản thuế thuộc phạm vi áp dụng được 
+nộp trong năm tài chí nh và liên quan đến 
+nghiệp vụ thuế không chắc chắn (chờ điều 
+chỉnh) mà khoản đó nằm trong phần điều chỉnh 
+trừ khỏi thuế thuộc phạm vi áp dụng trong một 
+năm tài chính trước đó theo quy định 
+Điểm 8.2.3 Mục II Phụ lục 2  
+2.4. Khoản chi phí thuế hiện hành liên quan đến 
+thu nhập không được đưa vào khi tính thu nhập 
+hoặc lỗ theo Quy định về thuế tối thiểu toàn cầu 
+theo quy định 
+Điểm 8.3.1 Mục II Phụ lục 2  
+2.5. Khoản giảm trừ hoặc khoản hoàn trả thuế 
+mà theo quy định các khoản này được coi là 
+một khoản giảm trừ thuế thu nhập có thể được 
+hoàn trả không đạt chuẩn và chưa được ghi 
+nhận là một khoản giảm chi phí thuế hiện hành 
+Điểm 8.3.2 Mục II Phụ lục 2  
+
+<!-- Page 73 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 74 
+  
+ 74 
+Khoản điều chỉnh Tham chiếu 
+2.6. Khoản thuế thuộc phạm vi áp dụng được 
+hoàn trả hoặc giảm trừ của một đơn vị hợp 
+thành mà đã không được ghi nhận là khoản điều 
+chỉnh chi phí thuế hiện hành trong sổ kế toán 
+Điểm 8.3.3 Mục II Phụ lục 2  
+2.7. Khoản chi phí thuế hiện hành liên quan đến 
+một nghiệp vụ thuế không chắc chắn (chờ điều 
+chỉnh) 
+Điểm 8.3.4 Mục II Phụ lục 2  
+2.8. Khoản chi phí thuế hiện hành dự kiến 
+không được thanh toán trong vòng ba năm kể từ 
+ngày cuối cùng của năm tài chính 
+Điểm 8.3.5 Mục II Phụ lục 2  
+2.9. Những điều chỉnh phát sinh sau khi kê khai 
+và thay đổi thuế suất 
+Điểm 11 Mục II Phụ lục 2  
+2.10. Điều chỉnh thuế thuộc phạm vi áp dụng 
+của cơ sở thường trú có công ty mẹ tối cao là 
+Đơn vị trung chuyển 
+Điểm 17 Mục II Phụ lục 2  
+2.11. Tổng các khoản điều chỉnh thuế hoãn lại Điểm 9 Mục II Phụ  lục 2  
+2.12. Tăng hoặc giảm đối với các khoản thuế 
+thuộc phạm vi áp dụng chưa được ghi nhận vào 
+chi phí thuế hiện hành hoặc chi phí thuế hoãn 
+lại, nhưng được ghi nhận trong phần vốn chủ sở 
+hữu hoặc phần thu nhập toàn diện khác liên 
+quan đến các khoản được đưa vào khi tính thu 
+nhập hoặc lỗ theo Quy định về thuế tối thiểu 
+toàn cầu mà các khoản này sẽ phải chịu thuế 
+theo quy định của thuế nội địa 
+Điểm 8.1.3 Mục II Phụ lục 2  
+2.13. Chi phí thuế nhỏ hơn 0 chưa bù trừ hết 
+phát sinh trong năm tài chính báo cáo 
+Điểm a khoản 1 Điều 5 Nghị 
+định và điểm 8.6 Mục II Phụ 
+lục 2  
+2.14. Chi phí thuế nhỏ hơn 0 chưa bù trừ hết 
+được sử dụng trong năm tài chính báo cáo 
+Điểm a khoản 1 Điều 5 Nghị 
+định và điểm 8.6 Mục II Phụ 
+lục 2  
+
+<!-- Page 74 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 75 
+ 
+ 
+3. Thuế thuộc phạm vi áp dụng được điều chỉnh:  
+Đơn vị hợp thành chịu trách nhiệm kê khai khai tổng các khoản t huế thuộc 
+phạm vi áp dụng đã được điều chỉnh của tất cả các đơn vị hợp th ành, liên doanh, 
+công ty con của liên doanh  
+3.2.2. Chi phí thuế nhỏ hơn 0 chưa bù trừ hết  
+1. Số dư từ năm tài chính báo cáo trước chuyển sang: Số dư từ c ác năm trước 
+là số tiền còn lại của chi phí thuế nhỏ hơn 0 chưa được bù trừ hết chưa giảm trừ 
+vào số thuế thuộc phạm vi áp dụng đã được điều chỉnh. 
+2. Chi phí thuế nhỏ hơn 0 chưa được bù trừ hết phát sinh trong năm tài chính 
+báo cáo: Khai khoản chi phí thuế nhỏ hơn 0 chưa được bù trừ hết  phát sinh trong 
+năm tài chính báo cáo cho các đơn vị hợp thành.  
+3. Chi phí thuế nhỏ hơn 0 chưa được bù trừ hết được sử dụng tro ng năm tài 
+chính báo cáo: Khai khoản chi phí thuế nhỏ hơn 0 chưa được bù t rừ hết được sử 
+dụng cho năm tài chính báo cáo. Chi phí thuế nhỏ hơn 0 chưa được bù trừ hết được 
+sử dụng là số thấp hơn giữa số dư còn lại của chi phí thuế nhỏ hơn 0 chưa được bù 
+trừ hết và các khoản thuế thuộc phạm vi áp dụng đã điều chỉnh trong năm tài chính 
+báo cáo. 
+4. Chi phí thuế nhỏ hơn 0 chưa đ ược bù trừ hết còn lại cho các năm tài chính 
+báo cáo kế tiếp: Chi phí thuế nhỏ hơn 0 chưa được bù trừ hết cò n lại cho các 
+năm tiếp theo là tổng của số dư từ các năm trước và chi phí thu ế nhỏ hơn 0 chưa 
+được bù trừ hết được tạo ra cho năm tài chính báo cáo và trừ đi  chi phí thuế nhỏ 
+hơn 0 chưa được bù trừ hết được sử dụng cho năm tài chính báo c áo. Theo đó: 
+[6] = [3] + [4] - [5]. 
+3.2.3. Tính toán theo quốc gia liên quan đến kế toán thuế hoãn lại 
+3.2.3.1. Các điều chỉnh thuế hoãn lại 
+a. Tóm tắt tổng quát 
+1. Chi phí thuế hoãn lại [A]: K hai tổng số chi phí thuế hoãn lạ i được trích 
+trước trong sổ kế toán của tất cả các đơn vị hợp thành, liên do anh, công ty con của 
+liên doanh cư trú tại Việt Nam.  
+2. Chi phí thuế hoãn lại tính lạ i theo mức thuế suất tối thiểu [B] = [C] + [D]: 
+Khai tổng chi phí thuế hoãn lại được tính lại theo mức thuế suấ t tối thiểu (15%). 
+Việc tính lại chi phí thuế hoãn lại tại mức thuế suất tối thiểu  gồm hai trường hợp 
+tại chỉ tiêu số 3 và 4 như sau: 
+- Chỉ tiêu 3. Tài sản thuế hoãn lại đã được ghi nhận ở mức thuế  suất thấp hơn 
+thuế suất tối thiểu tính lại ở mức thuế suất tối thiểu trong nă m tài chính mà khoản 
+
+<!-- Page 75 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 76 
+  
+ 76 
+lỗ liên quan đến tài sản thuế h oãn lại đó trở thành một khoản l ỗ theo Quy định về 
+thuế tối thiểu toàn cầu [C]. 
+- Chỉ tiêu 4. Chi phí thuế hoãn lạ i được ghi nhận ở mức thuế su ất cao hơn thuế 
+suất tối thiểu và được tính lại ở mức thuế suất tối thiểu [D]. 
+5. Tổng các khoản điều chỉnh [E]: Tổng số tiền điều chỉnh điền tại chỉ tiêu này 
+sẽ là kết quả tính toán cuối cùng của mục b dưới đây. 
+6. Tổng thuế hoãn lại sau khi tí nh lại theo mức thuế suất tối t hiểu và đã được 
+điều chỉnh: [F] = [B]+/-[E]. 
+b. Phân tích các điều chỉnh 
+1. Các khoản điều chỉnh chi phí thuế hoãn lại: Đơn vị hợp thành  chịu trách 
+nhiệm kê khai khai các điều chỉnh chi phí thuế hoãn lại theo các chỉ tiêu dưới đây: 
+ 
+Khoản điều chỉnh Tham chiếu 
+1.1. Chi phí thuế hoãn lại đối với các khoản 
+không được đưa vào khi tính thu nhập hoặc lỗ 
+theo quy định về thuế tối thiểu toàn cầu 
+Điểm 9.1.1 Mục II Phụ lục 2 
+ 
+1.2. Chi phí thuế hoãn lại đối với các khoản 
+trích trước không được chấp nhận Điểm 9.1.2 Mục II Phụ lục 2 
+1.3. Chi phí thuế hoãn lại đối với các khoản 
+trích trước chưa được tính Điểm 9.1.2 Mục II Phụ lục 2 
+1.4. Điều chỉnh cách thức xác định giá trị hoặc 
+điều chỉnh việc ghi nhận kế toán liên quan đến 
+tài sản thuế hoãn lại 
+Điểm 9.1.3 Mục II Phụ lục 2 
+1.5. Chi phí thuế hoãn lại phát sinh từ việc 
+tính toán lại do thay đổi thuế suất áp dụng 
+tại một nước 
+Điểm 9.1.4 Mục II Phụ lục 2 
+1.6. Chi phí thuế hoãn lạ i từ việc tạo lập và sử 
+dụng các khoản giảm trừ nghĩa vụ thuế Điểm 9.1.5 Mục II Phụ lục 2 
+1.7. Khoản lỗ thay thế từ tài sản thuế hoãn lại 
+được chuyển kỳ sau Điểm 9.1.5 Mục II Phụ lục 2 
+
+<!-- Page 76 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 77 
+ 
+ 
+Khoản điều chỉnh Tham chiếu 
+1.8. Các khoản trích trước chưa được tính đã 
+được thanh toán trong năm tài chính Điểm 9.2.1 Mục II Phụ lục 2 
+1.9. Các khoản thuế hoãn lại phải trả được thu 
+hồi được xác định trong năm tài chính trước đó 
+và đã được nộp trong năm tài chính hiện hành 
+Điểm 9.2.2 Mục II Phụ lục 2 
+1.10. Tài sản thuế hoãn lại do lỗ của năm tài 
+chính hiện hành phát sinh lỗ, nhưng tài sản 
+thuế hoãn lại do lỗ đó không được ghi trên báo 
+cáo tài chính vì không đáp ứng tiêu chuẩn được 
+kế toán ghi nhận là tài sản thuế hoãn lại 
+Điểm 9.2.3 Mục II Phụ lục 2 
+1.11. Khoản điều chỉnh chi phí thuế hoãn lại do 
+giảm thuế suất Điểm 11.2 Mục II Phụ lục 2 
+1.12. Khoản điều chỉnh chi phí thuế hoãn lại do 
+tăng thuế suất Điểm 11.3 Mục II Phụ lục 2 
+1.13. Điều chỉnh đối với đơn vị hợp thành 
+tham gia hoặc rời khỏi Tập đoàn đa quốc gia Điểm 13 Mục II Phụ lục 2 
+1.14. Chi phí thuế hoãn lại của cơ sở thường trú 
+có Công ty mẹ tối cao là Đơn vị trung chuyển Điểm 17 Mục II Phụ lục 2 
+1.15. Điều chỉnh do giao dịch chuyển giao tài sản 
+giữa các đơn vị hợp thành sau ngày 30/11/2021 
+và trước khi bắt đầu năm chuyển tiếp 
+Mục IV Phụ lục 2 
+2. Tổng các khoản điều chỉnh: Khai tổng số tiền điều chỉnh thuế  hoãn lại. Số 
+tiền được kê khai ở chỉ tiêu này sẽ được kê khai tại chỉ tiêu s ố 5 điểm a mục này 
+(5. Tổng các khoản điều chỉnh [E]).  
+3.2.3.2. Cơ chế thu hồi  
+2. Khoản thuế hoãn lại phải trả đư ợc ghi nhận theo cơ chế xử lý  các khoản 
+chênh lệch tạm thời: Khoản thuế hoãn lại phải trả được xác định  theo điểm 9 
+Mục II Phụ lục 2 và không bao gồm  khoản thuế trích trước thuộc ngoại lệ 
+không thu hồi. 
+
+<!-- Page 77 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 78 
+  
+ 78 
+3. Khoản thuế hoãn lại phải trả được thu hồi: Khai khoản thuế hoãn lại phải trả 
+được thu hồi từng năm theo quy định tại điểm 9.4 Mục II Phụ lục 2. 
+4. Khoản thuế hoãn lại phải trả không được thu hồi: Khoản thuế hoãn lại phải 
+trả không được thu hồi = Khoản thuế  hoãn lại phải trả được ghi nhận theo cơ chế 
+xử lý các khoản chênh lệch tạm thời - Khoản thuế hoãn lại phải trả được thu hồi. 
+3.2.3.3. Quy tắc chuyển tiếp  
+Năm chuyển tiếp: Năm chuyển tiếp đối với Việt Nam là năm tài ch ính đầu tiên 
+mà Tập đoàn đa quốc gia thuộc phạm vi áp dụng quy định về thuế tối thiểu toàn 
+cầu tại Việt Nam. Chỉ tiêu này sẽ được kê khai hàng năm, các ch ỉ tiêu còn lại ở 
+mục này chỉ phải kê khai nếu năm tài chính báo cáo đồng thời là năm chuyển tiếp. 
+a. Xử lý khoản thuế hoãn lại phải trả và tài sản thuế hoãn lại trong thời 
+gian chuyển tiếp  
+a.1. Xử lý khoản thuế hoãn lại phải trả 
+1.1. Khoản thuế hoãn lại phải tr ả tại đầu năm chuyển tiếp: Khai  giá trị khoản 
+thuế hoãn lại phải trả tại đầu năm chuyển tiếp, không bao gồm b ất kỳ khoản thuế 
+hoãn lại phải trả nào phát sinh từ việc chuyển giao tài sản giữ a các đơn vị hợp 
+thành sau ngày 30 tháng 11 năm 2021 và trước khi bắt đầu năm ch uyển tiếp. Các 
+khoản thuế hoãn lại phải trả này sẽ được điều chỉnh tại điểm b dưới đây. 
+1.2. Khoản thuế hoãn phải trả được tính lại ở mức thuế suất tối thiểu: Việc tính 
+lại ở mức thuế suất tối thiểu không áp dụng nếu mức thuế suất nội địa áp dụng thấp 
+hơn mức tối thiểu. 
+a.2. Xử lý khoản tài sản thuế hoãn lại 
+1.1. Tài sản thuế hoãn lại tại đầu năm chuyển tiếp [A]: Khai gi á trị tài sản thuế 
+hoãn lại phải trả tại đầu năm chuyển tiếp, không bao gồm bất kỳ  khoản tài sản thuế 
+hoãn lại nào phát sinh từ việc chuyển giao tài sản giữa các đơn  vị hợp thành sau 
+ngày 30 tháng 11 năm 2021 và trư ớc khi bắt đầu năm chuyển tiếp.  Các khoản tài 
+sản thuế hoãn lại này sẽ được điều chỉnh tại điểm b dưới đây. 
+1.2. Tài sản thuế hoãn lại được tính lại ở mức thuế suất tối th iểu [B]: Việc tính 
+lại ở mức thuế suất tối thiểu không áp dụng nếu thuế suất nội đ ịa áp dụng thấp hơn 
+mức thuế suất tối thiểu, trừ khi có thể chứng minh rằng tài sản  thuế hoãn lại là do 
+lỗ theo quy định về thuế tối thiểu toàn cầu, trong trường hợp này, tài sản thuế hoãn 
+lại đã được ghi nhận ở mức thấp hơn mức thuế suất tối thiểu có thể được tính lại ở 
+mức thuế suất tối thiểu. 
+1.3. Tài sản thuế hoãn lại phát sinh từ những khoản mục được lo ại trừ [C]: Tài 
+sản thuế thu nhập hoãn lại phát sinh từ các mục bị loại trừ khỏ i tính thu nhập hoặc 
+
+<!-- Page 78 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 79 
+ 
+ 
+lỗ của theo quy định về thuế tối thiểu toàn cầu phải được loại trừ nếu tài sản thuế 
+thu nhập hoãn lại đó được tạo ra trong một giao dịch diễn ra sa u ngày 30 tháng 11 
+năm 2021. 
+1.4. Tài sản thuế hoãn lại được ghi nhận theo quy định thuế tối  thiểu toàn cầu 
+[D]: Khai tổng tài sản thuế thu nhập hoãn lại sẽ được ghi nhận theo quy định thuế 
+tối thiểu toàn cầu tại đầu năm chuyển tiếp.  
+Theo đó, [D] = [A] hoặc [B] - [C]. 
+b. Chuyển nhượng tài sản giữa các đơn vị hợp thành sau ngày 30 tháng 11 
+năm 2021 và trước khi bắt đầu năm chuyển tiếp 
+2. Số thuế bên chuyển nhượng tài sản đã nộp đối với giao dịch chuyển nhượng: 
+Khai số tiền thuế đã nộp đối với các giao dịch chuyển nhượng tài sản. 
+3. Tài sản thuế hoãn lại hoặc thuế hoãn lại phải trả ròng ghi n hận trên sổ kế 
+toán của đơn vị hợp thành chuyển nhượng tài sản:  
+- Tài sản thuế thu nhập hoãn lại được trình bày là số dương. 
+- Khoản thuế hoãn lại phải trả được trình bày là số âm. 
+4. Giá trị tài sản được chuyển nhượng theo quy định về thuế tối  thiểu toàn cầu: 
+Giá trị tài sản chuyển giao (trừ hàng tồn kho) được căn cứ vào giá trị ghi sổ còn lại 
+của tài sản tại thời điểm chuyển giao của đơn vị chuyển giao tà i sản. Giá trị ghi sổ 
+còn lại là giá trị ghi sổ còn lạ i của tài sản được chuyển giao vào ngày thực hiện 
+chuyển giao, sau khi điều chỉnh chi phí vốn và khấu hao sau khi  chuyển giao và 
+trước khi bắt đầu năm chuyển tiếp. 
+5. Tài sản thuế hoãn lại hoặc t huế hoãn lại phải trả ròng được xác định đối với 
+tài sản được chuyển nhượng theo quy định về thuế tối thiểu toàn  cầu của các đơn 
+vị hợp thành nhận chuyển nhượng:  
+- Tài sản thuế thu nhập hoãn lại được trình bày là số dương. 
+- Khoản thuế hoãn lại phải trả được trình bày là số âm. 
+3.3. Lựa chọn quốc gia 
+3.3.1. Các lựa chọn 
+3.3.1.1. Lựa chọn hằng năm 
+Đơn vị hợp thành chịu trách nhiệm kê khai tích vào ô thực hiện lựa chọn. 
+3.3.1.2. Lựa chọn năm năm 
+Đơn vị hợp thành chịu trách nhiệm kê khai điền năm lựa chọn và năm chấm 
+dứt lựa chọn (nếu có) vào các lựa chọn năm năm mà đơn vị hợp th ành chịu trách 
+nhiệm kê khai lựa chọn. Trường hợ p không lựa chọn, đơn vị hợp t hành chịu trách 
+nhiệm kê khai không cần điền thông tin vào ô lựa chọn đó. 
+
+<!-- Page 79 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 80 
+  
+ 80 
+3.3.1.3. Lựa chọn lỗ theo quy định về thuế tối thiểu toàn cầu 
+Đơn vị hợp thành chịu trách nhiệm kê khai căn cứ quy định điểm 10 mục II 
+Phụ lục 2 để thực hiện lựa chọn lỗ theo quy định về tối thiểu t oàn cầu. Trường hợp 
+lựa chọn, đơn vị hợp thành chịu trách nhiệm kê khai điền năm lự a chọn và năm 
+chấm dứt lựa chọn (nếu có). Trường hợp không lựa chọn, đơn vị h ợp thành chịu 
+trách nhiệm kê khai không cần điền thông tin vào mục này. 
+3.4. Xác định thuế suất thực tế 
+Chỉ tiêu 1, 2, 3, 4: Điền số liệu từng chỉ tiêu của tất cả các đơn vị hợp thành cư 
+trú tại Việt Nam. Các chỉ tiêu bao gồm: 
+- Thu nhập hoặc lỗ ròng tại báo cáo tài chính; 
+- Thu nhập ròng theo quy định về thuế tối thiểu toàn cầu; 
+- Chi phí thuế thu nhập doanh nghiệp tại báo cáo tài chính; 
+- Thuế thuộc phạm vi áp dụng được  điều chỉnh theo quy định về t huế tối thiểu 
+toàn cầu. 
+5. Thuế suất thực tế: Điền thuế suất thực tế (%) tại của các đơn vị hợp thành cư 
+trú tại Việt Nam. 
+Thuế suất thực tế = Thuế thuộc phạm vi áp dụng được điều chỉnh theo quy 
+định về thuế tối thiểu toàn cầu/T hu nhập ròng theo quy định về thuế tối thiểu 
+toàn cầu. 
+3.5. Thuế bổ sung được điều chỉnh cho năm hiện hành 
+3.5.1. Số thuế bổ sung được điều chỉnh cho năm hiện hành phát s inh trong 
+trường hợp thuế suất thực tế và thuế bổ sung của năm tài chính trước đó phải 
+tính toán lại 
+1. Cơ sở của sự điều chỉnh: Ghi rõ quy định trường hợp dẫn đến việc tính toán 
+lại thuế suất thực tế và thuế bổ sung cho năm tài chính trước n ăm tài chính báo 
+cáo, gồm các trường hợp sau: 
+- Điểm 9.4 Mục II Phụ lục 2; 
+- Điểm 11.1 Mục II Phụ lục 2; 
+- Điểm 11.1 Mục II Phụ lục 2; 
+2. Năm liên quan: Ghi rõ từng năm tài chính trước năm tài chính báo cáo có sự 
+điều chỉnh thuế suất thực tế theo các quy định đã khai ở chỉ tiêu 1.  
+Chỉ tiêu 3-8: Ghi rõ số tiền đã kê khai của từng chỉ tiêu trong  năm tài chính 
+trước có sự điều chỉnh thuế suất thực tế tại dòng “a. Đã kê kha i” và sau khi tính 
+
+<!-- Page 80 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 81 
+ 
+ 
+toán lại thuế suất thực tế tại n ăm tài chính trước (nếu có) và năm tài chính báo cáo 
+tại dòng “b. Tính lại”. 
+9. Thuế bổ sung được điều chỉnh cho năm hiện hành: Số thuế bổ s ung được 
+điều chỉnh cho năm hiện hành bằng chênh lệch giữa thuế bổ sung đã kê khai và 
+tính lại. 
+3.5.2. Số tiền thuế bổ sung được điều chỉnh cho năm hiện hành p hát sinh 
+trong trường hợp năm tài chính không có thu nhập ròng theo quy định về 
+thuế tối thiểu toàn cầu tại một nước, nếu thuế thuộc phạm vi áp  dụng đã điều 
+chỉnh tại một nước nhỏ hơn 0 và thấp hơn thuế thuộc phạm vi áp dụng đã 
+điều chỉnh theo dự kiến   
+Đơn vị hợp thành chịu trách nhiệm kê khai không cần phải kê kha i mục này 
+nếu Tập đoàn đa quốc gia có thu nhập ròng theo quy định về thuế  tối thiểu toàn 
+cầu tại Việt Nam có giá trị dương. 
+Số thuế bổ sung được điều chỉnh cho năm hiện hành phát sinh bằn g chênh lệch 
+giữa thuế thuộc phạm vi áp dụng đã  điều chỉnh và thuế thuộc phạ m vi áp dụng đã 
+điều chỉnh theo dự kiến. 
+3.6. Tính toán thuế bổ sung 
+Thuế bổ sung: Số thuế bổ sung =  Tỷ lệ thuế bổ sung x Lợi nhuận tính thuế bổ 
+sung + Số thuế bổ sung được điều chỉnh cho năm hiện hành (nếu có).  
+[5] = [1] x [3] + [4] 
+4. Số liệu tính toán của các đơn  vị hợp thành, liên doanh, công  ty con của 
+liên doanh 
+4.1. Thu nhập hoặc lỗ theo quy định về thuế tối thiểu toàn cầu 
+4.1.1. Điều chỉnh thu nhập hoặc lỗ ròng tại Báo cáo tài chính 
+Điền số liệu điều chỉnh thu nhập hoặc lỗ ròng tại Báo cáo tài c hính của từng 
+đơn vị hợp thành, liên doanh, c ông ty con của liên doanh tương tự hướng dẫn tại 
+
+### mục 3.1.1.
+
+4.1.2. Phân bổ thu nhập hoặc lỗ giữa một công ty chính và một c ơ sở 
+thường trú 
+Việc phân bổ thu nhập hoặc lỗ giữa công ty chính và cơ sở thườn g trú thực 
+hiện theo quy định tại điểm 2 mục II Phụ lục 2. 
+4.1.3. Phân bổ thu nhập hoặc lỗ của cơ sở thường trú có Công ty  mẹ tối 
+cao là đơn vị trung chuyển 
+Việc phân bổ thu nhập hoặc lỗ của  cơ sở thường trú có Công ty m ẹ tối cao là 
+đơn vị trung chuyển thực hiện theo quy định tại điểm 3 mục II Phụ lục 2. 
+
+<!-- Page 81 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 82 
+  
+ 82 
+4.1.4. Điều chỉnh thu nhập hoặc lỗ theo quy định về thuế tối thiểu toàn cầu 
+đối với các giao dịch xuyên quốc gia 
+3. Cơ sở của sự điều chỉnh: Ghi rõ quy định điều chỉnh thu nhập  hoặc lỗ ròng 
+theo quy định về thuế tối thiểu toàn cầu thông qua các khoản đi ều chỉnh liên quan 
+đến giao dịch của các đơn vị hợp thành giữa các quốc gia khác nhau.  
+- Điểm 4.4 Mục II Phụ lục 2;  
+- Điểm 4.6 Mục II Phụ lục 2; 
+6. Quốc gia đơn vị hợp thành, liên doanh, công ty con của liên doanh liên quan 
+cư trú: Ghi tên quốc gia cư trú của đơn vị hợp thành, liên doan h, công ty con của 
+liên doanh liên quan trong giao dịch xuyên quốc gia dưới dạng m ã quốc gia gồm 2 
+ký tự chữ cái dựa trên tiêu chuẩn ISO 3166-1 Alpha 2.  
+7. Giá trị điều chỉnh tăng thu nhập hoặc lỗ theo quy định về th uế tối thiểu toàn 
+cầu của đơn vị hợp thành, liên doanh, công ty con của liên doanh: Khai khoản điều 
+chỉnh tăng thu nhập hoặc lỗ the o quy định về thuế tối thiểu toà n cầu của đơn vị 
+hợp thành, liên doanh, công ty con của liên doanh đã xác định tại chỉ tiêu số 1 và 2. 
+8. Giá trị điều chỉnh giảm thu nhập hoặc lỗ theo quy định về th uế tối thiểu toàn 
+cầu của đơn vị hợp thành, liên doanh, công ty con của liên doanh: Khai khoản điều 
+chỉnh giảm thu nhập hoặc lỗ theo quy định về thuế tối thiểu toà n cầu của đơn vị 
+hợp thành, liên doanh, công ty con của liên doanh đã xác định tại chỉ tiêu số 1 và 2. 
+4.2. Thuế thuộc phạm vi áp dụng được điều chỉnh 
+4.2.1. Điều chỉnh đối với chi phí thuế hiện hành trong sổ kế toán 
+Khai số liệu điều chỉnh thuế thuộc phạm vi áp dụng sau khi thực  hiện phân bổ 
+từ một đơn vị hợp thành này sa ng đơn vị hợp thành khác của từng  đ ơ n  v ị  h ợ p  
+thành, liên doanh, công ty con củ a liên doanh tương ứng tương t ự hướng dẫn tại 
+
+### mục 3.2.1 Tờ khai thông tin này.
+
+4.2.2. Phân bổ thuế thuộc phạm vi áp dụng từ một đơn vị hợp thà nh sang 
+một đơn vị hợp thành khác 
+Việc phân bổ thuế thuộc phạm vi áp dụng từ một đơn vị hợp thành  sang một 
+đơn vị hợp thành khác theo quy định tại điểm 7 mục II Phụ lục 2.  
+4. Cơ sở của sự điều chỉnh gồm: 
+- Điểm 7.2 Mục II Phụ lục 2; 
+- Điểm 7.5 Mục II Phụ lục 2. 
+
+<!-- Page 82 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 83 
+ 
+ 
+4.2.3. Điều chỉnh thuế hoãn lại 
+Khai số liệu điều chỉnh thuế hoãn lại của từng đơn vị hợp thành , liên doanh, 
+công ty con của liên doanh tương ứ ng tương tự hướng dẫn tại mục  3.2.3 Tờ khai 
+thông tin này.  
+4.3. Các lựa chọn của đơn vị hợp thành 
+4.3.1. Lựa chọn hằng năm 
+ Chỉ tiêu 3, 4: Đơn vị hợp thành chịu trách nhiệm kê khai tích vào ô tương ứng 
+với lựa chọn của đơn vị hợp thà nh đơn vị hợp thành, liên doanh,  công ty con của 
+liên doanh thực hiện lựa chọn. 
+4.3.2. Lựa chọn năm năm 
+Chỉ tiêu 3, 4, 5: Đơn vị hợp thành chịu trách nhiệm kê khai điề n thông tin năm 
+lựa chọn và năm chấm dứt lựa chọn (nếu có) tương ứng với từng đơn vị hợp thành, 
+liên doanh, công ty con của liên doanh. 
+4.3.3. Lựa chọn điều chỉnh giá trị ghi sổ tài sản và khoản nợ p hải trả theo 
+giá trị hợp lý trong trường hợp chuyển nhượng tài sản và nợ phải trả 
+3. Năm lựa chọn: Điền năm lựa chọn thực hiện điều chỉnh giá trị  ghi sổ tài sản 
+và khoản nợ phải trả theo giá trị hợp lý trong trường hợp chuyể n nhượng tài sản và 
+nợ phải trả. 
+4. Lựa chọn điều chỉnh giá trị ghi  sổ tài sản và khoản nợ phải trả theo giá trị 
+hợp lý trong trường hợp chuyển như ợng tài sản và nợ phải trả: Đ ơn vị hợp thành 
+chịu trách nhiệm kê khai tích vào ô mà đơn vị hợp thành, liên d oanh, công ty con 
+của liên doanh đã khai thông tin tại chỉ tiêu số 1 và 2 lựa chọn thực hiện. 
+4.4. Loại trừ thu nhập vận tải quốc tế  
+4.4.1. Loại trừ thu nhập vận tải quốc tế 
+3. Thu nhập vận tải quốc tế: 
+3.1. Danh mục hoạt động: Ghi tấ t cả các hoạt động có liên quan theo quy định 
+đối với thu nhập vận tải quốc tế đã thu được. Gồm: 
+- Việc vận chuyển hành khách hoặc hàng hóa bằng tàu mà đơn vị h ợp thành 
+hoạt động trong vận tải quốc tế, c ho dù tàu thuộc sở hữu, thuê hay theo cách khác 
+do đơn vị hợp thành định đoạt; 
+- Việc vận chuyển hành khách, hà ng hóa bằng tàu thuyền hoạt độn g trong vận 
+tải quốc tế theo thỏa thuận thuê chỗ; 
+- Cho thuê tàu được sử dụng để vận chuyển hành khách hoặc hàng hóa trong 
+vận tải quốc tế mà tàu cho thuê được trang bị đầy đủ vật tư, thủy thủ và thiết bị; 
+
+<!-- Page 83 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 84 
+  
+ 84 
+- Cho một đơn vị hợp thành khác thuê tàu theo hình thức thuê tà u trần để vận 
+chuyển hành khách hoặc hàng hóa trong vận tải quốc tế; 
+- Tham gia vào một tổ hợp, một liên doanh hoặc một tổ chức điều hành quốc tế 
+để vận chuyển hành khách hoặc hàng hóa bằng tàu trong vận tải quốc tế; 
+- Bán tàu đã được sử dụng để vận chuyển hành khách hoặc hàng hó a trong 
+vận tải quốc tế với điều kiện là  tàu đã được đơn vị hợp thành s ử dụng tối thiểu 
+một năm. 
+3.2. Doanh thu: Khai tổng doanh t hu thu được từ tất cả các hoạt  động vận tải 
+quốc tế của từng đơn vị hợp thành đã khai thông tin. 
+3.3. Chi phí: Khai tổng chi phí từ tất cả các hoạt động vận tải  quốc tế của từng 
+đơn vị hợp thành đã khai thông tin. 
+3.4. Thu nhập vận tải quốc tế: [3.4] = [3.2] - [3.3]. 
+4. Thu nhập vận tải quốc tế phụ trợ đạt chuẩn: Khai các chỉ tiê u tương tự 
+hướng dẫn tại chỉ tiêu 3 (thu nhập vận tải quốc tế). 
+Trong đó, danh mục hoạt động gồm: 
+- Cho thuê tàu theo hình thức t huê tàu trần cho một doanh nghiệ p vận tải 
+biển khác không phải là đơn vị hợp thành với điều kiện hợp đồng  thuê không 
+quá ba năm; 
+- Bán vé do các doanh nghiệp vận tải biển khác phát hành cho ch ặng nội địa 
+của một chuyến vận tải quốc tế; 
+- Cho thuê, lưu container ngắn hạn hoặc phí tạm giữ đối với việ c trả lại 
+container quá hạn; 
+- Cung cấp dịch vụ cho các doanh nghiệp vận tải khác bởi các kỹ  sư, nhân viên 
+bảo trì, người xử lý hàng hóa, nhân viên phục vụ và nhân viên dịch vụ khách hàng; 
+- Thu nhập đầu tư trong đó khoản đầu tư tạo ra thu nhập được th ực hiện như 
+một phần không thể thiếu trong việc thực hiện kinh doanh vận hà nh tàu biển trong 
+vận tải quốc tế. 
+5. Ảnh hưởng tới giá trị tài sản hữu hình và tiền lương được giảm trừ: Khai giá 
+trị chi tiền lương hợp lệ và giá trị tài sản hữu hình hợp lệ đư ợc sử dụng để tạo ra 
+thu nhập vận tải quốc tế bị loại trừ hoặc thu nhập vận tải quốc tế đạt chuẩn. 
+6. Thuế thuộc phạm vi áp dụng đối  với thu nhập vận tải quốc tế hoặc thu nhập 
+vận tải quốc tế phụ trợ đạt chuẩn được loại trừ: Khai giá trị k hoản thuế thuộc phạm 
+vi áp dụng tương ứng với thu nhập vận tải quốc tế hoặc thu nhập  vận tải quốc tế 
+phụ trợ đạt chuẩn được loại trừ. 
+
+<!-- Page 84 -->
+ 
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 85 
+ 
+ 
+4.4.2. Giới hạn quốc gia đối với loại trừ thu nhập vận tải quốc tế đạt chuẩn 
+1. Tổng thu nhập vận tải quốc tế: Khai tổng thu nhập vận tải qu ốc tế của tất cả 
+đơn vị hợp thành, liên doanh, công ty con của liên doanh tại Việt Nam. 
+2. Giới hạn 50% của tổng thu nhập vận tải quốc tế: [2] = 50% x [1] 
+3. Tổng thu nhập vận tải quốc tế phụ trợ đạt chuẩn: Khai tổng t hu nhập vận tải 
+quốc tế phụ trợ đạt chuẩn của tất cả đơn vị hợp thành, liên doa nh, công ty con của 
+liên doanh tại Việt Nam. 
+4. Phần vượt mức giới hạn: [4] = [3] - [2] 
+4.5. Chuẩn mực kế toán khác chuẩn mực kế toán lập báo cáo tài c hính 
+hợp nhất của công ty mẹ tối cao 
+Đơn vị hợp thành chịu trách nhiệm kê khai điền thông tin tên, mã số thuế của: 
+(i) Các đơn vị hợp thành sử dụng chuẩn mực kế toán tài chính đư ợc chấp nhận 
+hoặc chuẩn mực kế toán tài chí nh được phép áp dụng khác với chu ẩn mực kế toán 
+được sử dụng cho báo cáo tài chính hợp nhất của công ty mẹ tối cao;  
+(ii) Công ty thành viên của Tập đoàn liên doanh sử dụng chuẩn m ực kế 
+toán tài chính được chấp nhận hoặc chuẩn mực kế toán tài chính được phép áp 
+dụng khác với chuẩn mực kế toán được sử dụng cho Báo cáo tài ch ính hợp 
+nhất của Liên doanh; 
+(iii) Công ty thành viên của Tập  đoàn liên doanh sử dụng chuẩn mực kế toán 
+tài chính được chấp nhận hoặc chuẩ n mực kế toán tài chính được phép áp dụng 
+khác với chuẩn mực kế toán được sử dụng cho Báo cáo tài chính h ợp nhất của 
+công ty mẹ tối cao. 
+3. Chuẩn mực kế toán tài chính được chấp nhận hoặc được phép áp dụng: Khai 
+chuẩn mực kế toán tài chính được  chấp nhận hoặc chuẩn mực kế to án tài chính 
+được phép áp dụng để tính toán thu nhập hoặc lỗ ròng tại báo cáo tài chính của đơn 
+vị hợp thành, liên doanh, công ty con của liên doanh. 
+
+<!-- Page 85 -->
+ 
+ 
+86 
+86 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 86 
+
+
+<!-- Page 86 -->
+ 
+ 
+87 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      87 
+ 
+
+<!-- Page 87 -->
+ 
+ 
+88 
+88 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 88 
+ 
+
+<!-- Page 88 -->
+ 
+ 
+89 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      89 
+ 
+
+<!-- Page 89 -->
+ 
+ 
+90 
+90 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 90 
+
+
+<!-- Page 90 -->
+ 
+ 
+91 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      91 
+
+
+<!-- Page 91 -->
+ 
+ 
+92 
+92 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 92 
+
+
+<!-- Page 92 -->
+ 
+ 
+93 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      93 
+
+
+<!-- Page 93 -->
+ 
+ 
+94 
+94 
+    
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025 94 
+
+
+<!-- Page 94 -->
+ 
+ 
+95 
+     
+ CÔNG BÁO/Số 1325 + 1326/Ngày 15-9-2025      95 
+ 
+ 
+ 
+ (Xem tiếp Công báo số 1327 + 1328)
+
+<!-- Page 95 -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VĂN PHÒNG CHÍNH PHỦ XUẤT BẢN 
+Địa chỉ: Số 1, Hoàng Hoa Thám, Ba Đình, Hà Nội 
+Điện thoại liên hệ:  
+- Nội dung: 080.44417 
+- Phát hành:  080.44243 
+Email:  congbao@chinhphu.vn 
+Website http://congbao.chinhphu.vn

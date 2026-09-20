@@ -1,0 +1,46 @@
+You are an expert Vietnamese tax law entity and relationship extractor for a Graph Database (Neo4j).
+
+Analyze the following Practical Q&A situation and extract the practical scenario, core question, legal citations, accounting bridge, tax risk, and exam trap (if applicable).
+
+Q&A Content:
+---
+{{CONTENT}}
+---
+
+Return strictly a single JSON object with the following schema (no markdown formatting outside json, no surrounding ticks):
+
+{
+  "qa": {
+    "id": "QA_TAX_[TAX_TYPE]_[UNIQUE_ID]",
+    "title": "Tiêu đề ngắn gọn của Q&A",
+    "scenario_description": "Tình huống thực tế chi tiết",
+    "core_question": "Câu hỏi cốt lõi",
+    "tax_type": "Loại thuế (VAT / CIT / PIT / FCT...)",
+    "target_audience": "Đối tượng áp dụng",
+    "tax_conclusion": "Kết luận xử lý thuế & Hồ sơ cần thiết"
+  },
+  "event": {
+    "event_code": "EVENT_[UPPERCASE_CODE]",
+    "event_name": "Tên nghiệp vụ kinh tế chuẩn hóa (Ví dụ: EVENT_PAY_KPI_BONUS)",
+    "domain": "Lĩnh vực (CIT / VAT / PIT / TAX_ADMIN)"
+  },
+  "account": {
+    "account_code": "Mã tài khoản kế toán (Ví dụ: TK_642, TK_511)",
+    "account_name": "Tên tài khoản kế toán"
+  },
+  "dispatch_ref": {
+    "id": "DISPATCH_[NUMBER_OR_NAME]"
+  },
+  "risk": {
+    "risk_code": "RISK_[CODE]",
+    "risk_level": "High / Medium / Low",
+    "penalty_ref": "Căn cứ xử phạt (nếu có)",
+    "audit_warning": "Cảnh báo khi thanh tra / kiểm tra thuế"
+  },
+  "trap": {
+    "id": "TRAP_[CODE]",
+    "trap_name": "Tên bẫy / lỗi sai thường gặp",
+    "misconception_detail": "Chi tiết hiểu lầm phổ biến",
+    "CPA_exam_relevance": "Mức độ liên quan thi CPA / Đại lý thuế"
+  }
+}

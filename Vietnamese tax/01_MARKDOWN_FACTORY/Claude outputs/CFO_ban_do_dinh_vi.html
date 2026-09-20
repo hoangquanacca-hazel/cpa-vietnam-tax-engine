@@ -1,0 +1,92 @@
+<title>Bản đồ định vị cạnh tranh</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--tx:#161a20;--mut:#697586;--line:#e3e6ea;--hd:#1f3864;--ac:#2563eb;
+--red:#c0392b;--redb:#fdeae7;--good:#1e7a46;--goodb:#e6f6ec;--gold:#b25b18;--goldb:#fdefe2;--soft:#eef2f9;}
+@media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#0f1115;--card:#171a21;--tx:#e6e8ec;--mut:#9aa1ad;--line:#2a2f3a;--hd:#243a63;--redb:#3a1b16;--goodb:#123020;--goldb:#331f10;--soft:#1c2330;}}
+:root[data-theme=dark]{--bg:#0f1115;--card:#171a21;--tx:#e6e8ec;--mut:#9aa1ad;--line:#2a2f3a;--hd:#243a63;--redb:#3a1b16;--goodb:#123020;--goldb:#331f10;--soft:#1c2330;}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:14px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.wrap{max-width:1000px;margin:0 auto;padding:26px 18px 64px}
+h1{font-size:22px;margin:0 0 2px}.sub{color:var(--mut);font-size:13px;margin-bottom:20px}
+h2{font-size:15px;letter-spacing:.02em;text-transform:uppercase;color:var(--hd);margin:26px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+.mapwrap{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px 20px 14px}
+.plot{position:relative;width:100%;padding-top:66%;background:
+ linear-gradient(to top,var(--redb),transparent 55%);
+ border-left:2px solid var(--line);border-bottom:2px solid var(--line);border-radius:4px}
+.zone{position:absolute;border-radius:12px;border:2px dashed var(--good);background:var(--goodb);opacity:.55}
+.dot{position:absolute;transform:translate(-50%,50%);text-align:center;width:120px;margin-left:0}
+.dot .pt{width:12px;height:12px;border-radius:50%;background:var(--mut);margin:0 auto 3px;border:2px solid var(--card);box-shadow:0 0 0 1px var(--mut)}
+.dot .lb{font-size:11px;line-height:1.25;color:var(--tx)}
+.dot .pr{font-size:10px;color:var(--mut)}
+.dot.red .pt{background:var(--red);box-shadow:0 0 0 1px var(--red)}
+.dot.star{width:150px;z-index:5}
+.dot.star .pt{width:20px;height:20px;background:var(--good);box-shadow:0 0 0 3px var(--goodb),0 0 0 4px var(--good)}
+.dot.star .lb{font-weight:800;color:var(--good);font-size:12.5px}
+.axx{position:absolute;bottom:-30px;width:100%;text-align:center;font-size:12px;color:var(--mut);font-weight:600}
+.axy{position:absolute;left:-8px;top:50%;transform:rotate(-90deg) translateX(50%);transform-origin:left;font-size:12px;color:var(--mut);font-weight:600;white-space:nowrap}
+.ends{display:flex;justify-content:space-between;font-size:11px;color:var(--mut);margin-top:36px}
+.redlabel{position:absolute;left:12px;bottom:10px;font-size:11px;font-weight:700;color:var(--red);opacity:.8}
+.zlabel{position:absolute;font-size:11px;font-weight:800;color:var(--good)}
+.pillars{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+@media(max-width:760px){.pillars{grid-template-columns:1fr}}
+.pil{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;border-top:3px solid var(--good)}
+.pil .n{font-weight:800;font-size:14px;margin-bottom:5px}
+.pil .d{font-size:13px;color:var(--tx)}
+.pil .vs{font-size:11.5px;color:var(--mut);margin-top:6px;font-style:italic}
+.warn{border-left:4px solid var(--red);background:var(--redb);border-radius:8px;padding:12px 15px;margin-top:14px;font-size:13px}
+.warn b{color:var(--tx)}
+.foot{color:var(--mut);font-size:12px;margin-top:24px;text-align:center}
+</style>
+<div class=wrap>
+<h1>Bản đồ định vị cạnh tranh — thoát biển đỏ giá rẻ</h1>
+<div class=sub>Dựa trên khảo sát đối thủ &amp; tin tuyển dụng thực tế (Hà Nội, 9/2026) · SavaFinLab tầng 1</div>
+
+<div class=mapwrap>
+<div class=plot>
+<!-- whitespace zone: high depth, medium price -->
+<div class=zone style="left:34%;top:8%;width:40%;height:34%"></div>
+<div class=zlabel style="left:37%;top:2%">KHOẢNG TRỐNG — chỗ của anh</div>
+
+<!-- red ocean label -->
+<div class=redlabel>BIỂN ĐỎ: đua giá &amp; quy mô đội</div>
+
+<!-- competitors (left/bottom in %) -->
+<div class="dot" style="left:12%;bottom:8%"><div class=pt></div><div class=lb>QC · Limi · MINGI (ad 400–499k)</div><div class=pr>= câu view: chỉ tờ khai, ~0 giao dịch</div></div>
+<div class="dot" style="left:34%;bottom:15%"><div class=pt></div><div class=lb>Kế toán dịch vụ — phí THỰC</div><div class=pr>2–25tr theo quy mô/hóa đơn/loại hình · chỉ sổ + thuế</div></div>
+<div class="dot" style="left:58%;bottom:18%"><div class=pt></div><div class=lb>Phú Thành · An Khang (đội 100+)</div><div class=pr>bậc cao tới ~4tr, sản xuất tính cao hơn</div></div>
+
+<!-- full-time hire band: high depth, high cost -->
+<div class="dot red" style="left:87%;bottom:84%"><div class=pt></div><div class=lb>Thuê toàn thời gian (FDI)</div><div class=pr>Cost Acct 50 · KTT 65–80 · CFO Holdings 110 · CFO IPO 160tr</div></div>
+
+<!-- direct fractional competitors (in his zone, lower depth) -->
+<div class="dot" style="left:41%;bottom:50%"><div class=pt></div><div class=lb>KTT solo nhận việc ngoài</div><div class=pr>đồng hành, độc lập nội bộ</div></div>
+<div class="dot" style="left:63%;bottom:54%"><div class=pt></div><div class=lb>Freelancer set-up FDI</div><div class=pr>Kingdee/SAP · tiếng Trung</div></div>
+
+<!-- his position: top of the fractional space -->
+<div class="dot star" style="left:52%;bottom:70%"><div class=pt></div><div class=lb>ANH — CFO/Controller bán thời gian</div><div class=pr>FDI-EPE + Big4 + CMA/DipIFR + giá thành/SAP</div></div>
+
+<div class=axx>Giá / cam kết chi phí của khách  →</div>
+<div class=axy>Chiều sâu năng lực &amp; giá trị  →</div>
+</div>
+<div class=ends><span>◀ Rẻ / cam kết thấp</span><span>Đắt / toàn thời gian ▶</span></div>
+<div style="font-size:11px;color:var(--mut);margin-top:6px">Trục dọc: dưới = tuân thủ sổ–thuế (compliance) · trên = quản trị &amp; CFO chiến lược (giá thành, dòng tiền, KSNB, ra quyết định).</div>
+<div style="font-size:12.5px;color:var(--good);font-weight:700;margin-top:10px;padding:10px 12px;background:var(--goodb);border-radius:8px">Điểm chốt: giá thực thị trường 2–25tr CHỒNG LẤN dải giá của anh. Anh không bán đắt hơn — <b>cùng mức phí đó, anh cho thêm cả tầng CFO/kiểm soát</b> mà đối thủ dừng ở sổ + thuế. Whitespace nằm trên trục CHIỀU SÂU, không phải trục giá.</div>
+</div>
+
+<h2>Ba trụ khác biệt — không đối thủ dịch vụ nào có</h2>
+<div class=pillars>
+<div class=pil><div class=n>1 · Bán quyết định, không bán compliance</div><div class=d>Đối thủ dừng ở sổ sách + tờ khai thuế. Anh trả lời: lãi thật bao nhiêu, giá thành đúng chưa, dòng tiền tháng sau, chi phí nào ăn mòn lợi nhuận.</div><div class=vs>Đối thủ: "làm sổ + thuế đúng hạn".</div></div>
+<div class=pil><div class=n>2 · Năng lực cấp Controller FDI</div><div class=d>Giá thành sản xuất, chuyển giá (transfer pricing), SAP (FICO/MM), kiểm soát nội bộ, sẵn sàng kiểm toán Big4/EY — thứ 100 nhân viên của QC/An Khang không làm được.</div><div class=vs>Thị trường trả 50–160tr/tháng thuê full-time năng lực này (cost acct 50 · KTT 65–80 · CFO 110–160).</div></div>
+<div class=pil><div class=n>3 · Senior nhưng bán thời gian</div><div class=d>Bạn có năng lực CFO/Controller mà một suất full-time tốn 65–80tr — nay dùng theo tháng/theo module, hợp quy mô SME &amp; vệ tinh FDI.</div><div class=vs>Rẻ hơn một suất lương, tầm chuyên môn cao hơn.</div></div>
+</div>
+
+<h2>Đối thủ fractional trực tiếp &amp; cách anh vượt lên</h2>
+<div class=pillars>
+<div class=pil style="border-top-color:var(--gold)"><div class=n>Đã có KTT solo &amp; freelancer FDI</div><div class=d>Mô hình của anh được kiểm chứng nhưng không độc quyền: một KTT solo "nhận ít, đồng hành sâu"; một freelancer set-up FDI (Kingdee/SAP, tiếng Trung).</div><div class=vs>Họ là KTT giỏi — chưa phải Controller cấp FDI.</div></div>
+<div class=pil style="border-top-color:var(--gold)"><div class=n>Anh vượt bằng chiều sâu, không bằng giá</div><div class=d>FDI-EPE + Big4 + CMA/CIMA/DipIFR + giá thành sản xuất + SAP FICO/MM + chuyển giá. Có bằng chứng thật (ảnh SAP costing của anh).</div><div class=vs>Định vị "Controller/CFO", không phải "kế toán nhận ngoài".</div></div>
+<div class=pil style="border-top-color:var(--gold)"><div class=n>Tín hiệu niềm tin (khách rất cần)</div><div class=d>Nêu rõ như đối thủ đang làm: độc lập với kế toán nội bộ · bảo mật dữ liệu · KHÔNG giữ mật khẩu/tài khoản ngân hàng · chỉ tư vấn, không ký BCTC.</div><div class=vs>Gỡ nỗi sợ lớn nhất khi giao tài chính cho người ngoài.</div></div>
+</div>
+
+<div class=warn><b>Đừng làm:</b> đừng đối đầu quy mô với QC/An Khang/Phú Thành (100+ nhân viên, hàng nghìn khách) bằng chính trò của họ — trọn gói compliance giá rẻ. Cùng dải phí 2–25tr, hãy bán <b>thứ khác về chất</b>: "Cùng mức phí bạn đang trả kế toán dịch vụ, ở tôi bạn nhận thêm cả tầng CFO/kiểm soát cấp FDI." Lưu ý 400–500k chỉ là mồi câu view — đừng để nó neo kỳ vọng giá của anh xuống.<br><br><b>Rào ngôn ngữ:</b> nhiều role FDI đòi tiếng Nhật/Trung. Nhắm <b>FDI nói tiếng Anh/Hàn/Âu-Mỹ và DN Việt vệ tinh cho FDI</b> — nơi tiếng Việt + chuẩn FDI của anh là đủ và là giá trị.</div>
+
+<div class=foot>SavaFinLab · phân tích định vị — dựa trên tin đối thủ &amp; tuyển dụng công khai, con số để tham khảo.</div>
+</div>

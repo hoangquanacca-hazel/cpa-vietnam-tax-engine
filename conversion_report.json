@@ -1,0 +1,762 @@
+{
+  "total_converted": 108,
+  "failed": 0,
+  "details": [
+    {
+      "filename": "TT-96_2015_TT-BTC.pdf",
+      "target_md": "TT-96_2015_TT-BTC.md",
+      "folder": "Bo sung Grok",
+      "pages": 41,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT_103_2014_TT-BTC.pdf",
+      "target_md": "TT_103_2014_TT-BTC.md",
+      "folder": "Bo sung Grok",
+      "pages": 30,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT_45_2013_TT-BTC.pdf",
+      "target_md": "TT_45_2013_TT-BTC.md",
+      "folder": "Bo sung Grok",
+      "pages": 28,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Cẩm nang thực hiện Bộ luật lao động tại DN.pdf",
+      "target_md": "Cẩm nang thực hiện Bộ luật lao động tại DN.md",
+      "folder": "Bộ luật Lao động",
+      "pages": 131,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VanBanGoc_nghi-dinh-135-2020-nd-cp-quy-dinh-ve-tuoi-nghi-huu.pdf",
+      "target_md": "VanBanGoc_nghi-dinh-135-2020-nd-cp-quy-dinh-ve-tuoi-nghi-huu.md",
+      "folder": "Bộ luật Lao động",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "target_md": "1225_BTC đối thoại người nộp thuế_TL Hải quan.md",
+      "folder": "Luật Hải quan",
+      "pages": 24,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật_Hai quan_Nghị định_167.pdf",
+      "target_md": "Luật_Hai quan_Nghị định_167.md",
+      "folder": "Luật Hải quan",
+      "pages": 78,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 08_2015_Hướng dẫn luật hải quan.pdf",
+      "target_md": "Nghị định 08_2015_Hướng dẫn luật hải quan.md",
+      "folder": "Luật Hải quan",
+      "pages": 87,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "thông tư 39-2018-btc -Hải quan, thuế xuất khẩu.pdf",
+      "target_md": "thông tư 39-2018-btc -Hải quan, thuế xuất khẩu.md",
+      "folder": "Luật Hải quan",
+      "pages": 189,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư_121_2025_TT-BTC_Thủ tục hải quan.pdf",
+      "target_md": "Thông tư_121_2025_TT-BTC_Thủ tục hải quan.md",
+      "folder": "Luật Hải quan",
+      "pages": 373,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN Luật hải quan_số 95_Từ chương 4 đến hết.pdf",
+      "target_md": "VBHN Luật hải quan_số 95_Từ chương 4 đến hết.md",
+      "folder": "Luật Hải quan",
+      "pages": 13,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHNTT21btc_Hợp nhất thông tư 39 và 60 về hải quan.pdf",
+      "target_md": "VBHNTT21btc_Hợp nhất thông tư 39 và 60 về hải quan.md",
+      "folder": "Luật Hải quan",
+      "pages": 72,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "target_md": "1225_BTC đối thoại người nộp thuế_TL Thuế.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 84,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luatquanlythue2025_VBHN số 29..pdf",
+      "target_md": "Luatquanlythue2025_VBHN số 29..md",
+      "folder": "Luật quản lý thuế",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật 90qh_Sửa đổi một số luật.pdf",
+      "target_md": "Luật 90qh_Sửa đổi một số luật.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 60,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật quản lý thuế 2025.pdf",
+      "target_md": "Luật quản lý thuế 2025.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 65,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật quản lý thuế_Thông tư_94.pdf",
+      "target_md": "Luật quản lý thuế_Thông tư_94.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 3,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 254-ndcp_Quản lý hóa đơn điện tử.pdf",
+      "target_md": "Nghị định 254-ndcp_Quản lý hóa đơn điện tử.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 55,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_252-ndcp_Hướng dẫn thi hành Luật quản lý thuế.pdf",
+      "target_md": "Nghị định_252-ndcp_Hướng dẫn thi hành Luật quản lý thuế.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 133,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.pdf",
+      "target_md": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 70,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư 89-btc-hướng dẫn luật quản lý thuế.pdf",
+      "target_md": "Thông tư 89-btc-hướng dẫn luật quản lý thuế.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 839,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư 90-btc-hướng dẫn luật quản lý thuế.pdf",
+      "target_md": "Thông tư 90-btc-hướng dẫn luật quản lý thuế.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 196,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư 94-btc-Hướng dẫn thi hành luật quản lý thuế.pdf",
+      "target_md": "Thông tư 94-btc-Hướng dẫn thi hành luật quản lý thuế.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 35,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN 15_Luật quản lý thuế_1.pdf",
+      "target_md": "VBHN 15_Luật quản lý thuế_1.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 100,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15 TTHDLuatquanlythue.pdf",
+      "target_md": "VBHN15 TTHDLuatquanlythue.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 100,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDLuatQLT3.pdf",
+      "target_md": "VBHN15HDLuatQLT3.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 115,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDTTLuatQLT2.pdf",
+      "target_md": "VBHN15HDTTLuatQLT2.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 103,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDTTLuatQLT4.pdf",
+      "target_md": "VBHN15HDTTLuatQLT4.md",
+      "folder": "Luật quản lý thuế",
+      "pages": 135,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat 13_THuế GTGT-2008-QH12.pdf",
+      "target_md": "Luat 13_THuế GTGT-2008-QH12.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 9,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat thuế GTGT_48.pdf",
+      "target_md": "Luat thuế GTGT_48.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 20,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat thuế GTGT_48_VAT.pdf",
+      "target_md": "Luat thuế GTGT_48_VAT.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 20,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "LuatthueGTGTND70suadoiND123.pdf",
+      "target_md": "LuatthueGTGTND70suadoiND123.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 74,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 123 về hóa đơn, chứng từ.pdf",
+      "target_md": "Nghị định 123 về hóa đơn, chứng từ.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 123,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 181_Hướng dẫn luật thuế GTGT.pdf",
+      "target_md": "Nghị định 181_Hướng dẫn luật thuế GTGT.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 50,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 310_2025 về xử phạt thuế, hóa đơn.pdf",
+      "target_md": "Nghị định 310_2025 về xử phạt thuế, hóa đơn.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 16,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tu 219_GTGT.pdf",
+      "target_md": "Thông tu 219_GTGT.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 47,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT69HD ND181 ThueGTGT2025.pdf",
+      "target_md": "TT69HD ND181 ThueGTGT2025.md",
+      "folder": "Luật thuế Giá trị gia tăng",
+      "pages": 21,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat thuế TNCN_109_2025.pdf",
+      "target_md": "Luat thuế TNCN_109_2025.md",
+      "folder": "Luật thuế Thu nhập cá nhân",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật 109_QH15 2025 thuế TNCN.pdf",
+      "target_md": "Luật 109_QH15 2025 thuế TNCN.md",
+      "folder": "Luật thuế Thu nhập cá nhân",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư 111_2013_THuế Thu nhập cá nhân.pdf",
+      "target_md": "Thông tư 111_2013_THuế Thu nhập cá nhân.md",
+      "folder": "Luật thuế Thu nhập cá nhân",
+      "pages": 78,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN Thông tư số_02_2024_Hợp nhất TT luật thuế TNCN.pdf",
+      "target_md": "VBHN Thông tư số_02_2024_Hợp nhất TT luật thuế TNCN.md",
+      "folder": "Luật thuế Thu nhập cá nhân",
+      "pages": 80,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật 67 thuế TNDN_2025-QH15.pdf",
+      "target_md": "Luật 67 thuế TNDN_2025-QH15.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 24,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật 67_Thuế thu nhập doanh nghiệp.pdf",
+      "target_md": "Luật 67_Thuế thu nhập doanh nghiệp.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 21,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "target_md": "Nghị định 141- sửa nghị định 68 và nghị định 320.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 4,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 320-NĐ-CP-2025- Hướng dẫn Luật thuế TNDN.pdf",
+      "target_md": "Nghị định 320-NĐ-CP-2025- Hướng dẫn Luật thuế TNDN.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 82,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_218-nd-2013- Hướng dẫn Luật thuế TNDN.pdf",
+      "target_md": "Nghị định_218-nd-2013- Hướng dẫn Luật thuế TNDN.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 35,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thuế TNDN _Nghị định 320-ndcp.pdf",
+      "target_md": "Thuế TNDN _Nghị định 320-ndcp.md",
+      "folder": "Luật thuế Thu nhập doanh nghiệp",
+      "pages": 76,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật 66_thuế tiêu thụ đặc biệt.pdf",
+      "target_md": "Luật 66_thuế tiêu thụ đặc biệt.md",
+      "folder": "Luật thuế Tiêu thụ đặc biệt",
+      "pages": 13,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 360-ndcp_Hướng dẫn luật thuế tiêu thụ đặc biệt.pdf",
+      "target_md": "Nghị định 360-ndcp_Hướng dẫn luật thuế tiêu thụ đặc biệt.md",
+      "folder": "Luật thuế Tiêu thụ đặc biệt",
+      "pages": 16,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_108_Hướng dẫn Luật thuế tiêu thụ đặc biệt.pdf",
+      "target_md": "Nghị định_108_Hướng dẫn Luật thuế tiêu thụ đặc biệt.md",
+      "folder": "Luật thuế Tiêu thụ đặc biệt",
+      "pages": 10,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "target_md": "1225_BTC đối thoại người nộp thuế_TL Hải quan.md",
+      "folder": "gdrive_downloads",
+      "pages": 24,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "target_md": "1225_BTC đối thoại người nộp thuế_TL Thuế.md",
+      "folder": "gdrive_downloads",
+      "pages": 84,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "141-ndcp.signed.pdf",
+      "target_md": "141-ndcp.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 4,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "2025_1323 + 1324_236-2025-NĐ-CP.pdf",
+      "target_md": "2025_1323 + 1324_236-2025-NĐ-CP.md",
+      "folder": "gdrive_downloads",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "2025_1325 + 1326_236-2025-NĐ-CP.pdf",
+      "target_md": "2025_1325 + 1326_236-2025-NĐ-CP.md",
+      "folder": "gdrive_downloads",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "2025_1327 + 1328_236-2025-NĐ-CP.pdf",
+      "target_md": "2025_1327 + 1328_236-2025-NĐ-CP.md",
+      "folder": "gdrive_downloads",
+      "pages": 39,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "2026_159_18_2026_TT-BTC.pdf",
+      "target_md": "2026_159_18_2026_TT-BTC.md",
+      "folder": "gdrive_downloads",
+      "pages": 44,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "2026_60_121_2025_TT-BTC.pdf",
+      "target_md": "2026_60_121_2025_TT-BTC.md",
+      "folder": "gdrive_downloads",
+      "pages": 373,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "3326_CT-CS.pdf",
+      "target_md": "3326_CT-CS.md",
+      "folder": "gdrive_downloads",
+      "pages": 3,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "target_md": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.md",
+      "folder": "gdrive_downloads",
+      "pages": 33,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "68-ndcp.signed.pdf",
+      "target_md": "68-ndcp.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 19,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "CD3 Thuế 2025.pdf",
+      "target_md": "CD3 Thuế 2025.md",
+      "folder": "gdrive_downloads",
+      "pages": 247,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "CIT law_67qh.signed.pdf",
+      "target_md": "CIT law_67qh.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 21,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.pdf",
+      "target_md": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.md",
+      "folder": "gdrive_downloads",
+      "pages": 7,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "HaiquanND167.pdf",
+      "target_md": "HaiquanND167.md",
+      "folder": "gdrive_downloads",
+      "pages": 78,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "target_md": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.md",
+      "folder": "gdrive_downloads",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "luat109-2025.pdf",
+      "target_md": "luat109-2025.md",
+      "folder": "gdrive_downloads",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "luat48.pdf",
+      "target_md": "luat48.md",
+      "folder": "gdrive_downloads",
+      "pages": 20,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "LuatGTGTND123vehoadon.pdf",
+      "target_md": "LuatGTGTND123vehoadon.md",
+      "folder": "gdrive_downloads",
+      "pages": 123,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luathaiquan95VBHN.pdf",
+      "target_md": "Luathaiquan95VBHN.md",
+      "folder": "gdrive_downloads",
+      "pages": 13,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "LuathaiquanND08.pdf",
+      "target_md": "LuathaiquanND08.md",
+      "folder": "gdrive_downloads",
+      "pages": 87,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luatquanlythue2025VBHN29..pdf",
+      "target_md": "Luatquanlythue2025VBHN29..md",
+      "folder": "gdrive_downloads",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "LuatthueGTGTND70suadoiND123.pdf",
+      "target_md": "LuatthueGTGTND70suadoiND123.md",
+      "folder": "gdrive_downloads",
+      "pages": 74,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luật quản lý thuế 2025.pdf",
+      "target_md": "Luật quản lý thuế 2025.md",
+      "folder": "gdrive_downloads",
+      "pages": 65,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "ND Giao dịch liên kết 20-cp.signed_2025.pdf",
+      "target_md": "ND Giao dịch liên kết 20-cp.signed_2025.md",
+      "folder": "gdrive_downloads",
+      "pages": 30,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "ND Giao dịch liên kết_132.signed.pdf",
+      "target_md": "ND Giao dịch liên kết_132.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 73,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "ND80.signed_01_HD luat ho tro SMEs.pdf",
+      "target_md": "ND80.signed_01_HD luat ho tro SMEs.md",
+      "folder": "gdrive_downloads",
+      "pages": 29,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thuế TNDN _320-ndcp.signed.pdf",
+      "target_md": "Thuế TNDN _320-ndcp.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 76,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "target_md": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.md",
+      "folder": "gdrive_downloads",
+      "pages": 12,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư 99-2025-TT-BTC.pdf",
+      "target_md": "Thông tư 99-2025-TT-BTC.md",
+      "folder": "gdrive_downloads",
+      "pages": 778,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT-58-2026-TT-BTC TNVN.pdf",
+      "target_md": "TT-58-2026-TT-BTC TNVN.md",
+      "folder": "gdrive_downloads",
+      "pages": 33,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT69HD ND181 ThueGTGT2025.pdf",
+      "target_md": "TT69HD ND181 ThueGTGT2025.md",
+      "folder": "gdrive_downloads",
+      "pages": 21,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT94.pdf",
+      "target_md": "TT94.md",
+      "folder": "gdrive_downloads",
+      "pages": 3,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN 15TTLuatQLT1.pdf",
+      "target_md": "VBHN 15TTLuatQLT1.md",
+      "folder": "gdrive_downloads",
+      "pages": 100,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15 TTHDLuatquanlythue.pdf",
+      "target_md": "VBHN15 TTHDLuatquanlythue.md",
+      "folder": "gdrive_downloads",
+      "pages": 100,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDLuatQLT3.pdf",
+      "target_md": "VBHN15HDLuatQLT3.md",
+      "folder": "gdrive_downloads",
+      "pages": 115,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDTTLuatQLT2.pdf",
+      "target_md": "VBHN15HDTTLuatQLT2.md",
+      "folder": "gdrive_downloads",
+      "pages": 103,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHN15HDTTLuatQLT4.pdf",
+      "target_md": "VBHN15HDTTLuatQLT4.md",
+      "folder": "gdrive_downloads",
+      "pages": 135,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "VBHNTT21btc.pdf",
+      "target_md": "VBHNTT21btc.md",
+      "folder": "gdrive_downloads",
+      "pages": 72,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "target_md": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 33,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "target_md": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 15,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "target_md": "Nghị định 141- sửa nghị định 68 và nghị định 320.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 4,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 80 về Luật hỗ trợ SMEs.pdf",
+      "target_md": "Nghị định 80 về Luật hỗ trợ SMEs.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 29,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_68_2-26_Cá nhân kinh doanh, Hộ kinh doanh.pdf",
+      "target_md": "Nghị định_68_2-26_Cá nhân kinh doanh, Hộ kinh doanh.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 19,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thông tư _18_2026_TT-BTC_Quản lý thuế Cá nhân KD, Hộ KD.pdf",
+      "target_md": "Thông tư _18_2026_TT-BTC_Quản lý thuế Cá nhân KD, Hộ KD.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 44,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "TT-58-2026-TT-BTC_Hướng dẫn chế độ kế toán DN siêu nhỏ.pdf",
+      "target_md": "TT-58-2026-TT-BTC_Hướng dẫn chế độ kế toán DN siêu nhỏ.md",
+      "folder": "SMEs,Hộ kinh doanh, DN siêu nhỏ",
+      "pages": 33,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 132_Giao dịch liên kết.pdf",
+      "target_md": "Nghị định 132_Giao dịch liên kết.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 73,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 20_2025_gia-giao-dich-lien-ket.pdf",
+      "target_md": "Nghị định 20_2025_gia-giao-dich-lien-ket.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 7,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định 20_Giao dịch liên kết_2025.pdf",
+      "target_md": "Nghị định 20_Giao dịch liên kết_2025.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 30,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.pdf",
+      "target_md": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 3.pdf",
+      "target_md": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 3.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 39,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế.pdf",
+      "target_md": "Nghị định_236-2025-NĐ-CP_xói mòn thuế.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 95,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "target_md": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.md",
+      "folder": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK",
+      "pages": 12,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "157_CT_CS_14032025.pdf",
+      "target_md": "157_CT_CS_14032025.md",
+      "folder": "Văn bản, công văn thuế",
+      "pages": 2,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "267_CT_CS_24032025.pdf",
+      "target_md": "267_CT_CS_24032025.md",
+      "folder": "Văn bản, công văn thuế",
+      "pages": 1,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "3326_CT-CS.pdf",
+      "target_md": "3326_CT-CS.md",
+      "folder": "Văn bản, công văn thuế",
+      "pages": 3,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "888_TCT_CS_27022025.pdf",
+      "target_md": "888_TCT_CS_27022025.md",
+      "folder": "Văn bản, công văn thuế",
+      "pages": 1,
+      "status": "CONVERTED_CLEAN"
+    },
+    {
+      "filename": "CD3 Thuế 2025.pdf",
+      "target_md": "CD3 Thuế 2025.md",
+      "folder": "Văn bản, công văn thuế",
+      "pages": 247,
+      "status": "CONVERTED_CLEAN"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "CPA Vietnam Master Tax Knowledge Graph Engine",
+  "description": "Temporal Tax Knowledge Graph & Reasoning Engine for CPA Vietnam and Corporate Tax Consulting with 5 Strict Legal Guardrails",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1012 @@
+{
+  "summary": {
+    "total_pdfs": 111,
+    "digital_text_good": 36,
+    "pure_image_scan": 73,
+    "low_quality_ocr_needed": 2,
+    "error_reading": 0
+  },
+  "scanned_files_list": [
+    {
+      "id": 5,
+      "filename": "VanBanGoc_nghi-dinh-135-2020-nd-cp-quy-dinh-ve-tuoi-nghi-huu.pdf",
+      "relative_path": "Bộ luật Lao động\\VanBanGoc_nghi-dinh-135-2020-nd-cp-quy-dinh-ve-tuoi-nghi-huu.pdf",
+      "pages": 15,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 7,
+      "filename": "Luật_Hai quan_Nghị định_167.pdf",
+      "relative_path": "Luật Hải quan\\Luật_Hai quan_Nghị định_167.pdf",
+      "pages": 78,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 8,
+      "filename": "Nghị định 08_2015_Hướng dẫn luật hải quan.pdf",
+      "relative_path": "Luật Hải quan\\Nghị định 08_2015_Hướng dẫn luật hải quan.pdf",
+      "pages": 87,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 9,
+      "filename": "thông tư 39-2018-btc -Hải quan, thuế xuất khẩu.pdf",
+      "relative_path": "Luật Hải quan\\thông tư 39-2018-btc -Hải quan, thuế xuất khẩu.pdf",
+      "pages": 189,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 12,
+      "filename": "VBHNTT21btc_Hợp nhất thông tư 39 và 60 về hải quan.pdf",
+      "relative_path": "Luật Hải quan\\VBHNTT21btc_Hợp nhất thông tư 39 và 60 về hải quan.pdf",
+      "pages": 72,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 15,
+      "filename": "Luật 90qh_Sửa đổi một số luật.pdf",
+      "relative_path": "Luật quản lý thuế\\Luật 90qh_Sửa đổi một số luật.pdf",
+      "pages": 60,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 17,
+      "filename": "Luật quản lý thuế_Thông tư_94.pdf",
+      "relative_path": "Luật quản lý thuế\\Luật quản lý thuế_Thông tư_94.pdf",
+      "pages": 3,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 18,
+      "filename": "Nghị định 254-ndcp_Quản lý hóa đơn điện tử.pdf",
+      "relative_path": "Luật quản lý thuế\\Nghị định 254-ndcp_Quản lý hóa đơn điện tử.pdf",
+      "pages": 55,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 19,
+      "filename": "Nghị định_252-ndcp_Hướng dẫn thi hành Luật quản lý thuế.pdf",
+      "relative_path": "Luật quản lý thuế\\Nghị định_252-ndcp_Hướng dẫn thi hành Luật quản lý thuế.pdf",
+      "pages": 133,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 21,
+      "filename": "Thông tư 89-btc-hướng dẫn luật quản lý thuế.pdf",
+      "relative_path": "Luật quản lý thuế\\Thông tư 89-btc-hướng dẫn luật quản lý thuế.pdf",
+      "pages": 839,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 22,
+      "filename": "Thông tư 90-btc-hướng dẫn luật quản lý thuế.pdf",
+      "relative_path": "Luật quản lý thuế\\Thông tư 90-btc-hướng dẫn luật quản lý thuế.pdf",
+      "pages": 196,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 23,
+      "filename": "Thông tư 94-btc-Hướng dẫn thi hành luật quản lý thuế.pdf",
+      "relative_path": "Luật quản lý thuế\\Thông tư 94-btc-Hướng dẫn thi hành luật quản lý thuế.pdf",
+      "pages": 35,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 24,
+      "filename": "VBHN 15_Luật quản lý thuế_1.pdf",
+      "relative_path": "Luật quản lý thuế\\VBHN 15_Luật quản lý thuế_1.pdf",
+      "pages": 100,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 25,
+      "filename": "VBHN15 TTHDLuatquanlythue.pdf",
+      "relative_path": "Luật quản lý thuế\\VBHN15 TTHDLuatquanlythue.pdf",
+      "pages": 100,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 26,
+      "filename": "VBHN15HDLuatQLT3.pdf",
+      "relative_path": "Luật quản lý thuế\\VBHN15HDLuatQLT3.pdf",
+      "pages": 115,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 27,
+      "filename": "VBHN15HDTTLuatQLT2.pdf",
+      "relative_path": "Luật quản lý thuế\\VBHN15HDTTLuatQLT2.pdf",
+      "pages": 103,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 28,
+      "filename": "VBHN15HDTTLuatQLT4.pdf",
+      "relative_path": "Luật quản lý thuế\\VBHN15HDTTLuatQLT4.pdf",
+      "pages": 135,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 29,
+      "filename": "Luat 13_THuế GTGT-2008-QH12.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Luat 13_THuế GTGT-2008-QH12.pdf",
+      "pages": 9,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 32,
+      "filename": "LuatthueGTGTND70suadoiND123.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\LuatthueGTGTND70suadoiND123.pdf",
+      "pages": 74,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 33,
+      "filename": "Nghị định 123 về hóa đơn, chứng từ.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Nghị định 123 về hóa đơn, chứng từ.pdf",
+      "pages": 123,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 34,
+      "filename": "Nghị định 181_Hướng dẫn luật thuế GTGT.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Nghị định 181_Hướng dẫn luật thuế GTGT.pdf",
+      "pages": 50,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 35,
+      "filename": "Nghị định 310_2025 về xử phạt thuế, hóa đơn.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Nghị định 310_2025 về xử phạt thuế, hóa đơn.pdf",
+      "pages": 16,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 37,
+      "filename": "TT69HD ND181 ThueGTGT2025.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\TT69HD ND181 ThueGTGT2025.pdf",
+      "pages": 21,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 38,
+      "filename": "Luat thuế TNCN_109_2025.pdf",
+      "relative_path": "Luật thuế Thu nhập cá nhân\\Luat thuế TNCN_109_2025.pdf",
+      "pages": 15,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 40,
+      "filename": "Thông tư 111_2013_THuế Thu nhập cá nhân.pdf",
+      "relative_path": "Luật thuế Thu nhập cá nhân\\Thông tư 111_2013_THuế Thu nhập cá nhân.pdf",
+      "pages": 78,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 41,
+      "filename": "VBHN Thông tư số_02_2024_Hợp nhất TT luật thuế TNCN.pdf",
+      "relative_path": "Luật thuế Thu nhập cá nhân\\VBHN Thông tư số_02_2024_Hợp nhất TT luật thuế TNCN.pdf",
+      "pages": 80,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 43,
+      "filename": "Luật 67_Thuế thu nhập doanh nghiệp.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Luật 67_Thuế thu nhập doanh nghiệp.pdf",
+      "pages": 21,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 44,
+      "filename": "Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "pages": 4,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 46,
+      "filename": "Nghị định_218-nd-2013- Hướng dẫn Luật thuế TNDN.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Nghị định_218-nd-2013- Hướng dẫn Luật thuế TNDN.pdf",
+      "pages": 35,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 47,
+      "filename": "Thuế TNDN _Nghị định 320-ndcp.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Thuế TNDN _Nghị định 320-ndcp.pdf",
+      "pages": 76,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 48,
+      "filename": "Luật 66_thuế tiêu thụ đặc biệt.pdf",
+      "relative_path": "Luật thuế Tiêu thụ đặc biệt\\Luật 66_thuế tiêu thụ đặc biệt.pdf",
+      "pages": 13,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 49,
+      "filename": "Nghị định 360-ndcp_Hướng dẫn luật thuế tiêu thụ đặc biệt.pdf",
+      "relative_path": "Luật thuế Tiêu thụ đặc biệt\\Nghị định 360-ndcp_Hướng dẫn luật thuế tiêu thụ đặc biệt.pdf",
+      "pages": 16,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 50,
+      "filename": "Nghị định_108_Hướng dẫn Luật thuế tiêu thụ đặc biệt.pdf",
+      "relative_path": "Luật thuế Tiêu thụ đặc biệt\\Nghị định_108_Hướng dẫn Luật thuế tiêu thụ đặc biệt.pdf",
+      "pages": 10,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 53,
+      "filename": "141-ndcp.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\141-ndcp.signed.pdf",
+      "pages": 4,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 59,
+      "filename": "3326_CT-CS.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\3326_CT-CS.pdf",
+      "pages": 3,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 60,
+      "filename": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "pages": 33,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 61,
+      "filename": "68-ndcp.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\68-ndcp.signed.pdf",
+      "pages": 19,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 63,
+      "filename": "CIT law_67qh.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\CIT law_67qh.signed.pdf",
+      "pages": 21,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 65,
+      "filename": "HaiquanND167.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\HaiquanND167.pdf",
+      "pages": 78,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 66,
+      "filename": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "pages": 15,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 67,
+      "filename": "luat109-2025.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\luat109-2025.pdf",
+      "pages": 15,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 69,
+      "filename": "LuatGTGTND123vehoadon.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\LuatGTGTND123vehoadon.pdf",
+      "pages": 123,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 71,
+      "filename": "LuathaiquanND08.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\LuathaiquanND08.pdf",
+      "pages": 87,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 73,
+      "filename": "LuatthueGTGTND70suadoiND123.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\LuatthueGTGTND70suadoiND123.pdf",
+      "pages": 74,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 75,
+      "filename": "ND Giao dịch liên kết 20-cp.signed_2025.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\ND Giao dịch liên kết 20-cp.signed_2025.pdf",
+      "pages": 30,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 76,
+      "filename": "ND Giao dịch liên kết_132.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\ND Giao dịch liên kết_132.signed.pdf",
+      "pages": 73,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 77,
+      "filename": "ND80.signed_01_HD luat ho tro SMEs.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\ND80.signed_01_HD luat ho tro SMEs.pdf",
+      "pages": 29,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 78,
+      "filename": "Thuế TNDN _320-ndcp.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Thuế TNDN _320-ndcp.signed.pdf",
+      "pages": 76,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 79,
+      "filename": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "pages": 12,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 80,
+      "filename": "Thông tư 99-2025-TT-BTC.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Thông tư 99-2025-TT-BTC.pdf",
+      "pages": 778,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 81,
+      "filename": "TT-58-2026-TT-BTC TNVN.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\TT-58-2026-TT-BTC TNVN.pdf",
+      "pages": 33,
+      "total_chars_sample": 430,
+      "avg_chars_per_page": 43.0,
+      "status": "LOW_QUALITY_SCAN"
+    },
+    {
+      "id": 82,
+      "filename": "TT69HD ND181 ThueGTGT2025.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\TT69HD ND181 ThueGTGT2025.pdf",
+      "pages": 21,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 83,
+      "filename": "TT94.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\TT94.pdf",
+      "pages": 3,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 84,
+      "filename": "VBHN 15TTLuatQLT1.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHN 15TTLuatQLT1.pdf",
+      "pages": 100,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 85,
+      "filename": "VBHN15 TTHDLuatquanlythue.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHN15 TTHDLuatquanlythue.pdf",
+      "pages": 100,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 86,
+      "filename": "VBHN15HDLuatQLT3.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHN15HDLuatQLT3.pdf",
+      "pages": 115,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 87,
+      "filename": "VBHN15HDTTLuatQLT2.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHN15HDTTLuatQLT2.pdf",
+      "pages": 103,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 88,
+      "filename": "VBHN15HDTTLuatQLT4.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHN15HDTTLuatQLT4.pdf",
+      "pages": 135,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 89,
+      "filename": "VBHNTT21btc.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\VBHNTT21btc.pdf",
+      "pages": 72,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 90,
+      "filename": "page_3.pdf",
+      "relative_path": "scratch\\temp_pages\\page_3.pdf",
+      "pages": 1,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 91,
+      "filename": "temp_page_12.pdf",
+      "relative_path": "scratch\\temp_pages\\temp_page_12.pdf",
+      "pages": 1,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 92,
+      "filename": "page_4.pdf",
+      "relative_path": "scratch\\temp_pages_reuse\\page_4.pdf",
+      "pages": 1,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 93,
+      "filename": "58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\58-ttbtc-ve-hd-che-do-ke-toan-cho-dn-sieu-nho_295202611.pdf",
+      "pages": 33,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 94,
+      "filename": "Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\Luat 04_2017.signed_DN nho va vua gom ca sieu nho.pdf",
+      "pages": 15,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 95,
+      "filename": "Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\Nghị định 141- sửa nghị định 68 và nghị định 320.pdf",
+      "pages": 4,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 96,
+      "filename": "Nghị định 80 về Luật hỗ trợ SMEs.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\Nghị định 80 về Luật hỗ trợ SMEs.pdf",
+      "pages": 29,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 97,
+      "filename": "Nghị định_68_2-26_Cá nhân kinh doanh, Hộ kinh doanh.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\Nghị định_68_2-26_Cá nhân kinh doanh, Hộ kinh doanh.pdf",
+      "pages": 19,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 99,
+      "filename": "TT-58-2026-TT-BTC_Hướng dẫn chế độ kế toán DN siêu nhỏ.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\TT-58-2026-TT-BTC_Hướng dẫn chế độ kế toán DN siêu nhỏ.pdf",
+      "pages": 33,
+      "total_chars_sample": 430,
+      "avg_chars_per_page": 43.0,
+      "status": "LOW_QUALITY_SCAN"
+    },
+    {
+      "id": 100,
+      "filename": "Nghị định 132_Giao dịch liên kết.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định 132_Giao dịch liên kết.pdf",
+      "pages": 73,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 102,
+      "filename": "Nghị định 20_Giao dịch liên kết_2025.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định 20_Giao dịch liên kết_2025.pdf",
+      "pages": 30,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 106,
+      "filename": "Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Thuế tối thiểu toàn cầu Nghị quyết_107-qh15.signed.pdf",
+      "pages": 12,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 107,
+      "filename": "157_CT_CS_14032025.pdf",
+      "relative_path": "Văn bản, công văn thuế\\157_CT_CS_14032025.pdf",
+      "pages": 2,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 108,
+      "filename": "267_CT_CS_24032025.pdf",
+      "relative_path": "Văn bản, công văn thuế\\267_CT_CS_24032025.pdf",
+      "pages": 1,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 109,
+      "filename": "3326_CT-CS.pdf",
+      "relative_path": "Văn bản, công văn thuế\\3326_CT-CS.pdf",
+      "pages": 3,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    },
+    {
+      "id": 110,
+      "filename": "888_TCT_CS_27022025.pdf",
+      "relative_path": "Văn bản, công văn thuế\\888_TCT_CS_27022025.pdf",
+      "pages": 1,
+      "total_chars_sample": 0,
+      "avg_chars_per_page": 0.0,
+      "status": "PURE_IMAGE_SCAN"
+    }
+  ],
+  "good_files_list": [
+    {
+      "id": 1,
+      "filename": "TT-96_2015_TT-BTC.pdf",
+      "relative_path": "Bo sung Grok\\TT-96_2015_TT-BTC.pdf",
+      "pages": 41,
+      "total_chars_sample": 26995,
+      "avg_chars_per_page": 2699.5,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 2,
+      "filename": "TT_103_2014_TT-BTC.pdf",
+      "relative_path": "Bo sung Grok\\TT_103_2014_TT-BTC.pdf",
+      "pages": 30,
+      "total_chars_sample": 24061,
+      "avg_chars_per_page": 2406.1,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 3,
+      "filename": "TT_45_2013_TT-BTC.pdf",
+      "relative_path": "Bo sung Grok\\TT_45_2013_TT-BTC.pdf",
+      "pages": 28,
+      "total_chars_sample": 24652,
+      "avg_chars_per_page": 2465.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 4,
+      "filename": "Cẩm nang thực hiện Bộ luật lao động tại DN.pdf",
+      "relative_path": "Bộ luật Lao động\\Cẩm nang thực hiện Bộ luật lao động tại DN.pdf",
+      "pages": 131,
+      "total_chars_sample": 26573,
+      "avg_chars_per_page": 2657.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 6,
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "relative_path": "Luật Hải quan\\1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "pages": 24,
+      "total_chars_sample": 22805,
+      "avg_chars_per_page": 2280.5,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 10,
+      "filename": "Thông tư_121_2025_TT-BTC_Thủ tục hải quan.pdf",
+      "relative_path": "Luật Hải quan\\Thông tư_121_2025_TT-BTC_Thủ tục hải quan.pdf",
+      "pages": 373,
+      "total_chars_sample": 25302,
+      "avg_chars_per_page": 2530.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 11,
+      "filename": "VBHN Luật hải quan_số 95_Từ chương 4 đến hết.pdf",
+      "relative_path": "Luật Hải quan\\VBHN Luật hải quan_số 95_Từ chương 4 đến hết.pdf",
+      "pages": 13,
+      "total_chars_sample": 22542,
+      "avg_chars_per_page": 2254.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 13,
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "relative_path": "Luật quản lý thuế\\1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "pages": 84,
+      "total_chars_sample": 19803,
+      "avg_chars_per_page": 1980.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 14,
+      "filename": "Luatquanlythue2025_VBHN số 29..pdf",
+      "relative_path": "Luật quản lý thuế\\Luatquanlythue2025_VBHN số 29..pdf",
+      "pages": 95,
+      "total_chars_sample": 20977,
+      "avg_chars_per_page": 2097.7,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 16,
+      "filename": "Luật quản lý thuế 2025.pdf",
+      "relative_path": "Luật quản lý thuế\\Luật quản lý thuế 2025.pdf",
+      "pages": 65,
+      "total_chars_sample": 6170,
+      "avg_chars_per_page": 617.0,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 20,
+      "filename": "Sổ tay thuế _Cục Thuế _ T9 năm 2025.pdf",
+      "relative_path": "Luật quản lý thuế\\Sổ tay thuế _Cục Thuế _ T9 năm 2025.pdf",
+      "pages": 70,
+      "total_chars_sample": 8815,
+      "avg_chars_per_page": 881.5,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 30,
+      "filename": "Luat thuế GTGT_48.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Luat thuế GTGT_48.pdf",
+      "pages": 20,
+      "total_chars_sample": 23632,
+      "avg_chars_per_page": 2363.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 31,
+      "filename": "Luat thuế GTGT_48_VAT.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Luat thuế GTGT_48_VAT.pdf",
+      "pages": 20,
+      "total_chars_sample": 23632,
+      "avg_chars_per_page": 2363.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 36,
+      "filename": "Thông tu 219_GTGT.pdf",
+      "relative_path": "Luật thuế Giá trị gia tăng\\Thông tu 219_GTGT.pdf",
+      "pages": 47,
+      "total_chars_sample": 44794,
+      "avg_chars_per_page": 4479.4,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 39,
+      "filename": "Luật 109_QH15 2025 thuế TNCN.pdf",
+      "relative_path": "Luật thuế Thu nhập cá nhân\\Luật 109_QH15 2025 thuế TNCN.pdf",
+      "pages": 15,
+      "total_chars_sample": 20613,
+      "avg_chars_per_page": 2061.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 42,
+      "filename": "Luật 67 thuế TNDN_2025-QH15.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Luật 67 thuế TNDN_2025-QH15.pdf",
+      "pages": 24,
+      "total_chars_sample": 21259,
+      "avg_chars_per_page": 2125.9,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 45,
+      "filename": "Nghị định 320-NĐ-CP-2025- Hướng dẫn Luật thuế TNDN.pdf",
+      "relative_path": "Luật thuế Thu nhập doanh nghiệp\\Nghị định 320-NĐ-CP-2025- Hướng dẫn Luật thuế TNDN.pdf",
+      "pages": 82,
+      "total_chars_sample": 22562,
+      "avg_chars_per_page": 2256.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 51,
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\1225_BTC đối thoại người nộp thuế_TL Hải quan.pdf",
+      "pages": 24,
+      "total_chars_sample": 22805,
+      "avg_chars_per_page": 2280.5,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 52,
+      "filename": "1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\1225_BTC đối thoại người nộp thuế_TL Thuế.pdf",
+      "pages": 84,
+      "total_chars_sample": 19803,
+      "avg_chars_per_page": 1980.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 54,
+      "filename": "2025_1323 + 1324_236-2025-NĐ-CP.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\2025_1323 + 1324_236-2025-NĐ-CP.pdf",
+      "pages": 95,
+      "total_chars_sample": 21864,
+      "avg_chars_per_page": 2186.4,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 55,
+      "filename": "2025_1325 + 1326_236-2025-NĐ-CP.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\2025_1325 + 1326_236-2025-NĐ-CP.pdf",
+      "pages": 95,
+      "total_chars_sample": 24979,
+      "avg_chars_per_page": 2497.9,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 56,
+      "filename": "2025_1327 + 1328_236-2025-NĐ-CP.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\2025_1327 + 1328_236-2025-NĐ-CP.pdf",
+      "pages": 39,
+      "total_chars_sample": 21562,
+      "avg_chars_per_page": 2156.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 57,
+      "filename": "2026_159_18_2026_TT-BTC.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\2026_159_18_2026_TT-BTC.pdf",
+      "pages": 44,
+      "total_chars_sample": 15461,
+      "avg_chars_per_page": 1546.1,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 58,
+      "filename": "2026_60_121_2025_TT-BTC.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\2026_60_121_2025_TT-BTC.pdf",
+      "pages": 373,
+      "total_chars_sample": 25302,
+      "avg_chars_per_page": 2530.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 62,
+      "filename": "CD3 Thuế 2025.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\CD3 Thuế 2025.pdf",
+      "pages": 247,
+      "total_chars_sample": 26957,
+      "avg_chars_per_page": 2695.7,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 64,
+      "filename": "gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\gia-giao-dich-lien-ket-thang-2-nam-2025-nghi-dinh-20-2025-nd-cp.pdf",
+      "pages": 7,
+      "total_chars_sample": 13274,
+      "avg_chars_per_page": 1896.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 68,
+      "filename": "luat48.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\luat48.pdf",
+      "pages": 20,
+      "total_chars_sample": 23632,
+      "avg_chars_per_page": 2363.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 70,
+      "filename": "Luathaiquan95VBHN.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Luathaiquan95VBHN.pdf",
+      "pages": 13,
+      "total_chars_sample": 22542,
+      "avg_chars_per_page": 2254.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 72,
+      "filename": "Luatquanlythue2025VBHN29..pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Luatquanlythue2025VBHN29..pdf",
+      "pages": 95,
+      "total_chars_sample": 20977,
+      "avg_chars_per_page": 2097.7,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 74,
+      "filename": "Luật quản lý thuế 2025.pdf",
+      "relative_path": "scratch\\gdrive_downloads\\Luật quản lý thuế 2025.pdf",
+      "pages": 65,
+      "total_chars_sample": 6170,
+      "avg_chars_per_page": 617.0,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 98,
+      "filename": "Thông tư _18_2026_TT-BTC_Quản lý thuế Cá nhân KD, Hộ KD.pdf",
+      "relative_path": "SMEs,Hộ kinh doanh, DN siêu nhỏ\\Thông tư _18_2026_TT-BTC_Quản lý thuế Cá nhân KD, Hộ KD.pdf",
+      "pages": 44,
+      "total_chars_sample": 15461,
+      "avg_chars_per_page": 1546.1,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 101,
+      "filename": "Nghị định 20_2025_gia-giao-dich-lien-ket.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định 20_2025_gia-giao-dich-lien-ket.pdf",
+      "pages": 7,
+      "total_chars_sample": 13274,
+      "avg_chars_per_page": 1896.3,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 103,
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định_236-2025-NĐ-CP_xói mòn thuế 2.pdf",
+      "pages": 95,
+      "total_chars_sample": 24979,
+      "avg_chars_per_page": 2497.9,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 104,
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế 3.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định_236-2025-NĐ-CP_xói mòn thuế 3.pdf",
+      "pages": 39,
+      "total_chars_sample": 21562,
+      "avg_chars_per_page": 2156.2,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 105,
+      "filename": "Nghị định_236-2025-NĐ-CP_xói mòn thuế.pdf",
+      "relative_path": "Thuế tối thiểu toàn cầu, chuyển giá,GDLK\\Nghị định_236-2025-NĐ-CP_xói mòn thuế.pdf",
+      "pages": 95,
+      "total_chars_sample": 21864,
+      "avg_chars_per_page": 2186.4,
+      "status": "DIGITAL_TEXT_GOOD"
+    },
+    {
+      "id": 111,
+      "filename": "CD3 Thuế 2025.pdf",
+      "relative_path": "Văn bản, công văn thuế\\CD3 Thuế 2025.pdf",
+      "pages": 247,
+      "total_chars_sample": 26957,
+      "avg_chars_per_page": 2695.7,
+      "status": "DIGITAL_TEXT_GOOD"
+    }
+  ]
+}
