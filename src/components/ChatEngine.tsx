@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { performTaxReasoning } from '../utils/taxReasoningEngine';
 import { 
   GraduationCap, 
   Briefcase, 
@@ -85,11 +86,18 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
         })
       });
 
-      if (!res.ok) throw new Error('API request failed');
-      const data: ReasoningResult = await res.json();
-      setResult(data);
+      if (res.ok) {
+        const data: ReasoningResult = await res.json();
+        setResult(data);
+      } else {
+        // Fallback to client-side Reasoning Engine if backend API returns 404/500
+        const data = performTaxReasoning(q, d, mode);
+        setResult(data);
+      }
     } catch (err) {
-      console.error(err);
+      console.warn('API call failed, running Client-side Tax GraphRAG Engine:', err);
+      const data = performTaxReasoning(q, d, mode);
+      setResult(data);
     } finally {
       setIsLoading(false);
     }
