@@ -390,35 +390,85 @@ app.post('/api/chat/reason', async (req, res) => {
   const nodeIds = new Set(subgraphNodes.map(n => n.id));
   const subgraphEdges = currentEdges.filter(e => nodeIds.has(e.source) && nodeIds.has(e.target));
 
-  // If Gemini client is available, refine the text for extra clarity while preserving strict groundtruth
+  // ──────────────────────────────────────────────────────────────────────
+  // GROUNDED GEMINI ENRICHMENT (RC-003 + RC-004 FIX)
+  // ──────────────────────────────────────────────────────────────────────
   const gemini = getGeminiClient();
   if (gemini) {
     try {
-      const prompt = `Bạn là Master Tax Knowledge Architect (CPA Vietnam Unified System).
-Tuân thủ 5 KPI pháp lý tuyệt đối:
-- Không bịa đặt điều luật (Critical Hallucination = 0%).
-- Trích dẫn chính xác [1], [2] tương ứng các nguồn:
-${relevantSpans.map((s, i) => `[${i+1}] ${s.sourceDocNumber} (${s.article} ${s.clause || ''}): "${s.spanText}"`).join('\n')}
+      // Build Legal Narrative context (instead of raw JSON dump — RC-003 fix)
+      const legalNarrative = [
+        '══ [LEGAL_SOURCES] — Văn bản pháp luật đang hiệu lực ══',
+        ...relevantSpans.map((s, i) =>
+          `[${i+1}] ${s.sourceDocNumber} — ${s.article} ${s.clause || ''} ${s.point || ''}\n` +
+          `    "${s.spanText}"`
+        ),
+        '',
+        '══ [TEMPORAL_CONTEXT] ══',
+        `Thời điểm phát sinh giao dịch: ${transactionDate} (Năm ${txYear})`,
+        `Trạng thái tài liệu: Chỉ áp dụng văn bản ĐANG HIỆU LỰC tại ${transactionDate}`,
+        '',
+        '══ [GRAPH_CONTEXT] ══',
+        `Subgraph nodes: ${subgraphNodes.map(n => n.label).join(', ')}`,
+        `Tri-state xác định: ${triState}`,
+      ].join('\n');
 
-Câu hỏi: "${question}"
-Năm phát sinh (Transaction Date): ${transactionDate}
-Chế độ: ${mode === 'learning' ? 'Học viên CPA (Learning Mode)' : 'Tư vấn Doanh nghiệp (Service Mode)'}
-Trạng thái Tri-state xác định: ${triState}
+      // Grounded system prompt with ZERO HALLUCINATION rules (RC-004 fix)
+      const systemPrompt = `Bạn là CPA Vietnam Master Tax Reasoning Engine.
 
-Hãy viết một đoạn KẾT LUẬN NGHĨA VỤ THUẾ súc tích, chuyên nghiệp nhất theo đúng tinh thần pháp luật. Giữ nguyên các trích dẫn [1], [2] nếu dùng.`;
+QUY TẮC TUYỆT ĐỐI — ZERO HALLUCINATION:
+- Chỉ trích dẫn Điều/Khoản/Điểm có trong [LEGAL_SOURCES] bên dưới.
+- Mỗi câu kết luận PHẢI có citation [1], [2]... tương ứng nguồn.
+- Nghiêm cấm tự sáng tác số liệu (%, ngưỡng tiền) không có trong nguồn.
+- Nghiêm cấm trả lời "Theo quy định chung..." mà không có Điều/Khoản cụ thể.
+- Nếu subgraph thiếu dữ liệu: ghi rõ "Cần xác minh thêm tại..." thay vì sáng tác.
 
-      const response = await gemini.models.generateContent({
-        model: 'gemini-3.8-flash',
-        contents: prompt
-      });
+Chế độ: ${mode === 'learning' ? 'HỌC VIÊN CPA — Phải có phân tích bẫy đề thi và công thức tính' : 'TƯ VẤN DOANH NGHIỆP — Tập trung quy trình thực thi và rủi ro cụ thể'}
 
-      if (response.text && response.text.trim().length > 20) {
-        conclusion = response.text.trim();
+Viết KẾT LUẬN NGHĨA VỤ THUẾ súc tích, chuyên nghiệp, có citation [n].`;
+
+      const userPrompt = `Câu hỏi: "${question}"
+
+${legalNarrative}
+
+Yêu cầu: Viết kết luận nghĩa vụ thuế dựa HOÀN TOÀN vào [LEGAL_SOURCES] trên. Có citation [1], [2]...`;
+
+      // RC-004 fix: model fallback chain (gemini-3.8-flash không tồn tại!)
+      const MODEL_CHAIN = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash-002'];
+      let geminiSuccess = false;
+
+      for (const modelName of MODEL_CHAIN) {
+        try {
+          const response = await gemini.models.generateContent({
+            model: modelName,
+            contents: userPrompt,
+            config: {
+              systemInstruction: systemPrompt,
+              temperature: 0.0,         // RC-004 fix: deterministic output
+              maxOutputTokens: 1024,
+            }
+          });
+
+          if (response.text && response.text.trim().length > 30) {
+            conclusion = response.text.trim();
+            geminiSuccess = true;
+            console.log(`[GraphRAG] Gemini enrichment success with ${modelName}`);
+            break;
+          }
+        } catch (modelErr) {
+          console.warn(`[GraphRAG] Model ${modelName} failed, trying next...`);
+          continue;
+        }
+      }
+
+      if (!geminiSuccess) {
+        console.warn('[GraphRAG] All Gemini models failed, using deterministic conclusion');
       }
     } catch (e) {
-      console.warn('Gemini enrichment skipped, using built-in deterministic response', e);
+      console.warn('[GraphRAG] Gemini enrichment skipped:', e);
     }
   }
+
 
   const result: ReasoningResult = {
     triState,
@@ -433,8 +483,9 @@ Hãy viết một đoạn KẾT LUẬN NGHĨA VỤ THUẾ súc tích, chuyên ng
       edges: subgraphEdges
     },
     executionTimeMs: Date.now() - startTime,
-    temporalFilterApplied: `Effective at ${transactionDate} (Year ${txYear})`
+    temporalFilterApplied: `Thời điểm giao dịch: ${transactionDate} (Hiệu lực Luật năm ${txYear})`
   };
+
 
   res.json(result);
 });
