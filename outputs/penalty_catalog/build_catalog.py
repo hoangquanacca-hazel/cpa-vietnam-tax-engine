@@ -527,7 +527,8 @@ _cus = json.loads((OUT / "hq" / "customs_rows.json").read_text(encoding="utf-8")
 for r in _cus["rows"]:
     t = r["nhom"]
     r["nhom"] = t if len(t) <= 72 else t[:70].rstrip(" ,;") + "…"
-    r.update(nhom_id="", metric="", ranges=[], ghi_chu="")
+    r.update(nhom_id="", metric="", ranges=[])
+    r.setdefault("ghi_chu", "")        # keep the paragraph notes extracted from the source
     rows.append(r)
 DIEU_NOTES = _cus["dieu_notes"]
 

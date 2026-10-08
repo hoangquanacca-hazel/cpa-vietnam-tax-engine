@@ -140,8 +140,12 @@ def tail_notes(k):
     for i, p in enumerate(pts):
         for t in p.get("tail", []):
             t = tidy(t)
+            named = re.search(r"điểm ([a-zđ](?:(?:, | và )[a-zđ])*) khoản này", t)
             if "điểm này" in t:
                 per.setdefault(p["l"], []).append(t)
+            elif named:                      # "... các điểm b, c, d khoản này ...": only the points it names
+                for l in re.findall(r"[a-zđ]", named.group(1)):
+                    per.setdefault(l, []).append(t)
             elif "khoản này" in t or i == len(pts) - 1:
                 wide.append(t)
             else:

@@ -65,6 +65,14 @@ _ext = json.loads((D / "hq" / "customs_rows.json").read_text(encoding="utf-8"))[
 _k = lambda r: (r["nguon"], r["dieu"], r["khoan"], r["diem"], r["hanh_vi"])
 _a = {_k(r) for r in _ext}
 _b = {_k(r) for r in data["rows"] if r["nguon"] in cus}
+# field-level fidelity: the text fields the extractor produced must reach the catalog unchanged (guards the merge step)
+_cat = {_k(r): r for r in data["rows"] if r["nguon"] in cus}
+for _r in _ext:
+    _c = _cat.get(_k(_r))
+    if _c:
+        for _f in ("dieu_kien", "ghi_chu", "bien_phap_khac_phuc", "bo_sung", "ty_le", "min_vnd", "max_vnd", "hinh_thuc", "tl"):
+            if _r.get(_f) != _c.get(_f):
+                fails.append(("FIELD-MISMATCH", f"{_r['nguon']} Điều {_r['dieu']}.{_r['khoan']}{_r['diem']} field {_f} differs after merge"))
 for x in sorted(_a - _b, key=str)[:20]:
     fails.append(("MISSING-ROW", f"extracted but absent from the catalog: {x[:4]}"))
 for x in sorted(_b - _a, key=str)[:20]:
