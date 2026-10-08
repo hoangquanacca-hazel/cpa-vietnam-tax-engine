@@ -12,6 +12,11 @@ const FRAC_MAX = 0.65;
 const FRAC_DEFAULT = 1 / 3;
 const clampFrac = (x: number) => Math.min(FRAC_MAX, Math.max(FRAC_MIN, x));
 
+const SRC_LABEL: Record<string, string> = {
+  '125': '125/2020', '310': '310/2025', '102': '102/2021', '169': '169/2026', '128': '128/2020',
+};
+const srcLabel = (n: string) => `NĐ ${n.split('+').map(x => SRC_LABEL[x] ?? x).join(' + ')}`;
+
 const todayIso = () => new Date().toISOString().slice(0, 10);
 const fmt = (n: number) => `${Math.round(n).toLocaleString('vi-VN')} đ`;
 const fmtDate = (d: string) => (d ? d.split('-').reverse().join('/') : '');
@@ -53,6 +58,7 @@ export const PenaltyCatalog: React.FC = () => {
   const [rows, setRows] = useState<PenaltyRow[]>([]);
   const [general, setGeneral] = useState<GeneralRule[]>([]);
   const [rates, setRates] = useState<Rate[]>([]);
+  const [dieuNotes, setDieuNotes] = useState<Record<string, string[]>>({});
   const [error, setError] = useState<string | null>(null);
 
   const [query, setQuery] = useState('');
@@ -124,7 +130,7 @@ export const PenaltyCatalog: React.FC = () => {
   useEffect(() => {
     fetch('/penalty_catalog.json')
       .then(res => { if (!res.ok) throw new Error(`HTTP ${res.status}`); return res.json(); })
-      .then(data => { setRows(data.rows); setGeneral(data.general); setRates(data.rates ?? []); })
+      .then(data => { setRows(data.rows); setGeneral(data.general); setRates(data.rates ?? []); setDieuNotes(data.dieu_notes ?? {}); })
       .catch(e => setError(`Không tải được dữ liệu mức phạt: ${e.message}`));
   }, []);
 
@@ -190,7 +196,7 @@ export const PenaltyCatalog: React.FC = () => {
     if (r.hinh_thuc === 'Cảnh cáo') return <span className="font-semibold text-slate-700">Cảnh cáo</span>;
     if (r.hinh_thuc === 'Phạt theo tỷ lệ') return <span className="block text-xs leading-snug text-slate-800">{r.ty_le}</span>;
     if (r.min_vnd === null || r.max_vnd === null) return null;
-    const d = entity === 'ca_nhan' ? 2 : 1;
+    const d = entity === 'ca_nhan' && r.ca_nhan !== 'giu_nguyen' ? 2 : 1;
     return (
       <span className="font-semibold text-slate-900 text-xs sm:text-sm">
         {fmt(r.min_vnd / d)} – {fmt(r.max_vnd / d)}
@@ -207,8 +213,8 @@ export const PenaltyCatalog: React.FC = () => {
         <div className="w-8 h-8 rounded-lg bg-slate-900 text-amber-400 flex items-center justify-center shrink-0">
           <Gavel className="w-4 h-4" />
         </div>
-        <h2 className="text-base font-bold text-slate-900">Checklist hành vi vi phạm &amp; tạm tính mức phạt thuế, hóa đơn</h2>
-        <span className="text-[11px] text-slate-600">NĐ 125/2020 (từ 05/12/2020) sửa đổi bởi NĐ 310/2025 (từ 16/01/2026)</span>
+        <h2 className="text-base font-bold text-slate-900">Checklist hành vi vi phạm &amp; tạm tính mức phạt thuế, hóa đơn, hải quan</h2>
+        <span className="text-[11px] text-slate-600">Thuế, hóa đơn: NĐ 125/2020 (sửa đổi bởi NĐ 102/2021, NĐ 310/2025). Hải quan: NĐ 169/2026 (từ 01/07/2026), NĐ 128/2020 (trước đó)</span>
       </div>
 
       <div className="mt-2 flex gap-2 rounded-lg border border-amber-300 bg-amber-50 px-3 py-1.5 text-[11px] text-amber-900 shrink-0">
@@ -305,18 +311,28 @@ export const PenaltyCatalog: React.FC = () => {
                   <div className={`min-w-0 flex-1 ${inactive ? 'text-slate-500' : ''}`}>
                     <div className="flex flex-wrap items-center gap-x-1.5 gap-y-0.5 text-[10px]">
                       <span className="rounded bg-slate-900 px-1.5 py-0.5 font-semibold text-white">{cite(r)}</span>
+                      {r.lv === 'Hải quan' && <span className="rounded bg-sky-100 px-1 font-semibold text-sky-800">{srcLabel(r.nguon)}</span>}
                       <span className="text-slate-500">{r.nhom}</span>
                       {inactive && <span className="rounded bg-amber-100 px-1 text-amber-800">đến {fmtDate(r.hieu_luc_den)}</span>}
                       {!inactive && r.hieu_luc_tu >= '2026-01-16' && <span className="rounded bg-emerald-100 px-1 text-emerald-800">từ {fmtDate(r.hieu_luc_tu)}</span>}
                     </div>
                     <p className="text-sm break-words">{r.hanh_vi}</p>
-                    {(r.dieu_kien || r.bien_phap_khac_phuc || r.ghi_chu) && (
+                    {(r.dieu_kien || r.bien_phap_khac_phuc || r.ghi_chu || r.bo_sung || dieuNotes[`${r.nguon}:${r.dieu}`]) && (
                       <details className="text-[11px] text-slate-600">
                         <summary className="cursor-pointer select-none text-slate-500">Chi tiết</summary>
                         {r.dieu_kien && <p className="mt-0.5"><b>Điều kiện:</b> {r.dieu_kien}</p>}
+                        {r.bo_sung && <p><b>Xử phạt bổ sung:</b> {r.bo_sung}</p>}
                         {r.bien_phap_khac_phuc && <p><b>Khắc phục:</b> {r.bien_phap_khac_phuc}</p>}
                         {r.ghi_chu && <p><b>Ghi chú:</b> {r.ghi_chu}</p>}
-                        <p className="text-slate-400">Hiệu lực {fmtDate(r.hieu_luc_tu)}{r.hieu_luc_den ? ` – ${fmtDate(r.hieu_luc_den)}` : ''} · NĐ {r.nguon}</p>
+                        {dieuNotes[`${r.nguon}:${r.dieu}`] && (
+                          <div className="mt-0.5 rounded bg-slate-100 p-1.5">
+                            <b>Lưu ý chung của Điều {r.dieu} ({srcLabel(r.nguon)}):</b>
+                            <ul className="list-disc pl-4">
+                              {dieuNotes[`${r.nguon}:${r.dieu}`].map((n, i) => <li key={i}>{n}</li>)}
+                            </ul>
+                          </div>
+                        )}
+                        <p className="text-slate-400">Hiệu lực {fmtDate(r.hieu_luc_tu)}{r.hieu_luc_den ? ` – ${fmtDate(r.hieu_luc_den)}` : ''} · {srcLabel(r.nguon)}</p>
                       </details>
                     )}
                   </div>
@@ -394,7 +410,7 @@ export const PenaltyCatalog: React.FC = () => {
                       <NumInput maxDigits={3} label="Số lần" value={inp.qty} onChange={v => patch(r.id, { qty: v ?? 1 })} placeholder="1" />
                     </label>
                     {r.hinh_thuc === 'Phạt theo tỷ lệ' && (() => {
-                      const baseLabel = r.dieu === 16 ? 'Số thuế khai thiếu (đ)' : r.dieu === 17 ? 'Số thuế trốn (đ)' : 'Số tiền không trích chuyển (đ)';
+                      const baseLabel = r.tl?.base ?? (r.dieu === 16 ? 'Số thuế khai thiếu (đ)' : r.dieu === 17 ? 'Số thuế trốn (đ)' : 'Số tiền không trích chuyển (đ)');
                       return (
                         <label className="flex flex-col gap-0.5 text-xs text-slate-500">{baseLabel}
                           <NumInput money label={baseLabel} value={inp.base} onChange={v => patch(r.id, { base: v })} placeholder="số tiền" />

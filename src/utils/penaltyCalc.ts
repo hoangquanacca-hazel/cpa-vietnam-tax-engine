@@ -29,6 +29,14 @@ export interface PenaltyRow {
   trang_thai: string;
   nguon: string;
   ghi_chu: string;
+  van_ban?: string;
+  /** how to derive the amount of a ratio row from the user's base figure (customs rows) */
+  tl?: { k: 'pct'; v: number; base: string } | { k: 'nhan'; base: string; min: number; step: number; max: number }
+    | { k: 'bang'; base: string } | null;
+  ca_nhan?: 'half' | 'giu_nguyen';          // individual amount = 1/2 (default) or the same amount
+  ap_dung_tb?: boolean;                      // the "trung bình ± 10%" rule applies to this row (default true)
+  quy_tac_tinh_tiet?: 'moi' | 'cu' | '';     // '' = decided by date (tax rows)
+  bo_sung?: string;
 }
 
 export type Entity = 'to_chuc' | 'ca_nhan';
@@ -67,10 +75,10 @@ export const clamp = (x: number, lo: number, hi: number) => Math.min(hi, Math.ma
 
 /** Điều 7.4.d NĐ125 (old: per-circumstance 10% clamped; new from 16/01/2026: 1 circumstance 10%, >=2 -> min/max).
  *  Điều 7.4.b: one mitigating circumstance offsets one aggravating circumstance. */
-export function specificAmount(min: number, max: number, g: number, t: number, onDate: string): number {
+export function specificAmount(min: number, max: number, g: number, t: number, onDate: string, rule: 'moi' | 'cu' | '' = ''): number {
   const avg = (min + max) / 2;
   const net = t - g;
-  if (isNewRegime(onDate)) {
+  if (rule === 'moi' || (rule === '' && isNewRegime(onDate))) {
     if (net >= 2) return max;
     if (net <= -2) return min;
   }
@@ -109,6 +117,26 @@ export function lineCalc(row: PenaltyRow, input: LineInput, ctx: Ctx): LineResul
     if (!(base > 0)) {
       return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Cần nhập số tiền làm căn cứ tính', formula: 'Nhập số tiền làm căn cứ để tính', rangeOk };
     }
+    if (row.tl) {
+      const q = qty > 1 ? ` × ${qty} lần` : '';
+      if (row.tl.k === 'pct') {
+        const v = Math.round(row.tl.v * base * qty);
+        const pctTxt = `${String(Math.round(row.tl.v * 1000) / 10).replace('.', ',')}%`;
+        return { status: 'ok', min: v, max: v, specific: v, detail: `${pctTxt} × số thuế`, rangeOk, formula: `${pctTxt} × ${dong(base)}${q} = ${dong(v)}` };
+      }
+      if (row.tl.k === 'nhan') {
+        const m = Math.min(row.tl.max, row.tl.min + row.tl.step * ctx.aggravating);
+        const v = Math.round(m * base * qty);
+        const mTxt = String(Math.round(m * 100) / 100).replace('.', ',');
+        return {
+          status: 'ok', min: Math.round(row.tl.min * base * qty), max: Math.round(row.tl.max * base * qty), specific: v,
+          detail: `${mTxt} lần số thuế trốn`, rangeOk,
+          formula: `Khung ${row.tl.min} đến ${row.tl.max} lần × ${dong(base)}${q}. Không có tình tiết tăng nặng: ${row.tl.min} lần; mỗi tình tiết tăng nặng +${String(row.tl.step).replace('.', ',')} lần, tối đa ${row.tl.max} lần. Với ${ctx.aggravating} tình tiết tăng nặng: ${mTxt} lần → ${dong(v)}`,
+        };
+      }
+      const v = base * qty;
+      return { status: 'ok', min: v, max: v, specific: v, detail: 'Bằng số tiền không trích chuyển', rangeOk, formula: `Bằng số tiền không trích chuyển: ${dong(base)}${q} = ${dong(v)}` };
+    }
     if (row.dieu === 16) {
       const v = Math.round(0.2 * base * qty);
       return {
@@ -131,19 +159,24 @@ export function lineCalc(row: PenaltyRow, input: LineInput, ctx: Ctx): LineResul
   if (row.min_vnd === null || row.max_vnd === null) {
     return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Không có khung tiền', formula: 'Không có khung tiền', rangeOk };
   }
-  const div = ctx.entity === 'ca_nhan' ? 2 : 1; // Điều 5.5 NĐ125: tổ chức = 2 × cá nhân
+  const div = ctx.entity === 'ca_nhan' && row.ca_nhan !== 'giu_nguyen' ? 2 : 1; // tổ chức = 2 × cá nhân (Điều 5.5 NĐ125; Điều 6.3 NĐ169)
   const min = row.min_vnd / div;
   const max = row.max_vnd / div;
-  const specific = specificAmount(min, max, ctx.mitigating, ctx.aggravating, ctx.onDate);
+  const rule = row.quy_tac_tinh_tiet ?? '';
+  const ruleNew = rule === 'moi' || (rule === '' && isNewRegime(ctx.onDate));
+  const applies = row.ap_dung_tb !== false;
+  const specific = applies ? specificAmount(min, max, ctx.mitigating, ctx.aggravating, ctx.onDate, rule) : Math.round((min + max) / 2);
   const avg = (min + max) / 2;
-  const net = ctx.aggravating - ctx.mitigating;
+  const net = applies ? ctx.aggravating - ctx.mitigating : 0;
   let adj = '';
-  if (net !== 0) {
+  if (!applies) {
+    adj = '; hành vi này không thuộc diện áp dụng nguyên tắc mức trung bình, mức cụ thể do người có thẩm quyền quyết định trong khung (số tạm tính chỉ để tham khảo)';
+  } else if (net !== 0) {
     const side = net > 0 ? 'tăng nặng' : 'giảm nhẹ';
-    if (isNewRegime(ctx.onDate) && Math.abs(net) >= 2) {
+    if (ruleNew && Math.abs(net) >= 2) {
       adj = `; còn lại ≥ 2 tình tiết ${side} sau bù trừ → áp mức ${net > 0 ? 'tối đa' : 'tối thiểu'} của khung = ${dong(specific)}`;
     } else {
-      adj = `; ${net > 0 ? '+' : '−'}${Math.abs(net) * 10}% (${Math.abs(net)} tình tiết ${side} còn lại sau bù trừ) = ${dong(specific)}${isNewRegime(ctx.onDate) ? '' : ', không vượt khung'}`;
+      adj = `; ${net > 0 ? '+' : '−'}${Math.abs(net) * 10}% (${Math.abs(net)} tình tiết ${side} còn lại sau bù trừ) = ${dong(specific)}${ruleNew ? '' : ', không vượt khung'}`;
     }
   }
   return {
