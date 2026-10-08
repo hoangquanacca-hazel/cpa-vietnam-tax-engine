@@ -9,14 +9,29 @@ num = lambda t: int(re.sub(r'\D', '', t))
 with sync_playwright() as p:
     b = p.chromium.launch(executable_path='/opt/pw-browsers/chromium')
     errs = []
-    for w, h in [(1440, 900), (390, 844)]:
+    for w, h in [(1440, 900), (1864, 940), (1280, 720), (1024, 768), (390, 844)]:
         pg = b.new_page(viewport={'width': w, 'height': h})
         pg.on('pageerror', lambda e: errs.append(str(e)))
-        pg.goto(URL); pg.get_by_text('Checklist Mức phạt Thuế').click(); pg.wait_for_selector('li input[type=checkbox]')
+        pg.goto(URL); pg.get_by_role('button', name='Checklist Mức phạt Thuế').click(); pg.wait_for_selector('li input[type=checkbox]')
         d = pg.evaluate("({sw:document.documentElement.scrollWidth,cw:document.documentElement.clientWidth})")
         assert d['sw'] <= d['cw'], f'horizontal scroll at {w}px: {d}'
-        if w == 390:
+        # header: no horizontal scrollbar anywhere inside it, identity block on the left, nav/KPIs on the right
+        bad = pg.evaluate("""() => [...document.querySelectorAll('header, header *')].filter(n => {
+            const st = getComputedStyle(n); return st.overflowX === 'auto' || st.overflowX === 'scroll' || n.scrollWidth > n.clientWidth + 1 && n.clientWidth > 0;
+        }).map(n => n.tagName + '.' + String(n.className).slice(0, 40))""")
+        assert not bad, f'header overflows horizontally at {w}px: {bad}'
+        if w >= 1024:
+            hb = pg.locator('header h1').bounding_box(); nb = pg.locator('header nav').bounding_box()
+            assert hb['x'] + hb['width'] <= nb['x'], 'identity block must be left of the nav block'
+            hh = pg.locator('header').bounding_box()['height']
+            assert hh <= (190 if w < 1280 else 170), f'header too tall at {w}px: {hh}'
+        if w >= 1024:
+            dv = pg.evaluate("({sh:document.documentElement.scrollHeight,ih:innerHeight})")
+            assert dv['sh'] <= dv['ih'] + 1, f'page scrolls vertically at {w}x{h}: {dv}'
+        if w != 1440:
             continue
+        dv = pg.evaluate("({sh:document.documentElement.scrollHeight,ih:innerHeight})")
+        assert dv['sh'] <= dv['ih'] + 1, f'page scrolls vertically: {dv}'
         bw = pg.locator('aside').bounding_box()['width'] / w
         assert 0.30 <= bw <= 0.40, f'summary panel share {bw:.2f}'
         # layout: filters live in the left column; the summary panel starts at the same height, top-right
@@ -31,7 +46,7 @@ with sync_playwright() as p:
         pg.mouse.move(cx, cy); pg.mouse.down(); pg.mouse.move(cx - 200, cy, steps=8); pg.mouse.up()
         assert 180 <= aw() - w0 <= 220, f'drag left grew panel by {aw() - w0}'
         w1 = aw()
-        pg.reload(); pg.get_by_text('Checklist Mức phạt Thuế').click(); pg.wait_for_selector('aside')
+        pg.reload(); pg.get_by_role('button', name='Checklist Mức phạt Thuế').click(); pg.wait_for_selector('aside')
         assert abs(aw() - w1) <= 2, 'width not persisted'
         hb = pg.get_by_role('separator').bounding_box(); cx, cy = hb['x'] + hb['width'] / 2, hb['y'] + hb['height'] / 2
         pg.mouse.move(cx, cy); pg.mouse.down(); pg.mouse.move(0, cy, steps=10); pg.mouse.up()

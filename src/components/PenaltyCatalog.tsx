@@ -73,6 +73,7 @@ export const PenaltyCatalog: React.FC = () => {
     } catch { return FRAC_DEFAULT; }
   });
   const [wide, setWide] = useState(false);
+  const [headerH, setHeaderH] = useState(150);   // sticky app header height, so the page fits the viewport
   const gridRef = useRef<HTMLDivElement>(null);
   useEffect(() => {
     const mq = window.matchMedia('(min-width: 1024px)');
@@ -80,6 +81,14 @@ export const PenaltyCatalog: React.FC = () => {
     on();
     mq.addEventListener('change', on);
     return () => mq.removeEventListener('change', on);
+  }, []);
+  useEffect(() => {
+    const h = document.querySelector('header');
+    if (!h) return;
+    const ro = new ResizeObserver(() => setHeaderH(h.getBoundingClientRect().height));
+    ro.observe(h);
+    setHeaderH(h.getBoundingClientRect().height);
+    return () => ro.disconnect();
   }, []);
   useEffect(() => {
     try { localStorage.setItem('penaltyPanelFrac', String(frac)); } catch { /* storage unavailable: keep in memory */ }
@@ -192,7 +201,8 @@ export const PenaltyCatalog: React.FC = () => {
   const sel_cls = 'mt-0.5 w-full rounded border border-slate-300 bg-white px-1.5 py-1 text-xs';
 
   return (
-    <div className="max-w-[2000px] mx-auto px-3 sm:px-4 lg:px-6 py-3 lg:h-[calc(100vh-14rem)] lg:flex lg:flex-col">
+    <div className="max-w-[2000px] mx-auto px-3 sm:px-4 lg:px-6 py-3 lg:flex lg:flex-col"
+      style={wide ? { height: `calc(100vh - ${headerH}px - 3rem)` } : undefined}>
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 shrink-0">
         <div className="w-8 h-8 rounded-lg bg-slate-900 text-amber-400 flex items-center justify-center shrink-0">
           <Gavel className="w-4 h-4" />
