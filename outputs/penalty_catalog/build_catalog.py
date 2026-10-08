@@ -414,9 +414,13 @@ FIELDS = ["lv", "dieu", "khoan", "diem", "hanh_vi", "hinh_thuc", "min_vnd", "max
 for i, r in enumerate(rows, 1):
     r["id"] = f"P{i:03d}"
 
-(OUT / "penalty_catalog.json").write_text(json.dumps(
+_payload = json.dumps(
     {"rows": rows, "general": [dict(chu_de=a, noi_dung=b, can_cu=c) for a, b, c in general]},
-    ensure_ascii=False, indent=1), encoding="utf-8")
+    ensure_ascii=False, indent=1)
+(OUT / "penalty_catalog.json").write_text(_payload, encoding="utf-8")
+_pub = OUT.parent.parent / "public"          # served by the web app at /penalty_catalog.json
+_pub.mkdir(exist_ok=True)
+(_pub / "penalty_catalog.json").write_text(_payload, encoding="utf-8")
 
 with open(OUT / "penalty_catalog.csv", "w", newline="", encoding="utf-8-sig") as f:
     w = csv.DictWriter(f, fieldnames=["id"] + FIELDS)

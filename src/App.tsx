@@ -5,10 +5,11 @@ import { IngestionAgent } from './components/IngestionAgent';
 import { GraphVisualizer } from './components/GraphVisualizer';
 import { SanityAuditor } from './components/SanityAuditor';
 import { CitationModal } from './components/CitationModal';
+import { PenaltyCatalog } from './components/PenaltyCatalog';
 import { ExactSpan } from './types/tax-graph';
 
 export function App() {
-  const [activeTab, setActiveTab] = useState<'chat' | 'ingest' | 'graph' | 'benchmark'>('chat');
+  const [activeTab, setActiveTab] = useState<'chat' | 'ingest' | 'graph' | 'benchmark' | 'penalty'>('chat');
   const [activeSpan, setActiveSpan] = useState<ExactSpan | null>(null);
   const [citationNumber, setCitationNumber] = useState<number>(1);
 
@@ -52,6 +53,8 @@ export function App() {
         {activeTab === 'benchmark' && (
           <SanityAuditor onBenchmarkCompleted={(newKpis) => setKpis(newKpis)} />
         )}
+
+        {activeTab === 'penalty' && <PenaltyCatalog />}
       </main>
 
       {/* Exact Source Span Citation Modal */}
