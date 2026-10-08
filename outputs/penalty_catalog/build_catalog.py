@@ -411,11 +411,76 @@ general = [
 # ───────────── Xuất file ─────────────
 FIELDS = ["lv", "dieu", "khoan", "diem", "hanh_vi", "hinh_thuc", "min_vnd", "max_vnd", "ty_le", "dieu_kien",
           "bien_phap_khac_phuc", "hieu_luc_tu", "hieu_luc_den", "trang_thai", "nguon", "ghi_chu"]
+# ───────────── Enrichment for the web calculator (sub-field + day/invoice-count ranges) ─────────────
+NHOM = {10: "Đăng ký thuế, tạm ngừng kinh doanh", 11: "Thay đổi thông tin đăng ký thuế",
+        12: "Khai sai không dẫn đến thiếu thuế", 13: "Nộp hồ sơ khai thuế chậm / không nộp",
+        14: "Cung cấp thông tin cho cơ quan thuế", 15: "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+        16: "Khai sai dẫn đến thiếu thuế (phạt 20%)", 17: "Trốn thuế (phạt 1-3 lần)",
+        18: "Ngân hàng, người bảo lãnh", 19: "Tổ chức, cá nhân liên quan",
+        20: "Hóa đơn đặt in (đã bãi bỏ)", 21: "In hóa đơn đặt in (đã bãi bỏ)", 22: "Cho, bán hóa đơn",
+        23: "Phát hành hóa đơn (đã bãi bỏ)", 24: "Lập hóa đơn", 25: "Khai báo mất, cháy, hỏng hóa đơn",
+        26: "Làm mất, cháy, hỏng hóa đơn", 27: "Hủy, tiêu hủy hóa đơn", 28: "Sử dụng hóa đơn không hợp pháp",
+        29: "Thông báo, báo cáo về hóa đơn", 30: "Chuyển dữ liệu hóa đơn điện tử", 31: "Dịch vụ, phần mềm hóa đơn"}
+INF = None  # open-ended upper bound
+# (dieu, khoan, diem, 'n' if row cites NĐ310 else 'o') -> (group id, unit, [(label, lo, hi), ...])
+_d = lambda g, lo, hi: (g, "ngay", [("", lo, hi)])
+_w = lambda g, lo, hi: (g, "ngay_lv", [("", lo, hi)])
+RANGES = {
+    (10, 1, "", "o"): _d("10-dang-ky-cham", 1, 10), (10, 2, "a", "o"): _d("10-dang-ky-cham", 1, 30),
+    (10, 3, "", "o"): _d("10-dang-ky-cham", 31, 90), (10, 4, "a", "o"): _d("10-dang-ky-cham", 91, INF),
+    (11, 1, "a", "o"): _d("11-khong-doi-gcn", 1, 30), (11, 2, "", "o"): _d("11-khong-doi-gcn", 1, 30),
+    (11, 3, "a", "o"): _d("11-khong-doi-gcn", 31, 90), (11, 4, "a", "o"): _d("11-khong-doi-gcn", 91, INF),
+    (11, 1, "b", "o"): _d("11-doi-gcn", 1, 10), (11, 3, "b", "o"): _d("11-doi-gcn", 1, 30),
+    (11, 4, "b", "o"): _d("11-doi-gcn", 31, 90), (11, 5, "a", "o"): _d("11-doi-gcn", 91, INF),
+    (13, 1, "", "o"): _d("13-nop-cham", 1, 5), (13, 2, "", "o"): _d("13-nop-cham", 1, 30),
+    (13, 3, "", "o"): _d("13-nop-cham", 31, 60), (13, 4, "a", "o"): _d("13-nop-cham", 61, 90),
+    (13, 4, "b", "o"): _d("13-nop-cham", 91, INF), (13, 5, "", "o"): _d("13-nop-cham", 91, INF),
+    (13, 5, "", "n"): _d("13-nop-cham", 91, INF),
+    (25, 1, "", "o"): _d("25-khai-bao-cham", 1, 5), (25, 2, "", "o"): _d("25-khai-bao-cham", 1, 5),
+    (25, 3, "a", "o"): _d("25-khai-bao-cham", 6, INF),
+    (29, 1, "", "o"): _d("29-bao-cao-cham", 1, 5), (29, 2, "a", "o"): _d("29-bao-cao-cham", 1, 10),
+    (29, 3, "", "o"): _d("29-bao-cao-cham", 11, 20), (29, 4, "", "o"): _d("29-bao-cao-cham", 21, 90),
+    (29, 5, "a", "o"): _d("29-bao-cao-cham", 91, INF),
+    (30, 1, "", "o"): _w("30-chuyen-dl-cham", 1, 5), (30, 2, "a", "o"): _w("30-chuyen-dl-cham", 6, 10),
+    (30, 3, "a", "o"): _w("30-chuyen-dl-cham", 11, INF),
+}
+for _v in ("o", "n"):   # Điều 27: cùng ngưỡng ngày làm việc ở bản cũ và bản mới
+    RANGES[(27, 1, "", _v)] = _w("27-huy-cham", 1, 5)
+    RANGES[(27, 2, "c", _v)] = _w("27-huy-cham", 1, 10)
+    RANGES[(27, 3, "a", _v)] = _w("27-huy-cham", 11, INF)
+A, B = "A", "B"
+_t = lambda g, *rg: (g, "so_hd", list(rg))
+for d_, rg in {  # NĐ310 Điều 24.2 (lập hóa đơn không đúng thời điểm) - nhóm A/B theo số hóa đơn
+        "a": [(A, 1, 1)], "b": [(A, 2, 9), (B, 1, 1)], "c": [(A, 10, 49), (B, 2, 9)],
+        "d": [(A, 50, 99), (B, 10, 19)], "đ": [(A, 100, INF), (B, 20, 49)], "e": [(B, 50, 99)], "g": [(B, 100, INF)]}.items():
+    RANGES[(24, 2, d_, "n")] = _t("24-lap-khong-dung-td", *rg)
+for d_, rg in {  # NĐ310 Điều 24.3 (không lập hóa đơn)
+        "a": [(A, 1, 1)], "b": [(A, 2, 9), (B, 1, 1)], "c": [(A, 10, 49), (B, 2, 9)],
+        "d": [(A, 50, 99), (B, 10, 19)], "đ": [(A, 100, INF), (B, 20, 49)], "e": [(B, 50, INF)]}.items():
+    RANGES[(24, 3, d_, "n")] = _t("24-khong-lap", *rg)
+_used = set()
+for r in rows:
+    r["nhom"] = NHOM[r["dieu"]]
+    key = (r["dieu"], r["khoan"], r["diem"], "n" if "310" in r["nguon"] and r["nguon"] != "125+310" else "o")
+    hit = RANGES.get(key)
+    if hit:
+        _used.add(key)
+        r["nhom_id"], r["metric"] = hit[0], hit[1]
+        r["ranges"] = [dict(k=k, lo=lo, hi=hi) for k, lo, hi in hit[2]]
+    else:
+        r["nhom_id"], r["metric"], r["ranges"] = "", "", []
+assert _used == set(RANGES), f"unmatched range keys: {sorted(set(RANGES) - _used)}"
+
 for i, r in enumerate(rows, 1):
     r["id"] = f"P{i:03d}"
 
 _payload = json.dumps(
-    {"rows": rows, "general": [dict(chu_de=a, noi_dung=b, can_cu=c) for a, b, c in general]},
+    {"rows": rows, "general": [dict(chu_de=a, noi_dung=b, can_cu=c) for a, b, c in general],
+     "rates": [
+         dict(id="cham_nop_thue", ten="Tiền chậm nộp tiền thuế", ty_le_ngay=0.0003,
+              can_cu="Điều 59 khoản 2 điểm a Luật Quản lý thuế 38/2019/QH14 (VBHN 29/2025): 0,03%/ngày trên số thuế chậm nộp"),
+         dict(id="cham_nop_phat", ten="Tiền chậm nộp tiền phạt vi phạm hành chính", ty_le_ngay=0.0005,
+              can_cu="Điều 42 khoản 1 điểm a NĐ125/2020: 0,05%/ngày trên số tiền phạt chậm nộp")]},
     ensure_ascii=False, indent=1)
 (OUT / "penalty_catalog.json").write_text(_payload, encoding="utf-8")
 _pub = OUT.parent.parent / "public"          # served by the web app at /penalty_catalog.json

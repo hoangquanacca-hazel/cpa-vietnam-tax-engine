@@ -17,6 +17,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "10-dang-ky-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 10
+    }
+   ],
    "id": "P001"
   },
   {
@@ -36,6 +46,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nghị quyết 107/2023/QH15 (thuế TNDN bổ sung - thuế tối thiểu toàn cầu)",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P002"
   },
   {
@@ -55,6 +69,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "10-dang-ky-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 30
+    }
+   ],
    "id": "P003"
   },
   {
@@ -74,6 +98,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P004"
   },
   {
@@ -93,6 +121,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P005"
   },
   {
@@ -112,6 +144,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "NĐ310 chỉ bổ sung hành vi; khung 1-2 triệu là khung khoản 2 Điều 10 NĐ125. Nghị quyết 107/2023/QH15 (thuế TNDN bổ sung - thuế tối thiểu toàn cầu)",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P006"
   },
   {
@@ -131,6 +167,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "10-dang-ky-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 31,
+     "hi": 90
+    }
+   ],
    "id": "P007"
   },
   {
@@ -150,6 +196,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "10-dang-ky-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P008"
   },
   {
@@ -169,6 +225,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Đăng ký thuế, tạm ngừng kinh doanh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P009"
   },
   {
@@ -188,6 +248,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-khong-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 30
+    }
+   ],
    "id": "P010"
   },
   {
@@ -207,6 +277,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 10
+    }
+   ],
    "id": "P011"
   },
   {
@@ -226,6 +306,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-khong-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 30
+    }
+   ],
    "id": "P012"
   },
   {
@@ -245,6 +335,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-khong-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 31,
+     "hi": 90
+    }
+   ],
    "id": "P013"
   },
   {
@@ -264,6 +364,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 30
+    }
+   ],
    "id": "P014"
   },
   {
@@ -283,6 +393,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-khong-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P015"
   },
   {
@@ -302,6 +422,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 31,
+     "hi": 90
+    }
+   ],
    "id": "P016"
   },
   {
@@ -321,6 +451,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "11-doi-gcn",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P017"
   },
   {
@@ -340,6 +480,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Khoản 6 (sửa bởi NĐ310): không xử phạt cá nhân không KD chậm đổi thông tin theo thẻ căn cước, cơ quan chi trả thu nhập chậm thông báo đổi thông tin căn cước của cá nhân ủy quyền quyết toán, và thay đổi địa chỉ do thay đổi địa giới hành chính.",
+   "nhom": "Thay đổi thông tin đăng ký thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P018"
   },
   {
@@ -359,6 +503,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai không dẫn đến thiếu thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P019"
   },
   {
@@ -378,6 +526,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai không dẫn đến thiếu thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P020"
   },
   {
@@ -397,6 +549,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai không dẫn đến thiếu thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P021"
   },
   {
@@ -416,6 +572,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai không dẫn đến thiếu thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P022"
   },
   {
@@ -435,6 +595,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P023"
   },
   {
@@ -454,6 +624,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 30
+    }
+   ],
    "id": "P024"
   },
   {
@@ -473,6 +653,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 31,
+     "hi": 60
+    }
+   ],
    "id": "P025"
   },
   {
@@ -492,6 +682,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 61,
+     "hi": 90
+    }
+   ],
    "id": "P026"
   },
   {
@@ -511,6 +711,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P027"
   },
   {
@@ -530,6 +740,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P028"
   },
   {
@@ -549,6 +763,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P029"
   },
   {
@@ -568,6 +786,16 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Trường hợp nộp trên 90 ngày KHÔNG thuộc khoản 5 bị xử lý như trốn thuế (Điều 17.1.a).",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P030"
   },
   {
@@ -587,6 +815,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Từ 16/01/2026: nếu tiền phạt > số thuế phát sinh trên hồ sơ (hoặc tổng thuế các hồ sơ nộp cùng ngày cùng sắc thuế) thì mức phạt tối đa = số thuế phát sinh, nhưng không thấp hơn mức trung bình khung khoản 4 (11,5 triệu). Trigger đổi thành 'cơ quan khác công bố quyết định thanh tra, kiểm tra'.",
+   "nhom": "Nộp hồ sơ khai thuế chậm / không nộp",
+   "nhom_id": "13-nop-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P031"
   },
   {
@@ -606,6 +844,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cung cấp thông tin cho cơ quan thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P032"
   },
   {
@@ -625,6 +867,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cung cấp thông tin cho cơ quan thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P033"
   },
   {
@@ -644,6 +890,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cung cấp thông tin cho cơ quan thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P034"
   },
   {
@@ -663,6 +913,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cung cấp thông tin cho cơ quan thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P035"
   },
   {
@@ -682,6 +936,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cung cấp thông tin cho cơ quan thuế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P036"
   },
   {
@@ -701,6 +959,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P037"
   },
   {
@@ -720,6 +982,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P038"
   },
   {
@@ -739,6 +1005,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P039"
   },
   {
@@ -758,6 +1028,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P040"
   },
   {
@@ -777,6 +1051,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P041"
   },
   {
@@ -796,6 +1074,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P042"
   },
   {
@@ -815,6 +1097,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P043"
   },
   {
@@ -834,6 +1120,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chấp hành kiểm tra, thanh tra, cưỡng chế",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P044"
   },
   {
@@ -853,6 +1143,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P045"
   },
   {
@@ -872,6 +1166,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điểm này bị NĐ310 bãi bỏ; thay bằng Điều 9.3: khai bổ sung + nộp đủ thuế TRƯỚC khi có quyết định kiểm tra/thanh tra hoặc trước khi cơ quan thuế phát hiện thì KHÔNG bị xử phạt.",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P046"
   },
   {
@@ -891,6 +1189,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P047"
   },
   {
@@ -910,6 +1212,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Bản OCR NĐ310 ghi tiêu đề 'điểm e'; nội dung trích khớp điểm c khoản 1 Điều 16 gốc (khoản 1 không có điểm e).",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P048"
   },
   {
@@ -929,6 +1235,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P049"
   },
   {
@@ -948,6 +1258,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai sai dẫn đến thiếu thuế (phạt 20%)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P050"
   },
   {
@@ -967,6 +1281,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P051"
   },
   {
@@ -986,6 +1304,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nếu bị phát hiện sau hạn nộp hồ sơ khai thuế nhưng KHÔNG làm giảm thuế phải nộp: xử phạt theo Điều 12.3 (5-8 triệu) - khoản 7 Điều 17.",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P052"
   },
   {
@@ -1005,6 +1327,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P053"
   },
   {
@@ -1024,6 +1350,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P054"
   },
   {
@@ -1043,6 +1373,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nếu bị phát hiện sau hạn nộp hồ sơ khai thuế nhưng KHÔNG làm giảm thuế phải nộp: xử phạt theo Điều 12.3 (5-8 triệu) - khoản 7 Điều 17.",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P055"
   },
   {
@@ -1062,6 +1396,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nếu bị phát hiện sau hạn nộp hồ sơ khai thuế nhưng KHÔNG làm giảm thuế phải nộp: xử phạt theo Điều 12.3 (5-8 triệu) - khoản 7 Điều 17.",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P056"
   },
   {
@@ -1081,6 +1419,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Trốn thuế (phạt 1-3 lần)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P057"
   },
   {
@@ -1100,6 +1442,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Đối tượng: ngân hàng thương mại, không phải người nộp thuế.",
+   "nhom": "Ngân hàng, người bảo lãnh",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P058"
   },
   {
@@ -1119,6 +1465,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Giữ nguyên khung ở bản cũ và bản mới.",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P059"
   },
   {
@@ -1138,6 +1488,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P060"
   },
   {
@@ -1157,6 +1511,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P061"
   },
   {
@@ -1176,6 +1534,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P062"
   },
   {
@@ -1195,6 +1557,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P063"
   },
   {
@@ -1214,6 +1580,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P064"
   },
   {
@@ -1233,6 +1603,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P065"
   },
   {
@@ -1252,6 +1626,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P066"
   },
   {
@@ -1271,6 +1649,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P067"
   },
   {
@@ -1290,6 +1672,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Tổ chức, cá nhân liên quan",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P068"
   },
   {
@@ -1309,6 +1695,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 20 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P069"
   },
   {
@@ -1328,6 +1718,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 20 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P070"
   },
   {
@@ -1347,6 +1741,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 20 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P071"
   },
   {
@@ -1366,6 +1764,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P072"
   },
   {
@@ -1385,6 +1787,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P073"
   },
   {
@@ -1404,6 +1810,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P074"
   },
   {
@@ -1423,6 +1833,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P075"
   },
   {
@@ -1442,6 +1856,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P076"
   },
   {
@@ -1461,6 +1879,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P077"
   },
   {
@@ -1480,6 +1902,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P078"
   },
   {
@@ -1499,6 +1925,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Khoản 1 Điều 22 bị bãi bỏ bởi NĐ310.",
+   "nhom": "Cho, bán hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P079"
   },
   {
@@ -1518,6 +1948,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Khoản 1 Điều 22 bị bãi bỏ bởi NĐ310.",
+   "nhom": "Cho, bán hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P080"
   },
   {
@@ -1537,6 +1971,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P081"
   },
   {
@@ -1556,6 +1994,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P082"
   },
   {
@@ -1575,6 +2017,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P083"
   },
   {
@@ -1594,6 +2040,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P084"
   },
   {
@@ -1613,6 +2063,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P085"
   },
   {
@@ -1632,6 +2086,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P086"
   },
   {
@@ -1651,6 +2109,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P087"
   },
   {
@@ -1670,6 +2132,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 23 NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310.",
+   "nhom": "Phát hành hóa đơn (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P088"
   },
   {
@@ -1689,6 +2155,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Điều 21 NĐ125 bị bãi bỏ bởi Điều 2 NĐ310.",
+   "nhom": "In hóa đơn đặt in (đã bãi bỏ)",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P089"
   },
   {
@@ -1708,6 +2178,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Cho, bán hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P090"
   },
   {
@@ -1727,6 +2201,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Cho, bán hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P091"
   },
   {
@@ -1746,6 +2224,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P092"
   },
   {
@@ -1765,6 +2247,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P093"
   },
   {
@@ -1784,6 +2270,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P094"
   },
   {
@@ -1803,6 +2293,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Khoản 2 cũ bị thay hoàn toàn bởi NĐ310; hành vi 'không lập hóa đơn tổng hợp' không còn nêu riêng.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P095"
   },
   {
@@ -1822,6 +2316,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P096"
   },
   {
@@ -1841,6 +2339,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P097"
   },
   {
@@ -1860,6 +2362,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P098"
   },
   {
@@ -1879,6 +2385,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P099"
   },
   {
@@ -1898,6 +2408,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P100"
   },
   {
@@ -1917,6 +2431,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P101"
   },
   {
@@ -1936,6 +2454,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P102"
   },
   {
@@ -1955,6 +2477,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P103"
   },
   {
@@ -1974,6 +2500,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P104"
   },
   {
@@ -1993,6 +2523,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Khoản 5 bị bãi bỏ bởi NĐ310; hành vi không lập hóa đơn nay thuộc khoản 3 mới (theo số lượng hóa đơn).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P105"
   },
   {
@@ -2012,6 +2546,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 1,
+     "hi": 1
+    }
+   ],
    "id": "P106"
   },
   {
@@ -2031,6 +2575,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 2,
+     "hi": 9
+    },
+    {
+     "k": "B",
+     "lo": 1,
+     "hi": 1
+    }
+   ],
    "id": "P107"
   },
   {
@@ -2050,6 +2609,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 10,
+     "hi": 49
+    },
+    {
+     "k": "B",
+     "lo": 2,
+     "hi": 9
+    }
+   ],
    "id": "P108"
   },
   {
@@ -2069,6 +2643,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 50,
+     "hi": 99
+    },
+    {
+     "k": "B",
+     "lo": 10,
+     "hi": 19
+    }
+   ],
    "id": "P109"
   },
   {
@@ -2088,6 +2677,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 100,
+     "hi": null
+    },
+    {
+     "k": "B",
+     "lo": 20,
+     "hi": 49
+    }
+   ],
    "id": "P110"
   },
   {
@@ -2107,6 +2711,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "B",
+     "lo": 50,
+     "hi": 99
+    }
+   ],
    "id": "P111"
   },
   {
@@ -2126,6 +2740,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Nhiều hành vi trong cùng một vụ việc chỉ bị xử phạt một hành vi theo khung tương ứng tổng số hóa đơn (điểm đ khoản 3 Điều 5 NĐ125 mới).",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-lap-khong-dung-td",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "B",
+     "lo": 100,
+     "hi": null
+    }
+   ],
    "id": "P112"
   },
   {
@@ -2145,6 +2769,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 1,
+     "hi": 1
+    }
+   ],
    "id": "P113"
   },
   {
@@ -2164,6 +2798,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 2,
+     "hi": 9
+    },
+    {
+     "k": "B",
+     "lo": 1,
+     "hi": 1
+    }
+   ],
    "id": "P114"
   },
   {
@@ -2183,6 +2832,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 10,
+     "hi": 49
+    },
+    {
+     "k": "B",
+     "lo": 2,
+     "hi": 9
+    }
+   ],
    "id": "P115"
   },
   {
@@ -2202,6 +2866,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 50,
+     "hi": 99
+    },
+    {
+     "k": "B",
+     "lo": 10,
+     "hi": 19
+    }
+   ],
    "id": "P116"
   },
   {
@@ -2221,6 +2900,21 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "A",
+     "lo": 100,
+     "hi": null
+    },
+    {
+     "k": "B",
+     "lo": 20,
+     "hi": 49
+    }
+   ],
    "id": "P117"
   },
   {
@@ -2240,6 +2934,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.",
+   "nhom": "Lập hóa đơn",
+   "nhom_id": "24-khong-lap",
+   "metric": "so_hd",
+   "ranges": [
+    {
+     "k": "B",
+     "lo": 50,
+     "hi": null
+    }
+   ],
    "id": "P118"
   },
   {
@@ -2259,6 +2963,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "NĐ310 chỉ sửa tên Điều 25.",
+   "nhom": "Khai báo mất, cháy, hỏng hóa đơn",
+   "nhom_id": "25-khai-bao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P119"
   },
   {
@@ -2278,6 +2992,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai báo mất, cháy, hỏng hóa đơn",
+   "nhom_id": "25-khai-bao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P120"
   },
   {
@@ -2297,6 +3021,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai báo mất, cháy, hỏng hóa đơn",
+   "nhom_id": "25-khai-bao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 6,
+     "hi": null
+    }
+   ],
    "id": "P121"
   },
   {
@@ -2316,6 +3050,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Khai báo mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P122"
   },
   {
@@ -2335,6 +3073,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P123"
   },
   {
@@ -2354,6 +3096,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P124"
   },
   {
@@ -2373,6 +3119,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P125"
   },
   {
@@ -2392,6 +3142,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P126"
   },
   {
@@ -2411,6 +3165,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "NĐ310 bỏ cụm 'đã phát hành' - phạm vi hẹp hơn bản cũ.",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P127"
   },
   {
@@ -2430,6 +3188,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P128"
   },
   {
@@ -2449,6 +3211,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Làm mất, cháy, hỏng hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P129"
   },
   {
@@ -2468,6 +3234,16 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P130"
   },
   {
@@ -2487,6 +3263,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P131"
   },
   {
@@ -2506,6 +3292,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P132"
   },
   {
@@ -2525,6 +3315,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P133"
   },
   {
@@ -2544,6 +3338,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P134"
   },
   {
@@ -2563,6 +3361,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P135"
   },
   {
@@ -2582,6 +3384,16 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 10
+    }
+   ],
    "id": "P136"
   },
   {
@@ -2601,6 +3413,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 10
+    }
+   ],
    "id": "P137"
   },
   {
@@ -2620,6 +3442,16 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 11,
+     "hi": null
+    }
+   ],
    "id": "P138"
   },
   {
@@ -2639,6 +3471,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P139"
   },
   {
@@ -2658,6 +3494,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P140"
   },
   {
@@ -2677,6 +3517,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P141"
   },
   {
@@ -2696,6 +3540,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P142"
   },
   {
@@ -2715,6 +3563,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P143"
   },
   {
@@ -2734,6 +3586,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Ký hiệu điểm theo bản OCR NĐ310 (đánh số lại a-d, đ); cần đối chiếu với bản gốc.",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "27-huy-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 11,
+     "hi": null
+    }
+   ],
    "id": "P144"
   },
   {
@@ -2753,6 +3615,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Ký hiệu điểm theo bản OCR NĐ310 (đánh số lại a-d, đ); cần đối chiếu với bản gốc.",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P145"
   },
   {
@@ -2772,6 +3638,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Ký hiệu điểm theo bản OCR NĐ310 (đánh số lại a-d, đ); cần đối chiếu với bản gốc.",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P146"
   },
   {
@@ -2791,6 +3661,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Ký hiệu điểm theo bản OCR NĐ310 (đánh số lại a-d, đ); cần đối chiếu với bản gốc.",
+   "nhom": "Hủy, tiêu hủy hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P147"
   },
   {
@@ -2810,6 +3684,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Sử dụng hóa đơn không hợp pháp",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P148"
   },
   {
@@ -2829,6 +3707,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "29-bao-cao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P149"
   },
   {
@@ -2848,6 +3736,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "29-bao-cao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 10
+    }
+   ],
    "id": "P150"
   },
   {
@@ -2867,6 +3765,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "Không phạt nếu tự phát hiện, lập lại báo cáo thay thế trước khi có quyết định thanh tra/kiểm tra.",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P151"
   },
   {
@@ -2886,6 +3788,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "29-bao-cao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 11,
+     "hi": 20
+    }
+   ],
    "id": "P152"
   },
   {
@@ -2905,6 +3817,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "29-bao-cao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 21,
+     "hi": 90
+    }
+   ],
    "id": "P153"
   },
   {
@@ -2924,6 +3846,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "29-bao-cao-cham",
+   "metric": "ngay",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 91,
+     "hi": null
+    }
+   ],
    "id": "P154"
   },
   {
@@ -2943,6 +3875,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Thông báo, báo cáo về hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P155"
   },
   {
@@ -2962,6 +3898,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chuyển dữ liệu hóa đơn điện tử",
+   "nhom_id": "30-chuyen-dl-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 1,
+     "hi": 5
+    }
+   ],
    "id": "P156"
   },
   {
@@ -2981,6 +3927,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chuyển dữ liệu hóa đơn điện tử",
+   "nhom_id": "30-chuyen-dl-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 6,
+     "hi": 10
+    }
+   ],
    "id": "P157"
   },
   {
@@ -3000,6 +3956,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chuyển dữ liệu hóa đơn điện tử",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P158"
   },
   {
@@ -3019,6 +3979,16 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chuyển dữ liệu hóa đơn điện tử",
+   "nhom_id": "30-chuyen-dl-cham",
+   "metric": "ngay_lv",
+   "ranges": [
+    {
+     "k": "",
+     "lo": 11,
+     "hi": null
+    }
+   ],
    "id": "P159"
   },
   {
@@ -3038,6 +4008,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "",
+   "nhom": "Chuyển dữ liệu hóa đơn điện tử",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P160"
   },
   {
@@ -3057,6 +4031,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Dành cho tổ chức cung cấp dịch vụ/phần mềm hóa đơn.",
+   "nhom": "Dịch vụ, phần mềm hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P161"
   },
   {
@@ -3076,6 +4054,10 @@
    "hieu_luc_den": "2026-01-15",
    "trang_thai": "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)",
    "ghi_chu": "Dành cho tổ chức cung cấp dịch vụ/phần mềm hóa đơn.",
+   "nhom": "Dịch vụ, phần mềm hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P162"
   },
   {
@@ -3095,6 +4077,10 @@
    "hieu_luc_den": "",
    "trang_thai": "Còn hiệu lực",
    "ghi_chu": "NĐ310 thay Điều 31. Số tiền trong file OCR NĐ310 bị lỗi ('§.000.000'); khung 4-8 triệu được đối chiếu với Điều 31 NĐ125 gốc (cùng khung) - cần xác nhận lại trên bản PDF NĐ310.",
+   "nhom": "Dịch vụ, phần mềm hóa đơn",
+   "nhom_id": "",
+   "metric": "",
+   "ranges": [],
    "id": "P163"
   }
  ],
@@ -3168,6 +4154,20 @@
    "chu_de": "Chưa nằm trong bảng này",
    "noi_dung": "Tiền chậm nộp tiền thuế (tỷ lệ theo Luật Quản lý thuế - văn bản chưa được cung cấp, bảng này không nêu tỷ lệ); truy thu thuế; vi phạm hải quan, bảo hiểm xã hội, lao động; các nghị định xử phạt chuyên ngành khác.",
    "can_cu": "-"
+  }
+ ],
+ "rates": [
+  {
+   "id": "cham_nop_thue",
+   "ten": "Tiền chậm nộp tiền thuế",
+   "ty_le_ngay": 0.0003,
+   "can_cu": "Điều 59 khoản 2 điểm a Luật Quản lý thuế 38/2019/QH14 (VBHN 29/2025): 0,03%/ngày trên số thuế chậm nộp"
+  },
+  {
+   "id": "cham_nop_phat",
+   "ten": "Tiền chậm nộp tiền phạt vi phạm hành chính",
+   "ty_le_ngay": 0.0005,
+   "can_cu": "Điều 42 khoản 1 điểm a NĐ125/2020: 0,05%/ngày trên số tiền phạt chậm nộp"
   }
  ]
 }
