@@ -94,11 +94,16 @@ R(TT, 13, 4, "b", "Nộp hồ sơ khai thuế quá hạn từ 91 ngày, không p
 R(TT, 13, 4, "c", "Không nộp hồ sơ khai thuế, không phát sinh thuế phải nộp", "PT", 8, 15, bp="Buộc nộp hồ sơ khai thuế")
 R(TT, 13, 4, "d", "Không nộp phụ lục giao dịch liên kết kèm hồ sơ quyết toán TNDN", "PT", 8, 15,
   bp="Buộc nộp phụ lục kèm hồ sơ khai thuế")
-R(TT, 13, 5, "", "Nộp hồ sơ khai thuế quá hạn trên 90 ngày, có phát sinh thuế phải nộp, đã nộp đủ thuế + tiền chậm nộp "
-  "trước khi có quyết định kiểm tra/thanh tra hoặc biên bản chậm nộp", "PT", 15, 25, src="125+310", tu=OLD_FROM,
-  note="NĐ310 (từ 16/01/2026) bổ sung: nếu tiền phạt > số thuế phát sinh trên hồ sơ (hoặc tổng thuế các hồ sơ nộp "
-       "cùng ngày cùng sắc thuế) thì mức phạt tối đa = số thuế phát sinh, nhưng không thấp hơn mức trung bình khung "
-       "khoản 4 (11,5 triệu). Trường hợp nộp trên 90 ngày KHÔNG thuộc khoản 5 bị xử lý như trốn thuế (Điều 17.1.a).")
+C135 = ("Nộp hồ sơ khai thuế quá hạn trên 90 ngày, có phát sinh thuế phải nộp, đã nộp đủ thuế + tiền chậm nộp "
+        "trước khi có quyết định kiểm tra/thanh tra hoặc biên bản chậm nộp")
+R(TT, 13, 5, "", C135, "PT", 15, 25, src="125", den=OLD_TO, tt=SUP,
+  bp="Buộc nộp tiền chậm nộp (khoản 6.a Điều 13 gốc có bao gồm khoản 5)",
+  note="Trường hợp nộp trên 90 ngày KHÔNG thuộc khoản 5 bị xử lý như trốn thuế (Điều 17.1.a).")
+R(TT, 13, 5, "", C135, "PT", 15, 25, src="310", tu=NEW_FROM,
+  bp="Khoản 6.a Điều 13 mới chỉ buộc nộp tiền chậm nộp đối với khoản 1, 2, 3, 4 (không còn khoản 5)",
+  note="Từ 16/01/2026: nếu tiền phạt > số thuế phát sinh trên hồ sơ (hoặc tổng thuế các hồ sơ nộp cùng ngày cùng "
+       "sắc thuế) thì mức phạt tối đa = số thuế phát sinh, nhưng không thấp hơn mức trung bình khung khoản 4 (11,5 triệu). "
+       "Trigger đổi thành 'cơ quan khác công bố quyết định thanh tra, kiểm tra'.")
 
 # ───────────── Điều 14: cung cấp thông tin ─────────────
 R(TT, 14, 1, "a", "Cung cấp thông tin, hồ sơ pháp lý đăng ký thuế theo thông báo của cơ quan thuế quá hạn từ 05 ngày làm việc",
@@ -114,7 +119,7 @@ R(TT, 14, 2, "c", "Không cung cấp / cung cấp không đầy đủ thông tin
 
 # ───────────── Điều 15: kiểm tra, thanh tra, cưỡng chế ─────────────
 for d, t in [("a", "Không nhận quyết định thanh tra, kiểm tra thuế, quyết định cưỡng chế khi cơ quan thuế giao, gửi"),
-             ("b", "Không chấp hành quyết định thanh tra, kiểm tra thuế quá 03 ngày làm việc"),
+             ("b", "Không chấp hành quyết định thanh tra, kiểm tra thuế quá thời hạn 03 ngày làm việc trở lên"),
              ("c", "Cung cấp hồ sơ, tài liệu, hóa đơn, sổ kế toán quá 06 giờ làm việc khi kiểm tra tại trụ sở"),
              ("d", "Cung cấp không đầy đủ, chính xác thông tin, tài liệu, sổ kế toán khi kiểm tra tại trụ sở"),
              ("đ", "Không ký biên bản kiểm tra, thanh tra thuế trong 05 ngày làm việc")]:
@@ -133,9 +138,12 @@ R(KS, 16, 1, "b", "Khai sai làm giảm thuế phải nộp (không thuộc đi�
   "thuế kết thúc thanh tra, kiểm tra tại trụ sở", "TL", ty_le=T20, bp=BP16, tt=REP, den=OLD_TO,
   note="Điểm này bị NĐ310 bãi bỏ; thay bằng Điều 9.3: khai bổ sung + nộp đủ thuế TRƯỚC khi có quyết định "
        "kiểm tra/thanh tra hoặc trước khi cơ quan thuế phát hiện thì KHÔNG bị xử phạt.")
-R(KS, 16, 1, "c", "Khai sai bị xác định là trốn thuế nhưng vi phạm lần đầu về trốn thuế, đã khai bổ sung và nộp đủ thuế trước "
-  "khi có quyết định xử phạt, cơ quan thuế đã lập biên bản ghi nhận là khai sai", "TL", ty_le=T20, bp=BP16, src="125+310",
-  note="NĐ310 sửa điểm này (bỏ cụm 'thanh tra, kiểm tra thuế' ở biên bản).")
+C161 = ("Khai sai bị xác định là trốn thuế nhưng vi phạm lần đầu về trốn thuế, đã khai bổ sung và nộp đủ thuế trước "
+        "khi có quyết định xử phạt, cơ quan thuế đã lập biên bản ghi nhận là khai sai")
+R(KS, 16, 1, "c", C161 + " (biên bản thanh tra, kiểm tra thuế hoặc biên bản vi phạm hành chính)", "TL", ty_le=T20, bp=BP16,
+  den=OLD_TO, tt=SUP)
+R(KS, 16, 1, "c", C161 + " (chỉ còn: biên bản vi phạm hành chính)", "TL", ty_le=T20, bp=BP16, src="310", tu=NEW_FROM,
+  note="Bản OCR NĐ310 ghi tiêu đề 'điểm e'; nội dung trích khớp điểm c khoản 1 Điều 16 gốc (khoản 1 không có điểm e).")
 R(KS, 16, 1, "d", "Khai sai dẫn đến thiếu thuế với giao dịch liên kết nhưng đã lập hồ sơ xác định giá thị trường / gửi phụ lục "
   "giao dịch liên kết", "TL", ty_le=T20, bp=BP16)
 R(KS, 16, 1, "đ", "Sử dụng hóa đơn, chứng từ không hợp pháp để hạch toán đầu vào, nhưng người mua chứng minh được lỗi thuộc bên "
@@ -155,12 +163,15 @@ for d, t in [("a", "Không nộp hồ sơ đăng ký thuế; không nộp hồ s
              ("e", "Sử dụng hàng hóa không chịu thuế/miễn thuế sai mục đích mà không khai báo chuyển đổi mục đích"),
              ("g", "Có hoạt động KD trong thời gian xin ngừng/tạm ngừng mà không thông báo cơ quan thuế")]:
     R(KS, 17, 1, d, t, "TL", ty_le=TRON, bp=BP17,
+      dk={"a": "Trừ trường hợp điểm b, c khoản 4 và khoản 5 Điều 13",
+          "g": "Trừ trường hợp điểm b khoản 4 Điều 10"}.get(d, ""),
       note=("Nếu bị phát hiện sau hạn nộp hồ sơ khai thuế nhưng KHÔNG làm giảm thuế phải nộp: xử phạt theo Điều 12.3 "
             "(5-8 triệu) - khoản 7 Điều 17." if d in ("b", "đ", "e") else ""))
 
 # ───────────── Điều 18: ngân hàng, người bảo lãnh ─────────────
 R(KS, 18, 1, "", "Ngân hàng thương mại không trích chuyển tiền từ tài khoản người nộp thuế vào NSNN theo yêu cầu của cơ quan thuế",
   "TL", ty_le="Phạt bằng số thuế + tiền chậm nộp + tiền phạt không trích chuyển (trừ số dư tối thiểu)",
+  dk="Trừ trường hợp tài khoản không còn số dư hoặc đã trích chuyển toàn bộ số dư mà vẫn không đủ số tiền phải nộp",
   note="Đối tượng: ngân hàng thương mại, không phải người nộp thuế.")
 
 # ───────────── Điều 19: tổ chức, cá nhân liên quan ─────────────
@@ -186,10 +197,10 @@ R(TT, 19, 3, "đ", "Thông đồng, bao che người nộp thuế trốn thuế;
 # Điều 20, 21, 23: bãi bỏ hoàn toàn
 for d, k, dm, t, a, b in [
     (20, 1, "", "Không ký hợp đồng in bằng văn bản / tổ chức in in hóa đơn đặt in không có quyết định in", 0.5, 1.5),
-    (20, 2, "", "Đặt in hóa đơn khi cơ quan thuế đã có văn bản thông báo không đủ điều kiện đặt in", 2, 4),
+    (20, 2, "", "Đặt in hóa đơn khi cơ quan thuế đã có văn bản thông báo không đủ điều kiện đặt in (trừ trường hợp cơ quan thuế không có ý kiến bằng văn bản khi nhận đề nghị sử dụng hóa đơn đặt in)", 2, 4),
     (20, 3, "", "Đặt in hóa đơn theo mẫu đã phát hành của tổ chức/cá nhân khác hoặc đặt in trùng số cùng ký hiệu", 20, 50),
     (21, 2, "", "In hóa đơn đặt in mà không ký hợp đồng in bằng văn bản", 0.5, 1.5),
-    (21, 3, "", "Báo cáo về việc in hóa đơn quá hạn từ 06 ngày trở lên", 2, 4),
+    (21, 3, "", "Báo cáo về việc in hóa đơn quá hạn từ 06 ngày trở lên (trừ trường hợp cảnh cáo điểm b khoản 1)", 2, 4),
     (21, 4, "", "Không hủy sản phẩm in hỏng, in thừa khi thanh lý hợp đồng in", 4, 8),
     (21, 5, "a", "Nhận in hóa đơn đặt in khi không đủ điều kiện in hóa đơn", 6, 18),
     (21, 5, "b", "Không khai báo việc làm mất hóa đơn trước khi giao cho khách hàng", 6, 18),
@@ -204,9 +215,9 @@ for d, k, dm, t, a, b in [
     (23, 2, "b", "Không niêm yết thông báo phát hành hóa đơn đúng quy định", 2, 4),
     (23, 2, "c", "Nộp thông báo điều chỉnh thông tin phát hành hóa đơn (đổi địa chỉ/tên) quá hạn từ 21 ngày", 2, 4),
     (23, 2, "d", "Nộp bảng kê hóa đơn chưa sử dụng khi đổi địa chỉ quá hạn từ 21 ngày", 2, 4),
-    (23, 3, "", "Không lập thông báo phát hành hóa đơn trước khi đưa vào sử dụng (hóa đơn gắn nghiệp vụ đã khai, nộp thuế)", 6, 18)]:
+    (23, 3, "", "Không lập thông báo phát hành hóa đơn trước khi đưa vào sử dụng (hóa đơn gắn nghiệp vụ đã khai, nộp thuế hoặc chưa đến kỳ kê khai, nộp thuế)", 6, 18)]:
     R(HD, d, k, dm, t, "PT", a, b, tt=REP, den=OLD_TO,
-      note=f"Điều {d} NĐ125 bị bãi bỏ (một phần) bởi Điều 2 NĐ310." if d != 22 else "Khoản 1 Điều 22 bị bãi bỏ bởi NĐ310.")
+      note=f"Điều {d} NĐ125 bị bãi bỏ hoàn toàn bởi Điều 2 NĐ310." if d != 22 else "Khoản 1 Điều 22 bị bãi bỏ bởi NĐ310.")
 R(HD, 21, 1, "", "Báo cáo về việc nhận in hóa đơn quá hạn 01-05 ngày (và 06-10 ngày nếu có tình tiết giảm nhẹ)", "CC",
   tt=REP, den=OLD_TO, note="Điều 21 NĐ125 bị bãi bỏ bởi Điều 2 NĐ310.")
 
@@ -231,12 +242,14 @@ R(HD, 24, 4, "a", "Lập hóa đơn không đúng thời điểm theo quy địn
 R(HD, 24, 4, "b", "Lập hóa đơn không theo thứ tự từ số nhỏ đến số lớn", "PT", 4, 8, dk="Trừ trường hợp cảnh cáo điểm b khoản 1")
 R(HD, 24, 4, "c", "Lập hóa đơn ghi ngày trước ngày mua hóa đơn của cơ quan thuế", "PT", 4, 8)
 R(HD, 24, 4, "d", "Lập sai loại hóa đơn đã giao cho người mua hoặc đã kê khai thuế", "PT", 4, 8,
-  dk="Trừ trường hợp cảnh cáo điểm c khoản 1", bp="Buộc lập hóa đơn theo quy định khi người mua yêu cầu")
+  dk="Trừ trường hợp cảnh cáo điểm c khoản 1",
+  bp="Buộc lập hóa đơn theo quy định (đến 15/01/2026: khi người mua yêu cầu; từ 16/01/2026 không còn điều kiện này)")
 R(HD, 24, 4, "đ", "Lập hóa đơn điện tử khi chưa có thông báo chấp thuận của cơ quan thuế", "PT", 4, 8)
 R(HD, 24, 4, "e", "Lập hóa đơn trong thời gian tạm ngừng hoạt động kinh doanh (trừ hợp đồng ký trước)", "PT", 4, 8)
 R(HD, 24, 4, "g", "Lập hóa đơn điện tử từ máy tính tiền không kết nối, chuyển dữ liệu điện tử với cơ quan thuế", "PT", 4, 8)
 R(HD, 24, 5, "", "Không lập hóa đơn khi bán hàng hóa, cung cấp dịch vụ cho người mua theo quy định", "PT", 10, 20, den=OLD_TO,
-  tt=SUP, bp="Buộc lập hóa đơn khi người mua yêu cầu")
+  tt=REP, bp="Buộc lập hóa đơn khi người mua yêu cầu",
+  note="Khoản 5 bị bãi bỏ bởi NĐ310; hành vi không lập hóa đơn nay thuộc khoản 3 mới (theo số lượng hóa đơn).")
 
 NHOM_A = "Nhóm A: hàng KM/quảng cáo/mẫu, cho biếu tặng, trả lương, tiêu dùng nội bộ, cho vay mượn/hoàn trả"
 NHOM_B = "Nhóm B: bán hàng hóa, cung cấp dịch vụ"
@@ -264,7 +277,7 @@ for d, a, b, dk, ht in tiers_none:
     R(HD, 24, 3, d, "KHÔNG LẬP hóa đơn theo quy định", ht, a, b, dk=dk, src="310", tu=NEW_FROM,
       bp="Buộc lập hóa đơn theo quy định",
       note="Trường hợp không lập hóa đơn để trốn thuế: xem Điều 17.1.c (phạt 1-3 lần số thuế trốn). "
-           "Điều 3(g) của khoản 3 Điều 5: nhiều hành vi trong một vụ việc chỉ phạt một hành vi.")
+           "Điểm e khoản 3 Điều 5 NĐ125 (sửa bởi NĐ310): nhiều hành vi không lập hóa đơn trong một vụ việc chỉ phạt một hành vi.")
 
 # Điều 25
 R(HD, 25, 1, "", "Khai báo mất, cháy, hỏng hóa đơn quá hạn 01-05 ngày", "CC", dk="Có tình tiết giảm nhẹ", src="125+310",
@@ -279,13 +292,16 @@ R(HD, 26, 1, "a", "Làm mất, cháy, hỏng hóa đơn đã lập (trừ liên 
 R(HD, 26, 1, "b", "Làm mất, cháy, hỏng hóa đơn đã lập sai, đã xóa bỏ và đã lập hóa đơn thay thế", "CC")
 R(HD, 26, 2, "", "Làm mất, cháy, hỏng liên giao khách hàng của hóa đơn đã lập; người bán đã kê khai, có chứng từ", "PT", 3, 5,
   dk="Có tình tiết giảm nhẹ")
-R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn đã phát hành / đã mua của cơ quan thuế nhưng chưa lập", "PT", 4, 8, src="125+310",
-  note="NĐ310 sửa điểm a khoản 3 (chỉ sửa câu chữ 'hóa đơn mua của cơ quan thuế').")
+R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn đã phát hành, đã mua của cơ quan thuế nhưng chưa lập", "PT", 4, 8,
+  den=OLD_TO, tt=SUP)
+R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 4, 8, src="310", tu=NEW_FROM,
+  note="NĐ310 bỏ cụm 'đã phát hành' - phạm vi hẹp hơn bản cũ.")
 R(HD, 26, 3, "b", "Làm mất, cháy, hỏng liên giao khách hàng của hóa đơn đã lập; người bán đã kê khai, có chứng từ", "PT", 4, 8)
 R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai, nộp thuế (trừ các trường hợp khoản 1, 2, 3)", "PT", 5, 10)
 
 # Điều 27
-R(HD, 27, 1, "", "Hủy/tiêu hủy hóa đơn quá hạn 01-05 ngày làm việc", "CC", dk="Có tình tiết giảm nhẹ", src="125+310", tu=OLD_FROM)
+R(HD, 27, 1, "", "Hủy/tiêu hủy hóa đơn quá hạn 01-05 ngày làm việc", "CC", dk="Có tình tiết giảm nhẹ", den=OLD_TO, tt=SUP)
+R(HD, 27, 1, "", "Tiêu hủy hóa đơn quá hạn 01-05 ngày làm việc", "CC", dk="Có tình tiết giảm nhẹ", src="310", tu=NEW_FROM)
 for d, t, tt_, den_ in [
         ("a", "Hủy không đúng quy định hóa đơn đã phát hành nhưng chưa lập, hóa đơn không còn giá trị sử dụng", SUP, OLD_TO),
         ("b", "Không hủy hóa đơn đã phát hành nhưng chưa lập, không còn giá trị sử dụng; không hủy hóa đơn mua của cơ quan thuế "
@@ -295,7 +311,10 @@ R(HD, 27, 2, "a", "Tiêu hủy không đúng quy định hóa đơn đặt in mu
   "PT", 2, 4, src="310", tu=NEW_FROM)
 R(HD, 27, 2, "b", "Không tiêu hủy hóa đơn đặt in mua của cơ quan thuế không tiếp tục sử dụng, không còn giá trị", "PT", 2, 4,
   src="310", tu=NEW_FROM, bp="Buộc tiêu hủy hóa đơn")
-R(HD, 27, 2, "c", "Hủy/tiêu hủy hóa đơn quá hạn 01-10 ngày làm việc", "PT", 2, 4, dk="Trừ trường hợp cảnh cáo khoản 1")
+R(HD, 27, 2, "c", "Hủy/tiêu hủy hóa đơn quá hạn 01-10 ngày làm việc", "PT", 2, 4, dk="Trừ trường hợp cảnh cáo khoản 1",
+  den=OLD_TO, tt=SUP)
+R(HD, 27, 2, "c", "Tiêu hủy hóa đơn quá hạn 01-10 ngày làm việc", "PT", 2, 4, dk="Trừ trường hợp cảnh cáo khoản 1",
+  src="310", tu=NEW_FROM)
 for d, t in [("a", "Hủy/tiêu hủy hóa đơn quá hạn từ 11 ngày làm việc"),
              ("b", "Không hủy, không tiêu hủy hóa đơn theo quy định"),
              ("đ", "Hủy/tiêu hủy hóa đơn không đúng trình tự, thủ tục"),
@@ -315,7 +334,7 @@ for d, t in [("a", "Tiêu hủy hóa đơn quá hạn từ 11 ngày làm việc"
 # Điều 28
 R(HD, 28, 1, "", "Sử dụng hóa đơn không hợp pháp / sử dụng không hợp pháp hóa đơn (Điều 4 NĐ125)", "PT", 20, 50,
   dk="Trừ điểm đ khoản 1 Điều 16 và điểm d khoản 1 Điều 17 (khi thuộc diện phạt 20% hoặc trốn thuế)",
-  bp="Buộc hủy hóa đơn đã sử dụng (khoản 2 Điều 28 bị bãi bỏ từ 16/01/2026)")
+  bp="Đến 15/01/2026: buộc hủy hóa đơn đã sử dụng (khoản 2 Điều 28 bị bãi bỏ từ 16/01/2026)")
 
 # Điều 29
 R(HD, 29, 1, "", "Nộp thông báo, báo cáo về hóa đơn quá hạn 01-05 ngày", "CC", dk="Có tình tiết giảm nhẹ")
@@ -338,24 +357,27 @@ R(HD, 30, 3, "b", "Không chuyển dữ liệu hóa đơn điện tử cho cơ q
   bp="Buộc chuyển dữ liệu hóa đơn điện tử")
 
 # Điều 31
-R(HD, 31, "", "1", "Cung cấp phần mềm hóa đơn tự in không đảm bảo nguyên tắc / in ra không đủ nội dung", "PT", 4, 8,
+R(HD, 31, 1, "", "Cung cấp phần mềm hóa đơn tự in không đảm bảo nguyên tắc / in ra không đủ nội dung", "PT", 4, 8,
   den=OLD_TO, tt=SUP, note="Dành cho tổ chức cung cấp dịch vụ/phần mềm hóa đơn.")
-R(HD, 31, "", "2", "Cung cấp phần mềm hóa đơn điện tử không đảm bảo nguyên tắc", "PT", 4, 8, den=OLD_TO, tt=SUP,
+R(HD, 31, 2, "", "Cung cấp phần mềm hóa đơn điện tử không đảm bảo nguyên tắc", "PT", 4, 8, den=OLD_TO, tt=SUP,
   note="Dành cho tổ chức cung cấp dịch vụ/phần mềm hóa đơn.")
 R(HD, 31, "", "", "Cung cấp giải pháp khởi tạo, kết nối, nhận, truyền, lưu trữ, xử lý dữ liệu hóa đơn điện tử không đảm bảo "
-  "nguyên tắc", "PT", 4, 8, src="125", tu=NEW_FROM,
+  "nguyên tắc", "PT", 4, 8, src="310+125", tu=NEW_FROM,
   note="NĐ310 thay Điều 31. Số tiền trong file OCR NĐ310 bị lỗi ('§.000.000'); khung 4-8 triệu được đối chiếu với "
        "Điều 31 NĐ125 gốc (cùng khung) - cần xác nhận lại trên bản PDF NĐ310.")
 
 # ───────────── Nguyên tắc chung ─────────────
 general = [
-    ("Mức tối đa mỗi hành vi - thủ tục thuế", "Tổ chức: tối đa 200.000.000 đ; cá nhân: tối đa 100.000.000 đ "
-     "(hộ gia đình, hộ kinh doanh áp dụng như cá nhân)", "Điều 7.1.b, 7.4.a NĐ125 (NĐ310 sửa: dẫn chiếu quy định pháp luật về "
-     "xử lý vi phạm hành chính)"),
-    ("Mức tối đa mỗi hành vi - hóa đơn", "Tổ chức: tối đa 100.000.000 đ; cá nhân: tối đa 50.000.000 đ", "Điều 7.1.b NĐ125"),
-    ("Khung phạt trong bảng = mức phạt đối với TỔ CHỨC", "Mức phạt cá nhân/hộ kinh doanh áp dụng riêng. Cột 'cá nhân' trong "
-     "file Excel là số THAM KHẢO bằng 1/2 mức tổ chức (theo Luật XLVPHC - văn bản này KHÔNG nằm trong hai nguồn đã cung cấp, "
-     "cần xác nhận). Ngoại lệ: hành vi chỉ áp dụng cho tổ chức/ngân hàng.", "Điều 7.4.a NĐ125; Luật XLVPHC (cần xác nhận)"),
+    ("Mức tối đa mỗi hành vi (đến hết 15/01/2026)", "Thủ tục thuế - tổ chức: tối đa 200.000.000 đ; cá nhân/hộ KD: tối đa "
+     "100.000.000 đ. Hóa đơn - tổ chức: tối đa 100.000.000 đ; cá nhân/hộ KD: tối đa 50.000.000 đ. Hình thức bổ sung: đình chỉ "
+     "hoạt động in hóa đơn (khoản 2 Điều 7).", "Điều 7.1.b, 7.2, 7.4.a NĐ125 gốc"),
+    ("Mức phạt tối đa mỗi hành vi (từ 16/01/2026)", "NĐ310 thay điểm b khoản 1 Điều 7: mức phạt tiền tối đa đối với hành vi vi "
+     "phạm thủ tục thuế và hóa đơn thực hiện theo pháp luật về xử lý vi phạm hành chính (con số cụ thể KHÔNG nêu trong NĐ310 và "
+     "không có trong nguồn đã cung cấp). Khoản 2 Điều 7 (đình chỉ in hóa đơn) bị bãi bỏ.", "Điều 1.5.a, Điều 2.2 NĐ310"),
+    ("Mức phạt cá nhân so với tổ chức", "Khung phạt trong bảng là mức đối với TỔ CHỨC. Với cùng một hành vi, mức phạt tổ chức gấp "
+     "02 lần mức phạt cá nhân, TRỪ hành vi tại Điều 16, 17, 18. Hộ gia đình, hộ kinh doanh áp dụng như cá nhân. Cột 'cá nhân' "
+     "trong Excel = 1/2 mức tổ chức; không tính cho hành vi Điều 16, 17, 18 (phạt theo tỷ lệ). Điều 19 sau sửa đổi NĐ310 không "
+     "còn khoản nêu rõ nguyên tắc này - nên đối chiếu thêm.", "Điều 5.5, Điều 7.4.a NĐ125 (NĐ310 không sửa Điều 5.5)"),
     ("Mức phạt cụ thể trong khung (từ 16/01/2026)", "Mức phạt cụ thể = mức TRUNG BÌNH của khung. 01 tình tiết giảm nhẹ: giảm "
      "10% mức trung bình; 01 tình tiết tăng nặng: tăng 10%; từ 02 tình tiết giảm nhẹ trở lên: áp mức TỐI THIỂU của khung; "
      "từ 02 tình tiết tăng nặng trở lên: áp mức TỐI ĐA của khung.", "Điều 7.4.d NĐ125 (sửa bởi NĐ310)"),
@@ -369,19 +391,21 @@ general = [
     ("Không xử phạt khi tự khai bổ sung (từ 16/01/2026)", "Khai sai: nếu đã khai bổ sung và nộp đủ thuế TRƯỚC thời điểm cơ quan "
      "thuế công bố quyết định kiểm tra, cơ quan khác công bố quyết định thanh tra/kiểm tra tại trụ sở, hoặc trước khi cơ quan "
      "thuế/cơ quan có thẩm quyền phát hiện thì không bị xử phạt về thuế.", "Điều 9.3 NĐ125 (sửa bởi NĐ310)"),
-    ("Thời hiệu xử phạt", "Thủ tục thuế: 02 năm; trốn thuế (chưa đến mức hình sự) và khai sai dẫn đến thiếu thuế: 05 năm. "
-     "Hóa đơn: xem Điều 8 NĐ125 (hành vi đã kết thúc / đang thực hiện).", "Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
     ("Gộp hành vi trong cùng một ngày/vụ việc", "Cùng một ngày khai sai nhiều chỉ tiêu: phạt 01 hành vi có khung cao nhất. Cùng "
      "ngày chậm nộp nhiều hồ sơ khai cùng sắc thuế: phạt 01 hành vi cao nhất. Nhiều hóa đơn lập không đúng thời điểm / không "
      "lập trong một vụ việc: phạt 01 hành vi theo tổng số hóa đơn.", "Điều 5.3 NĐ125 (sửa bởi NĐ310)"),
-    ("Quy mô lớn", "Thuế: số thuế (thiếu/trốn/miễn giảm hoàn cao hơn) từ 100.000.000 đ hoặc giá trị hàng hóa dịch vụ từ "
-     "500.000.000 đ trở lên (NĐ125 gốc). Hóa đơn: từ 10 số hóa đơn trở lên (hành vi tại khoản 2 Điều 22, Điều 26, 27). "
-     "NĐ310: trốn thuế từ 100.000.000 đ trở lên khi chuyển hồ sơ.", "Điều 6.2 NĐ125 (sửa bởi NĐ310)"),
+    ("Quy mô lớn (đến hết 15/01/2026)", "Thuế: số thuế (thiếu/trốn/miễn giảm hoàn cao hơn) từ 100.000.000 đ hoặc giá trị hàng "
+     "hóa dịch vụ từ 500.000.000 đ trở lên. Hóa đơn: từ 10 số hóa đơn trở lên.", "Điều 6.2 NĐ125 gốc"),
+    ("Quy mô lớn (từ 16/01/2026)", "Hóa đơn: từ 10 số hóa đơn trở lên, chỉ đối với hành vi tại khoản 2 Điều 22, Điều 26, Điều 27. "
+     "Thuế: chỉ còn trốn thuế từ 100.000.000 đ trở lên khi chuyển hồ sơ xử lý hình sự (tiêu chí 500 triệu giá trị hàng hóa "
+     "không còn trong nội dung sửa đổi).", "Điều 1.4 NĐ310 (thay khoản 2 Điều 6)"),
+    ("Thời hiệu xử phạt", "Hóa đơn: 01 năm (danh sách hành vi 'đang thực hiện' đã được NĐ310 sửa tại Điều 8.1). Thủ tục thuế: "
+     "02 năm. Trốn thuế (chưa đến mức hình sự) và khai sai dẫn đến thiếu thuế: 05 năm.", "Điều 8.1.a NĐ125; Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
     ("Hiệu lực và chuyển tiếp", "NĐ125 hiệu lực 05/12/2020. NĐ310 hiệu lực 16/01/2026. Hành vi đã kết thúc trước 16/01/2026: "
      "áp dụng văn bản có hiệu lực tại thời điểm vi phạm. Hành vi đang thực hiện trước ngày này và bị phát hiện sau ngày này: "
      "áp dụng NĐ310.", "Điều 3 NĐ310"),
-    ("Chưa nằm trong bảng này", "Tiền chậm nộp (0,03%/ngày), vi phạm hải quan, bảo hiểm xã hội, lao động, chuyển giá/GDLK ngoài "
-     "các điều của NĐ125; mức phạt từng nghị định chuyên ngành. Văn bản gốc chưa được cung cấp.", "-"),
+    ("Chưa nằm trong bảng này", "Tiền chậm nộp tiền thuế (tỷ lệ theo Luật Quản lý thuế - văn bản chưa được cung cấp, bảng này "
+     "không nêu tỷ lệ); truy thu thuế; vi phạm hải quan, bảo hiểm xã hội, lao động; các nghị định xử phạt chuyên ngành khác.", "-"),
 ]
 
 # ───────────── Xuất file ─────────────
@@ -451,7 +475,7 @@ ws3 = wb.create_sheet("Đọc trước khi dùng")
 for line in [
     "Bảng này CHỈ là tra cứu khung phạt theo văn bản (NĐ 125/2020 sửa đổi bởi NĐ 310/2025). Không phải tư vấn pháp lý.",
     "Mức phạt thực tế do cơ quan có thẩm quyền quyết định theo từng hồ sơ; chưa gồm tiền chậm nộp và truy thu thuế.",
-    "Cột 'cá nhân*' = 1/2 mức tổ chức, chỉ để THAM KHẢO (dựa Luật XLVPHC, ngoài nguồn đã cung cấp, chưa xác nhận).",
+    "Cột 'cá nhân*' = 1/2 mức tổ chức (Điều 5.5 NĐ125: tổ chức gấp 2 lần cá nhân, trừ Điều 16, 17, 18); xem sheet Nguyên tắc chung.",
     "Dòng nền xám = quy định đã bị bãi bỏ / thay thế từ 16/01/2026, chỉ áp dụng cho hành vi đã kết thúc trước ngày này.",
     "Nguồn: PDF NĐ125 (Công báo 1017+1018), NĐ310 bản OCR (có lỗi nhận dạng, cần đối chiếu PDF gốc).",
     "Trạng thái kiểm chứng: xem verify_report.txt (kiểm tra cơ học) và báo cáo kiểm chứng độc lập.",
