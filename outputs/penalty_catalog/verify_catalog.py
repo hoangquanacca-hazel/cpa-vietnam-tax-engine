@@ -52,7 +52,7 @@ fails, ok, skipped = [], 0, 0
 # completeness (customs): every 'Phạt tiền từ X đồng đến Y đồng' statement in a Điều is covered by exactly one row group
 for _ng in cus:
     for _d, _body in cus[_ng].items():
-        _src = sorted(re.findall(r"phạt tiền từ ([\d\.]+) đồng đến ([\d\.]+) đồng", _body))
+        _src = sorted(re.findall(r"phạt tiền từ ([\d\.]+)(?: đồng)? đến ([\d\.]+) đồng", _body))
         _grp = {(r["khoan"], r["min_vnd"], r["max_vnd"]) for r in data["rows"]
                 if r["nguon"] == _ng and r["dieu"] == _d and r["hinh_thuc"] == "Phạt tiền (khung)"}
         _got = sorted((vnd(a), vnd(b)) for _k, a, b in _grp)
@@ -60,13 +60,24 @@ for _ng in cus:
         if _got != _exp:
             fails.append(("COMPLETENESS", f"{_ng} Điều {_d}: source statements {len(_exp)} vs row groups {len(_got)}"))
 
+# row-set completeness (customs): the catalog holds exactly the rows the extractor produced (no point dropped or invented)
+_ext = json.loads((D / "hq" / "customs_rows.json").read_text(encoding="utf-8"))["rows"]
+_k = lambda r: (r["nguon"], r["dieu"], r["khoan"], r["diem"], r["hanh_vi"])
+_a = {_k(r) for r in _ext}
+_b = {_k(r) for r in data["rows"] if r["nguon"] in cus}
+for x in sorted(_a - _b, key=str)[:20]:
+    fails.append(("MISSING-ROW", f"extracted but absent from the catalog: {x[:4]}"))
+for x in sorted(_b - _a, key=str)[:20]:
+    fails.append(("EXTRA-ROW", f"in the catalog but not extracted: {x[:4]}"))
+
 for r in data["rows"]:
     src = r["nguon"]
     if src in cus:      # customs rows
         body = cus[src].get(r["dieu"], "")
         if r["min_vnd"] is not None:
             phrase = norm(f"phạt tiền từ {vnd(r['min_vnd'])} đồng đến {vnd(r['max_vnd'])} đồng")
-            if phrase in body:
+            phrase2 = norm(f"phạt tiền từ {vnd(r['min_vnd'])} đến {vnd(r['max_vnd'])} đồng")   # 'từ X đến Y đồng' (NĐ128 Điều 24.1)
+            if phrase in body or phrase2 in body:
                 ok += 1
             else:
                 fails.append((r["id"], f"{src} Điều {r['dieu']}.{r['khoan']}{r['diem']}: '{phrase}' not in the Điều"))

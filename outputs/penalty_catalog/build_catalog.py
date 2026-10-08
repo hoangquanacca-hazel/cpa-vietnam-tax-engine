@@ -37,6 +37,7 @@ def R(lv, dieu, khoan, diem, hv, ht, mn=None, mx=None, dk="", bp="", src="125",
 
 
 REP = "Đã bãi bỏ từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)"
+SUP102 = "Đã được NĐ102/2021 thay bằng quy định mới từ 01/01/2022 (chỉ áp dụng cho hành vi đã kết thúc trước ngày này)"
 SUP = "Đã được thay bằng quy định mới từ 16/01/2026 (chỉ áp dụng hành vi đã kết thúc trước ngày này)"
 GMT = "Nghị quyết 107/2023/QH15 (thuế TNDN bổ sung - thuế tối thiểu toàn cầu)"
 
@@ -224,7 +225,7 @@ R(HD, 21, 1, "", "Báo cáo về việc nhận in hóa đơn quá hạn 01-05 ng
   tt=REP, den=OLD_TO, note="Điều 21 NĐ125 bị bãi bỏ bởi Điều 2 NĐ310.")
 
 # Điều 22: cho, bán hóa đơn
-R(HD, 22, 2, "", "Cho, bán hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 20, 50, den=TO_102, tt=SUP,
+R(HD, 22, 2, "", "Cho, bán hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 20, 50, den=TO_102, tt=SUP102,
   bp="Buộc hủy hóa đơn; buộc nộp lại số lợi bất hợp pháp")
 R(HD, 22, 2, "", "Cho, bán hóa đơn (trừ hành vi quy định tại khoản 1 Điều 22)", "PT", 20, 50, src="102", tu=FROM_102, den=OLD_TO,
   tt=SUP, bp="Buộc hủy hóa đơn; buộc nộp lại số lợi bất hợp pháp", note="Điều 1.2 NĐ102/2021 (hiệu lực 01/01/2022).")
@@ -305,7 +306,7 @@ R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn mua của cơ quan thu�
 R(HD, 26, 3, "b", "Làm mất, cháy, hỏng liên giao khách hàng của hóa đơn đã lập; người bán đã kê khai, có chứng từ", "PT", 4, 8)
 R(HD, 26, 3, "c", "Làm mất, cháy, hỏng hóa đơn đã lập nhưng chưa khai thuế", "PT", 4, 8, src="102", tu=FROM_102,
   note="Bổ sung bởi Điều 1.4 NĐ102/2021 (hiệu lực 01/01/2022). Các bên liên quan phải lập biên bản ghi nhận.")
-R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai, nộp thuế (trừ các trường hợp khoản 1, 2, 3)", "PT", 5, 10, den=TO_102, tt=SUP)
+R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai, nộp thuế (trừ các trường hợp khoản 1, 2, 3)", "PT", 5, 10, den=TO_102, tt=SUP102)
 R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai thuế trong quá trình sử dụng hoặc trong thời gian lưu trữ (trừ các trường hợp khoản 1, 2, 3)",
   "PT", 5, 10, src="102", tu=FROM_102, note="Điều 1.4 NĐ102/2021 đổi 'đã khai, nộp thuế' thành 'đã khai thuế'.")
 
@@ -411,10 +412,17 @@ general = [
      "không còn trong nội dung sửa đổi).", "Điều 1.4 NĐ310 (thay khoản 2 Điều 6)"),
     ("Thời hiệu xử phạt", "Hóa đơn: 01 năm với hành vi trước 01/01/2022; 02 năm từ 01/01/2022 (Điều 1.1 NĐ102/2021). Danh sách hành vi "
      "'đang thực hiện' được NĐ310 sửa tại Điều 8.1. Thủ tục thuế: 02 năm. Trốn thuế (chưa đến mức hình sự) và khai sai "
-     "dẫn đến thiếu thuế: 05 năm.", "Điều 8.1.a NĐ125 (sửa bởi NĐ102/2021); Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
+     "dẫn đến thiếu thuế: 05 năm. Cách chia 01 năm / 02 năm theo ngày hành vi là cách hiểu của bảng (NĐ102 Điều 7.2 chỉ cho áp dụng quy định mới "
+     "đối với hành vi cũ khi nhẹ hơn). NĐ102 Điều 6.1.b bãi bỏ khoản 3 Điều 8 NĐ125 (quy định riêng về hồ sơ do cơ quan tố tụng hình sự chuyển đến).", "Điều 8.1.a NĐ125 (sửa bởi NĐ102/2021); Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
     ("Hiệu lực và chuyển tiếp", "NĐ125 hiệu lực 05/12/2020. NĐ102/2021 (sửa NĐ125) hiệu lực 01/01/2022. NĐ310 hiệu lực 16/01/2026. Hành vi đã kết thúc trước 16/01/2026: "
      "áp dụng văn bản có hiệu lực tại thời điểm vi phạm. Hành vi đang thực hiện trước ngày này và bị phát hiện sau ngày này: "
-     "áp dụng NĐ310.", "Điều 3 NĐ310; Điều 7 NĐ102/2021"),
+     "áp dụng NĐ310. Với NĐ102/2021 (Điều 7): hành vi xảy ra trước 01/01/2022 bị phát hiện sau đó thì áp dụng NĐ102 nếu NĐ102 không quy định trách nhiệm pháp lý "
+     "hoặc quy định nhẹ hơn; quyết định xử phạt đã ban hành mà còn khiếu nại: giải quyết theo nghị định có hiệu lực tại thời điểm hành vi; hồ sơ đề nghị miễn "
+     "tiền phạt tiếp nhận trước 01/01/2022: theo NĐ125 gốc.", "Điều 3 NĐ310; Điều 7 NĐ102/2021"),
+    ("Miễn, giảm tiền phạt (thuế, hóa đơn)", "Điều 43 NĐ125 do NĐ102 thay thế (từ 01/01/2022): thực hiện theo Điều 77 Luật Xử lý vi phạm hành chính. Mức miễn, giảm tối đa bằng số tiền phạt trong quyết định "
+     "xử phạt và không quá giá trị tài sản, hàng hóa bị thiệt hại sau khi trừ giá trị được bảo hiểm, bồi thường (bất khả kháng cần hồ sơ chứng minh thiệt hại). "
+     "Không miễn, giảm nếu đã thi hành xong quyết định xử phạt. Được miễn, giảm tiền phạt thì được miễn, giảm tiền chậm nộp tiền phạt tương ứng. "
+     "Miễn, giảm không đúng bị hủy hoặc điều chỉnh, thu lại tiền phạt và tính tiền chậm nộp.", "Điều 43 NĐ125 (thay thế bởi Điều 1.6 NĐ102/2021)"),
     ("Chưa nằm trong bảng này", "Tiền chậm nộp tiền thuế (tỷ lệ theo Luật Quản lý thuế - văn bản chưa được cung cấp, bảng này "
      "không nêu tỷ lệ); truy thu thuế; vi phạm hải quan, bảo hiểm xã hội, lao động; các nghị định xử phạt chuyên ngành khác.", "-"),
     # ── Hải quan (NĐ 169/2026, NĐ 128/2020, NĐ 102/2021) ──

@@ -12,6 +12,7 @@ import re
 HERE = pathlib.Path(__file__).parent
 SRC = HERE.parent / "sources_hq"
 LETTERS = list("abcdđeghiklmnopqrstuvxy")
+DROPPED = []   # (Điều, line) of all-caps title lines skipped; listed in extract_report.txt
 
 DECREES = {
     # tron = article "trốn thuế" (acts in khoản 1, multiplier in khoản 2); khai_sai = article "khai sai dẫn đến thiếu thuế"
@@ -50,7 +51,10 @@ def split_dieu(lines, first, last):
         if re.match(r"^Chương [IVX]+$", s) and cur is not None and s != "Chương II":
             cur = None
             continue
-        if cur is not None and not re.match(r"^(Chương|Mục) ", s) and not s.isupper():
+        if cur is not None and not re.match(r"^(Chương|Mục) ", s):
+            if s.isupper() and not re.search(r"\d", s):
+                DROPPED.append((cur, s))          # chapter/section titles in capitals
+                continue
             chunks[cur][1].append(s)
     return chunks
 
@@ -59,11 +63,13 @@ def parse_dieu(title, body, anomalies, dieu):
     """Split body into khoản -> lead + points using sequential numbering/lettering (robust to wrapped lines)."""
     khoans, k_no, p_idx = [], 0, -1
     pre = []
+    tail_mode = False
     for s in body:
         mk = re.match(rf"^{k_no + 1}\.\s+(.*)$", s)
         if mk:
             k_no += 1
             p_idx = -1
+            tail_mode = False
             khoans.append(dict(no=k_no, lead=mk.group(1), points=[]))
             continue
         if not khoans:
@@ -73,10 +79,17 @@ def parse_dieu(title, body, anomalies, dieu):
         mp = re.match(rf"^{re.escape(letter)}\)\s+(.*)$", s) if letter else None
         if mp:
             p_idx += 1
+            tail_mode = False
             khoans[-1]["points"].append(dict(l=letter, text=mp.group(1)))
             continue
         if khoans[-1]["points"]:
-            khoans[-1]["points"][-1]["text"] += " " + s
+            if tail_mode:
+                khoans[-1]["points"][-1]["tail"][-1] += " " + s
+            elif khoans[-1]["points"][-1]["text"].rstrip().endswith(".") and s[:1].isupper():
+                tail_mode = True
+                khoans[-1]["points"][-1].setdefault("tail", []).append(s)   # paragraph after the point, not part of it
+            else:
+                khoans[-1]["points"][-1]["text"] += " " + s
         else:
             khoans[-1]["lead"] += " " + s
     if not khoans:
@@ -84,7 +97,7 @@ def parse_dieu(title, body, anomalies, dieu):
     return (title + " " + " ".join(pre)).strip(), khoans
 
 
-AMT = re.compile(r"^Phạt tiền từ ([\d\.]+) đồng đến ([\d\.]+) đồng\s*(.*)$")
+AMT = re.compile(r"^Phạt tiền từ ([\d\.]+)(?: đồng)? đến ([\d\.]+) đồng\s*(.*)$")
 GENERIC = re.compile(r"^(đối với )?(một trong )?(các )?(hành vi|trường hợp)( vi phạm)?( sau)?( đây)?:?$", re.I)
 
 
@@ -119,6 +132,23 @@ def act_and_cond(rest):
     return r, ""
 
 
+def tail_notes(k):
+    """{point letter: note} and a khoản-wide note. A paragraph after a point says 'điểm này' (that point only),
+    'khoản này' (all points) or neither (the last point's paragraph is khoản-wide, otherwise point-specific)."""
+    per, wide = {}, []
+    pts = k["points"]
+    for i, p in enumerate(pts):
+        for t in p.get("tail", []):
+            t = tidy(t)
+            if "điểm này" in t:
+                per.setdefault(p["l"], []).append(t)
+            elif "khoản này" in t or i == len(pts) - 1:
+                wide.append(t)
+            else:
+                per.setdefault(p["l"], []).append(t)
+    return {l: " ".join(v) for l, v in per.items()}, " ".join(wide)
+
+
 def build_rows(dieu, title, khoans, meta, anomalies, nguon):
     rows, remedies, supp, notes = [], [], [], []
 
@@ -127,6 +157,7 @@ def build_rows(dieu, title, khoans, meta, anomalies, nguon):
                  hinh_thuc={"CC": "Cảnh cáo", "PT": "Phạt tiền (khung)", "TL": "Phạt theo tỷ lệ"}[kind],
                  min_vnd=st.get("min"), max_vnd=st.get("max"), ty_le=st.get("ty_le", ""),
                  hieu_luc_tu=meta["tu"], hieu_luc_den=meta["den"], van_ban=meta["ten"])
+        r["ghi_chu"] = ""
         rows.append(r)
 
     if dieu == meta["tron"]:
@@ -135,11 +166,15 @@ def build_rows(dieu, title, khoans, meta, anomalies, nguon):
         k2 = next(k for k in khoans if k["no"] == 2)
         formula = "; ".join(tidy(p["text"]) for p in k2["points"])
         for p in k1["points"]:
-            add("TL", dict(ty_le=formula), 1, p["l"], p["text"], "")
+            add("TL", dict(ty_le=formula), 1, p["l"], p["text"], tidy(k2["lead"]))
         khoans = [k for k in khoans if k["no"] not in (1, 2)]
     for k in khoans:
         lead = k["lead"].strip()
         low = lead.lower()
+        n_before = len(rows)
+        if low.startswith("tịch thu"):
+            supp.append(dict(khoan=k["no"], items=[tidy(lead)] + [tidy(p["text"]) for p in k["points"]]))
+            continue
         if re.match(r"^(áp dụng )?(các )?biện pháp khắc phục hậu quả", low):
             body = re.sub(r"^(áp dụng )?(các )?biện pháp khắc phục hậu quả\s*:?\s*", "", lead, flags=re.I)
             items = [tidy(p["text"]) for p in k["points"]] or ([tidy(body)] if body else [])
@@ -157,6 +192,9 @@ def build_rows(dieu, title, khoans, meta, anomalies, nguon):
                     add(kind, st, k["no"], p["l"], p["text"], act or "")
             else:
                 add(kind, st, k["no"], "", act or lead, "")
+            per, wide = tail_notes(k)
+            for r_ in rows[n_before:]:
+                r_["ghi_chu"] = tidy(" ".join(x for x in (per.get(r_["diem"], ""), wide) if x))
             continue
         # lead without a fine: points may carry their own fine statements
         got = False
@@ -187,16 +225,23 @@ def refs_in(text, dieu):
 
 
 def attach(row, items, dieu):
-    """Items (remedies / supplementary penalties) that apply to this row, matched by references to khoản/điểm."""
+    """Items (remedies / supplementary penalties) that apply to this row, matched by references to khoản/điểm.
+    Text after ' trừ ' is an exclusion: rows it names are left out ("... Điều này, trừ ... điểm a khoản 3")."""
     hit = []
     for it in items:
-        refs = refs_in(it, dieu)
+        head, sep, tail = it.partition(" trừ ")
+        refs = refs_in(head, dieu)
+        k = row["khoan"]
         if refs:
-            k = row["khoan"]
-            if k in refs and (refs[k] is None or row["diem"] in refs[k]):
-                hit.append(it)
-        elif "Điều này" in it:
-            hit.append(it)      # refers to the whole Điều
+            include = k in refs and (refs[k] is None or row["diem"] in refs[k])
+        else:
+            include = "Điều này" in head or bool(re.search(rf"Điều {dieu}\b", head))   # whole Điều
+        if include and sep:
+            ex = refs_in(tail, dieu)
+            if k in ex and (ex[k] is None or row["diem"] in ex[k]):
+                include = False
+        if include:
+            hit.append(it)
     return hit
 
 
@@ -236,7 +281,7 @@ def run():
         lines = clean_lines(text)
         chunks = split_dieu(lines, meta["first"], meta["last"])
         anomalies = []
-        n_stmt_expected = len(re.findall(r"Phạt tiền từ [\d\.]+ đồng đến [\d\.]+ đồng", "\n".join(
+        n_stmt_expected = len(re.findall(r"Phạt tiền từ [\d\.]+(?: đồng)? đến [\d\.]+ đồng", "\n".join(
             " ".join(b) for _, b in chunks.values())))
         rows_n = 0
         for d in sorted(chunks):
@@ -273,6 +318,8 @@ def run():
     (HERE / "customs_rows.json").write_text(json.dumps(dict(rows=all_rows, dieu_notes=dieu_notes), ensure_ascii=False, indent=1),
                                             encoding="utf-8")
     report.append(f"final rows={len(all_rows)} | Điều notes={len(dieu_notes)}")
+    report.append(f"all-caps title lines skipped: {len(DROPPED)}")
+    report += [f"  skipped Điều {d}: {t[:90]}" for d, t in DROPPED]
     (HERE / "extract_report.txt").write_text("\n".join(report) + "\n", encoding="utf-8")
     print("\n".join(report))
 

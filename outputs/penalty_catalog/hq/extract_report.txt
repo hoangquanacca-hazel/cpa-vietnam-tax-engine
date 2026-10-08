@@ -7,7 +7,7 @@
   anomaly: Điều 15: 2 khoản without fine statement (kept as notes): k4; k5
   anomaly: Điều 16: 2 khoản without fine statement (kept as notes): k3; k4
   anomaly: Điều 19: 3 khoản without fine statement (kept as notes): k1; k2; k7
-== NĐ 128/2020/NĐ-CP: Điều 7-25 | rows=199 | PT rows=177 | 'Phạt tiền từ…đến…' occurrences in text=119
+== NĐ 128/2020/NĐ-CP: Điều 7-25 | rows=199 | PT rows=179 | 'Phạt tiền từ…đến…' occurrences in text=120
   anomaly: Điều 8: 2 khoản without fine statement (kept as notes): k7; k8
   anomaly: Điều 9: 4 khoản without fine statement (kept as notes): k1; k5; k6; k7
   anomaly: Điều 10: 1 khoản without fine statement (kept as notes): k6
@@ -15,4 +15,5 @@
   anomaly: Điều 12: 1 khoản without fine statement (kept as notes): k9
   anomaly: Điều 14: 2 khoản without fine statement (kept as notes): k4; k5
   anomaly: Điều 15: 2 khoản without fine statement (kept as notes): k2; k3
-final rows=416 | Điều notes=17
+final rows=416 | Điều notes=15
+all-caps title lines skipped: 0
