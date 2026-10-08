@@ -30,7 +30,7 @@ const TABS: { id: Tab; label: string; short: string; Icon: React.ComponentType<{
   { id: 'ingest', label: 'Antigravity Ingestion & Versioning', short: 'Ingestion & Versioning', Icon: FileUp },
   { id: 'graph', label: '5-Layer Temporal Graph Explorer', short: 'Temporal Graph', Icon: Network },
   { id: 'benchmark', label: 'Sanity Auditor & Golden Set Benchmark', short: 'Sanity Auditor', Icon: Layers },
-  { id: 'penalty', label: 'Checklist Mức phạt Thuế & Hóa đơn', short: 'Mức phạt Thuế & HĐ', Icon: Gavel },
+  { id: 'penalty', label: 'Checklist Mức phạt Thuế & Hải quan', short: 'Phạt Thuế & Hải quan', Icon: Gavel },
 ];
 
 export const Header: React.FC<Props> = ({ activeTab, setActiveTab, kpis }) => {

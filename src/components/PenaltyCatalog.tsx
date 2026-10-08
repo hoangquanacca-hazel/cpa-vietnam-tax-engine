@@ -213,7 +213,7 @@ export const PenaltyCatalog: React.FC = () => {
         <div className="w-8 h-8 rounded-lg bg-slate-900 text-amber-400 flex items-center justify-center shrink-0">
           <Gavel className="w-4 h-4" />
         </div>
-        <h2 className="text-base font-bold text-slate-900">Checklist hành vi vi phạm &amp; tạm tính mức phạt thuế, hóa đơn</h2>
+        <h2 className="text-base font-bold text-slate-900">Checklist hành vi vi phạm &amp; tạm tính mức phạt thuế, hóa đơn, hải quan</h2>
         <span className="text-[11px] text-slate-600">Thuế, hóa đơn: NĐ 125/2020 (sửa đổi bởi NĐ 102/2021, NĐ 310/2025). Hải quan: NĐ 169/2026 (từ 01/07/2026), NĐ 128/2020 (trước đó)</span>
       </div>
 
