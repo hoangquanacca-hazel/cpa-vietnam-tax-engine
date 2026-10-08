@@ -198,67 +198,67 @@ export const PenaltyCatalog: React.FC = () => {
         </p>
       </div>
 
-      <div className="mt-2 grid gap-2 grid-cols-2 lg:grid-cols-6 rounded-xl border border-slate-200 bg-white p-2 shrink-0">
-        <label className="col-span-2 text-[11px] text-slate-600">
-          Tìm hành vi / điều khoản
-          <div className="mt-0.5 flex items-center gap-1.5 rounded border border-slate-300 px-2 py-1">
-            <Search className="w-3.5 h-3.5 text-slate-400" />
-            <input value={query} onChange={e => setQuery(e.target.value)} placeholder="vd: chậm nộp, hóa đơn, Điều 24"
-              className="w-full text-xs outline-none" />
-          </div>
-        </label>
-        <label className="text-[11px] text-slate-600">Lĩnh vực
-          <select value={lv} onChange={e => { setLv(e.target.value); setNhom('all'); setDieu('all'); }} className={sel_cls}>
-            <option value="all">Tất cả</option>
-            {lvOptions.map(o => <option key={o} value={o}>{o}</option>)}
-          </select>
-        </label>
-        <label className="text-[11px] text-slate-600">Nhóm hành vi
-          <select value={nhom} onChange={e => { setNhom(e.target.value); setDieu('all'); }} className={sel_cls}>
-            <option value="all">Tất cả</option>
-            {nhomOptions.map(o => <option key={o} value={o}>{o}</option>)}
-          </select>
-        </label>
-        <label className="text-[11px] text-slate-600">Điều
-          <select value={dieu} onChange={e => setDieu(e.target.value)} className={sel_cls}>
-            <option value="all">Tất cả</option>
-            {dieuOptions.map(o => <option key={o} value={String(o)}>Điều {o}</option>)}
-          </select>
-        </label>
-        <label className="text-[11px] text-slate-600">Hình thức
-          <select value={hinhThuc} onChange={e => setHinhThuc(e.target.value)} className={sel_cls}>
-            <option value="all">Tất cả</option>
-            <option value="Cảnh cáo">Cảnh cáo</option>
-            <option value="Phạt tiền (khung)">Phạt tiền theo khung</option>
-            <option value="Phạt theo tỷ lệ">Phạt theo tỷ lệ</option>
-          </select>
-        </label>
-        <label className="col-span-2 lg:col-span-2 text-[11px] text-slate-600">Đối tượng
-          <select value={entity} onChange={e => setEntity(e.target.value as Entity)} className={sel_cls}>
-            <option value="to_chuc">Tổ chức (mức trong văn bản)</option>
-            <option value="ca_nhan">Cá nhân / hộ kinh doanh (1/2 - Điều 5.5)</option>
-          </select>
-        </label>
-        <label className="text-[11px] text-slate-600">Hành vi kết thúc ngày
-          <input type="date" value={onDate} onChange={e => setOnDate(e.target.value || todayIso())} className={sel_cls} />
-        </label>
-        <label className="flex items-end gap-1.5 pb-1 text-[11px] text-slate-700 col-span-2 lg:col-span-2">
-          <input type="checkbox" checked={showAll} onChange={e => setShowAll(e.target.checked)} />
-          Hiện cả quy định đã bãi bỏ / thay thế
-        </label>
-        <button onClick={() => setShowRules(v => !v)}
-          className="flex items-end justify-end gap-1 pb-1 text-[11px] font-semibold text-slate-700 hover:text-slate-900 col-span-2 lg:col-span-1">
-          <BookOpen className="w-3.5 h-3.5" /> Nguyên tắc chung ({general.length})
-        </button>
-      </div>
-
       {error && <p className="mt-2 text-sm text-red-700">{error}</p>}
       {!error && rows.length === 0 && <p className="mt-2 text-sm text-slate-500">Đang tải dữ liệu…</p>}
 
       <div ref={gridRef} className="mt-2 grid gap-3 lg:gap-0 lg:flex-1 lg:min-h-0"
         style={wide ? { gridTemplateColumns: `minmax(0,${1 - frac}fr) 14px minmax(26rem,${frac}fr)` } : undefined}>
-        {/* LEFT: checklist */}
-        <section className="rounded-xl border border-slate-200 bg-white lg:h-full lg:overflow-y-auto min-w-0">
+        {/* LEFT: filters + checklist */}
+        <div className="flex min-h-0 min-w-0 flex-col gap-2 lg:h-full">
+          <div className="grid gap-2 grid-cols-2 lg:grid-cols-4 rounded-xl border border-slate-200 bg-white p-2 shrink-0">
+            <label className="col-span-2 text-[11px] text-slate-600">
+              Tìm hành vi / điều khoản
+              <div className="mt-0.5 flex items-center gap-1.5 rounded border border-slate-300 px-2 py-1">
+                <Search className="w-3.5 h-3.5 text-slate-400" />
+                <input value={query} onChange={e => setQuery(e.target.value)} placeholder="vd: chậm nộp, hóa đơn, Điều 24"
+                  className="w-full text-xs outline-none" />
+              </div>
+            </label>
+            <label className="text-[11px] text-slate-600">Lĩnh vực
+              <select value={lv} onChange={e => { setLv(e.target.value); setNhom('all'); setDieu('all'); }} className={sel_cls}>
+                <option value="all">Tất cả</option>
+                {lvOptions.map(o => <option key={o} value={o}>{o}</option>)}
+              </select>
+            </label>
+            <label className="text-[11px] text-slate-600">Nhóm hành vi
+              <select value={nhom} onChange={e => { setNhom(e.target.value); setDieu('all'); }} className={sel_cls}>
+                <option value="all">Tất cả</option>
+                {nhomOptions.map(o => <option key={o} value={o}>{o}</option>)}
+              </select>
+            </label>
+            <label className="text-[11px] text-slate-600">Điều
+              <select value={dieu} onChange={e => setDieu(e.target.value)} className={sel_cls}>
+                <option value="all">Tất cả</option>
+                {dieuOptions.map(o => <option key={o} value={String(o)}>Điều {o}</option>)}
+              </select>
+            </label>
+            <label className="text-[11px] text-slate-600">Hình thức
+              <select value={hinhThuc} onChange={e => setHinhThuc(e.target.value)} className={sel_cls}>
+                <option value="all">Tất cả</option>
+                <option value="Cảnh cáo">Cảnh cáo</option>
+                <option value="Phạt tiền (khung)">Phạt tiền theo khung</option>
+                <option value="Phạt theo tỷ lệ">Phạt theo tỷ lệ</option>
+              </select>
+            </label>
+            <label className="text-[11px] text-slate-600">Đối tượng
+              <select value={entity} onChange={e => setEntity(e.target.value as Entity)} className={sel_cls}>
+                <option value="to_chuc">Tổ chức (mức trong văn bản)</option>
+                <option value="ca_nhan">Cá nhân / hộ kinh doanh (1/2 - Điều 5.5)</option>
+              </select>
+            </label>
+            <label className="text-[11px] text-slate-600">Hành vi kết thúc ngày
+              <input type="date" value={onDate} onChange={e => setOnDate(e.target.value || todayIso())} className={sel_cls} />
+            </label>
+            <label className="flex items-end gap-1.5 pb-1 text-[11px] text-slate-700 col-span-2 lg:col-span-3">
+              <input type="checkbox" checked={showAll} onChange={e => setShowAll(e.target.checked)} />
+              Hiện cả quy định đã bãi bỏ / thay thế
+            </label>
+            <button onClick={() => setShowRules(v => !v)}
+              className="flex items-end justify-end gap-1 pb-1 text-[11px] font-semibold text-slate-700 hover:text-slate-900 col-span-2 lg:col-span-1">
+              <BookOpen className="w-3.5 h-3.5" /> Nguyên tắc chung ({general.length})
+            </button>
+          </div>
+        <section className="rounded-xl border border-slate-200 bg-white lg:min-h-0 lg:flex-1 lg:overflow-y-auto min-w-0">
           <div className="sticky top-0 z-10 border-b border-slate-200 bg-slate-50 px-3 py-1.5 text-[11px] text-slate-600">
             {visible.length} / {rows.length} dòng. Tick vào hành vi để đưa sang bảng tạm tính bên phải.
             {entity === 'ca_nhan' && ' Mức cá nhân = 1/2 mức tổ chức (trừ Điều 16, 17, 18).'}
@@ -305,6 +305,7 @@ export const PenaltyCatalog: React.FC = () => {
             })}
           </ul>
         </section>
+        </div>
 
         {/* drag handle: resize the summary panel */}
         <div

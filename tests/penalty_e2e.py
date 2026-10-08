@@ -19,6 +19,12 @@ with sync_playwright() as p:
             continue
         bw = pg.locator('aside').bounding_box()['width'] / w
         assert 0.30 <= bw <= 0.40, f'summary panel share {bw:.2f}'
+        # layout: filters live in the left column; the summary panel starts at the same height, top-right
+        fb = pg.get_by_label('Lĩnh vực').bounding_box(); ab = pg.locator('aside').bounding_box()
+        sb = pg.locator('section').first.bounding_box()
+        assert fb['x'] + fb['width'] < ab['x'], 'filters must sit left of the summary panel'
+        assert ab['y'] <= fb['y'], f"panel must start at/above the filter row: {ab['y']} vs {fb['y']}"
+        assert abs((ab['y'] + ab['height']) - (sb['y'] + sb['height'])) <= 4, 'panel and list should end at the same height'
         # resizable panel: drag, clamp, keyboard, double-click reset, persistence
         aw = lambda: pg.locator('aside').bounding_box()['width']
         w0 = aw(); hb = pg.get_by_role('separator').bounding_box(); cx, cy = hb['x'] + hb['width'] / 2, hb['y'] + hb['height'] / 2
