@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
 import { Gavel, Search, AlertTriangle, X, Calculator, BookOpen, ArrowLeftRight } from 'lucide-react';
 import {
-  Ctx, Entity, LineInput, PenaltyRow, isEffective, latePayment, lineCalc, suggestRows, totals,
+  Ctx, Entity, LineInput, PenaltyRow, dong, isEffective, lateDays, latePayment, lineCalc, suggestRows, totals,
 } from '../utils/penaltyCalc';
 
 interface GeneralRule { chu_de: string; noi_dung: string; can_cu: string }
@@ -104,9 +104,13 @@ export const PenaltyCatalog: React.FC = () => {
   const [sel, setSel] = useState<Record<string, LineInput>>({});
   const [mitigating, setMitigating] = useState(0);
   const [aggravating, setAggravating] = useState(0);
-  const [backTax, setBackTax] = useState<number | undefined>();
-  const [taxLateDays, setTaxLateDays] = useState<number | undefined>();
-  const [fineLateDays, setFineLateDays] = useState<number | undefined>();
+  // Back tax is auto-filled from the ticked Điều 16/17 rows until the user types their own figure.
+  const [backTaxManual, setBackTaxManual] = useState<number | undefined>();
+  const [backTaxEdited, setBackTaxEdited] = useState(false);
+  const [dueTax, setDueTax] = useState('');
+  const [payTax, setPayTax] = useState('');
+  const [dueFine, setDueFine] = useState('');
+  const [payFine, setPayFine] = useState('');
 
   useEffect(() => {
     fetch('/penalty_catalog.json')
@@ -162,9 +166,16 @@ export const PenaltyCatalog: React.FC = () => {
 
   const rateThue = rates.find(r => r.id === 'cham_nop_thue');
   const ratePhat = rates.find(r => r.id === 'cham_nop_phat');
-  const lateTax = rateThue ? latePayment(backTax ?? 0, rateThue.ty_le_ngay, taxLateDays ?? 0) : 0;
-  const lateFine = ratePhat ? latePayment(sum.specific, ratePhat.ty_le_ngay, fineLateDays ?? 0) : 0;
-  const grand = sum.specific + (backTax ?? 0) + lateTax + lateFine;
+  const autoBackTax = picked
+    .filter(r => r.dieu === 16 || r.dieu === 17)
+    .reduce((a, r) => a + (sel[r.id].base ?? 0) * Math.max(1, sel[r.id].qty || 1), 0);
+  const backTax = backTaxEdited ? (backTaxManual ?? 0) : autoBackTax;
+  const taxDays = lateDays(dueTax, payTax);
+  const fineDays = lateDays(dueFine, payFine);
+  const lateTax = rateThue ? latePayment(backTax, rateThue.ty_le_ngay, taxDays) : 0;
+  const lateFine = ratePhat ? latePayment(sum.specific, ratePhat.ty_le_ngay, fineDays) : 0;
+  const grand = sum.specific + backTax + lateTax + lateFine;
+  const pct = (r?: Rate) => (r ? `${(r.ty_le_ngay * 100).toLocaleString('vi-VN', { maximumFractionDigits: 2 })}%` : '');
 
   const amountCell = (r: PenaltyRow) => {
     if (r.hinh_thuc === 'Cảnh cáo') return <span className="font-semibold text-slate-700">Cảnh cáo</span>;
@@ -415,7 +426,7 @@ export const PenaltyCatalog: React.FC = () => {
                   )}
 
                   <div className="mt-1 flex items-baseline justify-between gap-2">
-                    <span className="text-xs text-slate-500">{res.detail}</span>
+                    <span className="min-w-0 flex-1 break-words text-xs text-slate-500">{res.formula}</span>
                     {res.status === 'need_input'
                       ? <span className="text-xs font-semibold text-amber-700">cần nhập số liệu</span>
                       : (
@@ -432,28 +443,78 @@ export const PenaltyCatalog: React.FC = () => {
 
           <div className="border-t border-slate-200 px-3 py-2 text-xs text-slate-600">
             <p className="mb-1 font-semibold text-slate-800">Khoản phải nộp thêm (không phải tiền phạt)</p>
-            <div className="space-y-1.5">
-              <label className="flex items-center justify-between gap-2">
-                <span>Số thuế truy thu / nộp bổ sung (đ)</span>
-                <NumInput money label="Số thuế truy thu / nộp bổ sung (đ)" value={backTax} onChange={setBackTax} placeholder="số tiền" />
-              </label>
-              <div className="flex items-center gap-2">
-                <label className="flex flex-1 items-center justify-between gap-2">
-                  <span>Số ngày chậm nộp thuế</span>
-                  <NumInput label="Số ngày chậm nộp thuế" value={taxLateDays} onChange={setTaxLateDays} placeholder="ngày" />
+            <div className="space-y-2">
+              <div>
+                <label className="flex items-center justify-between gap-2">
+                  <span>Số thuế truy thu / nộp bổ sung (đ)</span>
+                  <NumInput money label="Số thuế truy thu / nộp bổ sung (đ)" value={backTax || undefined}
+                    onChange={v => { setBackTaxManual(v); setBackTaxEdited(true); }} placeholder="số tiền" />
                 </label>
-                <span className="w-32 shrink-0 text-right tabular-nums text-slate-800">{fmt(lateTax)}</span>
+                {!backTaxEdited && autoBackTax > 0 && (
+                  <p className="mt-0.5 text-[11px] text-emerald-700">Tự điền từ số thuế ở các dòng Điều 16/17 đã chọn. Bạn có thể sửa.</p>
+                )}
+                {backTaxEdited && autoBackTax > 0 && backTaxManual !== autoBackTax && (
+                  <button onClick={() => setBackTaxEdited(false)} className="mt-0.5 text-[11px] font-semibold text-amber-700 hover:underline">
+                    Dùng lại số tự động ({fmt(autoBackTax)})
+                  </button>
+                )}
               </div>
-              <div className="flex items-center gap-2">
-                <label className="flex flex-1 items-center justify-between gap-2">
-                  <span>Số ngày chậm nộp tiền phạt</span>
-                  <NumInput label="Số ngày chậm nộp tiền phạt" value={fineLateDays} onChange={setFineLateDays} placeholder="ngày" />
-                </label>
-                <span className="w-32 shrink-0 text-right tabular-nums text-slate-800">{fmt(lateFine)}</span>
+              <div>
+                <p className="mb-0.5 font-semibold text-slate-700">Chậm nộp tiền thuế ({pct(rateThue)}/ngày)</p>
+                <div className="grid grid-cols-2 gap-2">
+                  <label className="flex flex-col gap-0.5">Hạn nộp thuế
+                    <input type="date" aria-label="Hạn nộp thuế" value={dueTax} onChange={e => setDueTax(e.target.value)}
+                      className="rounded border border-slate-300 px-1.5 py-1 text-sm" />
+                  </label>
+                  <label className="flex flex-col gap-0.5">Ngày nộp (hoặc ngày tính đến)
+                    <input type="date" aria-label="Ngày nộp thuế" value={payTax} onChange={e => setPayTax(e.target.value)}
+                      className="rounded border border-slate-300 px-1.5 py-1 text-sm" />
+                  </label>
+                </div>
+                <p className="mt-0.5 text-slate-800">{taxDays} ngày chậm → <b className="tabular-nums">{fmt(lateTax)}</b></p>
+              </div>
+              <div>
+                <p className="mb-0.5 font-semibold text-slate-700">Chậm nộp tiền phạt ({pct(ratePhat)}/ngày)</p>
+                <div className="grid grid-cols-2 gap-2">
+                  <label className="flex flex-col gap-0.5">Hạn nộp phạt
+                    <input type="date" aria-label="Hạn nộp phạt" value={dueFine} onChange={e => setDueFine(e.target.value)}
+                      className="rounded border border-slate-300 px-1.5 py-1 text-sm" />
+                  </label>
+                  <label className="flex flex-col gap-0.5">Ngày nộp (hoặc ngày tính đến)
+                    <input type="date" aria-label="Ngày nộp phạt" value={payFine} onChange={e => setPayFine(e.target.value)}
+                      className="rounded border border-slate-300 px-1.5 py-1 text-sm" />
+                  </label>
+                </div>
+                <p className="mt-0.5 text-slate-800">{fineDays} ngày chậm → <b className="tabular-nums">{fmt(lateFine)}</b></p>
               </div>
             </div>
-            {rateThue && <p className="mt-1 text-xs text-slate-500">Tiền chậm nộp thuế: {rateThue.can_cu}.</p>}
-            {ratePhat && <p className="text-xs text-slate-500">{ratePhat.can_cu}. Tính trên tổng tạm tính tiền phạt.</p>}
+            <p className="mt-1.5 text-[11px] text-slate-500">
+              Số ngày chậm = từ ngày kế tiếp hạn nộp đến ngày liền kề trước ngày nộp, tính cả ngày nghỉ, ngày lễ.
+              Căn cứ: {rateThue?.can_cu}. {ratePhat?.can_cu}.
+            </p>
+
+            <details open className="mt-2 rounded border border-slate-200 bg-white p-2" aria-label="Cách tính">
+              <summary className="cursor-pointer select-none font-semibold text-slate-800">Cách tính ra số tiền phải nộp</summary>
+              <ol className="mt-1 list-decimal space-y-1 pl-4 leading-snug text-slate-700">
+                <li>
+                  <b>Tiền phạt</b> = cộng tiền phạt từng hành vi đã chọn (công thức từng dòng ở trên).
+                  Sàn = Σ mức tối thiểu, trần = Σ mức tối đa của các khung (đã nhân số lần).
+                  Tạm tính = {fmt(sum.specific)}.
+                </li>
+                <li>
+                  <b>Tiền chậm nộp thuế</b> = số thuế truy thu × {pct(rateThue)} × số ngày chậm
+                  = {fmt(backTax)} × {pct(rateThue)} × {taxDays} ngày = <b>{fmt(lateTax)}</b>.
+                </li>
+                <li>
+                  <b>Tiền chậm nộp tiền phạt</b> = tiền phạt × {pct(ratePhat)} × số ngày chậm nộp phạt
+                  = {fmt(sum.specific)} × {pct(ratePhat)} × {fineDays} ngày = <b>{fmt(lateFine)}</b>.
+                </li>
+                <li>
+                  <b>Tổng phải nộp</b> = tiền phạt + thuế truy thu + tiền chậm nộp thuế + tiền chậm nộp phạt
+                  = {dong(sum.specific)} + {dong(backTax)} + {dong(lateTax)} + {dong(lateFine)} = <b>{fmt(grand)}</b>.
+                </li>
+              </ol>
+            </details>
           </div>
           <div className="sticky bottom-0 z-10 border-t-2 border-slate-900 bg-slate-50 px-4 py-3 text-sm shadow-[0_-4px_8px_rgba(0,0,0,0.06)]">
             <div className="flex justify-between"><span>Tổng thấp nhất (sàn)</span><b>{fmt(sum.min)}</b></div>

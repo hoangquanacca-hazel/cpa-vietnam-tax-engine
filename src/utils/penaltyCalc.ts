@@ -52,12 +52,16 @@ export interface LineResult {
   min: number;
   max: number;
   specific: number;
-  detail: string;        // how the number was obtained
+  detail: string;        // short label
+  formula: string;       // step-by-step arithmetic shown to the user
   rangeOk: boolean | null;
 }
 
 export const NEW_REGIME_FROM = '2026-01-16';
 export const isNewRegime = (onDate: string) => onDate >= NEW_REGIME_FROM;
+
+const num = (n: number) => Math.round(n).toLocaleString('vi-VN');
+export const dong = (n: number) => `${num(n)} đ`;
 
 export const clamp = (x: number, lo: number, hi: number) => Math.min(hi, Math.max(lo, x));
 
@@ -97,39 +101,55 @@ export function lineCalc(row: PenaltyRow, input: LineInput, ctx: Ctx): LineResul
   }
 
   if (row.hinh_thuc === 'Cảnh cáo') {
-    return { status: 'warning_only', min: 0, max: 0, specific: 0, detail: 'Cảnh cáo, không phạt tiền', rangeOk };
+    return { status: 'warning_only', min: 0, max: 0, specific: 0, detail: 'Cảnh cáo, không phạt tiền', formula: 'Cảnh cáo: không phạt tiền', rangeOk };
   }
 
   if (row.hinh_thuc === 'Phạt theo tỷ lệ') {
     const base = input.base ?? 0;
     if (!(base > 0)) {
-      return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Cần nhập số tiền làm căn cứ tính', rangeOk };
+      return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Cần nhập số tiền làm căn cứ tính', formula: 'Nhập số tiền làm căn cứ để tính', rangeOk };
     }
     if (row.dieu === 16) {
       const v = Math.round(0.2 * base * qty);
-      return { status: 'ok', min: v, max: v, specific: v, detail: '20% × số thuế khai thiếu', rangeOk };
+      return {
+        status: 'ok', min: v, max: v, specific: v, detail: '20% × số thuế khai thiếu', rangeOk,
+        formula: `20% × ${dong(base)}${qty > 1 ? ` × ${qty} lần` : ''} = ${dong(v)}`,
+      };
     }
     if (row.dieu === 17) {
       const m = tronMultiplier(ctx.mitigating, ctx.aggravating);
       return {
         status: 'ok', min: base * qty, max: 3 * base * qty, specific: Math.round(m * base * qty),
         detail: `${m} lần số thuế trốn (khung 1-3 lần)`, rangeOk,
+        formula: `Khung: 1 đến 3 lần × ${dong(base)}${qty > 1 ? ` × ${qty} lần` : ''}. Hệ số theo tình tiết (giảm nhẹ ${ctx.mitigating}, tăng nặng ${ctx.aggravating}, bù trừ): ${String(m).replace('.', ',')} lần → ${dong(Math.round(m * base * qty))}`,
       };
     }
     const v = base * qty; // Điều 18: phạt bằng số tiền không trích chuyển
-    return { status: 'ok', min: v, max: v, specific: v, detail: 'Bằng số tiền không trích chuyển', rangeOk };
+    return { status: 'ok', min: v, max: v, specific: v, detail: 'Bằng số tiền không trích chuyển', rangeOk, formula: `Bằng số tiền không trích chuyển: ${dong(base)}${qty > 1 ? ` × ${qty} lần` : ''} = ${dong(v)}` };
   }
 
   if (row.min_vnd === null || row.max_vnd === null) {
-    return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Không có khung tiền', rangeOk };
+    return { status: 'need_input', min: 0, max: 0, specific: 0, detail: 'Không có khung tiền', formula: 'Không có khung tiền', rangeOk };
   }
   const div = ctx.entity === 'ca_nhan' ? 2 : 1; // Điều 5.5 NĐ125: tổ chức = 2 × cá nhân
   const min = row.min_vnd / div;
   const max = row.max_vnd / div;
   const specific = specificAmount(min, max, ctx.mitigating, ctx.aggravating, ctx.onDate);
+  const avg = (min + max) / 2;
+  const net = ctx.aggravating - ctx.mitigating;
+  let adj = '';
+  if (net !== 0) {
+    const side = net > 0 ? 'tăng nặng' : 'giảm nhẹ';
+    if (isNewRegime(ctx.onDate) && Math.abs(net) >= 2) {
+      adj = `; còn lại ≥ 2 tình tiết ${side} sau bù trừ → áp mức ${net > 0 ? 'tối đa' : 'tối thiểu'} của khung = ${dong(specific)}`;
+    } else {
+      adj = `; ${net > 0 ? '+' : '−'}${Math.abs(net) * 10}% (${Math.abs(net)} tình tiết ${side} còn lại sau bù trừ) = ${dong(specific)}${isNewRegime(ctx.onDate) ? '' : ', không vượt khung'}`;
+    }
+  }
   return {
     status: 'ok', min: min * qty, max: max * qty, specific: specific * qty,
     detail: ctx.mitigating === 0 && ctx.aggravating === 0 ? 'Mức trung bình của khung' : 'Trung bình khung, điều chỉnh theo tình tiết',
+    formula: `Trung bình khung (${num(min)} + ${num(max)}) / 2 = ${dong(avg)}${adj}${qty > 1 ? ` × ${qty} lần = ${dong(specific * qty)}` : ''}`,
     rangeOk,
   };
 }
@@ -159,3 +179,13 @@ export function suggestRows(rows: PenaltyRow[], row: PenaltyRow, value: number, 
 /** Tiền chậm nộp = số tiền × tỷ lệ/ngày × số ngày (calendar days). */
 export const latePayment = (amount: number, ratePerDay: number, days: number) =>
   Math.round(Math.max(0, amount) * ratePerDay * Math.max(0, Math.floor(days)));
+
+/** Calendar days of late payment: counted from the day after the due date to the day immediately before the
+ *  payment date (Điều 59.2.b Luật QLT; Điều 42.1.b NĐ125). Returns 0 when not late or a date is missing. */
+export function lateDays(dueIso: string | undefined, payIso: string | undefined): number {
+  if (!dueIso || !payIso) return 0;
+  const d = Date.parse(`${dueIso}T00:00:00Z`);
+  const p = Date.parse(`${payIso}T00:00:00Z`);
+  if (Number.isNaN(d) || Number.isNaN(p)) return 0;
+  return Math.max(0, Math.round((p - d) / 86_400_000) - 1);
+}

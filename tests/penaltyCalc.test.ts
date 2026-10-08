@@ -1,7 +1,7 @@
 // Run: npx tsx tests/penaltyCalc.test.ts   (uses the real catalog JSON, expected values computed by hand)
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
-import { Ctx, PenaltyRow, inRange, latePayment, lineCalc, suggestRows, totals } from '../src/utils/penaltyCalc.ts';
+import { Ctx, PenaltyRow, inRange, latePayment, lateDays, lineCalc, suggestRows, totals } from '../src/utils/penaltyCalc.ts';
 
 const rows: PenaltyRow[] = JSON.parse(readFileSync(new URL('../public/penalty_catalog.json', import.meta.url), 'utf8')).rows;
 const find = (dieu: number, khoan: number | string, diem: string, nguon = '125') => {
@@ -73,5 +73,20 @@ assert.deepEqual([sug2[0].min_vnd, sug2[0].max_vnd], [50 * M, 70 * M]);
 // Tiền chậm nộp: 1 tỷ × 0,03% × 10 ngày = 3 triệu ; tiền phạt 10 triệu × 0,05% × 20 ngày = 100.000
 assert.equal(Math.round(latePayment(1000 * M, 0.0003, 10)), 3 * M);
 assert.equal(Math.round(latePayment(10 * M, 0.0005, 20)), 100_000);
+
+// Số ngày chậm: từ ngày kế tiếp hạn nộp đến ngày liền kề trước ngày nộp
+assert.equal(lateDays('2026-01-01', '2026-01-12'), 10);      // 2..11/01
+assert.equal(lateDays('2026-01-10', '2026-01-11'), 0);       // nộp ngay ngày kế tiếp: khoảng [11/01, 10/01] rỗng
+assert.equal(lateDays('2026-01-10', '2026-01-10'), 0);
+assert.equal(lateDays('2026-01-10', '2026-01-05'), 0);       // nộp trước hạn
+assert.equal(lateDays('2026-01-31', '2026-02-02'), 1);       // chỉ 01/02
+assert.equal(lateDays('2025-12-31', '2026-01-03'), 2);       // 01/01 và 02/01 (qua năm)
+assert.equal(lateDays('2024-02-28', '2024-03-02'), 2);       // 29/02 (năm nhuận) và 01/03
+assert.equal(lateDays(undefined, '2026-01-03'), 0);
+
+// Công thức hiển thị phải chứa đúng các số đã tính
+assert.match(lineCalc(r133, { qty: 1 }, ctx({ aggravating: 1 })).formula, /Trung bình khung \(5\.000\.000 \+ 8\.000\.000\) \/ 2 = 6\.500\.000 đ; \+10%.* = 7\.150\.000 đ/);
+assert.match(lineCalc(r16, { qty: 1, base: 500 * M }, ctx()).formula, /20% × 500\.000\.000 đ = 100\.000\.000 đ/);
+assert.match(lineCalc(r133, { qty: 2 }, ctx()).formula, /× 2 lần = 13\.000\.000 đ/);
 
 console.log('penaltyCalc tests: all assertions passed');

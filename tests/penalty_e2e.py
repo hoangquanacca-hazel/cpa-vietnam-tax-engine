@@ -47,7 +47,7 @@ with sync_playwright() as p:
         assert 0.47 <= aw() / w <= 0.53, 'preset 1/2'
         pg.get_by_role('button', name='Độ rộng').click(); pg.get_by_role('button', name='Độ rộng').click()
         assert 0.30 <= aw() / w <= 0.36, 'preset cycle back to 1/3'
-        pg.locator('input[type=date]').fill('2026-02-01')
+        pg.get_by_label('Hành vi kết thúc ngày').fill('2026-02-01')
         aside = pg.locator('aside')
         pg.get_by_label('Nhóm hành vi').select_option(label='Nộp hồ sơ khai thuế chậm / không nộp')
         pg.get_by_label('Chọn Điều 13.3').check()
@@ -59,24 +59,36 @@ with sync_playwright() as p:
         assert g(r'Tổng thấp nhất \(sàn\)') == 105_000_000
         assert g(r'Tổng cao nhất \(trần\)') == 108_000_000
         assert g(r'Tổng tạm tính tiền phạt') == 106_500_000
-        aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').fill('1000000000')
-        aside.get_by_label('Số ngày chậm nộp thuế').fill('10')
-        aside.get_by_label('Số ngày chậm nộp tiền phạt').fill('20')
+        # truy thu auto-filled from the ticked Điều 16 row; grand total = 106,5tr + 500tr
+        assert aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').input_value() == '500.000.000'
         txt = aside.inner_text()
-        assert g(r'Tổng ước tính phải nộp') == 1_110_565_000          # 106,5tr + 1 tỷ + 3tr + 1,065tr
-        # input sizing: fits its data (days 6 digits, money 12 digits, qty 3 digits), no clipping, extra digits ignored
-        def fits(label, typed):
-            el = aside.get_by_label(label).first
-            el.fill(typed)
-            return el.evaluate("n => n.scrollWidth <= n.clientWidth"), el.bounding_box()['width'], el.input_value()
-        ok, wbox, val = fits('Số ngày chậm nộp thuế', '9999999')
+        assert g(r'Tổng ước tính phải nộp') == 606_500_000
+        # input sizing: fits its data (days/invoices 6 digits, money 12 digits, qty 3 digits), no clipping, extra digits ignored
+        def fits(loc, typed):
+            loc.fill(typed)
+            return loc.evaluate("n => n.scrollWidth <= n.clientWidth"), loc.bounding_box()['width'], loc.input_value()
+        ok, wbox, val = fits(aside.get_by_label('Số ngày chậm', exact=True).first, '9999999')
         assert ok and val == '999999' and wbox <= 100, ('days', ok, wbox, val)
-        ok, wbox, val = fits('Số thuế truy thu / nộp bổ sung (đ)', '9999999999999')
+        aside.get_by_label('Số ngày chậm', exact=True).first.fill('')
+        ok, wbox, val = fits(aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)'), '9999999999999')
         assert ok and val == '999.999.999.999' and wbox <= 190, ('money', ok, wbox, val)
-        aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').fill('1000000000')
-        aside.get_by_label('Số ngày chậm nộp thuế').fill('10')
+        aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').fill('1000000000')   # manual override
+        assert aside.get_by_text('Dùng lại số tự động (500.000.000 đ)').count() == 1
+        # late days from dates: due 01/01/2026, paid 12/01/2026 -> 10 days ; fine due 01/02, paid 22/02 -> 20 days
+        aside.get_by_label('Hạn nộp thuế').fill('2026-01-01'); aside.get_by_label('Ngày nộp thuế').fill('2026-01-12')
+        aside.get_by_label('Hạn nộp phạt').fill('2026-02-01'); aside.get_by_label('Ngày nộp phạt').fill('2026-02-22')
         txt = aside.inner_text()
         assert g(r'Tổng ước tính phải nộp') == 1_110_565_000
+        for frag in ['10 ngày chậm', '20 ngày chậm',
+                     '1.000.000.000 đ × 0,03% × 10 ngày = 3.000.000 đ',
+                     '106.500.000 đ × 0,05% × 20 ngày = 1.065.000 đ',
+                     '106.500.000 đ + 1.000.000.000 đ + 3.000.000 đ + 1.065.000 đ = 1.110.565.000 đ',
+                     'Trung bình khung (5.000.000 + 8.000.000) / 2 = 6.500.000 đ',
+                     '20% × 500.000.000 đ = 100.000.000 đ']:
+            assert frag in ' '.join(txt.split()), f'missing formula text: {frag}'
+        aside.get_by_text('Dùng lại số tự động (500.000.000 đ)').click()
+        assert aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').input_value() == '500.000.000'
+        aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').fill('1000000000')
         qty = aside.get_by_label('Số lần').first
         qty.fill('12345'); assert qty.input_value() == '123' and qty.bounding_box()['width'] <= 70
         qty.fill('1')
