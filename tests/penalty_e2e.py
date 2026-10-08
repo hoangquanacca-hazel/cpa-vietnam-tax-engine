@@ -19,6 +19,28 @@ with sync_playwright() as p:
             continue
         bw = pg.locator('aside').bounding_box()['width'] / w
         assert 0.30 <= bw <= 0.40, f'summary panel share {bw:.2f}'
+        # resizable panel: drag, clamp, keyboard, double-click reset, persistence
+        aw = lambda: pg.locator('aside').bounding_box()['width']
+        w0 = aw(); hb = pg.get_by_role('separator').bounding_box(); cx, cy = hb['x'] + hb['width'] / 2, hb['y'] + hb['height'] / 2
+        pg.mouse.move(cx, cy); pg.mouse.down(); pg.mouse.move(cx - 200, cy, steps=8); pg.mouse.up()
+        assert 180 <= aw() - w0 <= 220, f'drag left grew panel by {aw() - w0}'
+        w1 = aw()
+        pg.reload(); pg.get_by_text('Checklist Mức phạt Thuế').click(); pg.wait_for_selector('aside')
+        assert abs(aw() - w1) <= 2, 'width not persisted'
+        hb = pg.get_by_role('separator').bounding_box(); cx, cy = hb['x'] + hb['width'] / 2, hb['y'] + hb['height'] / 2
+        pg.mouse.move(cx, cy); pg.mouse.down(); pg.mouse.move(0, cy, steps=10); pg.mouse.up()
+        assert aw() / w <= 0.66, f'max clamp broken {aw() / w:.2f}'
+        pg.get_by_role('separator').focus(); pg.keyboard.press('ArrowRight'); pg.keyboard.press('ArrowRight')
+        assert aw() / w < 0.62, 'ArrowRight should shrink panel'
+        hb = pg.get_by_role('separator').bounding_box(); cx, cy = hb['x'] + hb['width'] / 2, hb['y'] + hb['height'] / 2
+        pg.mouse.move(cx, cy); pg.mouse.down(); pg.mouse.move(w, cy, steps=10); pg.mouse.up()
+        assert aw() >= 415, f'min width clamp broken {aw()}'
+        pg.get_by_role('separator').dblclick()
+        assert 0.30 <= aw() / w <= 0.36, f'double-click reset gave {aw() / w:.2f}'
+        pg.get_by_role('button', name='Độ rộng').click()
+        assert 0.47 <= aw() / w <= 0.53, 'preset 1/2'
+        pg.get_by_role('button', name='Độ rộng').click(); pg.get_by_role('button', name='Độ rộng').click()
+        assert 0.30 <= aw() / w <= 0.36, 'preset cycle back to 1/3'
         pg.locator('input[type=date]').fill('2026-02-01')
         aside = pg.locator('aside')
         pg.get_by_label('Nhóm hành vi').select_option(label='Nộp hồ sơ khai thuế chậm / không nộp')

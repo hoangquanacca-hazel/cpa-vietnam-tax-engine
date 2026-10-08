@@ -1,11 +1,16 @@
-import React, { useEffect, useMemo, useState } from 'react';
-import { Gavel, Search, AlertTriangle, X, Calculator, BookOpen } from 'lucide-react';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { Gavel, Search, AlertTriangle, X, Calculator, BookOpen, ArrowLeftRight } from 'lucide-react';
 import {
   Ctx, Entity, LineInput, PenaltyRow, isEffective, latePayment, lineCalc, suggestRows, totals,
 } from '../utils/penaltyCalc';
 
 interface GeneralRule { chu_de: string; noi_dung: string; can_cu: string }
 interface Rate { id: string; ten: string; ty_le_ngay: number; can_cu: string }
+
+const FRAC_MIN = 0.25;
+const FRAC_MAX = 0.65;
+const FRAC_DEFAULT = 1 / 3;
+const clampFrac = (x: number) => Math.min(FRAC_MAX, Math.max(FRAC_MIN, x));
 
 const todayIso = () => new Date().toISOString().slice(0, 10);
 const fmt = (n: number) => `${Math.round(n).toLocaleString('vi-VN')} đ`;
@@ -50,6 +55,42 @@ export const PenaltyCatalog: React.FC = () => {
   const [onDate, setOnDate] = useState(todayIso());
   const [showAll, setShowAll] = useState(false);
   const [showRules, setShowRules] = useState(false);
+
+  // Resizable summary panel: fraction of the content width given to the right-hand panel (persisted per browser).
+  const [frac, setFrac] = useState<number>(() => {
+    try {
+      const v = Number(localStorage.getItem('penaltyPanelFrac'));
+      return v >= FRAC_MIN && v <= FRAC_MAX ? v : FRAC_DEFAULT;
+    } catch { return FRAC_DEFAULT; }
+  });
+  const [wide, setWide] = useState(false);
+  const gridRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    const mq = window.matchMedia('(min-width: 1024px)');
+    const on = () => setWide(mq.matches);
+    on();
+    mq.addEventListener('change', on);
+    return () => mq.removeEventListener('change', on);
+  }, []);
+  useEffect(() => {
+    try { localStorage.setItem('penaltyPanelFrac', String(frac)); } catch { /* storage unavailable: keep in memory */ }
+  }, [frac]);
+  const startDrag = (e: React.PointerEvent) => {
+    const el = gridRef.current;
+    if (!el) return;
+    e.preventDefault();
+    const move = (ev: PointerEvent) => {
+      const r = el.getBoundingClientRect();
+      setFrac(clampFrac((r.right - ev.clientX) / r.width));
+    };
+    const up = () => {
+      window.removeEventListener('pointermove', move);
+      window.removeEventListener('pointerup', up);
+    };
+    window.addEventListener('pointermove', move);
+    window.addEventListener('pointerup', up);
+  };
+  const cyclePreset = () => setFrac(f => (f < 0.4 ? 0.5 : f < 0.55 ? FRAC_MAX : FRAC_DEFAULT));
 
   const [sel, setSel] = useState<Record<string, LineInput>>({});
   const [mitigating, setMitigating] = useState(0);
@@ -205,7 +246,8 @@ export const PenaltyCatalog: React.FC = () => {
       {error && <p className="mt-2 text-sm text-red-700">{error}</p>}
       {!error && rows.length === 0 && <p className="mt-2 text-sm text-slate-500">Đang tải dữ liệu…</p>}
 
-      <div className="mt-2 grid gap-3 lg:grid-cols-[minmax(0,2fr)_minmax(26rem,1fr)] lg:flex-1 lg:min-h-0">
+      <div ref={gridRef} className="mt-2 grid gap-3 lg:gap-0 lg:flex-1 lg:min-h-0"
+        style={wide ? { gridTemplateColumns: `minmax(0,${1 - frac}fr) 14px minmax(26rem,${frac}fr)` } : undefined}>
         {/* LEFT: checklist */}
         <section className="rounded-xl border border-slate-200 bg-white lg:h-full lg:overflow-y-auto min-w-0">
           <div className="sticky top-0 z-10 border-b border-slate-200 bg-slate-50 px-3 py-1.5 text-[11px] text-slate-600">
@@ -255,11 +297,32 @@ export const PenaltyCatalog: React.FC = () => {
           </ul>
         </section>
 
+        {/* drag handle: resize the summary panel */}
+        <div
+          role="separator" aria-orientation="vertical" tabIndex={0}
+          aria-label="Kéo để đổi độ rộng bảng tạm tính"
+          title="Kéo để đổi độ rộng · bấm đúp để về 1/3 · phím ← → để chỉnh"
+          onPointerDown={startDrag}
+          onDoubleClick={() => setFrac(FRAC_DEFAULT)}
+          onKeyDown={e => {
+            if (e.key === 'ArrowLeft') { setFrac(f => clampFrac(f + 0.03)); e.preventDefault(); }
+            if (e.key === 'ArrowRight') { setFrac(f => clampFrac(f - 0.03)); e.preventDefault(); }
+          }}
+          className="group hidden cursor-col-resize touch-none items-center justify-center lg:flex"
+        >
+          <div className="h-20 w-1 rounded bg-slate-300 group-hover:bg-amber-500 group-focus:bg-amber-500" />
+        </div>
+
         {/* RIGHT: summary + calculator */}
         <aside className="rounded-xl border border-slate-300 bg-white lg:h-full lg:overflow-y-auto min-w-0">
           <div className="sticky top-0 z-10 flex items-center justify-between border-b border-slate-200 bg-slate-900 px-3 py-2 text-white">
             <span className="flex items-center gap-1.5 text-sm font-semibold"><Calculator className="w-4 h-4 text-amber-400" /> Bảng tạm tính ({picked.length})</span>
-            {picked.length > 0 && <button onClick={() => setSel({})} className="text-xs text-slate-300 hover:text-white">Bỏ chọn hết</button>}
+            <span className="flex items-center gap-3">
+              <button onClick={cyclePreset} title="Đổi nhanh độ rộng: 1/3 → 1/2 → 2/3" className="hidden items-center gap-1 text-xs text-slate-300 hover:text-white lg:inline-flex">
+                <ArrowLeftRight className="w-3.5 h-3.5" /> Độ rộng
+              </button>
+              {picked.length > 0 && <button onClick={() => setSel({})} className="text-xs text-slate-300 hover:text-white">Bỏ chọn hết</button>}
+            </span>
           </div>
 
           <div className="grid grid-cols-2 gap-2 border-b border-slate-100 px-3 py-2 text-xs text-slate-600">
