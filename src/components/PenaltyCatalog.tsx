@@ -323,9 +323,9 @@ export const PenaltyCatalog: React.FC = () => {
                   {res.rangeOk === false && (
                     <div className="mt-1 rounded border border-amber-300 bg-amber-50 p-1.5 text-[11px] text-amber-900">
                       Giá trị nhập nằm ngoài khung này.
-                      {sug.length > 0 ? ' Khung phù hợp: ' : ' Không có khung nào phù hợp trong nhóm này.'}
+                      {sug.length > 0 ? ' Khung phù hợp (rê chuột để xem điều kiện, khung cảnh cáo cần có tình tiết giảm nhẹ): ' : ' Không có khung nào phù hợp trong nhóm này.'}
                       {sug.map(s => (
-                        <button key={s.id} onClick={() => swap(r.id, s)} className="ml-1 rounded bg-amber-200 px-1.5 py-0.5 font-semibold hover:bg-amber-300">
+                        <button key={s.id} onClick={() => swap(r.id, s)} title={`${s.hanh_vi}${s.dieu_kien ? ` (${s.dieu_kien})` : ''}`} className="ml-1 rounded bg-amber-200 px-1.5 py-0.5 font-semibold hover:bg-amber-300">
                           chuyển sang {cite(s)}
                         </button>
                       ))}
