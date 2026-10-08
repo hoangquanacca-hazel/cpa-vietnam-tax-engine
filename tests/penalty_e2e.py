@@ -124,6 +124,25 @@ with sync_playwright() as p:
         pg.get_by_label('Đối tượng').select_option(value='ca_nhan')
         txt = aside.inner_text()
         assert g(r'Tổng thấp nhất \(sàn\)') == 102_750_000            # 2,5tr + 100tr + 0,25tr (Điều 16 không chia đôi)
+        # ── Hải quan: version switch by date, customs tax-evasion formula, notes ──
+        pg2 = pg
+        aside.get_by_role('button', name='Bỏ chọn hết').click()
+        pg2.get_by_label('Đối tượng').select_option(value='to_chuc')
+        pg2.get_by_label('Lĩnh vực').select_option(label='Hải quan')
+        pg2.get_by_label('Hành vi kết thúc ngày').fill('2026-08-01')
+        pg2.get_by_label('Nhóm hành vi').select_option(label='Xử phạt đối với hành vi trốn thuế')
+        assert pg2.locator('section li', has_text='NĐ 169/2026').count() == 11 and pg2.locator('section li', has_text='NĐ 128/2020').count() == 0
+        pg2.get_by_label('Chọn Điều 15.1.a').check()
+        aside.get_by_label('Số thuế trốn (đ)').fill('1000000000')
+        aside.get_by_label('Số tình tiết tăng nặng').fill('2')
+        txt = aside.inner_text()
+        g = lambda lab: num(re.search(lab + r'\s*\n?\s*([\d\.]+) đ', txt).group(1))
+        assert g(r'Tổng thấp nhất \(sàn\)') == 1_000_000_000 and g(r'Tổng cao nhất \(trần\)') == 3_000_000_000
+        assert g(r'Tổng tạm tính tiền phạt') == 1_400_000_000                      # 1 + 0,2 x 2 tình tiết tăng nặng
+        assert '1,4 lần' in ' '.join(txt.split())
+        pg2.get_by_label('Hành vi kết thúc ngày').fill('2026-06-30')              # NĐ128 still applies to acts before 01/07/2026
+        assert pg2.locator('section li', has_text='NĐ 128/2020').count() == 11 and pg2.locator('section li', has_text='NĐ 169/2026').count() == 0
+        pg2.get_by_label('Hành vi kết thúc ngày').fill('2026-08-01')
     assert not errs, errs
     print('E2E passed (layout 1440 + 390 no horizontal scroll; calculator assertions)')
     b.close()

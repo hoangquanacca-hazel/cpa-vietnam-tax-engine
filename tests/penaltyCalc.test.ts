@@ -89,4 +89,43 @@ assert.match(lineCalc(r133, { qty: 1 }, ctx({ aggravating: 1 })).formula, /Trung
 assert.match(lineCalc(r16, { qty: 1, base: 500 * M }, ctx()).formula, /20% × 500\.000\.000 đ = 100\.000\.000 đ/);
 assert.match(lineCalc(r133, { qty: 2 }, ctx()).formula, /× 2 lần = 13\.000\.000 đ/);
 
+// ── Hải quan (NĐ 169/2026 từ 01/07/2026; NĐ 128/2020 đến 30/06/2026) ──
+const h169 = find(8, 1, 'a', '169');                                                // 500.000 - 1.000.000 (tổ chức)
+let c = lineCalc(h169, { qty: 1 }, ctx({ onDate: '2026-08-01' }));
+assert.deepEqual([c.min, c.max, c.specific], [500_000, 1_000_000, 750_000]);
+c = lineCalc(h169, { qty: 1 }, ctx({ onDate: '2026-08-01', entity: 'ca_nhan' }));    // cá nhân = 1/2
+assert.deepEqual([c.min, c.max, c.specific], [250_000, 500_000, 375_000]);
+assert.equal(lineCalc(h169, { qty: 1 }, ctx({ onDate: '2026-08-01', aggravating: 1 })).specific, 825_000);
+assert.equal(lineCalc(h169, { qty: 1 }, ctx({ onDate: '2026-08-01', aggravating: 2 })).specific, 1_000_000);   // >=2 tăng nặng -> tối đa (NĐ169)
+const h128 = find(7, 1, 'a', '128');
+assert.equal(lineCalc(h128, { qty: 1 }, ctx({ onDate: '2024-05-01', aggravating: 2 })).specific, 900_000);     // NĐ128: mỗi tình tiết +10%
+assert.equal(lineCalc(h128, { qty: 1 }, ctx({ onDate: '2026-08-01', aggravating: 9 })).specific, 1_000_000);   // kẹp trong khung
+// Điều 11 (xuất nhập cảnh): khung đã là mức của cá nhân
+const h11 = find(11, 1, 'a', '169');
+for (const entity of ['to_chuc', 'ca_nhan'] as const) {
+  const r11 = lineCalc(h11, { qty: 1 }, ctx({ entity, onDate: '2026-08-01' }));
+  assert.deepEqual([r11.min, r11.max], [1_000_000, 3_000_000]);
+}
+// Khai sai thuế XNK: 20% (hải quan phát hiện) và 10% (NĐ128, tự phát hiện) - cùng mức cho cá nhân và tổ chức
+const h10 = find(10, 3, 'a', '169');
+assert.equal(lineCalc(h10, { qty: 1, base: 100 * M }, ctx({ entity: 'ca_nhan' })).specific, 20 * M);
+assert.equal(lineCalc(find(9, 2, 'a', '128'), { qty: 1, base: 100 * M }, ctx()).specific, 10 * M);
+assert.equal(lineCalc(h10, { qty: 1 }, ctx()).status, 'need_input');
+// Trốn thuế hải quan: 1 lần, mỗi tình tiết tăng nặng +0,2 lần, tối đa 3 lần
+const h15 = find(15, 1, 'a', '169');
+const tronHq = (t: number) => lineCalc(h15, { qty: 1, base: 1000 * M }, ctx({ aggravating: t }));
+assert.deepEqual([tronHq(0).min, tronHq(0).max], [1000 * M, 3000 * M]);
+assert.deepEqual([tronHq(0).specific, tronHq(2).specific, tronHq(5).specific, tronHq(11).specific], [1000 * M, 1400 * M, 2000 * M, 3000 * M]);
+// Ngân hàng không trích chuyển: phạt bằng số tiền không trích chuyển
+assert.equal(lineCalc(find(26, 3, '', '169'), { qty: 1, base: 50 * M }, ctx()).specific, 50 * M);
+// Mỗi dòng PT hải quan thuộc diện "mức trung bình" hay không: dòng không thuộc diện chỉ lấy trung bình, không điều chỉnh
+for (const r of rows.filter(x => x.lv === 'Hải quan' && x.hinh_thuc === 'Phạt tiền (khung)' && x.ap_dung_tb === false)) {
+  const a = lineCalc(r, { qty: 1 }, ctx({ aggravating: 0 })), b = lineCalc(r, { qty: 1 }, ctx({ aggravating: 5 }));
+  assert.equal(a.specific, b.specific, `${r.nguon} Điều ${r.dieu}.${r.khoan}${r.diem}`);
+}
+// Chọn bản theo ngày: 01/07/2026 là ngày đầu của NĐ169
+const eff = (on: string) => rows.filter(x => x.lv === 'Hải quan' && x.hieu_luc_tu <= on && (x.hieu_luc_den === '' || on <= x.hieu_luc_den));
+assert.ok(eff('2026-06-30').every(x => x.nguon === '128') && eff('2026-06-30').length > 100);
+assert.ok(eff('2026-07-01').every(x => x.nguon === '169') && eff('2026-07-01').length > 100);
+
 console.log('penaltyCalc tests: all assertions passed');

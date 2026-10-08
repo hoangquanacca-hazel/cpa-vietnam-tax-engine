@@ -1,1 +1,1 @@
-rows=163 money/ratio_ok=145 non_money_skipped=18 FAIL=0
+rows=583 money/ratio_ok=565 non_money_skipped=18 FAIL=0

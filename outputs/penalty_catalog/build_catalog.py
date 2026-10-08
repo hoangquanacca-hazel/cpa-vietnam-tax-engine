@@ -15,6 +15,8 @@ M = 1_000_000
 OLD_FROM = "2020-12-05"   # NĐ125 hiệu lực
 NEW_FROM = "2026-01-16"   # NĐ310 hiệu lực
 OLD_TO = "2026-01-15"     # ngày cuối áp dụng phiên bản cũ
+FROM_102 = "2022-01-01"   # NĐ102/2021 hiệu lực (sửa đổi NĐ125)
+TO_102 = "2021-12-31"     # ngày cuối áp dụng bản NĐ125 gốc cho các điểm NĐ102 sửa
 
 TT = "Thủ tục thuế"
 KS = "Khai sai / trốn thuế"
@@ -222,8 +224,10 @@ R(HD, 21, 1, "", "Báo cáo về việc nhận in hóa đơn quá hạn 01-05 ng
   tt=REP, den=OLD_TO, note="Điều 21 NĐ125 bị bãi bỏ bởi Điều 2 NĐ310.")
 
 # Điều 22: cho, bán hóa đơn
-R(HD, 22, 2, "", "Cho, bán hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 20, 50, den=OLD_TO, tt=SUP,
+R(HD, 22, 2, "", "Cho, bán hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 20, 50, den=TO_102, tt=SUP,
   bp="Buộc hủy hóa đơn; buộc nộp lại số lợi bất hợp pháp")
+R(HD, 22, 2, "", "Cho, bán hóa đơn (trừ hành vi quy định tại khoản 1 Điều 22)", "PT", 20, 50, src="102", tu=FROM_102, den=OLD_TO,
+  tt=SUP, bp="Buộc hủy hóa đơn; buộc nộp lại số lợi bất hợp pháp", note="Điều 1.2 NĐ102/2021 (hiệu lực 01/01/2022).")
 R(HD, 22, 2, "", "Cho, bán hóa đơn", "PT", 20, 50, src="310", tu=NEW_FROM,
   bp="Buộc nộp lại số lợi bất hợp pháp (điểm b khoản 3 Điều 22 NĐ125)")
 
@@ -247,6 +251,8 @@ R(HD, 24, 4, "d", "Lập sai loại hóa đơn đã giao cho người mua hoặc
 R(HD, 24, 4, "đ", "Lập hóa đơn điện tử khi chưa có thông báo chấp thuận của cơ quan thuế", "PT", 4, 8)
 R(HD, 24, 4, "e", "Lập hóa đơn trong thời gian tạm ngừng hoạt động kinh doanh (trừ hợp đồng ký trước)", "PT", 4, 8)
 R(HD, 24, 4, "g", "Lập hóa đơn điện tử từ máy tính tiền không kết nối, chuyển dữ liệu điện tử với cơ quan thuế", "PT", 4, 8)
+R(HD, 24, 4, "h", "Lập hóa đơn không ghi đầy đủ các nội dung bắt buộc trên hóa đơn theo quy định", "PT", 4, 8, src="102", tu=FROM_102,
+  note="Bổ sung bởi Điều 1.3 NĐ102/2021 (hiệu lực 01/01/2022); khung 4-8 triệu là khung khoản 4 Điều 24.")
 R(HD, 24, 5, "", "Không lập hóa đơn khi bán hàng hóa, cung cấp dịch vụ cho người mua theo quy định", "PT", 10, 20, den=OLD_TO,
   tt=REP, bp="Buộc lập hóa đơn khi người mua yêu cầu",
   note="Khoản 5 bị bãi bỏ bởi NĐ310; hành vi không lập hóa đơn nay thuộc khoản 3 mới (theo số lượng hóa đơn).")
@@ -297,7 +303,11 @@ R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn đã phát hành, đã m
 R(HD, 26, 3, "a", "Làm mất, cháy, hỏng hóa đơn mua của cơ quan thuế nhưng chưa lập", "PT", 4, 8, src="310", tu=NEW_FROM,
   note="NĐ310 bỏ cụm 'đã phát hành' - phạm vi hẹp hơn bản cũ.")
 R(HD, 26, 3, "b", "Làm mất, cháy, hỏng liên giao khách hàng của hóa đơn đã lập; người bán đã kê khai, có chứng từ", "PT", 4, 8)
-R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai, nộp thuế (trừ các trường hợp khoản 1, 2, 3)", "PT", 5, 10)
+R(HD, 26, 3, "c", "Làm mất, cháy, hỏng hóa đơn đã lập nhưng chưa khai thuế", "PT", 4, 8, src="102", tu=FROM_102,
+  note="Bổ sung bởi Điều 1.4 NĐ102/2021 (hiệu lực 01/01/2022). Các bên liên quan phải lập biên bản ghi nhận.")
+R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai, nộp thuế (trừ các trường hợp khoản 1, 2, 3)", "PT", 5, 10, den=TO_102, tt=SUP)
+R(HD, 26, 4, "", "Làm mất, cháy, hỏng hóa đơn đã lập, đã khai thuế trong quá trình sử dụng hoặc trong thời gian lưu trữ (trừ các trường hợp khoản 1, 2, 3)",
+  "PT", 5, 10, src="102", tu=FROM_102, note="Điều 1.4 NĐ102/2021 đổi 'đã khai, nộp thuế' thành 'đã khai thuế'.")
 
 # Điều 27
 R(HD, 27, 1, "", "Hủy/tiêu hủy hóa đơn quá hạn 01-05 ngày làm việc", "CC", dk="Có tình tiết giảm nhẹ", den=OLD_TO, tt=SUP)
@@ -399,18 +409,48 @@ general = [
     ("Quy mô lớn (từ 16/01/2026)", "Hóa đơn: từ 10 số hóa đơn trở lên, chỉ đối với hành vi tại khoản 2 Điều 22, Điều 26, Điều 27. "
      "Thuế: chỉ còn trốn thuế từ 100.000.000 đ trở lên khi chuyển hồ sơ xử lý hình sự (tiêu chí 500 triệu giá trị hàng hóa "
      "không còn trong nội dung sửa đổi).", "Điều 1.4 NĐ310 (thay khoản 2 Điều 6)"),
-    ("Thời hiệu xử phạt", "Hóa đơn: 01 năm (danh sách hành vi 'đang thực hiện' đã được NĐ310 sửa tại Điều 8.1). Thủ tục thuế: "
-     "02 năm. Trốn thuế (chưa đến mức hình sự) và khai sai dẫn đến thiếu thuế: 05 năm.", "Điều 8.1.a NĐ125; Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
-    ("Hiệu lực và chuyển tiếp", "NĐ125 hiệu lực 05/12/2020. NĐ310 hiệu lực 16/01/2026. Hành vi đã kết thúc trước 16/01/2026: "
+    ("Thời hiệu xử phạt", "Hóa đơn: 01 năm với hành vi trước 01/01/2022; 02 năm từ 01/01/2022 (Điều 1.1 NĐ102/2021). Danh sách hành vi "
+     "'đang thực hiện' được NĐ310 sửa tại Điều 8.1. Thủ tục thuế: 02 năm. Trốn thuế (chưa đến mức hình sự) và khai sai "
+     "dẫn đến thiếu thuế: 05 năm.", "Điều 8.1.a NĐ125 (sửa bởi NĐ102/2021); Điều 8.2 NĐ125 (sửa bởi NĐ310)"),
+    ("Hiệu lực và chuyển tiếp", "NĐ125 hiệu lực 05/12/2020. NĐ102/2021 (sửa NĐ125) hiệu lực 01/01/2022. NĐ310 hiệu lực 16/01/2026. Hành vi đã kết thúc trước 16/01/2026: "
      "áp dụng văn bản có hiệu lực tại thời điểm vi phạm. Hành vi đang thực hiện trước ngày này và bị phát hiện sau ngày này: "
-     "áp dụng NĐ310.", "Điều 3 NĐ310"),
+     "áp dụng NĐ310.", "Điều 3 NĐ310; Điều 7 NĐ102/2021"),
     ("Chưa nằm trong bảng này", "Tiền chậm nộp tiền thuế (tỷ lệ theo Luật Quản lý thuế - văn bản chưa được cung cấp, bảng này "
      "không nêu tỷ lệ); truy thu thuế; vi phạm hải quan, bảo hiểm xã hội, lao động; các nghị định xử phạt chuyên ngành khác.", "-"),
+    # ── Hải quan (NĐ 169/2026, NĐ 128/2020, NĐ 102/2021) ──
+    ("Hải quan: văn bản áp dụng và quan hệ với NĐ125", "NĐ 169/2026/NĐ-CP (hiệu lực 01/07/2026) thay thế NĐ 128/2020/NĐ-CP và Điều 2 NĐ 102/2021/NĐ-CP "
+     "(Điều 38 NĐ169). NĐ125 KHÔNG áp dụng cho vi phạm về thuế đối với hàng xuất nhập khẩu do cơ quan hải quan quản lý thu "
+     "(Điều 1.1 NĐ125): thuế xuất nhập khẩu dùng nghị định hải quan, không cộng với Điều 16, 17 NĐ125. NĐ 127/2013 (VBHN 10/2016) "
+     "áp dụng cho hành vi trước 10/12/2020, nhưng thời hiệu tối đa 05 năm (Điều 3 VBHN) nên đã hết từ 10/12/2025; bảng này không gồm "
+     "văn bản đó.", "Điều 38 NĐ169; Điều 1.1 NĐ125; Điều 35 NĐ128; Điều 3 VBHN 10/2016"),
+    ("Hải quan: chuyển tiếp 01/07/2026", "Hành vi xảy ra và kết thúc trước 01/07/2026 nhưng bị phát hiện hoặc xem xét xử phạt từ 01/07/2026: áp dụng NĐ169 "
+     "nếu NĐ169 không quy định trách nhiệm pháp lý hoặc quy định nhẹ hơn; nếu NĐ169 nặng hơn thì áp dụng NĐ128 (+ NĐ102). "
+     "Bảng chọn bản theo ngày hành vi kết thúc; với hành vi trước 01/07/2026 nên xem cả hai bản và chọn bản nhẹ hơn.",
+     "Điều 39 NĐ169; Điều 36 NĐ128; Điều 7 NĐ102/2021"),
+    ("Hải quan: mức phạt cá nhân so với tổ chức", "Khung tiền ở Chương II là mức cho TỔ CHỨC; cá nhân bằng 1/2, TRỪ: (1) hành vi xuất cảnh, nhập cảnh (Điều 11 NĐ169; "
+     "Điều 10 NĐ128) - khung đã là mức của cá nhân; (2) hành vi về quản lý thuế (Điều 10, 15 NĐ169; Điều 9, 14 NĐ128) - cùng mức cho cá nhân và "
+     "tổ chức. Hộ kinh doanh, hộ gia đình, cộng đồng dân cư áp dụng như cá nhân.", "Điều 6.3 NĐ169; Điều 5.3 NĐ128"),
+    ("Hải quan: mức cụ thể trong khung", "Mức phạt cụ thể = mức trung bình của khung. NĐ169 (từ 01/07/2026): 1 tình tiết giảm nhẹ giảm 10%, từ 2 tình tiết giảm nhẹ áp mức tối thiểu; "
+     "1 tình tiết tăng nặng tăng 10%, từ 2 tình tiết tăng nặng áp mức tối đa; một tình tiết giảm nhẹ bù trừ một tình tiết tăng nặng. "
+     "Áp dụng cho Điều 8, 9, 11-14, 16-25 và khoản 1, 2, 4 Điều 26. NĐ128 (+ NĐ102 từ 01/01/2022): mỗi tình tiết ±10% mức trung bình, không vượt khung; "
+     "áp dụng cho Điều 7, 8, 10-13, 15-24 và khoản 1, 3, 4 Điều 25. Tình tiết giảm nhẹ riêng của hải quan: tang vật có trị giá không quá 50% mức phạt tối thiểu của khung.",
+     "Điều 4, Điều 6.3.đ, e NĐ169; Điều 3, Điều 5.3.đ, e NĐ128 (NĐ102/2021 Điều 2.3)"),
+    ("Hải quan: trốn thuế và khai sai thuế", "Trốn thuế (Điều 15 NĐ169; Điều 14 NĐ128): phạt 01 lần số thuế trốn; mỗi tình tiết tăng nặng +0,2 lần, tối đa 03 lần "
+     "(khác Điều 17 NĐ125). Khai sai dẫn đến thiếu thuế (Điều 10 NĐ169; Điều 9 NĐ128): phạt 10% số thuế khai thiếu nếu tự phát hiện, khai bổ sung muộn; 20% nếu hải quan phát hiện; "
+     "chỉ xử phạt khi số thuế chênh lệch từ 500.000 đ/tờ khai (cá nhân), 2.000.000 đ/tờ khai (tổ chức). Không xử phạt nếu khai bổ sung trong hạn "
+     "(60 ngày kể từ ngày thông quan và trước quyết định kiểm tra, thanh tra) - Điều 7.2.a NĐ169.", "Điều 10, 15, 7.2.a NĐ169; Điều 9, 14 NĐ128"),
+    ("Hải quan: thời hiệu", "Thuế (trốn thuế chưa đến mức hình sự, khai sai dẫn đến thiếu thuế): 05 năm. Hành vi khác: 02 năm. Quá thời hiệu vẫn phải nộp đủ thuế thiếu, "
+     "thuế trốn và tiền chậm nộp trong 10 năm trở về trước kể từ ngày phát hiện. Hồ sơ do cơ quan tố tụng chuyển đến: thời hiệu kéo dài thêm 01 năm (NĐ169).",
+     "Điều 5 NĐ169; Điều 4 NĐ128"),
+    ("Hải quan: vi phạm nhiều lần, cảnh cáo, hình sự", "Vi phạm nhiều lần: xử phạt từng hành vi, trừ một số hành vi trên nhiều tờ khai/chứng từ được phát hiện cùng lúc thì phạt một lần và áp dụng tình tiết tăng nặng "
+     "(Điều 3.1 NĐ169; Điều 2a NĐ128). Cảnh cáo chỉ áp dụng cho cá nhân từ 14 đến dưới 16 tuổi. Hành vi đến mức truy cứu trách nhiệm hình sự không thuộc bảng này "
+     "(Điều 3.3 NĐ169: ngưỡng 100 triệu đồng với cá nhân, 200 triệu đồng với tổ chức theo trị giá tang vật hoặc số thuế trốn).",
+     "Điều 3, Điều 6.2 NĐ169; Điều 2a, Điều 5.2 NĐ128"),
 ]
 
 # ───────────── Xuất file ─────────────
-FIELDS = ["lv", "dieu", "khoan", "diem", "hanh_vi", "hinh_thuc", "min_vnd", "max_vnd", "ty_le", "dieu_kien",
-          "bien_phap_khac_phuc", "hieu_luc_tu", "hieu_luc_den", "trang_thai", "nguon", "ghi_chu"]
+FIELDS = ["lv", "nhom", "dieu", "khoan", "diem", "hanh_vi", "hinh_thuc", "min_vnd", "max_vnd", "ty_le", "dieu_kien",
+          "bien_phap_khac_phuc", "bo_sung", "hieu_luc_tu", "hieu_luc_den", "trang_thai", "nguon", "ghi_chu"]
 # ───────────── Enrichment for the web calculator (sub-field + day/invoice-count ranges) ─────────────
 NHOM = {10: "Đăng ký thuế, tạm ngừng kinh doanh", 11: "Thay đổi thông tin đăng ký thuế",
         12: "Khai sai không dẫn đến thiếu thuế", 13: "Nộp hồ sơ khai thuế chậm / không nộp",
@@ -470,12 +510,25 @@ for r in rows:
     else:
         r["nhom_id"], r["metric"], r["ranges"] = "", "", []
 assert _used == set(RANGES), f"unmatched range keys: {sorted(set(RANGES) - _used)}"
+for r in rows:   # fields shared with the customs rows (tax rows keep the legacy per-Điều calculation)
+    r.update(van_ban="NĐ 125/2020/NĐ-CP (sửa đổi NĐ 102/2021, NĐ 310/2025)", tl=None, ca_nhan="half", ap_dung_tb=True,
+             quy_tac_tinh_tiet="", bo_sung="")
+
+# ───────────── Customs penalties (NĐ 169/2026 + NĐ 128/2020), extracted verbatim by hq/extract_hq.py ─────────────
+_cus = json.loads((OUT / "hq" / "customs_rows.json").read_text(encoding="utf-8"))
+for r in _cus["rows"]:
+    t = r["nhom"]
+    r["nhom"] = t if len(t) <= 72 else t[:70].rstrip(" ,;") + "…"
+    r.update(nhom_id="", metric="", ranges=[], ghi_chu="")
+    rows.append(r)
+DIEU_NOTES = _cus["dieu_notes"]
 
 for i, r in enumerate(rows, 1):
     r["id"] = f"P{i:03d}"
 
 _payload = json.dumps(
     {"rows": rows, "general": [dict(chu_de=a, noi_dung=b, can_cu=c) for a, b, c in general],
+     "dieu_notes": DIEU_NOTES,
      "rates": [
          dict(id="cham_nop_thue", ten="Tiền chậm nộp tiền thuế", ty_le_ngay=0.0003,
               can_cu="Điều 59 khoản 2 điểm a Luật Quản lý thuế 38/2019/QH14 (VBHN 29/2025): 0,03%/ngày trên số thuế chậm nộp"),
@@ -499,32 +552,39 @@ from openpyxl.utils import get_column_letter
 wb = Workbook()
 ws = wb.active
 ws.title = "Checklist mức phạt"
-HEAD = ["ID", "Lĩnh vực", "Điều", "Khoản", "Điểm", "Hành vi vi phạm", "Hình thức", "Sàn - tổ chức (đ)", "Trần - tổ chức (đ)",
+HEAD = ["ID", "Lĩnh vực", "Nhóm hành vi", "Điều", "Khoản", "Điểm", "Hành vi vi phạm", "Hình thức", "Sàn - tổ chức (đ)", "Trần - tổ chức (đ)",
         "Sàn - cá nhân* (đ)", "Trần - cá nhân* (đ)", "Mức theo tỷ lệ", "Điều kiện / số lượng", "Biện pháp khắc phục hậu quả",
-        "Áp dụng từ", "Áp dụng đến", "Trạng thái", "Nguồn", "Ghi chú"]
+        "Xử phạt bổ sung", "Áp dụng từ", "Áp dụng đến", "Trạng thái", "Nguồn", "Ghi chú"]
+SRC_LABEL = {"125": "125/2020", "310": "310/2025", "102": "102/2021", "169": "169/2026", "128": "128/2020"}
+
+
+def nguon_label(n):
+    return "NĐ " + "+".join(SRC_LABEL.get(x, x) for x in n.split("+"))
 ws.append(HEAD)
 for r in rows:
     mn, mx = r["min_vnd"], r["max_vnd"]
-    ws.append([r["id"], r["lv"], r["dieu"], r["khoan"], r["diem"], r["hanh_vi"], r["hinh_thuc"], mn, mx,
-               None if mn is None else mn // 2, None if mx is None else mx // 2, r["ty_le"], r["dieu_kien"],
-               r["bien_phap_khac_phuc"], r["hieu_luc_tu"], r["hieu_luc_den"], r["trang_thai"], "NĐ " + r["nguon"].replace("125", "125/2020").replace("310", "310/2025"), r["ghi_chu"]])
+    div = 1 if r.get("ca_nhan") == "giu_nguyen" else 2     # cá nhân = 1/2, except rows whose amount is the same for everyone
+    ws.append([r["id"], r["lv"], r["nhom"], r["dieu"], r["khoan"], r["diem"], r["hanh_vi"], r["hinh_thuc"], mn, mx,
+               None if mn is None else mn // div, None if mx is None else mx // div, r["ty_le"], r["dieu_kien"],
+               r["bien_phap_khac_phuc"], r.get("bo_sung", ""), r["hieu_luc_tu"], r["hieu_luc_den"], r["trang_thai"],
+               nguon_label(r["nguon"]), r["ghi_chu"]])
 hdr_fill = PatternFill("solid", fgColor="1F3864")
 for c in ws[1]:
     c.font = Font(bold=True, color="FFFFFF")
     c.fill = hdr_fill
     c.alignment = Alignment(wrap_text=True, vertical="center")
-widths = [7, 14, 6, 6, 6, 60, 15, 15, 15, 15, 15, 30, 40, 36, 12, 12, 28, 16, 50]
+widths = [7, 14, 30, 6, 6, 6, 60, 15, 15, 15, 15, 15, 30, 40, 36, 30, 12, 12, 28, 16, 50]
 for i, w_ in enumerate(widths, 1):
     ws.column_dimensions[get_column_letter(i)].width = w_
 for row in ws.iter_rows(min_row=2):
     for c in row:
         c.alignment = Alignment(wrap_text=True, vertical="top")
-    for idx in (7, 8, 9, 10):
+    for idx in (8, 9, 10, 11):
         row[idx].number_format = "#,##0"
-    if row[16].value != "Còn hiệu lực":
+    if row[18].value != "Còn hiệu lực":
         for c in row:
             c.fill = PatternFill("solid", fgColor="F2F2F2")
-ws.freeze_panes = "G2"
+ws.freeze_panes = "H2"
 ws.auto_filter.ref = ws.dimensions
 
 ws2 = wb.create_sheet("Nguyên tắc chung")
@@ -540,13 +600,28 @@ for row in ws2.iter_rows(min_row=2):
     for c in row:
         c.alignment = Alignment(wrap_text=True, vertical="top")
 
+wsn = wb.create_sheet("Lưu ý theo Điều (Hải quan)")
+wsn.append(["Văn bản", "Điều", "Nội dung lưu ý (nguyên văn rút gọn từ văn bản)"])
+for key, items in DIEU_NOTES.items():
+    ng, dd = key.split(":")
+    for it in items:
+        wsn.append([nguon_label(ng), int(dd), it])
+for c in wsn[1]:
+    c.font = Font(bold=True, color="FFFFFF")
+    c.fill = hdr_fill
+for col, w_ in zip("ABC", (18, 8, 150)):
+    wsn.column_dimensions[col].width = w_
+for row in wsn.iter_rows(min_row=2):
+    for c in row:
+        c.alignment = Alignment(wrap_text=True, vertical="top")
+
 ws3 = wb.create_sheet("Đọc trước khi dùng")
 for line in [
     "Bảng này CHỈ là tra cứu khung phạt theo văn bản (NĐ 125/2020 sửa đổi bởi NĐ 310/2025). Không phải tư vấn pháp lý.",
     "Mức phạt thực tế do cơ quan có thẩm quyền quyết định theo từng hồ sơ; chưa gồm tiền chậm nộp và truy thu thuế.",
-    "Cột 'cá nhân*' = 1/2 mức tổ chức (Điều 5.5 NĐ125: tổ chức gấp 2 lần cá nhân, trừ Điều 16, 17, 18); xem sheet Nguyên tắc chung.",
+    "Cột 'cá nhân*' = 1/2 mức tổ chức (thuế/hóa đơn: Điều 5.5 NĐ125; hải quan: Điều 6.3 NĐ169, riêng một số điều giữ nguyên mức); xem sheet Nguyên tắc chung.",
     "Dòng nền xám = quy định đã bị bãi bỏ / thay thế từ 16/01/2026, chỉ áp dụng cho hành vi đã kết thúc trước ngày này.",
-    "Nguồn: PDF NĐ125 (Công báo 1017+1018), NĐ310 bản OCR (có lỗi nhận dạng, cần đối chiếu PDF gốc).",
+    "Nguồn: NĐ125 (Công báo), NĐ102/2021, NĐ310 bản OCR (có lỗi nhận dạng, cần đối chiếu PDF gốc); hải quan: NĐ169/2026, NĐ128/2020 (Công báo, có lớp văn bản).",
     "Trạng thái kiểm chứng: xem verify_report.txt (kiểm tra cơ học) và báo cáo kiểm chứng độc lập.",
 ]:
     ws3.append([line])
