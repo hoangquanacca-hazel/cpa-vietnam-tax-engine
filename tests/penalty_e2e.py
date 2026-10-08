@@ -47,7 +47,7 @@ with sync_playwright() as p:
         pg.get_by_label('Chọn Điều 13.3').check()
         pg.get_by_label('Nhóm hành vi').select_option(label='Khai sai dẫn đến thiếu thuế (phạt 20%)')
         pg.get_by_label('Chọn Điều 16.1.a').check()
-        aside.get_by_placeholder('nhập số tiền').first.fill('500000000')
+        aside.get_by_label('Số thuế khai thiếu (đ)').fill('500000000')
         txt = aside.inner_text()
         g = lambda lab: num(re.search(lab + r'\s*\n?\s*([\d\.]+) đ', txt).group(1))
         assert g(r'Tổng thấp nhất \(sàn\)') == 105_000_000
@@ -58,19 +58,35 @@ with sync_playwright() as p:
         aside.get_by_label('Số ngày chậm nộp tiền phạt').fill('20')
         txt = aside.inner_text()
         assert g(r'Tổng ước tính phải nộp') == 1_110_565_000          # 106,5tr + 1 tỷ + 3tr + 1,065tr
+        # input sizing: fits its data (days 6 digits, money 12 digits, qty 3 digits), no clipping, extra digits ignored
+        def fits(label, typed):
+            el = aside.get_by_label(label).first
+            el.fill(typed)
+            return el.evaluate("n => n.scrollWidth <= n.clientWidth"), el.bounding_box()['width'], el.input_value()
+        ok, wbox, val = fits('Số ngày chậm nộp thuế', '9999999')
+        assert ok and val == '999999' and wbox <= 100, ('days', ok, wbox, val)
+        ok, wbox, val = fits('Số thuế truy thu / nộp bổ sung (đ)', '9999999999999')
+        assert ok and val == '999.999.999.999' and wbox <= 190, ('money', ok, wbox, val)
+        aside.get_by_label('Số thuế truy thu / nộp bổ sung (đ)').fill('1000000000')
+        aside.get_by_label('Số ngày chậm nộp thuế').fill('10')
+        txt = aside.inner_text()
+        assert g(r'Tổng ước tính phải nộp') == 1_110_565_000
+        qty = aside.get_by_label('Số lần').first
+        qty.fill('12345'); assert qty.input_value() == '123' and qty.bounding_box()['width'] <= 70
+        qty.fill('1')
         aside.get_by_label('Số tình tiết tăng nặng').fill('1')
         txt = aside.inner_text()
         assert g(r'Tổng tạm tính tiền phạt') == 107_150_000            # 13.3: 6,5tr x 1,1 ; 16.1.a: 100tr
         aside.get_by_label('Số tình tiết tăng nặng').fill('')
         pg.get_by_label('Nhóm hành vi').select_option(label='Nộp hồ sơ khai thuế chậm / không nộp')
         pg.get_by_label('Chọn Điều 13.2').check()
-        aside.locator('li', has_text='Điều 13.2').get_by_placeholder('kiểm tra khung').fill('45')
+        aside.locator('li', has_text='Điều 13.2').get_by_label('Số ngày chậm').fill('45')
         aside.get_by_role('button', name='chuyển sang Điều 13.3').click()
         assert aside.locator('li', has_text='Điều 13.2').count() == 0
         pg.get_by_label('Nhóm hành vi').select_option(label='Lập hóa đơn')
         pg.get_by_label('Chọn Điều 24.2.b').check()
         r = aside.locator('li', has_text='Điều 24.2.b')
-        r.get_by_label('Nhóm').select_option('B'); r.get_by_placeholder('kiểm tra khung').fill('5')
+        r.get_by_label('Nhóm').select_option('B'); r.get_by_label('Số hóa đơn').fill('5')
         assert 'chuyển sang Điều 24.2.c' in r.inner_text()
         pg.get_by_label('Đối tượng').select_option(value='ca_nhan')
         txt = aside.inner_text()

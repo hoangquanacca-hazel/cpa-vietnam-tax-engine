@@ -25,20 +25,29 @@ const GROUP_HINT =
   'Nhóm A: hàng khuyến mại, quảng cáo, hàng mẫu; cho biếu tặng, trả lương, tiêu dùng nội bộ; cho vay mượn, hoàn trả. ' +
   'Nhóm B: bán hàng hóa, cung cấp dịch vụ.';
 
+// Input sized to the data it takes: width = max digits (+ thousand separators for money) + padding.
+// qty 3 digits, circumstances 2, days / invoices 6, money 12 digits (up to 999.999.999.999 đ).
 const NumInput: React.FC<{
-  value?: number; onChange: (v: number | undefined) => void; placeholder?: string; money?: boolean; className?: string;
-}> = ({ value, onChange, placeholder, money, className }) => (
-  <input
-    inputMode="numeric"
-    value={value ? (money ? value.toLocaleString('vi-VN') : String(value)) : ''}
-    placeholder={placeholder}
-    onChange={e => {
-      const d = e.target.value.replace(/\D/g, '');
-      onChange(d ? Number(d) : undefined);
-    }}
-    className={`rounded border border-slate-300 px-2 py-1.5 text-sm ${className ?? 'w-full'}`}
-  />
-);
+  value?: number; onChange: (v: number | undefined) => void; label: string; placeholder?: string;
+  money?: boolean; maxDigits?: number;
+}> = ({ value, onChange, label, placeholder, money, maxDigits }) => {
+  const digits = maxDigits ?? (money ? 12 : 6);
+  const chars = money ? digits + Math.floor((digits - 1) / 3) : digits;
+  return (
+    <input
+      inputMode="numeric"
+      aria-label={label}
+      value={value ? (money ? value.toLocaleString('vi-VN') : String(value)) : ''}
+      placeholder={placeholder}
+      onChange={e => {
+        const d = e.target.value.replace(/\D/g, '').slice(0, digits);
+        onChange(d ? Number(d) : undefined);
+      }}
+      style={{ width: `calc(${chars}ch + 1.75rem)` }}
+      className="shrink-0 rounded border border-slate-300 px-2 py-1.5 text-right text-sm tabular-nums"
+    />
+  );
+};
 
 export const PenaltyCatalog: React.FC = () => {
   const [rows, setRows] = useState<PenaltyRow[]>([]);
@@ -325,14 +334,16 @@ export const PenaltyCatalog: React.FC = () => {
             </span>
           </div>
 
-          <div className="grid grid-cols-2 gap-2 border-b border-slate-100 px-3 py-2 text-xs text-slate-600">
-            <label>Số tình tiết giảm nhẹ
-              <NumInput value={mitigating || undefined} onChange={v => setMitigating(v ?? 0)} placeholder="0" />
-            </label>
-            <label>Số tình tiết tăng nặng
-              <NumInput value={aggravating || undefined} onChange={v => setAggravating(v ?? 0)} placeholder="0" />
-            </label>
-            <p className="col-span-2 text-xs text-slate-500">
+          <div className="border-b border-slate-100 px-3 py-2 text-xs text-slate-600">
+            <div className="flex flex-wrap items-center gap-x-5 gap-y-1.5">
+              <label className="flex items-center gap-2">Số tình tiết giảm nhẹ
+                <NumInput maxDigits={2} label="Số tình tiết giảm nhẹ" value={mitigating || undefined} onChange={v => setMitigating(v ?? 0)} placeholder="0" />
+              </label>
+              <label className="flex items-center gap-2">Số tình tiết tăng nặng
+                <NumInput maxDigits={2} label="Số tình tiết tăng nặng" value={aggravating || undefined} onChange={v => setAggravating(v ?? 0)} placeholder="0" />
+              </label>
+            </div>
+            <p className="mt-1.5 text-xs text-slate-500">
               Dùng để xác định mức cụ thể trong khung (Điều 7.4) và mức trốn thuế (Điều 17). Tình tiết đã dùng để chọn khung
               thì không tính lại. Một tình tiết giảm nhẹ bù trừ một tình tiết tăng nặng.
             </p>
@@ -356,28 +367,30 @@ export const PenaltyCatalog: React.FC = () => {
                     <button onClick={() => toggle(r)} aria-label="Bỏ chọn" className="text-slate-400 hover:text-slate-700"><X className="w-3.5 h-3.5" /></button>
                   </div>
 
-                  <div className="mt-1 grid grid-cols-3 gap-1.5 items-end">
-                    <label className="text-xs text-slate-500">Số lần
-                      <NumInput value={inp.qty} onChange={v => patch(r.id, { qty: v ?? 1 })} placeholder="1" />
+                  <div className="mt-1.5 flex flex-wrap items-end gap-x-3 gap-y-1.5">
+                    <label className="flex flex-col gap-0.5 text-xs text-slate-500">Số lần
+                      <NumInput maxDigits={3} label="Số lần" value={inp.qty} onChange={v => patch(r.id, { qty: v ?? 1 })} placeholder="1" />
                     </label>
-                    {r.hinh_thuc === 'Phạt theo tỷ lệ' && (
-                      <label className="col-span-2 text-xs text-slate-500">
-                        {r.dieu === 16 ? 'Số thuế khai thiếu (đ)' : r.dieu === 17 ? 'Số thuế trốn (đ)' : 'Số tiền không trích chuyển (đ)'}
-                        <NumInput money value={inp.base} onChange={v => patch(r.id, { base: v })} placeholder="nhập số tiền" />
-                      </label>
-                    )}
+                    {r.hinh_thuc === 'Phạt theo tỷ lệ' && (() => {
+                      const baseLabel = r.dieu === 16 ? 'Số thuế khai thiếu (đ)' : r.dieu === 17 ? 'Số thuế trốn (đ)' : 'Số tiền không trích chuyển (đ)';
+                      return (
+                        <label className="flex flex-col gap-0.5 text-xs text-slate-500">{baseLabel}
+                          <NumInput money label={baseLabel} value={inp.base} onChange={v => patch(r.id, { base: v })} placeholder="số tiền" />
+                        </label>
+                      );
+                    })()}
                     {r.ranges.length > 0 && (
                       <>
                         {cats.length > 0 && (
-                          <label className="text-xs text-slate-500">Nhóm
+                          <label className="flex flex-col gap-0.5 text-xs text-slate-500">Nhóm
                             <select value={inp.cat ?? cats[0]} onChange={e => patch(r.id, { cat: e.target.value })}
-                              title={GROUP_HINT} className="mt-0.5 w-full rounded border border-slate-300 bg-white px-1 py-1 text-sm">
+                              title={GROUP_HINT} className="w-[4.5rem] rounded border border-slate-300 bg-white px-1.5 py-1.5 text-sm">
                               {cats.map(c => <option key={c} value={c}>{c}</option>)}
                             </select>
                           </label>
                         )}
-                        <label className={`${cats.length ? '' : 'col-span-2'} text-xs text-slate-500`}>{METRIC_LABEL[r.metric]}
-                          <NumInput value={inp.value} onChange={v => patch(r.id, { value: v })} placeholder="kiểm tra khung" />
+                        <label className="flex flex-col gap-0.5 text-xs text-slate-500">{METRIC_LABEL[r.metric]}
+                          <NumInput label={METRIC_LABEL[r.metric]} value={inp.value} onChange={v => patch(r.id, { value: v })} placeholder={r.metric === 'so_hd' ? 'số HĐ' : 'ngày'} />
                         </label>
                       </>
                     )}
@@ -418,18 +431,25 @@ export const PenaltyCatalog: React.FC = () => {
 
           <div className="border-t border-slate-200 px-3 py-2 text-xs text-slate-600">
             <p className="mb-1 font-semibold text-slate-800">Khoản phải nộp thêm (không phải tiền phạt)</p>
-            <div className="grid grid-cols-3 gap-1.5">
-              <label className="col-span-3">Số thuế truy thu / nộp bổ sung (đ)
-                <NumInput money value={backTax} onChange={setBackTax} placeholder="nhập số tiền" />
+            <div className="space-y-1.5">
+              <label className="flex items-center justify-between gap-2">
+                <span>Số thuế truy thu / nộp bổ sung (đ)</span>
+                <NumInput money label="Số thuế truy thu / nộp bổ sung (đ)" value={backTax} onChange={setBackTax} placeholder="số tiền" />
               </label>
-              <label className="col-span-2">Số ngày chậm nộp thuế
-                <NumInput value={taxLateDays} onChange={setTaxLateDays} placeholder="ngày" />
-              </label>
-              <div className="flex items-end justify-end text-slate-800">{fmt(lateTax)}</div>
-              <label className="col-span-2">Số ngày chậm nộp tiền phạt
-                <NumInput value={fineLateDays} onChange={setFineLateDays} placeholder="ngày" />
-              </label>
-              <div className="flex items-end justify-end text-slate-800">{fmt(lateFine)}</div>
+              <div className="flex items-center gap-2">
+                <label className="flex flex-1 items-center justify-between gap-2">
+                  <span>Số ngày chậm nộp thuế</span>
+                  <NumInput label="Số ngày chậm nộp thuế" value={taxLateDays} onChange={setTaxLateDays} placeholder="ngày" />
+                </label>
+                <span className="w-32 shrink-0 text-right tabular-nums text-slate-800">{fmt(lateTax)}</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <label className="flex flex-1 items-center justify-between gap-2">
+                  <span>Số ngày chậm nộp tiền phạt</span>
+                  <NumInput label="Số ngày chậm nộp tiền phạt" value={fineLateDays} onChange={setFineLateDays} placeholder="ngày" />
+                </label>
+                <span className="w-32 shrink-0 text-right tabular-nums text-slate-800">{fmt(lateFine)}</span>
+              </div>
             </div>
             {rateThue && <p className="mt-1 text-xs text-slate-500">Tiền chậm nộp thuế: {rateThue.can_cu}.</p>}
             {ratePhat && <p className="text-xs text-slate-500">{ratePhat.can_cu}. Tính trên tổng tạm tính tiền phạt.</p>}
