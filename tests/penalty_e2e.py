@@ -17,6 +17,8 @@ with sync_playwright() as p:
         assert d['sw'] <= d['cw'], f'horizontal scroll at {w}px: {d}'
         if w == 390:
             continue
+        bw = pg.locator('aside').bounding_box()['width'] / w
+        assert 0.30 <= bw <= 0.40, f'summary panel share {bw:.2f}'
         pg.locator('input[type=date]').fill('2026-02-01')
         aside = pg.locator('aside')
         pg.get_by_label('Nhóm hành vi').select_option(label='Nộp hồ sơ khai thuế chậm / không nộp')

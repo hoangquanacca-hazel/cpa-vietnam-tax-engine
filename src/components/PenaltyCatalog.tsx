@@ -31,7 +31,7 @@ const NumInput: React.FC<{
       const d = e.target.value.replace(/\D/g, '');
       onChange(d ? Number(d) : undefined);
     }}
-    className={`rounded border border-slate-300 px-2 py-1 text-xs ${className ?? 'w-full'}`}
+    className={`rounded border border-slate-300 px-2 py-1.5 text-sm ${className ?? 'w-full'}`}
   />
 );
 
@@ -118,7 +118,7 @@ export const PenaltyCatalog: React.FC = () => {
 
   const amountCell = (r: PenaltyRow) => {
     if (r.hinh_thuc === 'Cảnh cáo') return <span className="font-semibold text-slate-700">Cảnh cáo</span>;
-    if (r.hinh_thuc === 'Phạt theo tỷ lệ') return <span className="text-xs text-slate-800">{r.ty_le}</span>;
+    if (r.hinh_thuc === 'Phạt theo tỷ lệ') return <span className="block text-xs leading-snug text-slate-800">{r.ty_le}</span>;
     if (r.min_vnd === null || r.max_vnd === null) return null;
     const d = entity === 'ca_nhan' ? 2 : 1;
     return (
@@ -131,7 +131,7 @@ export const PenaltyCatalog: React.FC = () => {
   const sel_cls = 'mt-0.5 w-full rounded border border-slate-300 bg-white px-1.5 py-1 text-xs';
 
   return (
-    <div className="max-w-[1600px] mx-auto px-3 sm:px-4 lg:px-6 py-3 lg:h-[calc(100vh-14rem)] lg:flex lg:flex-col">
+    <div className="max-w-[2000px] mx-auto px-3 sm:px-4 lg:px-6 py-3 lg:h-[calc(100vh-14rem)] lg:flex lg:flex-col">
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 shrink-0">
         <div className="w-8 h-8 rounded-lg bg-slate-900 text-amber-400 flex items-center justify-center shrink-0">
           <Gavel className="w-4 h-4" />
@@ -205,7 +205,7 @@ export const PenaltyCatalog: React.FC = () => {
       {error && <p className="mt-2 text-sm text-red-700">{error}</p>}
       {!error && rows.length === 0 && <p className="mt-2 text-sm text-slate-500">Đang tải dữ liệu…</p>}
 
-      <div className="mt-2 grid gap-3 lg:grid-cols-[minmax(0,1fr)_25rem] lg:flex-1 lg:min-h-0">
+      <div className="mt-2 grid gap-3 lg:grid-cols-[minmax(0,2fr)_minmax(26rem,1fr)] lg:flex-1 lg:min-h-0">
         {/* LEFT: checklist */}
         <section className="rounded-xl border border-slate-200 bg-white lg:h-full lg:overflow-y-auto min-w-0">
           <div className="sticky top-0 z-10 border-b border-slate-200 bg-slate-50 px-3 py-1.5 text-[11px] text-slate-600">
@@ -259,23 +259,23 @@ export const PenaltyCatalog: React.FC = () => {
         <aside className="rounded-xl border border-slate-300 bg-white lg:h-full lg:overflow-y-auto min-w-0">
           <div className="sticky top-0 z-10 flex items-center justify-between border-b border-slate-200 bg-slate-900 px-3 py-2 text-white">
             <span className="flex items-center gap-1.5 text-sm font-semibold"><Calculator className="w-4 h-4 text-amber-400" /> Bảng tạm tính ({picked.length})</span>
-            {picked.length > 0 && <button onClick={() => setSel({})} className="text-[11px] text-slate-300 hover:text-white">Bỏ chọn hết</button>}
+            {picked.length > 0 && <button onClick={() => setSel({})} className="text-xs text-slate-300 hover:text-white">Bỏ chọn hết</button>}
           </div>
 
-          <div className="grid grid-cols-2 gap-2 border-b border-slate-100 px-3 py-2 text-[11px] text-slate-600">
+          <div className="grid grid-cols-2 gap-2 border-b border-slate-100 px-3 py-2 text-xs text-slate-600">
             <label>Số tình tiết giảm nhẹ
               <NumInput value={mitigating || undefined} onChange={v => setMitigating(v ?? 0)} placeholder="0" />
             </label>
             <label>Số tình tiết tăng nặng
               <NumInput value={aggravating || undefined} onChange={v => setAggravating(v ?? 0)} placeholder="0" />
             </label>
-            <p className="col-span-2 text-[10px] text-slate-500">
+            <p className="col-span-2 text-xs text-slate-500">
               Dùng để xác định mức cụ thể trong khung (Điều 7.4) và mức trốn thuế (Điều 17). Tình tiết đã dùng để chọn khung
               thì không tính lại. Một tình tiết giảm nhẹ bù trừ một tình tiết tăng nặng.
             </p>
           </div>
 
-          {picked.length === 0 && <p className="px-3 py-4 text-xs text-slate-500">Chưa chọn hành vi nào. Tick ở danh sách bên trái.</p>}
+          {picked.length === 0 && <p className="px-3 py-4 text-sm text-slate-500">Chưa chọn hành vi nào. Tick ở danh sách bên trái.</p>}
 
           <ul className="divide-y divide-slate-100">
             {picked.map((r, i) => {
@@ -284,21 +284,21 @@ export const PenaltyCatalog: React.FC = () => {
               const sug = r.ranges.length && inp.value ? suggestRows(rows, r, inp.value, inp.cat ?? '', onDate).filter(s => s.id !== r.id) : [];
               const cats = Array.from(new Set(r.ranges.map(x => x.k).filter(Boolean)));
               return (
-                <li key={r.id} className="px-3 py-2 text-xs">
+                <li key={r.id} className="px-3 py-2 text-sm">
                   <div className="flex items-start justify-between gap-2">
                     <div className="min-w-0">
-                      <span className="rounded bg-slate-900 px-1.5 py-0.5 text-[10px] font-semibold text-white">{cite(r)}</span>
-                      <p className="mt-0.5 line-clamp-2 text-slate-700" title={r.hanh_vi}>{r.hanh_vi}</p>
+                      <span className="rounded bg-slate-900 px-1.5 py-0.5 text-xs font-semibold text-white">{cite(r)}</span>
+                      <p className="mt-0.5 line-clamp-3 text-slate-700" title={r.hanh_vi}>{r.hanh_vi}</p>
                     </div>
                     <button onClick={() => toggle(r)} aria-label="Bỏ chọn" className="text-slate-400 hover:text-slate-700"><X className="w-3.5 h-3.5" /></button>
                   </div>
 
                   <div className="mt-1 grid grid-cols-3 gap-1.5 items-end">
-                    <label className="text-[10px] text-slate-500">Số lần
+                    <label className="text-xs text-slate-500">Số lần
                       <NumInput value={inp.qty} onChange={v => patch(r.id, { qty: v ?? 1 })} placeholder="1" />
                     </label>
                     {r.hinh_thuc === 'Phạt theo tỷ lệ' && (
-                      <label className="col-span-2 text-[10px] text-slate-500">
+                      <label className="col-span-2 text-xs text-slate-500">
                         {r.dieu === 16 ? 'Số thuế khai thiếu (đ)' : r.dieu === 17 ? 'Số thuế trốn (đ)' : 'Số tiền không trích chuyển (đ)'}
                         <NumInput money value={inp.base} onChange={v => patch(r.id, { base: v })} placeholder="nhập số tiền" />
                       </label>
@@ -306,14 +306,14 @@ export const PenaltyCatalog: React.FC = () => {
                     {r.ranges.length > 0 && (
                       <>
                         {cats.length > 0 && (
-                          <label className="text-[10px] text-slate-500">Nhóm
+                          <label className="text-xs text-slate-500">Nhóm
                             <select value={inp.cat ?? cats[0]} onChange={e => patch(r.id, { cat: e.target.value })}
-                              title={GROUP_HINT} className="mt-0.5 w-full rounded border border-slate-300 bg-white px-1 py-1 text-xs">
+                              title={GROUP_HINT} className="mt-0.5 w-full rounded border border-slate-300 bg-white px-1 py-1 text-sm">
                               {cats.map(c => <option key={c} value={c}>{c}</option>)}
                             </select>
                           </label>
                         )}
-                        <label className={`${cats.length ? '' : 'col-span-2'} text-[10px] text-slate-500`}>{METRIC_LABEL[r.metric]}
+                        <label className={`${cats.length ? '' : 'col-span-2'} text-xs text-slate-500`}>{METRIC_LABEL[r.metric]}
                           <NumInput value={inp.value} onChange={v => patch(r.id, { value: v })} placeholder="kiểm tra khung" />
                         </label>
                       </>
@@ -321,7 +321,7 @@ export const PenaltyCatalog: React.FC = () => {
                   </div>
 
                   {res.rangeOk === false && (
-                    <div className="mt-1 rounded border border-amber-300 bg-amber-50 p-1.5 text-[11px] text-amber-900">
+                    <div className="mt-1 rounded border border-amber-300 bg-amber-50 p-1.5 text-xs text-amber-900">
                       Giá trị nhập nằm ngoài khung này.
                       {sug.length > 0 ? ' Khung phù hợp (rê chuột để xem điều kiện, khung cảnh cáo cần có tình tiết giảm nhẹ): ' : ' Không có khung nào phù hợp trong nhóm này.'}
                       {sug.map(s => (
@@ -332,19 +332,19 @@ export const PenaltyCatalog: React.FC = () => {
                     </div>
                   )}
                   {r.nhom_id && groupCount[r.nhom_id] > 1 && (
-                    <p className="mt-1 text-[10px] text-amber-700">
+                    <p className="mt-1 text-xs text-amber-700">
                       Đã chọn nhiều khung của cùng nhóm hành vi. Nếu là cùng một lần vi phạm, chỉ chọn một khung (hoặc dùng ô "Số lần").
                     </p>
                   )}
 
                   <div className="mt-1 flex items-baseline justify-between gap-2">
-                    <span className="text-[10px] text-slate-500">{res.detail}</span>
+                    <span className="text-xs text-slate-500">{res.detail}</span>
                     {res.status === 'need_input'
-                      ? <span className="text-[11px] font-semibold text-amber-700">cần nhập số liệu</span>
+                      ? <span className="text-xs font-semibold text-amber-700">cần nhập số liệu</span>
                       : (
                         <span className="text-right">
-                          <span className="block text-[11px] text-slate-600">{fmt(res.min)} – {fmt(res.max)}</span>
-                          <span className="block text-xs font-semibold text-slate-900">tạm tính {fmt(res.specific)}</span>
+                          <span className="block text-xs text-slate-600">{fmt(res.min)} – {fmt(res.max)}</span>
+                          <span className="block text-sm font-semibold text-slate-900">tạm tính {fmt(res.specific)}</span>
                         </span>
                       )}
                   </div>
@@ -353,7 +353,7 @@ export const PenaltyCatalog: React.FC = () => {
             })}
           </ul>
 
-          <div className="border-t border-slate-200 px-3 py-2 text-[11px] text-slate-600">
+          <div className="border-t border-slate-200 px-3 py-2 text-xs text-slate-600">
             <p className="mb-1 font-semibold text-slate-800">Khoản phải nộp thêm (không phải tiền phạt)</p>
             <div className="grid grid-cols-3 gap-1.5">
               <label className="col-span-3">Số thuế truy thu / nộp bổ sung (đ)
@@ -368,16 +368,16 @@ export const PenaltyCatalog: React.FC = () => {
               </label>
               <div className="flex items-end justify-end text-slate-800">{fmt(lateFine)}</div>
             </div>
-            {rateThue && <p className="mt-1 text-[10px] text-slate-500">Tiền chậm nộp thuế: {rateThue.can_cu}.</p>}
-            {ratePhat && <p className="text-[10px] text-slate-500">{ratePhat.can_cu}. Tính trên tổng tạm tính tiền phạt.</p>}
+            {rateThue && <p className="mt-1 text-xs text-slate-500">Tiền chậm nộp thuế: {rateThue.can_cu}.</p>}
+            {ratePhat && <p className="text-xs text-slate-500">{ratePhat.can_cu}. Tính trên tổng tạm tính tiền phạt.</p>}
           </div>
-          <div className="sticky bottom-0 z-10 border-t-2 border-slate-900 bg-slate-50 px-3 py-2 text-xs shadow-[0_-4px_8px_rgba(0,0,0,0.06)]">
+          <div className="sticky bottom-0 z-10 border-t-2 border-slate-900 bg-slate-50 px-4 py-3 text-sm shadow-[0_-4px_8px_rgba(0,0,0,0.06)]">
             <div className="flex justify-between"><span>Tổng thấp nhất (sàn)</span><b>{fmt(sum.min)}</b></div>
             <div className="flex justify-between"><span>Tổng cao nhất (trần)</span><b>{fmt(sum.max)}</b></div>
-            <div className="flex justify-between text-sm"><span>Tổng tạm tính tiền phạt</span><b className="text-amber-700">{fmt(sum.specific)}</b></div>
-            {sum.needInput > 0 && <p className="mt-1 text-[11px] text-amber-700">{sum.needInput} dòng chưa đủ số liệu nên chưa nằm trong tổng.</p>}
-            <div className="mt-1 flex justify-between border-t border-slate-200 pt-1 text-sm text-slate-900">
-              <span className="font-semibold">Tổng ước tính phải nộp</span><b>{fmt(grand)}</b>
+            <div className="flex justify-between text-base"><span>Tổng tạm tính tiền phạt</span><b className="text-amber-700 text-lg">{fmt(sum.specific)}</b></div>
+            {sum.needInput > 0 && <p className="mt-1 text-xs text-amber-700">{sum.needInput} dòng chưa đủ số liệu nên chưa nằm trong tổng.</p>}
+            <div className="mt-1.5 flex justify-between border-t border-slate-300 pt-1.5 text-base text-slate-900">
+              <span className="font-semibold">Tổng ước tính phải nộp</span><b className="text-lg">{fmt(grand)}</b>
             </div>
           </div>
         </aside>
