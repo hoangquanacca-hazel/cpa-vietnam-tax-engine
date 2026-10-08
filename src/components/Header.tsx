@@ -6,12 +6,13 @@ import {
   FileUp, 
   Network, 
   CheckCircle2, 
-  AlertTriangle 
+  AlertTriangle,
+  Gavel
 } from 'lucide-react';
 
 interface Props {
-  activeTab: 'chat' | 'ingest' | 'graph' | 'benchmark';
-  setActiveTab: (tab: 'chat' | 'ingest' | 'graph' | 'benchmark') => void;
+  activeTab: 'chat' | 'ingest' | 'graph' | 'benchmark' | 'penalty';
+  setActiveTab: (tab: 'chat' | 'ingest' | 'graph' | 'benchmark' | 'penalty') => void;
   kpis: {
     legalAccuracy: number;
     temporalCorrectness: number;
@@ -129,6 +130,18 @@ export const Header: React.FC<Props> = ({ activeTab, setActiveTab, kpis }) => {
           >
             <Layers className="w-4 h-4" />
             Sanity Auditor & Golden Set Benchmark
+          </button>
+
+          <button
+            onClick={() => setActiveTab('penalty')}
+            className={`flex items-center gap-2 px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all whitespace-nowrap ${
+              activeTab === 'penalty'
+                ? 'bg-amber-500 text-slate-950 shadow-sm'
+                : 'text-slate-300 hover:text-white hover:bg-slate-800'
+            }`}
+          >
+            <Gavel className="w-4 h-4" />
+            Checklist Mức phạt Thuế & Hóa đơn
           </button>
         </div>
       </div>
