@@ -29,6 +29,7 @@ export function App() {
 
   return (
     <div className="min-h-screen bg-slate-100 text-slate-900 flex flex-col font-sans antialiased">
+      <sava-bar product="CPA Tax Knowledge Graph"></sava-bar>
       {/* Top Header with Branding & 5 Legal Guardrails */}
       <Header
         activeTab={activeTab}

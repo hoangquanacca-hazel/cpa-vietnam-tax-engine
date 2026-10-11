@@ -1,6 +1,5 @@
 import React from 'react';
 import {
-  ShieldCheck,
   Layers,
   MessageSquareCode,
   FileUp,
@@ -43,19 +42,21 @@ export const Header: React.FC<Props> = ({ activeTab, setActiveTab, kpis }) => {
   ];
 
   return (
-    <header className="bg-slate-900 text-white border-b border-slate-800 sticky top-0 z-30 shadow-md">
+    <header className="bg-[#0B1B3F] text-white border-b border-[#13306B] sticky top-0 z-30 shadow-md">
       <div className="max-w-[2000px] mx-auto px-3 sm:px-4 lg:px-6 py-3 flex flex-col gap-3 lg:flex-row lg:items-center lg:gap-6">
         {/* Left block: system identity */}
         <div className="flex items-center gap-3 lg:w-[22rem] lg:shrink-0">
-          <div className="w-10 h-10 shrink-0 rounded-xl bg-gradient-to-br from-amber-500 to-amber-700 flex items-center justify-center text-white shadow-md shadow-amber-900/30">
-            <ShieldCheck className="w-6 h-6 text-white" />
-          </div>
+          <svg viewBox="0 0 40 40" className="w-10 h-10 shrink-0" aria-hidden="true">
+            <rect width="40" height="40" rx="9" fill="#1D3F82" />
+            <circle cx="20" cy="20" r="8.2" fill="none" stroke="#FFFFFF" strokeWidth="2.8" />
+            <rect x="18.6" y="6.5" width="2.8" height="27" rx="1.4" fill="#FF7A6B" />
+          </svg>
           <div className="min-w-0">
             <h1 className="text-base lg:text-lg font-bold tracking-tight text-white leading-tight">
               CPA Vietnam Unified System
             </h1>
             <div className="mt-0.5 flex flex-wrap items-center gap-x-2 gap-y-0.5">
-              <span className="text-[10px] px-2 py-0.5 rounded-full bg-amber-500/20 text-amber-300 border border-amber-500/30 font-semibold uppercase tracking-wider whitespace-nowrap">
+              <span className="text-[10px] px-2 py-0.5 rounded-full bg-[#1D5BD8]/25 text-blue-200 border border-[#1D5BD8]/50 font-semibold uppercase tracking-wider whitespace-nowrap">
                 Temporal KG v4.2
               </span>
               <span className="text-xs text-slate-300 leading-tight">
@@ -69,7 +70,7 @@ export const Header: React.FC<Props> = ({ activeTab, setActiveTab, kpis }) => {
         <div className="min-w-0 flex-1 flex flex-col gap-2 lg:border-l lg:border-slate-700 lg:pl-6">
           <div className="flex flex-wrap items-center gap-2 text-xs">
             {kpiItems.map(k => (
-              <div key={k.label} className="bg-slate-800/80 px-2.5 py-1.5 rounded-lg border border-slate-700/60 flex items-center gap-1.5 whitespace-nowrap">
+              <div key={k.label} className="bg-[#13306B]/80 px-2.5 py-1.5 rounded-lg border border-slate-700/60 flex items-center gap-1.5 whitespace-nowrap">
                 {k.warn
                   ? <AlertTriangle className="w-3.5 h-3.5 text-amber-400" />
                   : <CheckCircle2 className="w-3.5 h-3.5 text-emerald-400" />}
@@ -88,7 +89,7 @@ export const Header: React.FC<Props> = ({ activeTab, setActiveTab, kpis }) => {
                 onClick={() => setActiveTab(id)}
                 className={`flex items-center gap-2 px-3 py-1.5 rounded-lg text-xs font-semibold transition-all ${
                   activeTab === id
-                    ? 'bg-amber-500 text-slate-950 shadow-sm'
+                    ? 'bg-[#1D5BD8] text-white shadow-sm'
                     : 'text-slate-300 hover:text-white hover:bg-slate-800'
                 }`}
               >
