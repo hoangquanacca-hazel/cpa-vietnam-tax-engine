@@ -217,7 +217,7 @@ export const GraphVisualizer: React.FC<Props> = ({ onSelectSpan }) => {
                   onClick={() => setTemporalYear(yr)}
                   className={`px-3 py-1 rounded-md text-xs font-bold transition-all ${
                     temporalYear === yr
-                      ? 'bg-amber-600 text-white shadow-xs'
+                      ? 'bg-[#1D5BD8] text-white shadow-xs'
                       : 'bg-white text-slate-700 hover:bg-slate-100 border border-slate-200'
                   }`}
                 >
@@ -241,7 +241,7 @@ export const GraphVisualizer: React.FC<Props> = ({ onSelectSpan }) => {
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Tìm kiếm Node theo mã, tiêu đề, số hiệu..."
-              className="w-full pl-8 pr-3 py-1.5 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-amber-500"
+              className="w-full pl-8 pr-3 py-1.5 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
             />
           </div>
 
@@ -251,7 +251,7 @@ export const GraphVisualizer: React.FC<Props> = ({ onSelectSpan }) => {
             <select
               value={selectedLayer}
               onChange={(e) => setSelectedLayer(e.target.value)}
-              className="px-2.5 py-1.5 rounded-lg border border-slate-300 bg-slate-50 font-medium focus:outline-none focus:ring-2 focus:ring-amber-500"
+              className="px-2.5 py-1.5 rounded-lg border border-slate-300 bg-slate-50 font-medium focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
             >
               <option value="ALL">Tất cả 5 tầng</option>
               <option value="REGULATORY">1. Regulatory (Văn bản)</option>
@@ -271,7 +271,7 @@ export const GraphVisualizer: React.FC<Props> = ({ onSelectSpan }) => {
                   key={h}
                   onClick={() => setHopFilter(h)}
                   className={`px-2 py-0.5 rounded text-[11px] font-bold ${
-                    hopFilter === h ? 'bg-amber-600 text-white' : 'bg-white text-amber-900 border border-amber-300'
+                    hopFilter === h ? 'bg-[#1D5BD8] text-white' : 'bg-white text-amber-900 border border-amber-300'
                   }`}
                 >
                   {h} hops

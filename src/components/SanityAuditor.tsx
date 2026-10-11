@@ -65,7 +65,7 @@ export const SanityAuditor: React.FC<Props> = ({ onBenchmarkCompleted }) => {
         <button
           onClick={runBenchmark}
           disabled={running}
-          className="px-4 py-2 bg-amber-600 hover:bg-amber-700 disabled:bg-slate-700 text-white text-xs font-bold rounded-lg flex items-center gap-2 shadow-sm transition-all shrink-0"
+          className="px-4 py-2 bg-[#1D5BD8] hover:bg-[#1546AE] disabled:bg-slate-700 text-white text-xs font-bold rounded-lg flex items-center gap-2 shadow-sm transition-all shrink-0"
         >
           {running ? (
             <>
