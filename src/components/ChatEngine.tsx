@@ -141,7 +141,7 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
               onClick={() => setMode('learning')}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-md text-xs font-medium transition-all ${
                 mode === 'learning'
-                  ? 'bg-amber-500 text-slate-950 font-bold shadow-xs'
+                  ? 'bg-[#1D5BD8] text-white font-bold shadow-xs'
                   : 'text-slate-600 hover:text-slate-900'
               }`}
             >
@@ -173,7 +173,7 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
             type="date"
             value={transactionDate}
             onChange={(e) => setTransactionDate(e.target.value)}
-            className="text-xs font-semibold bg-slate-50 border border-slate-300 text-slate-800 rounded-lg px-3 py-1.5 focus:outline-none focus:ring-2 focus:ring-amber-500"
+            className="text-xs font-semibold bg-slate-50 border border-slate-300 text-slate-800 rounded-lg px-3 py-1.5 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
           />
           <span className="text-[11px] px-2 py-0.5 rounded bg-blue-50 text-blue-700 border border-blue-200">
             {parseInt(transactionDate.split('-')[0], 10) >= 2025 
@@ -199,12 +199,12 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
               value={question}
               onChange={(e) => setQuestion(e.target.value)}
               placeholder="Ví dụ: Công ty có giao dịch liên kết, vay vốn từ Vietcombank với lãi suất thị trường. Lãi vay có bị khống chế trần 30% EBITDA không?..."
-              className="w-full text-sm p-3.5 pr-28 rounded-xl border border-slate-300 focus:outline-none focus:ring-2 focus:ring-amber-500/50 focus:border-amber-500 leading-relaxed"
+              className="w-full text-sm p-3.5 pr-28 rounded-xl border border-slate-300 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40 focus:border-[#1D5BD8] leading-relaxed"
             />
             <button
               onClick={() => handleRunQuery(question)}
               disabled={isLoading || !question.trim()}
-              className="absolute right-3 bottom-3.5 px-4 py-2 bg-amber-600 hover:bg-amber-700 disabled:bg-slate-300 text-white text-xs font-bold rounded-lg flex items-center gap-1.5 shadow-sm transition-all"
+              className="absolute right-3 bottom-3.5 px-4 py-2 bg-[#1D5BD8] hover:bg-[#1546AE] disabled:bg-slate-300 text-white text-xs font-bold rounded-lg flex items-center gap-1.5 shadow-sm transition-all"
             >
               {isLoading ? (
                 <>
@@ -233,7 +233,7 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
                 onClick={() => handleRunQuery(item.text, item.date)}
                 className="text-xs text-left px-3 py-1.5 rounded-lg bg-slate-50 hover:bg-amber-50 border border-slate-200 hover:border-amber-300 text-slate-700 hover:text-amber-900 transition-colors flex items-center gap-1.5 group"
               >
-                <Sparkles className="w-3.5 h-3.5 text-amber-500 group-hover:scale-110 transition-transform" />
+                <Sparkles className="w-3.5 h-3.5 text-[#1D5BD8] group-hover:scale-110 transition-transform" />
                 <span className="font-medium">{item.title}</span>
               </button>
             ))}
@@ -492,7 +492,7 @@ export const ChatEngine: React.FC<Props> = ({ onSelectSpan }) => {
                       <button
                         disabled={selectedQuizOption === null}
                         onClick={() => setQuizSubmitted(true)}
-                        className="px-4 py-1.5 rounded-lg bg-amber-600 hover:bg-amber-700 disabled:bg-slate-200 text-white text-xs font-bold transition-colors"
+                        className="px-4 py-1.5 rounded-lg bg-[#1D5BD8] hover:bg-[#1546AE] disabled:bg-slate-200 text-white text-xs font-bold transition-colors"
                       >
                         Kiểm tra đáp án
                       </button>

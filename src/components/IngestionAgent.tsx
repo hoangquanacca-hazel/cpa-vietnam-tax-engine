@@ -210,7 +210,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
                 id="doc-type-select"
                 value={docType}
                 onChange={(e) => setDocType(e.target.value as RegulatoryType)}
-                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-amber-500"
+                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
               >
                 <option value="LAW">LAW (Luật)</option>
                 <option value="DECREE">DECREE (Nghị định)</option>
@@ -227,7 +227,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
                 value={docNumber}
                 onChange={(e) => setDocNumber(e.target.value)}
                 placeholder="VD: 320/2025/NĐ-CP"
-                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-amber-500"
+                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
               />
             </div>
           </div>
@@ -240,7 +240,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
               value={title}
               onChange={(e) => setTitle(e.target.value)}
               placeholder="VD: Nghị định sửa đổi chi phí lãi vay giao dịch liên kết..."
-              className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-amber-500"
+              className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
             />
           </div>
 
@@ -252,7 +252,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
                 type="text"
                 value={authority}
                 onChange={(e) => setAuthority(e.target.value)}
-                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-amber-500"
+                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
               />
             </div>
             <div>
@@ -262,7 +262,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
                 type="date"
                 value={effectiveDate}
                 onChange={(e) => setEffectiveDate(e.target.value)}
-                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-amber-500"
+                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 font-semibold focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
               />
             </div>
             <div>
@@ -272,7 +272,7 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
                 type="date"
                 value={promulgationDate}
                 onChange={(e) => setPromulgationDate(e.target.value)}
-                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-amber-500"
+                className="w-full text-xs p-2 rounded-lg border border-slate-300 bg-slate-50 focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
               />
             </div>
           </div>
@@ -368,14 +368,14 @@ export const IngestionAgent: React.FC<Props> = ({ onGraphUpdated }) => {
               rows={4}
               value={rawText}
               onChange={(e) => setRawText(e.target.value)}
-              className="w-full text-xs p-3 rounded-xl border border-slate-300 bg-slate-50 font-serif leading-relaxed focus:outline-none focus:ring-2 focus:ring-amber-500"
+              className="w-full text-xs p-3 rounded-xl border border-slate-300 bg-slate-50 font-serif leading-relaxed focus:outline-none focus:ring-2 focus:ring-[#1D5BD8]/40"
             />
           </div>
 
           <button
             onClick={handleExecuteIngestion}
             disabled={isLoading || !docNumber || !rawText}
-            className="w-full py-2.5 px-4 bg-amber-600 hover:bg-amber-700 disabled:bg-slate-300 text-white text-xs font-bold rounded-xl flex items-center justify-center gap-2 shadow-sm transition-all"
+            className="w-full py-2.5 px-4 bg-[#1D5BD8] hover:bg-[#1546AE] disabled:bg-slate-300 text-white text-xs font-bold rounded-xl flex items-center justify-center gap-2 shadow-sm transition-all"
           >
             {isLoading ? (
               <>
